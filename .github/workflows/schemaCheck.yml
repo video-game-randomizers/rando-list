@@ -1,0 +1,22 @@
+name: Schema Checks
+on: [push, pull_request]
+jobs:
+  Ubuntu:
+    runs-on: ubuntu-latest
+    steps:
+      - run: echo "🔎 The name of your branch is ${{ github.ref }} and your repository is ${{ github.repository }}."
+      - name: Check out repository code
+        uses: actions/checkout@v3
+      - run: cd ${{ github.workspace }}
+
+      - uses: actions/setup-python@v5
+        with:
+            python-version: '3.11'
+            cache: 'pip' # caching pip dependencies
+      - run: pip3 install -r src/requirements.txt 2>&1
+
+      - run: python -m compileall -q src
+      - run: python3 schemaCheck.py
+        working-directory: ./src
+
+      - run: echo "🍏 This job's status is ${{ job.status }}."
