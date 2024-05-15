@@ -12,7 +12,7 @@ randomizers:
   -
     game: "Game 2"
     identifier: "Self Randomizer"
-    urls: "https://feuniverse.us/t/aw2-self-randomizing-rom-complete/24788"
+    url: "https://feuniverse.us/t/aw2-self-randomizing-rom-complete/24788"
     comment: null
     multiworld: false
     obsolete: false
