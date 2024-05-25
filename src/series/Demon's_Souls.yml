@@ -1,0 +1,8 @@
+name: Demon's Souls
+comment: null
+sub-series: null
+randomizers:
+-   games:
+    - Demon's Souls
+    identifier: Item Randomiser
+    url: https://www.nexusmods.com/demonssouls/mods/22

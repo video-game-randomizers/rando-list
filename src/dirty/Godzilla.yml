@@ -1,0 +1,10 @@
+name: Godzilla
+comment: null
+sub-series: null
+randomizers:
+-   games:
+    - 'Godzilla: Monster of Monsters'
+    identifier: MaybeDatapod's
+    url: https://github.com/MaybeDatapod/godzilla-randomizer
+    original: '- [Godzilla: Monster of Monsters](https://github.com/MaybeDatapod/godzilla-randomizer)
+        (MaybeDatapod''s)'

@@ -1,0 +1,20 @@
+name: Cave Story
+comment: null
+sub-series: null
+randomizers:
+-   games:
+    - Cave Story
+    - Cave Story+
+    identifier: Randovania
+    url: https://randovania.org/games/cave_story/
+    multiworld: Randovania
+-   games:
+    - Cave Story
+    - Cave Story+
+    identifier: shru's
+    url: https://shru.itch.io/cave-story-randomizer
+    obsolete: true
+-   games:
+    - Cave Story
+    identifier: Doukutsu Randamu
+    url: https://trashboxbobylev.itch.io/doukutsu-randamu

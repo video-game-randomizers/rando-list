@@ -1,0 +1,9 @@
+name: Yo-kai Watch
+comment: null
+sub-series: null
+randomizers:
+-   games:
+    - Yo-kai Watch
+    identifier: YKWrandomizer
+    url: https://github.com/Tiniifan/YKWrandomizer
+    original: '- [Yo-kai Watch](https://github.com/Tiniifan/YKWrandomizer) (YKWrandomizer)'

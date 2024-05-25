@@ -1,0 +1,16 @@
+name: Need for Speed
+comment: null
+sub-series: null
+randomizers:
+-   games:
+    - The Need for Speed
+    identifier: RandTrack
+    url: https://randtrack.sourceforge.net/
+    original: '- [The Need for Speed](https://randtrack.sourceforge.net/) (RandTrack)'
+-   games:
+    - Need for Speed Carbon
+    identifier: RaTT's
+    url: https://nfsmods.xyz/mod/1568
+    original: '- [Need for Speed Carbon](https://nfsmods.xyz/mod/1568) (RaTT''s) -
+        Requires [NFS-VltEd](https://nfs-tools.blogspot.com/p/downloads.html)'
+    comment: '- Requires [NFS-VltEd](https://nfs-tools.blogspot.com/p/downloads.html)'

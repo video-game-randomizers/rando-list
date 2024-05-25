@@ -1,0 +1,11 @@
+name: Environmental Station Alpha
+comment: null
+sub-series: null
+randomizers:
+-   games:
+    - Environmental Station Alpha
+    identifier: Mokesmoe's
+    url: https://www.speedrun.com/esalpha/resources
+    original: '- [Environmental Station Alpha](https://www.speedrun.com/esalpha/resources)
+        (Mokesmoe''s) - Located under Tools'
+    comment: '- Located under Tools'

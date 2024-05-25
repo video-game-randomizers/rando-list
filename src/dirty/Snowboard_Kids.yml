@@ -1,0 +1,10 @@
+name: Snowboard Kids
+comment: null
+sub-series: null
+randomizers:
+-   games:
+    - Snowboard Kids
+    identifier: Stingerman06's
+    url: https://github.com/Stingerman06/A-Simple-SBK-Rando
+    original: '- [Snowboard Kids](https://github.com/Stingerman06/A-Simple-SBK-Rando)
+        (Stingerman06''s)'

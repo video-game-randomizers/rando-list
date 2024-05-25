@@ -1,0 +1,15 @@
+name: Noita
+comment: null
+sub-series: null
+randomizers:
+-   games:
+    - Noita
+    identifier: Steam Workshop - Randomizers
+    url: https://steamcommunity.com/workshop/browse/?appid=881100&searchtext=randomizer
+    original: '- [Noita](https://steamcommunity.com/workshop/browse/?appid=881100&searchtext=randomizer)
+        (Steam Workshop - Randomizers)'
+-   games:
+    - null
+    identifier: null
+    url: null
+    original: '- Noita - _See at end of list: Multi-series, Connected worlds_'

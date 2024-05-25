@@ -1,0 +1,13 @@
+name: Celeste
+comment: null
+sub-series: null
+randomizers:
+-   games:
+    - Celeste
+    identifier: rhelmot's
+    url: https://github.com/rhelmot/CelesteRandomizer
+-   games:
+    - 'Celeste 64: Fragments of the Mountain'
+    identifier: Archipelago
+    url: https://archipelago.gg/games/Celeste%2064/info/en
+    multiworld: Archipelago

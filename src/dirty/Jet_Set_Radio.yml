@@ -1,0 +1,15 @@
+name: Jet Set Radio
+comment: null
+sub-series: null
+randomizers:
+-   games:
+    - 'JSRF: Jet Set Radio Future'
+    identifier: fusecv's
+    url: https://cdn.discordapp.com/attachments/249687933190275073/764597124938858516/default_rand3b3.xbe
+    original: '- [JSRF: Jet Set Radio Future](https://cdn.discordapp.com/attachments/249687933190275073/764597124938858516/default_rand3b3.xbe)
+        (fusecv''s) - [Documentation (for older version)](https://cdn.discordapp.com/attachments/249687933190275073/753102098417319968/Readme_2b8.txt)
+        - Support and potential future versions available on the [JSRF Speedrunning
+        Discord server](https://discord.com/invite/kFBgPnm) in the #modding channel'
+    comment: '- [Documentation (for older version)](https://cdn.discordapp.com/attachments/249687933190275073/753102098417319968/Readme_2b8.txt)
+        - Support and potential future versions available on the [JSRF Speedrunning
+        Discord server](https://discord.com/invite/kFBgPnm) in the #modding channel'

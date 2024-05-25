@@ -1,0 +1,11 @@
+name: Ratchet & Clank
+comment: null
+sub-series: null
+randomizers:
+-   games:
+    - Ratchet & Clank Collection
+    identifier: bordplate's
+    url: https://github.com/bordplate/rac1-randomizer
+    original: '- [Ratchet & Clank Collection](https://github.com/bordplate/rac1-randomizer)
+        (bordplate''s) - Randomizes Ratchet & Clank'
+    comment: '- Randomizes Ratchet & Clank'

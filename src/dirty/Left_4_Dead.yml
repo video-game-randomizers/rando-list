@@ -1,0 +1,10 @@
+name: Left 4 Dead
+comment: null
+sub-series: null
+randomizers:
+-   games:
+    - Left 4 Dead 2
+    identifier: Map Generator
+    url: https://ssl.hehoe.de/mcs/index.php?display=tools
+    original: '- [Left 4 Dead 2](https://ssl.hehoe.de/mcs/index.php?display=tools)
+        (Map Generator)'

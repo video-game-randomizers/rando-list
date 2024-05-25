@@ -1,0 +1,10 @@
+name: Crystal Project
+comment: null
+sub-series: null
+randomizers:
+-   games:
+    - Crystal Project
+    identifier: LtSquigs's
+    url: https://github.com/LtSquigs/crystal-project-randomizer
+    obsolete: true
+    comment: 'Marked as obsolete since the author will no longer maintain it now that the main game contains a built-in one.'

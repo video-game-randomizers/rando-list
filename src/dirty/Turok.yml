@@ -1,0 +1,10 @@
+name: Turok
+comment: null
+sub-series: null
+randomizers:
+-   games:
+    - Turok (Nightdive Studios)
+    identifier: Behemoth's
+    url: https://turoksanctum.com/randomizer/
+    original: '- [Turok (Nightdive Studios)](https://turoksanctum.com/randomizer/)
+        (Behemoth''s)'

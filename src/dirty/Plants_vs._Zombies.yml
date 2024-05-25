@@ -1,0 +1,13 @@
+name: Plants vs. Zombies
+comment: null
+sub-series: null
+randomizers:
+-   games:
+    - PlantsVsZombies.NET (Plants vs. Zombies unofficial PC port)
+    identifier: Andree's
+    url: https://github.com/Andree12/PVZ1-Randomizer
+    original: '- [PlantsVsZombies.NET (Plants vs. Zombies unofficial PC port)](https://github.com/Andree12/PVZ1-Randomizer)
+        (Andree''s) - Requires the Windows Phone version of the game and [Visual Studio
+        Community 2019](https://learn.microsoft.com/en-us/visualstudio/releases/2019/release-notes)'
+    comment: '- Requires the Windows Phone version of the game and [Visual Studio
+        Community 2019](https://learn.microsoft.com/en-us/visualstudio/releases/2019/release-notes)'
