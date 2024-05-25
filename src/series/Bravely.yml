@@ -2,9 +2,11 @@ name: Bravely
 comment: null
 sub-series: null
 randomizers:
--   game: 'Bravely Default / Bravely Second: End Layer'
+-   games:
+    - 'Bravely Default / Bravely Second: End Layer'
     identifier: MarvinXLII's
     url: https://github.com/MarvinXLII/BravelyRandomize
--   game: Bravely Default II
+-   games:
+    - Bravely Default II
     identifier: MarvinXLII's
     url: https://github.com/MarvinXLII/BravelyRandomize2

@@ -55,7 +55,7 @@ for line in md.splitlines():
     obsolete = '_OBSOLETE_' in m[5]
 
     data = {
-        'game': m[1],
+        'games': m[1].split(' / '),
         'identifier': m[4],
         'url': m[2],
         'original': line,

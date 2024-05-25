@@ -2,7 +2,8 @@ name: Zanac
 comment: null
 sub-series: null
 randomizers:
--   game: Zanac
+-   games:
+    - Zanac
     identifier: Omaha's
     url: https://www.zanacga.me/
     original: '- [Zanac](https://www.zanacga.me/) (Omaha''s)'

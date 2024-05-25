@@ -2,6 +2,7 @@ name: Broforce
 comment: null
 sub-series: null
 randomizers:
--   game: Broforce
+-   games:
+    - Broforce
     identifier: Alex Neargarder's
     url: https://www.nexusmods.com/broforce/mods/22

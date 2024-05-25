@@ -2,7 +2,8 @@ name: Adventure
 comment: null
 sub-series: null
 randomizers:
--   game: Adventure
+-   games:
+    - Adventure
     identifier: Archipelago
     url: https://archipelago.gg/games/Adventure/info/en
     multiworld: Archipelago

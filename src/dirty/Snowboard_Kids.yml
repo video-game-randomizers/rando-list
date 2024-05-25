@@ -2,7 +2,8 @@ name: Snowboard Kids
 comment: null
 sub-series: null
 randomizers:
--   game: Snowboard Kids
+-   games:
+    - Snowboard Kids
     identifier: Stingerman06's
     url: https://github.com/Stingerman06/A-Simple-SBK-Rando
     original: '- [Snowboard Kids](https://github.com/Stingerman06/A-Simple-SBK-Rando)

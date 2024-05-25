@@ -2,7 +2,8 @@ name: Final Fight
 comment: null
 sub-series: null
 randomizers:
--   game: Final Fight AE (Final Fight hack)
+-   games:
+    - Final Fight AE (Final Fight hack)
     identifier: FFAEE
     url: https://gamehackfan.github.io/ffaee/
     original: '- [Final Fight AE (Final Fight hack)](https://gamehackfan.github.io/ffaee/)
@@ -10,7 +11,8 @@ randomizers:
         CPS2 version_'
     comment: '- Game editor with bundled randomizer - _OBSOLETE due to the superior
         CPS2 version_'
--   game: Final Fight AE CPS2 (Final Fight hack)
+-   games:
+    - Final Fight AE CPS2 (Final Fight hack)
     identifier: FFAEE-C2
     url: https://gamehackfan.github.io/ffaee-c2/
     original: '- [Final Fight AE CPS2 (Final Fight hack)](https://gamehackfan.github.io/ffaee-c2/)

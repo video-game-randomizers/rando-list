@@ -2,13 +2,16 @@ name: Streets of Rage
 comment: null
 sub-series: null
 randomizers:
--   game: Streets of Rage 2 / Streets of Rage 2 Syndicate Wars (hack)
+-   games:
+    - Streets of Rage 2
+    - Streets of Rage 2 Syndicate Wars (hack)
     identifier: SoR2 Level Editor
     url: https://www.romhacking.net/utilities/1634/
     original: '- [Streets of Rage 2 / Streets of Rage 2 Syndicate Wars (hack)](https://www.romhacking.net/utilities/1634/)
         (SoR2 Level Editor) - Level editor with bundled randomizer'
     comment: '- Level editor with bundled randomizer'
--   game: Streets of Rage 4
+-   games:
+    - Streets of Rage 4
     identifier: Swapper
     url: https://sourceforge.net/projects/sor4-character-swapper/
     original: '- [Streets of Rage 4](https://sourceforge.net/projects/sor4-character-swapper/)

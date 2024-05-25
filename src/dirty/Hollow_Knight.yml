@@ -3,7 +3,8 @@ comment: '_Support is available on the [official Hollow Knight Discord server](h
     in the #randomizer channel._'
 sub-series: null
 randomizers:
--   game: Hollow Knight
+-   games:
+    - Hollow Knight
     identifier: Randomizer 4
     url: https://github.com/homothetyhk/RandomizerMod
     original: '- [Hollow Knight](https://github.com/homothetyhk/RandomizerMod) (Randomizer

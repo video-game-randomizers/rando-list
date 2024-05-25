@@ -2,6 +2,7 @@ name: ActRaiser
 comment: null
 sub-series: null
 randomizers:
--   game: ActRaiser
+-   games:
+    - ActRaiser
     identifier: Osteoclave's
     url: https://github.com/Osteoclave/actraiser-randomizer

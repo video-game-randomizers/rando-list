@@ -7,13 +7,16 @@ randomizers:
     url: null
     original: '- Cave Story / Cave Story+ - _See at end of list: Multi-series, Connected
         worlds_'
--   game: Cave Story / Cave Story+
+-   games:
+    - Cave Story
+    - Cave Story+
     identifier: shru's
     url: https://shru.itch.io/cave-story-randomizer
     original: '- [Cave Story / Cave Story+](https://shru.itch.io/cave-story-randomizer)
         (shru''s) - _OBSOLETE_'
     obsolete: true
--   game: Cave Story
+-   games:
+    - Cave Story
     identifier: Doukutsu Randamu
     url: https://trashboxbobylev.itch.io/doukutsu-randamu
     original: '- [Cave Story](https://trashboxbobylev.itch.io/doukutsu-randamu) (Doukutsu

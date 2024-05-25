@@ -2,12 +2,14 @@ name: Halo
 comment: null
 sub-series: null
 randomizers:
--   game: 'Halo: Combat Evolved Anniversary (The Master Chief Collection)'
+-   games:
+    - 'Halo: Combat Evolved Anniversary (The Master Chief Collection)'
     identifier: Enemy Randomizer
     url: https://github.com/Burnt-o/CEER
     original: '- [Halo: Combat Evolved Anniversary (The Master Chief Collection)](https://github.com/Burnt-o/CEER)
         (Enemy Randomizer)'
--   game: Halo 3 (The Master Chief Collection)
+-   games:
+    - Halo 3 (The Master Chief Collection)
     identifier: NPC Weapon Randomzier
     url: https://www.nexusmods.com/halothemasterchiefcollection/mods/2326
     original: '- [Halo 3 (The Master Chief Collection)](https://www.nexusmods.com/halothemasterchiefcollection/mods/2326)

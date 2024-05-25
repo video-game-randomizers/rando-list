@@ -19,7 +19,11 @@ MaybeString = {
 randomizer_schema = {
     "type": "object",
     "properties": {
-        "game": ValidString,
+        "games": {
+            "type": "array",
+            "minItems": 1,
+            "items": ValidString,
+        },
         "identifier": ValidString,
         "url": ValidString,
         "comment": MaybeString,
@@ -40,7 +44,7 @@ randomizer_schema = {
         "community": ValidString,
         "contact": ValidString,
     },
-    "required": ["game", "identifier", "url" ],
+    "required": ["games", "identifier", "url" ],
     "additionalProperties": False,
 }
 

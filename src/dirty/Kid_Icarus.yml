@@ -2,7 +2,8 @@ name: Kid Icarus
 comment: null
 sub-series: null
 randomizers:
--   game: Kid Icarus
+-   games:
+    - Kid Icarus
     identifier: Kid Randomicus
     url: https://www.romhacking.net/hacks/6447/
     original: '- [Kid Icarus](https://www.romhacking.net/hacks/6447/) (Kid Randomicus)

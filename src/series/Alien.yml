@@ -2,6 +2,7 @@ name: Alien
 comment: null
 sub-series: null
 randomizers:
--   game: 'Alien: Isolation'
+-   games:
+    - 'Alien: Isolation'
     identifier: Mission Randomiser
     url: https://www.nexusmods.com/alienisolation/mods/47

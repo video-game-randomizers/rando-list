@@ -10,7 +10,8 @@ randomizers:
     original: '- Crash Bandicoot / Crash Bandicoot 2: Cortex Strikes Back / Crash
         Bandicoot: Warped / Crash Twinsanity - _See at end of list: Multi-series,
         Other_'
--   game: Crash Tag Team Racing
+-   games:
+    - Crash Tag Team Racing
     identifier: CDRomatron's
     url: https://github.com/CDRomatron/CTTRRando
     original: '- [Crash Tag Team Racing](https://github.com/CDRomatron/CTTRRando)

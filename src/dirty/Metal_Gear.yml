@@ -2,7 +2,8 @@ name: Metal Gear
 comment: null
 sub-series: null
 randomizers:
--   game: Metal Gear
+-   games:
+    - Metal Gear
     identifier: Objects
     url: https://github.com/wijnen/mg-random
     original: '- [Metal Gear](https://github.com/wijnen/mg-random) (Objects)'

@@ -2,7 +2,8 @@ name: The Messenger
 comment: null
 sub-series: null
 randomizers:
--   game: The Messenger
+-   games:
+    - The Messenger
     identifier: Minous27's
     url: https://github.com/minous27/TheMessengerRandomizerMod
     original: '- [The Messenger](https://github.com/minous27/TheMessengerRandomizerMod)

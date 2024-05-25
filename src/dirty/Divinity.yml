@@ -2,13 +2,15 @@ name: Divinity
 comment: null
 sub-series: null
 randomizers:
--   game: 'Divinity: Original Sin 2'
+-   games:
+    - 'Divinity: Original Sin 2'
     identifier: Enemy Randomization
     url: https://www.nexusmods.com/divinityoriginalsin2/mods/110
     original: '- [Divinity: Original Sin 2](https://www.nexusmods.com/divinityoriginalsin2/mods/110)
         (Enemy Randomization) - Also on [Steam Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=1155733310)'
     comment: '- Also on [Steam Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=1155733310)'
--   game: 'Divinity: Original Sin 2 - Definitive Edition'
+-   games:
+    - 'Divinity: Original Sin 2 - Definitive Edition'
     identifier: Enemy Randomization
     url: https://www.nexusmods.com/divinityoriginalsin2definitiveedition/mods/9
     original: '- [Divinity: Original Sin 2 - Definitive Edition](https://www.nexusmods.com/divinityoriginalsin2definitiveedition/mods/9)

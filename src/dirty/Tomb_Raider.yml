@@ -2,7 +2,10 @@ name: Tomb Raider
 comment: null
 sub-series: null
 randomizers:
--   game: Tomb Raider / Tomb Raider II / Tomb Raider III
+-   games:
+    - Tomb Raider
+    - Tomb Raider II
+    - Tomb Raider III
     identifier: Lost Artefacts's
     url: https://github.com/LostArtefacts/TR-Rando
     original: '- [Tomb Raider / Tomb Raider II / Tomb Raider III](https://github.com/LostArtefacts/TR-Rando)

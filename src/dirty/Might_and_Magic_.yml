@@ -2,8 +2,9 @@ name: 'Might and Magic '
 comment: null
 sub-series: null
 randomizers:
--   game: 'Might and Magic VI: The Mandate of Heaven / Might and Magic VII: For Blood
-        and Honor'
+-   games:
+    - 'Might and Magic VI: The Mandate of Heaven'
+    - 'Might and Magic VII: For Blood and Honor'
     identifier: Anerag's
     url: https://rekurs.io/mmrandomizer/
     original: '- [Might and Magic VI: The Mandate of Heaven / Might and Magic VII:

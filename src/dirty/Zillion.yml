@@ -2,7 +2,8 @@ name: Zillion
 comment: null
 sub-series: null
 randomizers:
--   game: Zillion
+-   games:
+    - Zillion
     identifier: Zilliandomizer
     url: https://github.com/beauxq/zilliandomizer
     original: '- [Zillion](https://github.com/beauxq/zilliandomizer) (Zilliandomizer)'

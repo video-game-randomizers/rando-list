@@ -2,6 +2,7 @@ name: Banjo-Kazooie
 comment: null
 sub-series: null
 randomizers:
--   game: Banjo-Kazooie
+-   games:
+    - Banjo-Kazooie
     identifier: Giant Jigglypuff's
     url: https://github.com/CyrusKashef/BK_Randomizer

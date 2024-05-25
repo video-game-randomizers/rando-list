@@ -4,13 +4,15 @@ comment: _Old versions of Paradox Development Studio games are available on Stea
     official announcement](https://forum.paradoxplaza.com/forum/threads/changes-to-playing-previous-versions-of-pds-titles.1120883/)._
 sub-series: null
 randomizers:
--   game: Crusader Kings II
+-   games:
+    - Crusader Kings II
     identifier: Alternate History and Random Map Generator
     url: https://forum.paradoxplaza.com/forum/threads/tool-crusader-kings-2-alternate-history-and-random-map-generator.880329/
     original: '- [Crusader Kings II](https://forum.paradoxplaza.com/forum/threads/tool-crusader-kings-2-alternate-history-and-random-map-generator.880329/)
         (Alternate History and Random Map Generator) - _OBSOLETE_'
     obsolete: true
--   game: Crusader Kings II
+-   games:
+    - Crusader Kings II
     identifier: Holy Fury Map Generator
     url: https://forum.paradoxplaza.com/forum/threads/tool-ck2-holy-fury-map-generator.1129166/
     original: '- [Crusader Kings II](https://forum.paradoxplaza.com/forum/threads/tool-ck2-holy-fury-map-generator.1129166/)

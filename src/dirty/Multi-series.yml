@@ -60,23 +60,66 @@ sub-series:
 - id Software engines
 - Other
 randomizers:
--   game: "The Legend of Zelda: A Link to the Past / Factorio / Minecraft: Java Edition\
-        \ / Subnautica / Slay the Spire / Risk of Rain 2 / The Legend of Zelda: Ocarina\
-        \ of Time / The Legend of Zelda: Ocarina of Time Master Quest / Timespinner\
-        \ / Super Metroid / Secret of Evermore / Final Fantasy / Rogue Legacy / VVVVVV\
-        \ / Raft / Super Mario 64 / Meritous / Hollow Knight / The Witness / Sonic\
-        \ Adventure 2 / StarCraft II / Donkey Kong Country 3: Dixie Kong's Double\
-        \ Trouble / Dark Souls III / Super Mario World / Pok\xE9mon Red Version (international)\
-        \ / Pok\xE9mon Blue Version (international) / Hylics 2 / Overcooked! 2 / Zillion\
-        \ / Lufia II: Rise of the Sinistrals / Blasphemous / Wargroove / Stardew Valley\
-        \ / The Legend of Zelda / The Messenger / Kingdom Hearts II Final Mix / The\
-        \ Legend of Zelda: Link's Awakening DX / Adventure / DLC Quest / Noita / Undertale\
-        \ / Mega Man Battle Network 3 Blue / Muse Dash / Doom (Ultimate) / Terraria\
-        \ / Lingo (Brenton Wildes) / Pok\xE9mon Emerald Version / Doom II / Shivers\
-        \ / Heretic / Landstalker: The Treasures of King Nole / Final Fantasy Mystic\
-        \ Quest / Tunic / Kirby's Dream Land 3 / Celeste 64: Fragments of the Mountain\
-        \ / Zork: Grand Inquisitor / Castlevania (Nintendo 64) / A Short Hike / Yoshi's\
-        \ Island"
+-   games:
+    - 'The Legend of Zelda: A Link to the Past'
+    - Factorio
+    - 'Minecraft: Java Edition'
+    - Subnautica
+    - Slay the Spire
+    - Risk of Rain 2
+    - 'The Legend of Zelda: Ocarina of Time'
+    - 'The Legend of Zelda: Ocarina of Time Master Quest'
+    - Timespinner
+    - Super Metroid
+    - Secret of Evermore
+    - Final Fantasy
+    - Rogue Legacy
+    - VVVVVV
+    - Raft
+    - Super Mario 64
+    - Meritous
+    - Hollow Knight
+    - The Witness
+    - Sonic Adventure 2
+    - StarCraft II
+    - 'Donkey Kong Country 3: Dixie Kong''s Double Trouble'
+    - Dark Souls III
+    - Super Mario World
+    - "Pok\xE9mon Red Version (international)"
+    - "Pok\xE9mon Blue Version (international)"
+    - Hylics 2
+    - Overcooked! 2
+    - Zillion
+    - 'Lufia II: Rise of the Sinistrals'
+    - Blasphemous
+    - Wargroove
+    - Stardew Valley
+    - The Legend of Zelda
+    - The Messenger
+    - Kingdom Hearts II Final Mix
+    - 'The Legend of Zelda: Link''s Awakening DX'
+    - Adventure
+    - DLC Quest
+    - Noita
+    - Undertale
+    - Mega Man Battle Network 3 Blue
+    - Muse Dash
+    - Doom (Ultimate)
+    - Terraria
+    - Lingo (Brenton Wildes)
+    - "Pok\xE9mon Emerald Version"
+    - Doom II
+    - Shivers
+    - Heretic
+    - 'Landstalker: The Treasures of King Nole'
+    - Final Fantasy Mystic Quest
+    - Tunic
+    - Kirby's Dream Land 3
+    - 'Celeste 64: Fragments of the Mountain'
+    - 'Zork: Grand Inquisitor'
+    - Castlevania (Nintendo 64)
+    - A Short Hike
+    - Yoshi's Island
     identifier: Archipelago
     url: https://archipelago.gg/
     original: "- [The Legend of Zelda: A Link to the Past / Factorio / Minecraft:\
@@ -100,21 +143,27 @@ randomizers:
     multiworld: true
     subheading: Connected worlds
     comment: '- List of [additional extensions in development](https://multiworld.news/apworlds.html)'
--   game: 'Castlevania: Harmony of Dissonance / Bomberman Tournament'
+-   games:
+    - 'Castlevania: Harmony of Dissonance'
+    - Bomberman Tournament
     identifier: HoDBT
     url: https://hodbt.surge.sh/
     original: '- [Castlevania: Harmony of Dissonance / Bomberman Tournament](https://hodbt.surge.sh/)
         (HoDBT)'
     multiworld: true
     subheading: Connected worlds
--   game: 'Super Metroid / The Legend of Zelda: A Link to the Past'
+-   games:
+    - Super Metroid
+    - 'The Legend of Zelda: A Link to the Past'
     identifier: SMZ3 Cas' Randomizer
     url: https://github.com/Vivelin/SMZ3Randomizer
     original: '- [Super Metroid / The Legend of Zelda: A Link to the Past](https://github.com/Vivelin/SMZ3Randomizer)
         (SMZ3 Cas'' Randomizer)'
     multiworld: true
     subheading: Connected worlds
--   game: 'Super Metroid / The Legend of Zelda: A Link to the Past'
+-   games:
+    - Super Metroid
+    - 'The Legend of Zelda: A Link to the Past'
     identifier: null
     url: https://samus.link/
     original: '- [Super Metroid / The Legend of Zelda: A Link to the Past](https://samus.link/)
@@ -122,8 +171,14 @@ randomizers:
     multiworld: true
     subheading: Connected worlds
     comment: (Super Metroid and A Link to the Past
--   game: 'AM2R (Metroid fangame) / Cave Story / Cave Story+ / Metroid Dread / Metroid
-        Prime / Metroid Prime 2: Echoes / Metroid: Samus Returns'
+-   games:
+    - AM2R (Metroid fangame)
+    - Cave Story
+    - Cave Story+
+    - Metroid Dread
+    - Metroid Prime
+    - 'Metroid Prime 2: Echoes'
+    - 'Metroid: Samus Returns'
     identifier: Randovania
     url: https://randovania.org/
     original: '- [AM2R (Metroid fangame) / Cave Story / Cave Story+ / Metroid Dread
@@ -131,14 +186,22 @@ randomizers:
         (Randovania)'
     multiworld: true
     subheading: Connected worlds
--   game: The Legend of Zelda / Metroid
+-   games:
+    - The Legend of Zelda
+    - Metroid
     identifier: Z1M1
     url: https://z1m1.info/
     original: '- [The Legend of Zelda / Metroid](https://z1m1.info/) (Z1M1)'
     multiworld: true
     subheading: Connected worlds
--   game: 'Doom (Ultimate) / Doom II / Final Doom / Heretic / Hexen: Beyond Heretic
-        / Strife / Chex Quest'
+-   games:
+    - Doom (Ultimate)
+    - Doom II
+    - Final Doom
+    - Heretic
+    - 'Hexen: Beyond Heretic'
+    - Strife
+    - Chex Quest
     identifier: CustomDoom
     url: https://forum.zdoom.org/viewtopic.php?f=45&t=51446
     original: '- [Doom (Ultimate) / Doom II / Final Doom / Heretic / Hexen: Beyond
@@ -146,25 +209,47 @@ randomizers:
         (CustomDoom) - _OBSOLETE_'
     subheading: id Software engines
     obsolete: true
--   game: 'Doom (Ultimate) / Doom II / Final Doom / Heretic / Hexen: Beyond Heretic
-        / Strife / Chex Quest'
+-   games:
+    - Doom (Ultimate)
+    - Doom II
+    - Final Doom
+    - Heretic
+    - 'Hexen: Beyond Heretic'
+    - Strife
+    - Chex Quest
     identifier: Universal Custom Doom
     url: https://forum.zdoom.org/viewtopic.php?f=43&t=64678
     original: '- [Doom (Ultimate) / Doom II / Final Doom / Heretic / Hexen: Beyond
         Heretic / Strife / Chex Quest](https://forum.zdoom.org/viewtopic.php?f=43&t=64678)
         (Universal Custom Doom)'
     subheading: id Software engines
--   game: 'Doom (Ultimate) / Doom II / Final Doom / Heretic / Hexen: Beyond Heretic
-        / Strife / Chex Quest'
+-   games:
+    - Doom (Ultimate)
+    - Doom II
+    - Final Doom
+    - Heretic
+    - 'Hexen: Beyond Heretic'
+    - Strife
+    - Chex Quest
     identifier: Universal Entropy
     url: https://www.moddb.com/mods/universal-entropy
     original: '- [Doom (Ultimate) / Doom II / Final Doom / Heretic / Hexen: Beyond
         Heretic / Strife / Chex Quest](https://www.moddb.com/mods/universal-entropy)
         (Universal Entropy)'
     subheading: id Software engines
--   game: 'Doom (Ultimate) / Doom II / Final Doom / Heretic / Chex Quest 3 (fangame)
-        / Hacx / Harmony (fangame) / Hexen: Beyond Heretic / Strife / Wolfenstein
-        3D / Spear of Destiny / Super 3D Noah''s Ark'
+-   games:
+    - Doom (Ultimate)
+    - Doom II
+    - Final Doom
+    - Heretic
+    - Chex Quest 3 (fangame)
+    - Hacx
+    - Harmony (fangame)
+    - 'Hexen: Beyond Heretic'
+    - Strife
+    - Wolfenstein 3D
+    - Spear of Destiny
+    - Super 3D Noah's Ark
     identifier: OBSIDIAN
     url: https://obsidian-level-maker.github.io/index.html
     original: '- [Doom (Ultimate) / Doom II / Final Doom / Heretic / Chex Quest 3
@@ -172,7 +257,11 @@ randomizers:
         3D / Spear of Destiny / Super 3D Noah''s Ark](https://obsidian-level-maker.github.io/index.html)
         (OBSIDIAN)'
     subheading: id Software engines
--   game: Doom (Ultimate) / Doom II / Final Doom / Heretic
+-   games:
+    - Doom (Ultimate)
+    - Doom II
+    - Final Doom
+    - Heretic
     identifier: OBLIGE
     url: https://oblige.sourceforge.net/
     original: '- [Doom (Ultimate) / Doom II / Final Doom / Heretic](https://oblige.sourceforge.net/)
@@ -189,28 +278,45 @@ randomizers:
         for [Brutal Doom (mod)](https://gitlab.com/CloudOfShame/BrutalOblige) - Version
         4.28 also supported [Hexen: Beyond Heretic / Quake / Quake II](https://sourceforge.net/projects/oblige/files/Oblige/4.28/)
         - Version 0.97 also had experimental support for [Wolfenstein 3D](https://sourceforge.net/projects/oblige/files/Oblige/0.97/)'
--   game: Doom (Ultimate) / Doom II / Final Doom / Heretic
+-   games:
+    - Doom (Ultimate)
+    - Doom II
+    - Final Doom
+    - Heretic
     identifier: ObHack
     url: https://samiam.org/obhack/
     original: '- [Doom (Ultimate) / Doom II / Final Doom / Heretic](https://samiam.org/obhack/)
         (ObHack) - _OBSOLETE_'
     subheading: id Software engines
     obsolete: true
--   game: Doom (Ultimate) / Heretic
+-   games:
+    - Doom (Ultimate)
+    - Heretic
     identifier: MOShuffle
     url: https://forum.zdoom.org/viewtopic.php?f=43&t=72760
     original: '- [Doom (Ultimate) / Heretic](https://forum.zdoom.org/viewtopic.php?f=43&t=72760)
         (MOShuffle)'
     subheading: id Software engines
--   game: Duke Nukem 3D / Ion Fury / Shadow Warrior / Blood / PowerSlave (PC)
+-   games:
+    - Duke Nukem 3D
+    - Ion Fury
+    - Shadow Warrior
+    - Blood
+    - PowerSlave (PC)
     identifier: Build Engine Randomizer
     url: https://github.com/Die4Ever/build-engine-randomizer
     original: '- [Duke Nukem 3D / Ion Fury / Shadow Warrior / Blood / PowerSlave (PC)](https://github.com/Die4Ever/build-engine-randomizer)
         (Build Engine Randomizer)'
     subheading: Other
--   game: 'Crash Nitro Kart / Crash Twinsanity / Crash Tag Team Racing / Rayman 3:
-        Hoodlum Havoc / Crash Bandicoot / Crash Bandicoot 2: Cortex Strikes Back /
-        Crash Bandicoot: Warped / Crash Bandicoot: The Wrath of Cortex'
+-   games:
+    - Crash Nitro Kart
+    - Crash Twinsanity
+    - Crash Tag Team Racing
+    - 'Rayman 3: Hoodlum Havoc'
+    - Crash Bandicoot
+    - 'Crash Bandicoot 2: Cortex Strikes Back'
+    - 'Crash Bandicoot: Warped'
+    - 'Crash Bandicoot: The Wrath of Cortex'
     identifier: Crate Mod Loader
     url: https://github.com/TheBetaM/CrateModLoader
     original: '- [Crash Nitro Kart / Crash Twinsanity / Crash Tag Team Racing / Rayman
@@ -218,8 +324,12 @@ randomizers:
         / Crash Bandicoot: Warped / Crash Bandicoot: The Wrath of Cortex](https://github.com/TheBetaM/CrateModLoader)
         (Crate Mod Loader)'
     subheading: Other
--   game: Hebereke / Willow (NES) / Mega Man X3 / Zero Project (Mega Man X3 hack)
-        / Breath of Fire
+-   games:
+    - Hebereke
+    - Willow (NES)
+    - Mega Man X3
+    - Zero Project (Mega Man X3 hack)
+    - Breath of Fire
     identifier: Dan Jia Randomizers
     url: https://github.com/vinheim3/randomizers
     original: '- [Hebereke / Willow (NES) / Mega Man X3 / Zero Project (Mega Man X3
@@ -227,9 +337,14 @@ randomizers:
         Randomizers) - Download code in local directory and open `index.html` to use'
     subheading: Other
     comment: '- Download code in local directory and open `index.html` to use'
--   game: 'SpongeBob SquarePants: Battle for Bikini Bottom (GameCube / Xbox / PS2)
-        / Scooby-Doo: Night of 100 Frights / The SpongeBob SquarePants Movie (GameCube
-        / Xbox / PS2)'
+-   games:
+    - 'SpongeBob SquarePants: Battle for Bikini Bottom (GameCube'
+    - Xbox
+    - PS2)
+    - 'Scooby-Doo: Night of 100 Frights'
+    - The SpongeBob SquarePants Movie (GameCube
+    - Xbox
+    - PS2)
     identifier: Industrial Park
     url: https://github.com/igorseabra4/IndustrialPark
     original: '- [SpongeBob SquarePants: Battle for Bikini Bottom (GameCube / Xbox
@@ -238,7 +353,9 @@ randomizers:
         Park) - Level editor with bundled randomizer - [User guide](https://heavyironmodding.org/wiki/Randomizer)'
     subheading: Other
     comment: '- Level editor with bundled randomizer - [User guide](https://heavyironmodding.org/wiki/Randomizer)'
--   game: 'Touhou Luna Nights / Record of Lodoss War: Deedlit in Wonder Labyrinth'
+-   games:
+    - Touhou Luna Nights
+    - 'Record of Lodoss War: Deedlit in Wonder Labyrinth'
     identifier: Ladybug Randomizer
     url: https://github.com/Lakifume/Ladybug-Randomizer
     original: '- [Touhou Luna Nights / Record of Lodoss War: Deedlit in Wonder Labyrinth](https://github.com/Lakifume/Ladybug-Randomizer)

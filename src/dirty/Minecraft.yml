@@ -5,12 +5,14 @@ comment: '_Old versions of Minecraft: Java Edition are available on Mojang''s we
     convenience._'
 sub-series: null
 randomizers:
--   game: 'Minecraft: Java Edition'
+-   games:
+    - 'Minecraft: Java Edition'
     identifier: Fasguy's Minecraft Toolbox
     url: https://fasguy.net/minecraft_toolbox/info
     original: '- [Minecraft: Java Edition](https://fasguy.net/minecraft_toolbox/info)
         (Fasguy''s Minecraft Toolbox)'
--   game: 'Minecraft: Java Edition'
+-   games:
+    - 'Minecraft: Java Edition'
     identifier: Loot Table Randomizer
     url: https://www.youtube.com/watch?v=3JEXAZOrykQ
     original: '- [Minecraft: Java Edition](https://www.youtube.com/watch?v=3JEXAZOrykQ)
@@ -18,7 +20,8 @@ randomizers:
         3](https://www.python.org/downloads/) - _OBSOLETE_'
     obsolete: true
     comment: '- Located in video description - Requires [Python 3](https://www.python.org/downloads/)'
--   game: 'Minecraft: Java Edition'
+-   games:
+    - 'Minecraft: Java Edition'
     identifier: MotzlMotzt's
     url: https://www.spigotmc.org/resources/randomizer-1-13-1-16-x.77069/
     original: '- [Minecraft: Java Edition](https://www.spigotmc.org/resources/randomizer-1-13-1-16-x.77069/)

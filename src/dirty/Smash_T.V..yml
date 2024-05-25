@@ -2,7 +2,8 @@ name: Smash T.V.
 comment: null
 sub-series: null
 randomizers:
--   game: Super Smash T.V.
+-   games:
+    - Super Smash T.V.
     identifier: Micheil Skeens's
     url: https://micheilskeens.com/super-smash-tv-randomizer.php
     original: '- [Super Smash T.V.](https://micheilskeens.com/super-smash-tv-randomizer.php)

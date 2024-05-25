@@ -2,10 +2,12 @@ name: Bomberman
 comment: null
 sub-series: null
 randomizers:
--   game: Bomberman Tournament
+-   games:
+    - Bomberman Tournament
     identifier: fusecv's
     url: https://btrando.surge.sh/
--   game: Bomberman Tournament
+-   games:
+    - Bomberman Tournament
     identifier: HoDBT
     url: https://hodbt.surge.sh/
     multiworld: Other

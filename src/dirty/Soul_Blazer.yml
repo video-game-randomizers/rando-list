@@ -2,17 +2,20 @@ name: Soul Blazer
 comment: null
 sub-series: null
 randomizers:
--   game: Soul Blazer
+-   games:
+    - Soul Blazer
     identifier: RandoBlazer
     url: https://randoblazer.orphis.net/
     original: '- [Soul Blazer](https://randoblazer.orphis.net/) (RandoBlazer) - Old
         [Windows binaries](https://github.com/LeHulk1/RandoBlazer/tree/master/Releases)'
     comment: '- Old [Windows binaries](https://github.com/LeHulk1/RandoBlazer/tree/master/Releases)'
--   game: Illusion of Gaia
+-   games:
+    - Illusion of Gaia
     identifier: DontBaguMe's
     url: https://www.iogr.app
     original: '- [Illusion of Gaia](https://www.iogr.app) (DontBaguMe''s)'
--   game: Terranigma
+-   games:
+    - Terranigma
     identifier: TerraFluky
     url: https://www.terranigma.be/index.php?title=TerraFluky
     original: '- [Terranigma](https://www.terranigma.be/index.php?title=TerraFluky)

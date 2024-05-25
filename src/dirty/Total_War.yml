@@ -2,7 +2,9 @@ name: Total War
 comment: null
 sub-series: null
 randomizers:
--   game: 'Rome: Total War / Total War: Rome Remastered'
+-   games:
+    - 'Rome: Total War'
+    - 'Total War: Rome Remastered'
     identifier: sargeantPig's
     url: https://github.com/sargeantPig/RTWRandomiser
     original: '- [Rome: Total War / Total War: Rome Remastered](https://github.com/sargeantPig/RTWRandomiser)

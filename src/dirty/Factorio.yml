@@ -2,7 +2,8 @@ name: Factorio
 comment: null
 sub-series: null
 randomizers:
--   game: Factorio
+-   games:
+    - Factorio
     identifier: Official Mod Portal - Randomizers
     url: https://mods.factorio.com/?version=1.1&search_order=updated&query=randomize
     original: '- [Factorio](https://mods.factorio.com/?version=1.1&search_order=updated&query=randomize)

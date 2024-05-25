@@ -2,7 +2,8 @@ name: Front Mission
 comment: null
 sub-series: null
 randomizers:
--   game: 'Front Mission 5: Scars of the War'
+-   games:
+    - 'Front Mission 5: Scars of the War'
     identifier: Khalid SA's
     url: https://github.com/KhaleedSA/FM5RandomizerApp
     original: '- [Front Mission 5: Scars of the War](https://github.com/KhaleedSA/FM5RandomizerApp)

@@ -2,13 +2,15 @@ name: Ori
 comment: null
 sub-series: null
 randomizers:
--   game: 'Ori and the Blind Forest: Definitive Edition'
+-   games:
+    - 'Ori and the Blind Forest: Definitive Edition'
     identifier: sigmasin & Eiko's
     url: https://orirando.com/
     original: '- [Ori and the Blind Forest: Definitive Edition](https://orirando.com/)
         (sigmasin & Eiko''s) - [Source code](https://github.com/sparkle-preference/OriDERandomizer)'
     comment: '- [Source code](https://github.com/sparkle-preference/OriDERandomizer)'
--   game: Ori and the Will of the Wisps
+-   games:
+    - Ori and the Will of the Wisps
     identifier: Eiko's
     url: https://wotw.orirando.com/
     original: '- [Ori and the Will of the Wisps](https://wotw.orirando.com/) (Eiko''s)

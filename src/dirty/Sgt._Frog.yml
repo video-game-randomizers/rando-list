@@ -2,7 +2,8 @@ name: Sgt. Frog
 comment: null
 sub-series: null
 randomizers:
--   game: 'Keroro RPG: Kishi to Musha to Densetsu no Kaizoku'
+-   games:
+    - 'Keroro RPG: Kishi to Musha to Densetsu no Kaizoku'
     identifier: Dawnbomb's English Patch + Optional Randomizer
     url: https://www.crystalmods.com/index.php/game_mods/tales-of-keroro-english-patch/
     original: '- [Keroro RPG: Kishi to Musha to Densetsu no Kaizoku](https://www.crystalmods.com/index.php/game_mods/tales-of-keroro-english-patch/)

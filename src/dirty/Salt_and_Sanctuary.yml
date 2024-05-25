@@ -2,7 +2,8 @@ name: Salt and Sanctuary
 comment: null
 sub-series: null
 randomizers:
--   game: Salt and Sanctuary
+-   games:
+    - Salt and Sanctuary
     identifier: coppie's
     url: https://www.reddit.com/r/saltandsanctuary/comments/c28z64/randomizer/
     original: '- [Salt and Sanctuary](https://www.reddit.com/r/saltandsanctuary/comments/c28z64/randomizer/)

@@ -2,8 +2,12 @@ name: Inazuma Eleven
 comment: null
 sub-series: null
 randomizers:
--   game: 'Inazuma Eleven / Inazuma Eleven 2: FireStorm / Inazuma Eleven 2: Blizzard
-        / Inazuma Eleven 3: Team Ogre Attacks! (DS / 3DS)'
+-   games:
+    - Inazuma Eleven
+    - 'Inazuma Eleven 2: FireStorm'
+    - 'Inazuma Eleven 2: Blizzard'
+    - 'Inazuma Eleven 3: Team Ogre Attacks! (DS'
+    - 3DS)
     identifier: Ultimate Randomizer
     url: https://mega.nz/file/9odwQYSC#vZppxUav1G0_v377P2au63O_WAN-RfvP-0t-O-Prypw
     original: '- [Inazuma Eleven / Inazuma Eleven 2: FireStorm / Inazuma Eleven 2:
@@ -14,8 +18,9 @@ randomizers:
     comment: '- Support and potential future versions available on the [Victory Road
         Discord server](https://discord.com/invite/3wKp5ZxA9N) in the #ie-randomizer
         channel'
--   game: 'Inazuma Eleven GO Chrono Stones: Wildfire / Inazuma Eleven GO Chrono Stones:
-        Thunderflash'
+-   games:
+    - 'Inazuma Eleven GO Chrono Stones: Wildfire'
+    - 'Inazuma Eleven GO Chrono Stones: Thunderflash'
     identifier: Pixzer
     url: https://www.mediafire.com/file/z9qmtis8cgwgfdw/Pixzer.rar/file
     original: '- [Inazuma Eleven GO Chrono Stones: Wildfire / Inazuma Eleven GO Chrono
@@ -26,7 +31,8 @@ randomizers:
     comment: '- Support and potential future versions available on the [Victory Road
         Discord server](https://discord.com/invite/3wKp5ZxA9N) in the #ie-randomizer
         channel'
--   game: 'Inazuma Eleven GO: Galaxy'
+-   games:
+    - 'Inazuma Eleven GO: Galaxy'
     identifier: Tinifan's
     url: https://github.com/Tiniifan/UltimateGalaxyRandomizer
     original: '- [Inazuma Eleven GO: Galaxy](https://github.com/Tiniifan/UltimateGalaxyRandomizer)

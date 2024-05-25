@@ -2,7 +2,8 @@ name: Project Wingman
 comment: null
 sub-series: null
 randomizers:
--   game: Project Wingman
+-   games:
+    - Project Wingman
     identifier: FalconLuma's
     url: https://www.nexusmods.com/projectwingman/mods/355
     original: '- [Project Wingman](https://www.nexusmods.com/projectwingman/mods/355)

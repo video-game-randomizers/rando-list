@@ -2,7 +2,8 @@ name: "Keitai Denj\u016B Telefang"
 comment: null
 sub-series: null
 randomizers:
--   game: "Keitai Denj\u016B Telefang: Power Version"
+-   games:
+    - "Keitai Denj\u016B Telefang: Power Version"
     identifier: Sanqui's
     url: https://sanqui.net/randomizer/#telefang
     original: "- [Keitai Denj\u016B Telefang: Power Version](https://sanqui.net/randomizer/#telefang)\

@@ -2,9 +2,11 @@ name: Adventure Island
 comment: null
 sub-series: null
 randomizers:
--   game: Adventure Island II
+-   games:
+    - Adventure Island II
     identifier: Micheil Skeens's
     url: https://micheilskeens.com/adventure-island-2-randomizer.php
--   game: Super Adventure Island II
+-   games:
+    - Super Adventure Island II
     identifier: abyssonym's
     url: https://github.com/abyssonym/sai2_rando

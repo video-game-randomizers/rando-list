@@ -2,7 +2,8 @@ name: The Talos Principle
 comment: null
 sub-series: null
 randomizers:
--   game: The Talos Principle
+-   games:
+    - The Talos Principle
     identifier: apple1417's
     url: https://github.com/apple1417/Talos-Randomizer
     original: '- [The Talos Principle](https://github.com/apple1417/Talos-Randomizer)

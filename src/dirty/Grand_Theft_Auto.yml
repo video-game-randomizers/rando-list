@@ -2,7 +2,8 @@ name: Grand Theft Auto
 comment: null
 sub-series: null
 randomizers:
--   game: 'Grand Theft Auto: San Andreas'
+-   games:
+    - 'Grand Theft Auto: San Andreas'
     identifier: Rainbomizer
     url: https://github.com/Parik27/SA.Rainbomizer
     original: '- [Grand Theft Auto: San Andreas](https://github.com/Parik27/SA.Rainbomizer)

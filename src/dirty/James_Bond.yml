@@ -2,7 +2,8 @@ name: James Bond
 comment: null
 sub-series: null
 randomizers:
--   game: GoldenEye 007
+-   games:
+    - GoldenEye 007
     identifier: K1lo's
     url: http://www.shootersforever.com/forums_message_boards/viewtopic.php?t=7267
     original: '- [GoldenEye 007](http://www.shootersforever.com/forums_message_boards/viewtopic.php?t=7267)

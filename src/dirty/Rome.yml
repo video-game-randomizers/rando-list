@@ -3,7 +3,8 @@ comment: _Old versions of Paradox Development Studio games are available on Stea
     as betas._
 sub-series: null
 randomizers:
--   game: 'Imperator: Rome'
+-   games:
+    - 'Imperator: Rome'
     identifier: Shattered World mod generator
     url: https://forum.paradoxplaza.com/forum/threads/tool-shattered-world-mod-generator.1191906/
     original: '- [Imperator: Rome](https://forum.paradoxplaza.com/forum/threads/tool-shattered-world-mod-generator.1191906/)

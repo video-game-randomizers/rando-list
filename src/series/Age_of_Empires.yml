@@ -2,10 +2,12 @@ name: Age of Empires
 comment: null
 sub-series: null
 randomizers:
--   game: 'Age of Empires II: The Age of Kings / Age of Empires II (2013) / Age of
+-   games:
+    - 'Age of Empires II: The Age of Kings / Age of Empires II (2013) / Age of
         Empires II: Definitive Edition'
     identifier: HyperRandom
     url: https://aok.heavengames.com/cgi-bin/forums/display.cgi?action=ct&f=28,44641,,365
--   game: 'Age of Mythology: Extended Edition'
+-   games:
+    - 'Age of Mythology: Extended Edition'
     identifier: Steam Workshop - Map Scripts
     url: https://steamcommunity.com/workshop/browse/?appid=266840&requiredtags%5B%5D=Random+Map+Scripts

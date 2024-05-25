@@ -2,13 +2,15 @@ name: The Guardian Legend
 comment: null
 sub-series: null
 randomizers:
--   game: The Guardian Legend
+-   games:
+    - The Guardian Legend
     identifier: fireball87's
     url: https://www.synchrocade.com/tgl
     original: '- [The Guardian Legend](https://www.synchrocade.com/tgl) (fireball87''s)
         - [Source code](https://github.com/fireball87/GuardianLegendRando)'
     comment: '- [Source code](https://github.com/fireball87/GuardianLegendRando)'
--   game: The Guardian Legend
+-   games:
+    - The Guardian Legend
     identifier: Micheil Skeens's
     url: https://micheilskeens.com/guardian-legend-randomizer.php
     original: '- [The Guardian Legend](https://micheilskeens.com/guardian-legend-randomizer.php)

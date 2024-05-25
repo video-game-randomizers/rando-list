@@ -2,7 +2,8 @@ name: Crystal Project
 comment: null
 sub-series: null
 randomizers:
--   game: Crystal Project
+-   games:
+    - Crystal Project
     identifier: LtSquigs's
     url: https://github.com/LtSquigs/crystal-project-randomizer
     original: '- [Crystal Project](https://github.com/LtSquigs/crystal-project-randomizer)

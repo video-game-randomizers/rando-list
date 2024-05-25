@@ -2,7 +2,8 @@ name: Dicey Dungeons
 comment: null
 sub-series: null
 randomizers:
--   game: Dicey Dungeons
+-   games:
+    - Dicey Dungeons
     identifier: Random Equipment
     url: https://xangelmoonx.itch.io/random-equipment
     original: '- [Dicey Dungeons](https://xangelmoonx.itch.io/random-equipment) (Random

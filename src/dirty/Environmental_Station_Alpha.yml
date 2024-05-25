@@ -2,7 +2,8 @@ name: Environmental Station Alpha
 comment: null
 sub-series: null
 randomizers:
--   game: Environmental Station Alpha
+-   games:
+    - Environmental Station Alpha
     identifier: Mokesmoe's
     url: https://www.speedrun.com/esalpha/resources
     original: '- [Environmental Station Alpha](https://www.speedrun.com/esalpha/resources)

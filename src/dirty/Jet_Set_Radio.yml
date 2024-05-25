@@ -2,7 +2,8 @@ name: Jet Set Radio
 comment: null
 sub-series: null
 randomizers:
--   game: 'JSRF: Jet Set Radio Future'
+-   games:
+    - 'JSRF: Jet Set Radio Future'
     identifier: fusecv's
     url: https://cdn.discordapp.com/attachments/249687933190275073/764597124938858516/default_rand3b3.xbe
     original: '- [JSRF: Jet Set Radio Future](https://cdn.discordapp.com/attachments/249687933190275073/764597124938858516/default_rand3b3.xbe)

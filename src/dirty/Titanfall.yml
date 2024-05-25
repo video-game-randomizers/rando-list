@@ -2,7 +2,8 @@ name: Titanfall
 comment: null
 sub-series: null
 randomizers:
--   game: Titanfall 2
+-   games:
+    - Titanfall 2
     identifier: taskinoz's
     url: https://github.com/taskinoz/Titanfall2-Randomizer
     original: '- [Titanfall 2](https://github.com/taskinoz/Titanfall2-Randomizer)

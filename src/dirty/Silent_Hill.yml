@@ -2,12 +2,15 @@ name: Silent Hill
 comment: null
 sub-series: null
 randomizers:
--   game: Silent Hill 2 / Silent Hill 3
+-   games:
+    - Silent Hill 2
+    - Silent Hill 3
     identifier: Jokie's
     url: https://github.com/JokieW/RandomHill
     original: '- [Silent Hill 2 / Silent Hill 3](https://github.com/JokieW/RandomHill)
         (Jokie''s)'
--   game: 'Silent Hill 4: The Room'
+-   games:
+    - 'Silent Hill 4: The Room'
     identifier: Hunter Stanton's
     url: https://github.com/HunterStanton/SilentHill4Randomizer
     original: '- [Silent Hill 4: The Room](https://github.com/HunterStanton/SilentHill4Randomizer)

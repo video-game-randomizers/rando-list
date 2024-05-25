@@ -2,7 +2,8 @@ name: Noita
 comment: null
 sub-series: null
 randomizers:
--   game: Noita
+-   games:
+    - Noita
     identifier: Steam Workshop - Randomizers
     url: https://steamcommunity.com/workshop/browse/?appid=881100&searchtext=randomizer
     original: '- [Noita](https://steamcommunity.com/workshop/browse/?appid=881100&searchtext=randomizer)

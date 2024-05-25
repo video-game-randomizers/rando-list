@@ -2,7 +2,8 @@ name: Ultrakill
 comment: null
 sub-series: null
 randomizers:
--   game: Ultrakill
+-   games:
+    - Ultrakill
     identifier: ArchipelagoULTRAKILL
     url: https://github.com/TRPG0/ArchipelagoULTRAKILL
     original: '- [Ultrakill](https://github.com/TRPG0/ArchipelagoULTRAKILL) (ArchipelagoULTRAKILL)

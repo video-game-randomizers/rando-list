@@ -2,7 +2,8 @@ name: Starfield
 comment: null
 sub-series: null
 randomizers:
--   game: Starfield
+-   games:
+    - Starfield
     identifier: Enemy Weapon Randomizer
     url: https://www.nexusmods.com/starfield/mods/7514
     original: '- [Starfield](https://www.nexusmods.com/starfield/mods/7514) (Enemy

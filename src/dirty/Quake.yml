@@ -7,12 +7,14 @@ randomizers:
     url: null
     original: '- Quake / Quake II - _See at end of list: Multi-series, id Software
         engines_'
--   game: Quake
+-   games:
+    - Quake
     identifier: RandoQ
     url: https://www.reddit.com/r/quake/comments/q3d0mc/quake_randomizer_updated_for_the_quake_rerelease/
     original: '- [Quake](https://www.reddit.com/r/quake/comments/q3d0mc/quake_randomizer_updated_for_the_quake_rerelease/)
         (RandoQ)'
--   game: Quake II
+-   games:
+    - Quake II
     identifier: Campaign Randomizer
     url: https://www.nexusmods.com/quake2/mods/6
     original: '- [Quake II](https://www.nexusmods.com/quake2/mods/6) (Campaign Randomizer)'

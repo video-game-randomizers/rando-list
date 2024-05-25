@@ -2,16 +2,19 @@ name: Shin Megami Tensei
 comment: null
 sub-series: null
 randomizers:
--   game: Shin Megami Tensei
+-   games:
+    - Shin Megami Tensei
     identifier: spannerisms's
     url: https://github.com/spannerisms/smt1rando
     original: '- [Shin Megami Tensei](https://github.com/spannerisms/smt1rando) (spannerisms''s)'
--   game: 'Shin Megami Tensei III: Nocturne'
+-   games:
+    - 'Shin Megami Tensei III: Nocturne'
     identifier: NMarkro's
     url: https://github.com/nmarkro/Nocturne-Randomizer
     original: '- [Shin Megami Tensei III: Nocturne](https://github.com/nmarkro/Nocturne-Randomizer)
         (NMarkro''s)'
--   game: 'Shin Megami Tensei: Strange Journey'
+-   games:
+    - 'Shin Megami Tensei: Strange Journey'
     identifier: Disaster Cycle
     url: https://github.com/abyssonym/disastercycle
     original: '- [Shin Megami Tensei: Strange Journey](https://github.com/abyssonym/disastercycle)

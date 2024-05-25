@@ -2,7 +2,8 @@ name: A Short Hike
 comment: null
 sub-series: null
 randomizers:
--   game: A Short Hike
+-   games:
+    - A Short Hike
     identifier: Archipelago
     url: https://archipelago.gg/games/A%20Short%20Hike/info/en
     multiworld: Archipelago

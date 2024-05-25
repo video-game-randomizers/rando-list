@@ -2,7 +2,8 @@ name: Homeworld
 comment: null
 sub-series: null
 randomizers:
--   game: Homeworld 2
+-   games:
+    - Homeworld 2
     identifier: Capturable Fleets Mod
     url: https://www.moddb.com/mods/capturable-fleets-mod
     original: '- [Homeworld 2](https://www.moddb.com/mods/capturable-fleets-mod) (Capturable

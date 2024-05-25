@@ -2,17 +2,20 @@ name: Octopath Traveler
 comment: null
 sub-series: null
 randomizers:
--   game: Octopath Traveler
+-   games:
+    - Octopath Traveler
     identifier: Boss Randomizer
     url: https://github.com/mastermind1919/OctopathBossRandomizer
     original: '- [Octopath Traveler](https://github.com/mastermind1919/OctopathBossRandomizer)
         (Boss Randomizer)'
--   game: Octopath Traveler
+-   games:
+    - Octopath Traveler
     identifier: Job Randomizer
     url: https://github.com/MarvinXLII/OctopathTravelerJobRandomizer
     original: '- [Octopath Traveler](https://github.com/MarvinXLII/OctopathTravelerJobRandomizer)
         (Job Randomizer)'
--   game: Octopath Traveler II
+-   games:
+    - Octopath Traveler II
     identifier: MarvinXLII's
     url: https://github.com/MarvinXLII/OT2R
     original: '- [Octopath Traveler II](https://github.com/MarvinXLII/OT2R) (MarvinXLII''s)'

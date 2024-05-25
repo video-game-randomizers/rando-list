@@ -2,7 +2,8 @@ name: Pseudoregalia
 comment: null
 sub-series: null
 randomizers:
--   game: Pseudoregalia
+-   games:
+    - Pseudoregalia
     identifier: spuds's
     url: https://www.nexusmods.com/pseudoregalia/mods/11
     original: '- [Pseudoregalia](https://www.nexusmods.com/pseudoregalia/mods/11)

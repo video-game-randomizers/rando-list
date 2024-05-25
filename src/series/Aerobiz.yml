@@ -2,6 +2,7 @@ name: Aerobiz
 comment: null
 sub-series: null
 randomizers:
--   game: Aerobiz Supersonic
+-   games:
+    - Aerobiz Supersonic
     identifier: AeroBonkers
     url: https://github.com/stochaztic/aerobonkers

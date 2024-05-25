@@ -2,7 +2,8 @@ name: Darius
 comment: null
 sub-series: null
 randomizers:
--   game: Darius Twin
+-   games:
+    - Darius Twin
     identifier: Micheil Skeens's
     url: https://micheilskeens.com/darius-twin-randomizer.php
     original: '- [Darius Twin](https://micheilskeens.com/darius-twin-randomizer.php)

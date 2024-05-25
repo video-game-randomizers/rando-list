@@ -2,7 +2,8 @@ name: Commander Keen
 comment: null
 sub-series: null
 randomizers:
--   game: 'Commander Keen: Invasion of the Vorticons (shareware)'
+-   games:
+    - 'Commander Keen: Invasion of the Vorticons (shareware)'
     identifier: David Gow's
     url: https://davidgow.net/keen/randomiser.html
     original: '- [Commander Keen: Invasion of the Vorticons (shareware)](https://davidgow.net/keen/randomiser.html)

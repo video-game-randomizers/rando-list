@@ -2,7 +2,8 @@ name: Celeste
 comment: null
 sub-series: null
 randomizers:
--   game: Celeste
+-   games:
+    - Celeste
     identifier: rhelmot's
     url: https://github.com/rhelmot/CelesteRandomizer
     original: '- [Celeste](https://github.com/rhelmot/CelesteRandomizer) (rhelmot''s)'

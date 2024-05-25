@@ -4,7 +4,8 @@ comment: _Old versions of Paradox Development Studio games are available on Stea
     official announcement](https://forum.paradoxplaza.com/forum/threads/changes-to-playing-previous-versions-of-pds-titles.1120883/)._
 sub-series: null
 randomizers:
--   game: Hearts of Iron IV
+-   games:
+    - Hearts of Iron IV
     identifier: Drowse's
     url: https://steamcommunity.com/sharedfiles/filedetails/?id=1687085898
     original: '- [Hearts of Iron IV](https://steamcommunity.com/sharedfiles/filedetails/?id=1687085898)

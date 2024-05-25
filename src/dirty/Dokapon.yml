@@ -2,7 +2,8 @@ name: Dokapon
 comment: null
 sub-series: null
 randomizers:
--   game: Dokapon Kingdom
+-   games:
+    - Dokapon Kingdom
     identifier: X Kirby's
     url: http://ngplus.net/index.php?/files/file/53-dokapon-kingdom-randomizer/
     original: '- [Dokapon Kingdom](http://ngplus.net/index.php?/files/file/53-dokapon-kingdom-randomizer/)

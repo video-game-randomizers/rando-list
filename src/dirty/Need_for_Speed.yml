@@ -2,11 +2,13 @@ name: Need for Speed
 comment: null
 sub-series: null
 randomizers:
--   game: The Need for Speed
+-   games:
+    - The Need for Speed
     identifier: RandTrack
     url: https://randtrack.sourceforge.net/
     original: '- [The Need for Speed](https://randtrack.sourceforge.net/) (RandTrack)'
--   game: Need for Speed Carbon
+-   games:
+    - Need for Speed Carbon
     identifier: RaTT's
     url: https://nfsmods.xyz/mod/1568
     original: '- [Need for Speed Carbon](https://nfsmods.xyz/mod/1568) (RaTT''s) -

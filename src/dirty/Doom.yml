@@ -7,24 +7,33 @@ randomizers:
     url: null
     original: '- Doom (Ultimate) / Doom II / Final Doom / Harmony (fangame) - _See
         at end of list: Multi-series, id Software engines_'
--   game: Doom (Ultimate) / Doom II / Final Doom
+-   games:
+    - Doom (Ultimate)
+    - Doom II
+    - Final Doom
     identifier: Vanilla Doom Plus
     url: https://www.doomworld.com/forum/topic/106432-vdp-monsterrandomizer-updated-august-12th/
     original: '- [Doom (Ultimate) / Doom II / Final Doom](https://www.doomworld.com/forum/topic/106432-vdp-monsterrandomizer-updated-august-12th/)
         (Vanilla Doom Plus)'
--   game: Doom (Ultimate) / Doom II
+-   games:
+    - Doom (Ultimate)
+    - Doom II
     identifier: ORO-RANDOM-DOOM
     url: https://forum.zdoom.org/viewtopic.php?f=19&t=45378
     original: '- [Doom (Ultimate) / Doom II](https://forum.zdoom.org/viewtopic.php?f=19&t=45378)
         (ORO-RANDOM-DOOM) - _OBSOLETE_'
     obsolete: true
--   game: Doom (Ultimate) / Doom II
+-   games:
+    - Doom (Ultimate)
+    - Doom II
     identifier: SLIGE
     url: https://web.archive.org/web/20040404021558/http://www.doomworld.com/slige/
     original: '- [Doom (Ultimate) / Doom II](https://web.archive.org/web/20040404021558/http://www.doomworld.com/slige/)
         (SLIGE) - _OBSOLETE_'
     obsolete: true
--   game: Doom (Ultimate) / Doom II
+-   games:
+    - Doom (Ultimate)
+    - Doom II
     identifier: Vandomizer
     url: https://www.doomworld.com/forum/topic/112713-v104-vandomizer-a-vanilla-randomizer-for-gzdoom/
     original: '- [Doom (Ultimate) / Doom II](https://www.doomworld.com/forum/topic/112713-v104-vandomizer-a-vanilla-randomizer-for-gzdoom/)
@@ -34,22 +43,27 @@ randomizers:
     url: null
     original: '- Doom (Ultimate) / Doom II - _See at end of list: Multi-series, Connected
         worlds_'
--   game: Doom II / Final Doom
+-   games:
+    - Doom II
+    - Final Doom
     identifier: The Populator
     url: https://gitlab.com/andwj/populate
     original: '- [Doom II / Final Doom](https://gitlab.com/andwj/populate) (The Populator)'
--   game: Doom II
+-   games:
+    - Doom II
     identifier: SLUMP
     url: https://samiam.org/obhack/old/slump/slump.html
     original: '- [Doom II](https://samiam.org/obhack/old/slump/slump.html) (SLUMP)
         - _OBSOLETE_'
     obsolete: true
--   game: Doom Eternal
+-   games:
+    - Doom Eternal
     identifier: Enemy Randomizer
     url: https://www.nexusmods.com/doometernal/mods/170
     original: '- [Doom Eternal](https://www.nexusmods.com/doometernal/mods/170) (Enemy
         Randomizer)'
--   game: Doom Eternal
+-   games:
+    - Doom Eternal
     identifier: Horde Mode Randomizer
     url: https://www.nexusmods.com/doometernal/mods/924
     original: '- [Doom Eternal](https://www.nexusmods.com/doometernal/mods/924) (Horde

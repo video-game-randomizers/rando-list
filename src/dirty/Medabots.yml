@@ -2,7 +2,9 @@ name: Medabots
 comment: null
 sub-series: null
 randomizers:
--   game: 'Medabots: Metabee / Medabots: Rokusho'
+-   games:
+    - 'Medabots: Metabee'
+    - 'Medabots: Rokusho'
     identifier: STulling's
     url: https://github.com/STulling/Medabots-Randomizer
     original: '- [Medabots: Metabee / Medabots: Rokusho](https://github.com/STulling/Medabots-Randomizer)

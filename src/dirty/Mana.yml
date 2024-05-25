@@ -2,11 +2,13 @@ name: Mana
 comment: null
 sub-series: null
 randomizers:
--   game: Secret of Mana
+-   games:
+    - Secret of Mana
     identifier: Mop's
     url: https://secretofmanaancientcave.blogspot.com/
     original: '- [Secret of Mana](https://secretofmanaancientcave.blogspot.com/) (Mop''s)'
--   game: Sin of Mana (Trials of Mana hack)
+-   games:
+    - Sin of Mana (Trials of Mana hack)
     identifier: praetarius5018's
     url: http://ngplus.net/index.php?/files/file/28-seiken-densetsu-3-sin-of-mana/
     original: '- [Sin of Mana (Trials of Mana hack)](http://ngplus.net/index.php?/files/file/28-seiken-densetsu-3-sin-of-mana/)

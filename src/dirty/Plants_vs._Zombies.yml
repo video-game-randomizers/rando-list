@@ -2,7 +2,8 @@ name: Plants vs. Zombies
 comment: null
 sub-series: null
 randomizers:
--   game: PlantsVsZombies.NET (Plants vs. Zombies unofficial PC port)
+-   games:
+    - PlantsVsZombies.NET (Plants vs. Zombies unofficial PC port)
     identifier: Andree's
     url: https://github.com/Andree12/PVZ1-Randomizer
     original: '- [PlantsVsZombies.NET (Plants vs. Zombies unofficial PC port)](https://github.com/Andree12/PVZ1-Randomizer)

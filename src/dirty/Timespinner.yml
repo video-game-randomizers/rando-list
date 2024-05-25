@@ -2,7 +2,8 @@ name: Timespinner
 comment: null
 sub-series: null
 randomizers:
--   game: Timespinner
+-   games:
+    - Timespinner
     identifier: Jarno's
     url: https://github.com/Jarno458/TsRandomizer
     original: '- [Timespinner](https://github.com/Jarno458/TsRandomizer) (Jarno''s)'

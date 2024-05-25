@@ -4,78 +4,97 @@ comment: _A game downgrade to the last version released before 2022-01-23 may be
     with regulation v1.35._
 sub-series: null
 randomizers:
--   game: 'Dark Souls: Prepare to Die Edition / Dark Souls: Remastered'
+-   games:
+    - 'Dark Souls: Prepare to Die Edition'
+    - 'Dark Souls: Remastered'
     identifier: Enemy Randomizer
     url: https://www.nexusmods.com/darksouls/mods/1407
     original: '- [Dark Souls: Prepare to Die Edition / Dark Souls: Remastered](https://www.nexusmods.com/darksouls/mods/1407)
         (Enemy Randomizer)'
--   game: 'Dark Souls: Prepare to Die Edition / Dark Souls: Remastered'
+-   games:
+    - 'Dark Souls: Prepare to Die Edition'
+    - 'Dark Souls: Remastered'
     identifier: Fog Gate Randomizer
     url: https://www.nexusmods.com/darksoulsremastered/mods/165
     original: '- [Dark Souls: Prepare to Die Edition / Dark Souls: Remastered](https://www.nexusmods.com/darksoulsremastered/mods/165)
         (Fog Gate Randomizer)'
--   game: 'Dark Souls: Prepare to Die Edition / Dark Souls: Remastered'
+-   games:
+    - 'Dark Souls: Prepare to Die Edition'
+    - 'Dark Souls: Remastered'
     identifier: Item Randomizer
     url: https://github.com/HotPocketRemix/DarkSoulsItemRandomizer
     original: '- [Dark Souls: Prepare to Die Edition / Dark Souls: Remastered](https://github.com/HotPocketRemix/DarkSoulsItemRandomizer)
         (Item Randomizer)'
--   game: 'Dark Souls: Prepare to Die Edition / Dark Souls: Remastered'
+-   games:
+    - 'Dark Souls: Prepare to Die Edition'
+    - 'Dark Souls: Remastered'
     identifier: Paramdomizer
     url: https://github.com/Poppyanimal/Paramdomizer
     original: '- [Dark Souls: Prepare to Die Edition / Dark Souls: Remastered](https://github.com/Poppyanimal/Paramdomizer)
         (Paramdomizer)'
--   game: 'Dark Souls: Remastered'
+-   games:
+    - 'Dark Souls: Remastered'
     identifier: Roguelike Souls - The Binding of Lordran
     url: https://www.nexusmods.com/darksoulsremastered/mods/255
     original: '- [Dark Souls: Remastered](https://www.nexusmods.com/darksoulsremastered/mods/255)
         (Roguelike Souls - The Binding of Lordran)'
--   game: 'Dark Souls II: Scholar of the First Sin'
+-   games:
+    - 'Dark Souls II: Scholar of the First Sin'
     identifier: Item Location Randomizer
     url: https://www.nexusmods.com/darksouls2/mods/743
     original: '- [Dark Souls II: Scholar of the First Sin](https://www.nexusmods.com/darksouls2/mods/743)
         (Item Location Randomizer) - _OBSOLETE_'
     obsolete: true
--   game: 'Dark Souls II: Scholar of the First Sin'
+-   games:
+    - 'Dark Souls II: Scholar of the First Sin'
     identifier: null
     url: https://www.nexusmods.com/darksouls2/mods/774
     original: '- [Dark Souls II: Scholar of the First Sin](https://www.nexusmods.com/darksouls2/mods/774)
         (Item Randomizer REMIX'
     comment: (Item Randomizer REMIX
--   game: 'Dark Souls II: Scholar of the First Sin'
+-   games:
+    - 'Dark Souls II: Scholar of the First Sin'
     identifier: Ran-door-mizer
     url: https://www.nexusmods.com/darksouls2/mods/1108
     original: '- [Dark Souls II: Scholar of the First Sin](https://www.nexusmods.com/darksouls2/mods/1108)
         (Ran-door-mizer)'
--   game: 'Dark Souls II: Scholar of the First Sin'
+-   games:
+    - 'Dark Souls II: Scholar of the First Sin'
     identifier: Scrambler
     url: https://www.nexusmods.com/darksouls2/mods/1163
     original: '- [Dark Souls II: Scholar of the First Sin](https://www.nexusmods.com/darksouls2/mods/1163)
         (Scrambler)'
--   game: Dark Souls III
+-   games:
+    - Dark Souls III
     identifier: Enemy Randomizer
     url: https://www.nexusmods.com/darksouls3/mods/484
     original: '- [Dark Souls III](https://www.nexusmods.com/darksouls3/mods/484) (Enemy
         Randomizer)'
--   game: Dark Souls III
+-   games:
+    - Dark Souls III
     identifier: Fog Gate Randomizer
     url: https://www.nexusmods.com/darksouls3/mods/551
     original: '- [Dark Souls III](https://www.nexusmods.com/darksouls3/mods/551) (Fog
         Gate Randomizer)'
--   game: Dark Souls III
+-   games:
+    - Dark Souls III
     identifier: Irregulator
     url: https://www.nexusmods.com/darksouls3/mods/298
     original: '- [Dark Souls III](https://www.nexusmods.com/darksouls3/mods/298) (Irregulator)'
--   game: Dark Souls III
+-   games:
+    - Dark Souls III
     identifier: Item Randomiser and Auto-Equip
     url: https://www.nexusmods.com/darksouls3/mods/241
     original: '- [Dark Souls III](https://www.nexusmods.com/darksouls3/mods/241) (Item
         Randomiser and Auto-Equip)'
--   game: Dark Souls III
+-   games:
+    - Dark Souls III
     identifier: Static Item and Enemy Randomizer
     url: https://www.nexusmods.com/darksouls3/mods/361
     original: '- [Dark Souls III](https://www.nexusmods.com/darksouls3/mods/361) (Static
         Item and Enemy Randomizer)'
--   game: Dark Souls III
+-   games:
+    - Dark Souls III
     identifier: StraySouls
     url: https://www.nexusmods.com/darksouls3/mods/318
     original: '- [Dark Souls III](https://www.nexusmods.com/darksouls3/mods/318) (StraySouls)

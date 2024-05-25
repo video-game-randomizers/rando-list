@@ -2,17 +2,20 @@ name: Kirby
 comment: null
 sub-series: null
 randomizers:
--   game: Kirby's Adventure
+-   games:
+    - Kirby's Adventure
     identifier: Austin Bricker's
     url: https://github.com/Aquova/KA-Rando
     original: '- [Kirby''s Adventure](https://github.com/Aquova/KA-Rando) (Austin
         Bricker''s)'
--   game: 'Kirby: Nightmare in Dream Land'
+-   games:
+    - 'Kirby: Nightmare in Dream Land'
     identifier: Austin Bricker's
     url: https://github.com/Aquova/KNDL-Rando
     original: '- [Kirby: Nightmare in Dream Land](https://github.com/Aquova/KNDL-Rando)
         (Austin Bricker''s)'
--   game: Kirby Super Star
+-   games:
+    - Kirby Super Star
     identifier: firubii's
     url: https://github.com/firubii/kss-randomizer
     original: '- [Kirby Super Star](https://github.com/firubii/kss-randomizer) (firubii''s)'
@@ -21,28 +24,33 @@ randomizers:
     url: null
     original: '- Kirby''s Dream Land 3 - _See at end of list: Multi-series, Connected
         worlds_'
--   game: 'Kirby 64: The Crystal Shards'
+-   games:
+    - 'Kirby 64: The Crystal Shards'
     identifier: jesusyoshi54's
     url: https://www.youtube.com/watch?v=e8wVqrb0BUw
     original: '- [Kirby 64: The Crystal Shards](https://www.youtube.com/watch?v=e8wVqrb0BUw)
         (jesusyoshi54''s) - Located in video description'
     comment: '- Located in video description'
--   game: Kirby & The Amazing Mirror
+-   games:
+    - Kirby & The Amazing Mirror
     identifier: HeyImTG's
     url: https://github.com/HeyImTG/Amazing-Mirror-Randomizer
     original: '- [Kirby & The Amazing Mirror](https://github.com/HeyImTG/Amazing-Mirror-Randomizer)
         (HeyImTG''s)'
--   game: Kirby & The Amazing Mirror
+-   games:
+    - Kirby & The Amazing Mirror
     identifier: Mips96's
     url: https://github.com/Mips96/kamrandomizer
     original: '- [Kirby & The Amazing Mirror](https://github.com/Mips96/kamrandomizer)
         (Mips96''s)'
--   game: Kirby Star Allies
+-   games:
+    - Kirby Star Allies
     identifier: firubii's
     url: https://github.com/firubii/StarAlliesRandomizer
     original: '- [Kirby Star Allies](https://github.com/firubii/StarAlliesRandomizer)
         (firubii''s)'
--   game: Kirby and the Forgotten Land
+-   games:
+    - Kirby and the Forgotten Land
     identifier: Toranix's
     url: https://gamebanana.com/mods/390471
     original: '- [Kirby and the Forgotten Land](https://gamebanana.com/mods/390471)

@@ -2,7 +2,8 @@ name: Lisa
 comment: null
 sub-series: null
 randomizers:
--   game: 'Lisa: The Pointless (fangame)'
+-   games:
+    - 'Lisa: The Pointless (fangame)'
     identifier: TrueCobalion's
     url: https://gamejolt.com/games/PointlessRandomizer/516789
     original: '- [Lisa: The Pointless (fangame)](https://gamejolt.com/games/PointlessRandomizer/516789)

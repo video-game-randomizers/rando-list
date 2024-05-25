@@ -2,13 +2,15 @@ name: Game Dev Tycoon
 comment: null
 sub-series: null
 randomizers:
--   game: Game Dev Tycoon
+-   games:
+    - Game Dev Tycoon
     identifier: Platform Randomiser
     url: https://forum.greenheartgames.com/t/wip-platform-randomiser-alpha-0-0-5/9021
     original: '- [Game Dev Tycoon](https://forum.greenheartgames.com/t/wip-platform-randomiser-alpha-0-0-5/9021)
         (Platform Randomiser) - Also on [Steam Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=296802750)'
     comment: '- Also on [Steam Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=296802750)'
--   game: Game Dev Tycoon
+-   games:
+    - Game Dev Tycoon
     identifier: TotalRandomiser
     url: https://forum.greenheartgames.com/t/rel-totalrandomiser-1-0-0/13359
     original: '- [Game Dev Tycoon](https://forum.greenheartgames.com/t/rel-totalrandomiser-1-0-0/13359)

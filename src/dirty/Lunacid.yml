@@ -2,7 +2,8 @@ name: Lunacid
 comment: null
 sub-series: null
 randomizers:
--   game: Lunacid
+-   games:
+    - Lunacid
     identifier: Witchybun Albrekka's
     url: https://www.nexusmods.com/lunacid/mods/11
     original: '- [Lunacid](https://www.nexusmods.com/lunacid/mods/11) (Witchybun Albrekka''s)

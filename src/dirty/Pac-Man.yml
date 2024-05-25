@@ -2,7 +2,8 @@ name: Pac-Man
 comment: null
 sub-series: null
 randomizers:
--   game: Pac-Man World 2
+-   games:
+    - Pac-Man World 2
     identifier: Montra's
     url: https://drive.google.com/drive/folders/1eeb04B-GefSSXOvT8Xyc3DyZaoZrdFWa
     original: '- [Pac-Man World 2](https://drive.google.com/drive/folders/1eeb04B-GefSSXOvT8Xyc3DyZaoZrdFWa)

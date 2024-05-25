@@ -2,7 +2,8 @@ name: Punch-Out!!
 comment: null
 sub-series: null
 randomizers:
--   game: Mike Tyson's Punch-Out!!
+-   games:
+    - Mike Tyson's Punch-Out!!
     identifier: authorblues's
     url: https://authorblues.github.io/mtporandomizer/
     original: '- [Mike Tyson''s Punch-Out!!](https://authorblues.github.io/mtporandomizer/)

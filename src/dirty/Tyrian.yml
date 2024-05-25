@@ -2,7 +2,8 @@ name: Tyrian
 comment: null
 sub-series: null
 randomizers:
--   game: OpenTyrian (Tyrian open source port)
+-   games:
+    - OpenTyrian (Tyrian open source port)
     identifier: TyriGen
     url: https://drive.google.com/drive/folders/1Qn0iqGOt-Zqt5L-DSSiS_v3WQhKZWB7P
     original: '- [OpenTyrian (Tyrian open source port)](https://drive.google.com/drive/folders/1Qn0iqGOt-Zqt5L-DSSiS_v3WQhKZWB7P)

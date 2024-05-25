@@ -2,6 +2,7 @@ name: Alundra
 comment: null
 sub-series: null
 randomizers:
--   game: Alundra
+-   games:
+    - Alundra
     identifier: Dinopony's
     url: https://github.com/Dinopony/alundra-randomizer

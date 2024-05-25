@@ -2,7 +2,8 @@ name: Duke Nukem
 comment: null
 sub-series: null
 randomizers:
--   game: Duke Nukem 3D
+-   games:
+    - Duke Nukem 3D
     identifier: Map Order Randomizer
     url: https://forums.duke4.net/topic/7246-map-order-randomizer/
     original: '- [Duke Nukem 3D](https://forums.duke4.net/topic/7246-map-order-randomizer/)

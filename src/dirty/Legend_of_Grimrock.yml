@@ -2,12 +2,14 @@ name: Legend of Grimrock
 comment: null
 sub-series: null
 randomizers:
--   game: Legend of Grimrock
+-   games:
+    - Legend of Grimrock
     identifier: Random Dungeon
     url: https://www.nexusmods.com/grimrock/mods/148
     original: '- [Legend of Grimrock](https://www.nexusmods.com/grimrock/mods/148)
         (Random Dungeon)'
--   game: Legend of Grimrock 2
+-   games:
+    - Legend of Grimrock 2
     identifier: 7Soul's
     url: https://www.grimrock.net/forum/viewtopic.php?f=23&t=18602
     original: '- [Legend of Grimrock 2](https://www.grimrock.net/forum/viewtopic.php?f=23&t=18602)

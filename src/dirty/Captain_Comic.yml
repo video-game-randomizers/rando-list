@@ -2,7 +2,8 @@ name: Captain Comic
 comment: null
 sub-series: null
 randomizers:
--   game: The Adventures of Captain Comic
+-   games:
+    - The Adventures of Captain Comic
     identifier: David Fifield's
     url: https://www.bamsoftware.com/comicrando/
     original: '- [The Adventures of Captain Comic](https://www.bamsoftware.com/comicrando/)

@@ -2,7 +2,8 @@ name: Zombies Ate My Neighbors
 comment: null
 sub-series: null
 randomizers:
--   game: Zombies Ate My Neighbors (Genesis)
+-   games:
+    - Zombies Ate My Neighbors (Genesis)
     identifier: Zombies Ate My Roguelike
     url: https://www.romhacking.net/hacks/6960/
     original: '- [Zombies Ate My Neighbors (Genesis)](https://www.romhacking.net/hacks/6960/)

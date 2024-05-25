@@ -2,7 +2,8 @@ name: Axiom Verge
 comment: null
 sub-series: null
 randomizers:
--   game: Axiom Verge
+-   games:
+    - Axiom Verge
     identifier: Pozzum's
     url: https://pozzum.github.io/AxiomRandomizer/
     obsolete: true

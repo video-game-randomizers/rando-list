@@ -2,7 +2,8 @@ name: Code Vein
 comment: null
 sub-series: null
 randomizers:
--   game: Code Vein
+-   games:
+    - Code Vein
     identifier: Party Randomizer 2
     url: https://www.nexusmods.com/codevein/mods/409
     original: '- [Code Vein](https://www.nexusmods.com/codevein/mods/409) (Party Randomizer

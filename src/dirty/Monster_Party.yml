@@ -2,7 +2,8 @@ name: Monster Party
 comment: null
 sub-series: null
 randomizers:
--   game: Monster Party
+-   games:
+    - Monster Party
     identifier: Micheil Skeens's
     url: https://micheilskeens.com/monster-party-randomizer.php
     original: '- [Monster Party](https://micheilskeens.com/monster-party-randomizer.php)

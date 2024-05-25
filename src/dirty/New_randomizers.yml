@@ -5,156 +5,192 @@ comment: '## New randomizersThis subset only shows recently added entries from t
     All randomizers'
 sub-series: null
 randomizers:
--   game: 'Advance Wars 2: Black Hole Rising'
+-   games:
+    - 'Advance Wars 2: Black Hole Rising'
     identifier: Self Randomizer
     url: https://feuniverse.us/t/aw2-self-randomizing-rom-complete/24788
     original: '- [Advance Wars 2: Black Hole Rising](https://feuniverse.us/t/aw2-self-randomizing-rom-complete/24788)
         (Self Randomizer)'
--   game: 'Fire Emblem: The Binding Blade'
+-   games:
+    - 'Fire Emblem: The Binding Blade'
     identifier: Self Randomizer
     url: https://feuniverse.us/t/fe6-self-randomizing-rom-complete/24920
     original: '- [Fire Emblem: The Binding Blade](https://feuniverse.us/t/fe6-self-randomizing-rom-complete/24920)
         (Self Randomizer)'
--   game: 'Fire Emblem: The Blazing Blade'
+-   games:
+    - 'Fire Emblem: The Blazing Blade'
     identifier: Self Randomizer
     url: https://feuniverse.us/t/fe7-self-randomizing-rom-complete/24719
     original: '- [Fire Emblem: The Blazing Blade](https://feuniverse.us/t/fe7-self-randomizing-rom-complete/24719)
         (Self Randomizer)'
--   game: 'Metroid: Samus Returns'
+-   games:
+    - 'Metroid: Samus Returns'
     identifier: added to Randovania
     url: https://randovania.org/
     original: '- [Metroid: Samus Returns](https://randovania.org/) (added to Randovania)'
--   game: Ultrakill
+-   games:
+    - Ultrakill
     identifier: ArchipelagoULTRAKILL
     url: https://github.com/TRPG0/ArchipelagoULTRAKILL
     original: '- [Ultrakill](https://github.com/TRPG0/ArchipelagoULTRAKILL) (ArchipelagoULTRAKILL)
         - Requires [Archipelago](https://archipelago.gg/)'
     comment: '- Requires [Archipelago](https://archipelago.gg/)'
--   game: Dragon's Dogma 2
+-   games:
+    - Dragon's Dogma 2
     identifier: 0xffa's
     url: https://www.nexusmods.com/dragonsdogma2/mods/611
     original: '- [Dragon''s Dogma 2](https://www.nexusmods.com/dragonsdogma2/mods/611)
         (0xffa''s)'
--   game: Kid Chameleon
+-   games:
+    - Kid Chameleon
     identifier: Level Randomizer
     url: https://www.romhacking.net/hacks/7490/
     original: '- [Kid Chameleon](https://www.romhacking.net/hacks/7490/) (Level Randomizer)'
--   game: 'Like a Dragon: Infinite Wealth'
+-   games:
+    - 'Like a Dragon: Infinite Wealth'
     identifier: Zoo's
     url: https://www.nexusmods.com/likeadragoninfinitewealth/mods/145
     original: '- [Like a Dragon: Infinite Wealth](https://www.nexusmods.com/likeadragoninfinitewealth/mods/145)
         (Zoo''s)'
--   game: Lunacid
+-   games:
+    - Lunacid
     identifier: Witchybun Albrekka's
     url: https://www.nexusmods.com/lunacid/mods/11
     original: '- [Lunacid](https://www.nexusmods.com/lunacid/mods/11) (Witchybun Albrekka''s)
         - Requires [Archipelago](https://archipelago.gg/)'
     comment: '- Requires [Archipelago](https://archipelago.gg/)'
--   game: 'Might and Magic VI: The Mandate of Heaven / Might and Magic VII: For Blood
-        and Honor'
+-   games:
+    - 'Might and Magic VI: The Mandate of Heaven'
+    - 'Might and Magic VII: For Blood and Honor'
     identifier: Anerag's
     url: https://rekurs.io/mmrandomizer/
     original: '- [Might and Magic VI: The Mandate of Heaven / Might and Magic VII:
         For Blood and Honor](https://rekurs.io/mmrandomizer/) (Anerag''s)'
--   game: Persona 5 Royal
+-   games:
+    - Persona 5 Royal
     identifier: Screenments's
     url: https://gamebanana.com/mods/502477
     original: '- [Persona 5 Royal](https://gamebanana.com/mods/502477) (Screenments''s)'
--   game: "Pok\xE9mon Scarlet / Pok\xE9mon Violet"
+-   games:
+    - "Pok\xE9mon Scarlet"
+    - "Pok\xE9mon Violet"
     identifier: Gonzalo's
     url: https://github.com/Gonzalooo/Scarlet-and-Violet-Randomizer
     original: "- [Pok\xE9mon Scarlet / Pok\xE9mon Violet](https://github.com/Gonzalooo/Scarlet-and-Violet-Randomizer)\
         \ (Gonzalo's)"
--   game: 'Star Wars: Dark Forces'
+-   games:
+    - 'Star Wars: Dark Forces'
     identifier: Showcase
     url: https://github.com/The-MAZZTer/DarkForces
     original: '- [Star Wars: Dark Forces](https://github.com/The-MAZZTer/DarkForces)
         (Showcase) - Modding tool with bundled randomizer'
     comment: '- Modding tool with bundled randomizer'
--   game: Xenoblade Chronicles 3
+-   games:
+    - Xenoblade Chronicles 3
     identifier: Future Redeemed unlock kit balance editor
     url: https://github.com/RoccoDev/xc3fr-unlock-kit-balance
     original: '- [Xenoblade Chronicles 3](https://github.com/RoccoDev/xc3fr-unlock-kit-balance)
         (Future Redeemed unlock kit balance editor) - Randomizes Art Unlock Kit locations'
     comment: '- Randomizes Art Unlock Kit locations'
--   game: 'Oxide (Super Metroid hack) / Super Metroid: Redesign (Super Metroid hack)
-        / Digital Cube (Super Metroid hack) / Super Metroid: Golden Dawn (Super Metroid
-        hack)'
+-   games:
+    - Oxide (Super Metroid hack)
+    - 'Super Metroid: Redesign (Super Metroid hack)'
+    - Digital Cube (Super Metroid hack)
+    - 'Super Metroid: Golden Dawn (Super Metroid hack)'
     identifier: added to ironrusty's
     url: https://randorandy.github.io/
     original: '- [Oxide (Super Metroid hack) / Super Metroid: Redesign (Super Metroid
         hack) / Digital Cube (Super Metroid hack) / Super Metroid: Golden Dawn (Super
         Metroid hack)](https://randorandy.github.io/) (added to ironrusty''s)'
--   game: 'Tunic / Kirby''s Dream Land 3 / Celeste 64: Fragments of the Mountain /
-        Zork: Grand Inquisitor / Castlevania (Nintendo 64) / A Short Hike / Yoshi''s
-        Island'
+-   games:
+    - Tunic
+    - Kirby's Dream Land 3
+    - 'Celeste 64: Fragments of the Mountain'
+    - 'Zork: Grand Inquisitor'
+    - Castlevania (Nintendo 64)
+    - A Short Hike
+    - Yoshi's Island
     identifier: added to Archipelago
     url: https://archipelago.gg/
     original: '- [Tunic / Kirby''s Dream Land 3 / Celeste 64: Fragments of the Mountain
         / Zork: Grand Inquisitor / Castlevania (Nintendo 64) / A Short Hike / Yoshi''s
         Island](https://archipelago.gg/) (added to Archipelago)'
--   game: Escape the Backrooms
+-   games:
+    - Escape the Backrooms
     identifier: Reokin's
     url: https://www.nexusmods.com/escapethebackrooms/mods/20
     original: '- [Escape the Backrooms](https://www.nexusmods.com/escapethebackrooms/mods/20)
         (Reokin''s)'
--   game: 'King Arthur: Knight''s Tale'
+-   games:
+    - 'King Arthur: Knight''s Tale'
     identifier: Skill Tree Randomizer
     url: https://github.com/GeorgieH/kakt-skill-tree-randomizer
     original: '- [King Arthur: Knight''s Tale](https://github.com/GeorgieH/kakt-skill-tree-randomizer)
         (Skill Tree Randomizer) - Documentation in Wiki'
     comment: '- Documentation in Wiki'
--   game: Legend of Grimrock
+-   games:
+    - Legend of Grimrock
     identifier: Random Dungeon
     url: https://www.nexusmods.com/grimrock/mods/148
     original: '- [Legend of Grimrock](https://www.nexusmods.com/grimrock/mods/148)
         (Random Dungeon)'
--   game: Lies of P
+-   games:
+    - Lies of P
     identifier: Item Randomizer
     url: https://www.nexusmods.com/liesofp/mods/117
     original: '- [Lies of P](https://www.nexusmods.com/liesofp/mods/117) (Item Randomizer)'
--   game: Lies of P
+-   games:
+    - Lies of P
     identifier: Shop Item Randomizer
     url: https://www.nexusmods.com/liesofp/mods/118
     original: '- [Lies of P](https://www.nexusmods.com/liesofp/mods/118) (Shop Item
         Randomizer)'
--   game: Lies of P
+-   games:
+    - Lies of P
     identifier: Starting Weapon Randomizer
     url: https://www.nexusmods.com/liesofp/mods/119
     original: '- [Lies of P](https://www.nexusmods.com/liesofp/mods/119) (Starting
         Weapon Randomizer)'
--   game: Mystical Ninja Starring Goemon
+-   games:
+    - Mystical Ninja Starring Goemon
     identifier: Ancient Cave Starring Goemon
     url: https://github.com/abyssonym/mn64rando
     original: '- [Mystical Ninja Starring Goemon](https://github.com/abyssonym/mn64rando)
         (Ancient Cave Starring Goemon)'
--   game: Palworld
+-   games:
+    - Palworld
     identifier: Overworld Spawn Randomizer
     url: https://github.com/DavidEMorales/PalworldOverworldSpawnRandomizer
     original: '- [Palworld](https://github.com/DavidEMorales/PalworldOverworldSpawnRandomizer)
         (Overworld Spawn Randomizer)'
--   game: Shogun Showdown
+-   games:
+    - Shogun Showdown
     identifier: Enemy / Boss Randomizer
     url: https://www.nexusmods.com/shogunshowdown/mods/6
     original: '- [Shogun Showdown](https://www.nexusmods.com/shogunshowdown/mods/6)
         (Enemy / Boss Randomizer)'
--   game: Stardew Valley
+-   games:
+    - Stardew Valley
     identifier: Community Center Bundles Randomizer
     url: https://www.nexusmods.com/stardewvalley/mods/20425
     original: '- [Stardew Valley](https://www.nexusmods.com/stardewvalley/mods/20425)
         (Community Center Bundles Randomizer)'
--   game: Starfield
+-   games:
+    - Starfield
     identifier: Enemy Weapon Randomizer
     url: https://www.nexusmods.com/starfield/mods/7514
     original: '- [Starfield](https://www.nexusmods.com/starfield/mods/7514) (Enemy
         Weapon Randomizer)'
--   game: 'The Elder Scrolls V: Skyrim Special Edition'
+-   games:
+    - 'The Elder Scrolls V: Skyrim Special Edition'
     identifier: Alchemy Effects Randomizer, SKSE
     url: https://www.nexusmods.com/skyrimspecialedition/mods/107301
     original: '- [The Elder Scrolls V: Skyrim Special Edition](https://www.nexusmods.com/skyrimspecialedition/mods/107301)
         (Alchemy Effects Randomizer, SKSE)'
--   game: 'Cliffhanger Redux (Super Metroid hack) / Super Zero Mission (Super Metroid
-        hack) / Metroid: The Blue Plague (Super Metroid hack)'
+-   games:
+    - Cliffhanger Redux (Super Metroid hack)
+    - Super Zero Mission (Super Metroid hack)
+    - 'Metroid: The Blue Plague (Super Metroid hack)'
     identifier: added to ironrusty's
     url: https://randorandy.github.io/
     original: '- [Cliffhanger Redux (Super Metroid hack) / Super Zero Mission (Super

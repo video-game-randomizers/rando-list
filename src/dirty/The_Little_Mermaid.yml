@@ -2,7 +2,8 @@ name: The Little Mermaid
 comment: null
 sub-series: null
 randomizers:
--   game: The Little Mermaid
+-   games:
+    - The Little Mermaid
     identifier: Micheil Skeens's
     url: https://micheilskeens.com/little-mermaid-randomizer.php
     original: '- [The Little Mermaid](https://micheilskeens.com/little-mermaid-randomizer.php)

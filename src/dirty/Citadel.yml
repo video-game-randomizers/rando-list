@@ -2,7 +2,8 @@ name: Citadel
 comment: null
 sub-series: null
 randomizers:
--   game: Citadel
+-   games:
+    - Citadel
     identifier: Item Randomiser
     url: https://stardot.org.uk/forums/viewtopic.php?f=1&t=14318
     original: '- [Citadel](https://stardot.org.uk/forums/viewtopic.php?f=1&t=14318)

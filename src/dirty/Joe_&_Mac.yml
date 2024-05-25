@@ -2,7 +2,8 @@ name: Joe & Mac
 comment: null
 sub-series: null
 randomizers:
--   game: 'Joe & Mac: Caveman Ninja (Super NES)'
+-   games:
+    - 'Joe & Mac: Caveman Ninja (Super NES)'
     identifier: Micheil Skeens's
     url: https://micheilskeens.com/joe-and-mac-randomizer.php
     original: '- [Joe & Mac: Caveman Ninja (Super NES)](https://micheilskeens.com/joe-and-mac-randomizer.php)

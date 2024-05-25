@@ -2,7 +2,8 @@ name: Goemon
 comment: null
 sub-series: null
 randomizers:
--   game: Mystical Ninja Starring Goemon
+-   games:
+    - Mystical Ninja Starring Goemon
     identifier: Ancient Cave Starring Goemon
     url: https://github.com/abyssonym/mn64rando
     original: '- [Mystical Ninja Starring Goemon](https://github.com/abyssonym/mn64rando)

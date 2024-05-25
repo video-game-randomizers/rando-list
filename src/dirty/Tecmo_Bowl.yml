@@ -2,7 +2,8 @@ name: Tecmo Bowl
 comment: null
 sub-series: null
 randomizers:
--   game: Tecmo Super Bowl
+-   games:
+    - Tecmo Super Bowl
     identifier: Salary Cap Random Match
     url: https://tecmobowl.org/files/file/599-tecmo-super-bowl-salary-cap-random-match/
     original: '- [Tecmo Super Bowl](https://tecmobowl.org/files/file/599-tecmo-super-bowl-salary-cap-random-match/)

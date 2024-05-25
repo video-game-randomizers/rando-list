@@ -2,26 +2,37 @@ name: Baldur's Gate
 comment: null
 sub-series: null
 randomizers:
--   game: 'Baldur''s Gate / Baldur''s Gate: Enhanced Edition / Baldur''s Gate II:
+-   games:
+    - 'Baldur''s Gate
+    - Baldur''s Gate: Enhanced Edition
+    - Baldur''s Gate II:
         Shadows of Amn / Baldur''s Gate II: Enhanced Edition / Baldur''s Gate: Enhanced
         Edition Trilogy (mod)'
     identifier: Enemy Randomizer
     url: https://www.gibberlings3.net/files/file/1031-enemy-randomizer/
--   game: 'Baldur''s Gate / Baldur''s Gate: Enhanced Edition / Baldur''s Gate II:
+-   games:
+    - 'Baldur''s Gate
+    - Baldur''s Gate: Enhanced Edition
+    - Baldur''s Gate II:
         Shadows of Amn / Baldur''s Gate II: Enhanced Edition / EasyTutu (mod) / Baldur''s
         Gate Trilogy (mod) / Baldur''s Gate: Enhanced Edition Trilogy (mod)'
     identifier: Item Randomiser
     url: https://www.gibberlings3.net/mods/items/item_rand/
--   game: 'Baldur''s Gate / Baldur''s Gate: Enhanced Edition / Baldur''s Gate II:
+-   games:
+    - 'Baldur''s Gate
+    - Baldur''s Gate: Enhanced Edition
+    - Baldur''s Gate II:
         Shadows of Amn / Baldur''s Gate II: Enhanced Edition / EasyTutu (mod) / Baldur''s
         Gate Trilogy (mod) / Baldur''s Gate: Enhanced Edition Trilogy (mod)'
     identifier: Sword Coast Stratagems
     url: https://www.gibberlings3.net/mods/tweaks/scs/
     comment: 'Mod collection that can randomize the maze in Watcher''s Keep for
         Baldur''s Gate II'
--   game: 'Baldur''s Gate II: Shadows of Amn'
+-   games:
+    - 'Baldur''s Gate II: Shadows of Amn'
     identifier: Improved Anvil
     url: http://forums.blackwyrmlair.net/index.php?showtopic=1739
--   game: 'Baldur''s Gate II: Enhanced Edition'
+-   games:
+    - 'Baldur''s Gate II: Enhanced Edition'
     identifier: Improved Anvil Enhanced Edition
     url: http://forums.blackwyrmlair.net/index.php?showtopic=5326

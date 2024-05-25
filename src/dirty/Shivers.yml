@@ -2,7 +2,8 @@ name: Shivers
 comment: null
 sub-series: null
 randomizers:
--   game: Shivers
+-   games:
+    - Shivers
     identifier: GodlFire's
     url: https://www.speedrun.com/shivers/resources
     original: '- [Shivers](https://www.speedrun.com/shivers/resources) (GodlFire''s)

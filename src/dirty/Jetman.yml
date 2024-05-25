@@ -2,7 +2,8 @@ name: Jetman
 comment: null
 sub-series: null
 randomizers:
--   game: Solar Jetman
+-   games:
+    - Solar Jetman
     identifier: Niamek's
     url: https://github.com/GB127/SJ-rando
     original: '- [Solar Jetman](https://github.com/GB127/SJ-rando) (Niamek''s)'

@@ -2,12 +2,14 @@ name: Dragon's Dogma
 comment: null
 sub-series: null
 randomizers:
--   game: 'Dragon''s Dogma: Dark Arisen'
+-   games:
+    - 'Dragon''s Dogma: Dark Arisen'
     identifier: Bitterblack Isle Randomizer
     url: https://www.nexusmods.com/dragonsdogma/mods/670
     original: '- [Dragon''s Dogma: Dark Arisen](https://www.nexusmods.com/dragonsdogma/mods/670)
         (Bitterblack Isle Randomizer)'
--   game: Dragon's Dogma 2
+-   games:
+    - Dragon's Dogma 2
     identifier: 0xffa's
     url: https://www.nexusmods.com/dragonsdogma2/mods/611
     original: '- [Dragon''s Dogma 2](https://www.nexusmods.com/dragonsdogma2/mods/611)

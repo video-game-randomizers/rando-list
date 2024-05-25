@@ -2,6 +2,7 @@ name: America's Army
 comment: null
 sub-series: null
 randomizers:
--   game: America's Army
+-   games:
+    - America's Army
     identifier: Weapon Randomizer
     url: https://www.gamefront.com/games/america-s-army/file/weapon-randomizer-v1-5

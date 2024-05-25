@@ -2,7 +2,8 @@ name: The Battle of Olympus
 comment: null
 sub-series: null
 randomizers:
--   game: The Battle of Olympus
+-   games:
+    - The Battle of Olympus
     identifier: Item Randomizer
     url: https://www.romhacking.net/hacks/8283/
     original: '- [The Battle of Olympus](https://www.romhacking.net/hacks/8283/) (Item

@@ -2,7 +2,8 @@ name: Clash at Demonhead
 comment: null
 sub-series: null
 randomizers:
--   game: Clash at Demonhead
+-   games:
+    - Clash at Demonhead
     identifier: Micheil Skeens's
     url: https://micheilskeens.com/clash-at-demonhead-randomizer.php
     original: '- [Clash at Demonhead](https://micheilskeens.com/clash-at-demonhead-randomizer.php)
