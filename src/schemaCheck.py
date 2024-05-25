@@ -54,7 +54,9 @@ series_schema = {
     "properties": {
         "name": ValidString,
         "comment": MaybeString,
-        "sub-series": MaybeString,
+        "sub-series": {
+            "type": ["array", "null"],
+        },
         "randomizers": {
             "type": "array",
             "minItems": 1,

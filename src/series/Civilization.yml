@@ -6,78 +6,52 @@ randomizers:
     - Civilization IV
     identifier: CivFanatics - Map Scripts
     url: https://forums.civfanatics.com/forums/civ4-map-scripts.182/
-    original: '- [Civilization IV](https://forums.civfanatics.com/forums/civ4-map-scripts.182/)
-        (CivFanatics - Map Scripts)'
 -   games:
     - Civilization IV
     identifier: DragonEmperor's
     url: https://www.gamefront.com/games/civilization-4/file/random-map-creator
-    original: '- [Civilization IV](https://www.gamefront.com/games/civilization-4/file/random-map-creator)
-        (DragonEmperor''s)'
 -   games:
     - Civilization IV
     identifier: low's
     url: https://www.gamefront.com/games/civilization-iv-warlords/file/random-map-script-v5-final
-    original: '- [Civilization IV](https://www.gamefront.com/games/civilization-iv-warlords/file/random-map-script-v5-final)
-        (low''s)'
 -   games:
     - 'Civilization IV: Colonization'
     identifier: FaireWeather.py
     url: https://forums.civfanatics.com/threads/mapscript-faireweather-py-for-colonization.293491/
-    original: '- [Civilization IV: Colonization](https://forums.civfanatics.com/threads/mapscript-faireweather-py-for-colonization.293491/)
-        (FaireWeather.py)'
 -   games:
     - Civilization V
     identifier: Civ Randomizer
     url: https://steamcommunity.com/sharedfiles/filedetails/?id=93509365
-    original: '- [Civilization V](https://steamcommunity.com/sharedfiles/filedetails/?id=93509365)
-        (Civ Randomizer)'
 -   games:
     - Civilization V
     identifier: CivFanatics - Map Scripts
     url: https://forums.civfanatics.com/forums/civ5-map-scripts.402/
-    original: '- [Civilization V](https://forums.civfanatics.com/forums/civ5-map-scripts.402/)
-        (CivFanatics - Map Scripts)'
 -   games:
     - Civilization V
     identifier: HellBlazers Map Script
     url: https://docs.google.com/document/d/1KiFTUkF8zxbRdN_AmQ-jIwdUAjnriO2wYNGBuqphcCM/edit
-    original: '- [Civilization V](https://docs.google.com/document/d/1KiFTUkF8zxbRdN_AmQ-jIwdUAjnriO2wYNGBuqphcCM/edit)
-        (HellBlazers Map Script)'
 -   games:
     - Civilization V
     identifier: Randomized Uniques
     url: https://forums.civfanatics.com/threads/wip-randomized-unique-components-and-traits.558135/
-    original: '- [Civilization V](https://forums.civfanatics.com/threads/wip-randomized-unique-components-and-traits.558135/)
-        (Randomized Uniques)'
 -   games:
     - Civilization V
     identifier: Steam Workshop - Map Scripts
     url: https://steamcommunity.com/workshop/browse/?appid=8930&requiredtags%5B%5D=mapscripts
-    original: '- [Civilization V](https://steamcommunity.com/workshop/browse/?appid=8930&requiredtags%5B%5D=mapscripts)
-        (Steam Workshop - Map Scripts)'
 -   games:
     - Civilization VI
     identifier: Random Religions
     url: https://steamcommunity.com/sharedfiles/filedetails/?id=873663804
-    original: '- [Civilization VI](https://steamcommunity.com/sharedfiles/filedetails/?id=873663804)
-        (Random Religions)'
 -   games:
     - Civilization VI
     identifier: CivFanatics - Map Scripts
     url: https://forums.civfanatics.com/forums/civ6-maps-and-map-scripts.559/
-    original: '- [Civilization VI](https://forums.civfanatics.com/forums/civ6-maps-and-map-scripts.559/)
-        (CivFanatics - Map Scripts)'
 -   games:
     - Civilization VI
     identifier: Steam Workshop - Map Scripts
     url: https://steamcommunity.com/workshop/browse/?appid=289070&searchtext=map+script
-    original: '- [Civilization VI](https://steamcommunity.com/workshop/browse/?appid=289070&searchtext=map+script)
-        (Steam Workshop - Map Scripts) - [More](https://steamcommunity.com/workshop/browse/?appid=289070&searchtext=mapscript)'
-    comment: '- [More](https://steamcommunity.com/workshop/browse/?appid=289070&searchtext=mapscript)'
+    comment: '[More](https://steamcommunity.com/workshop/browse/?appid=289070&searchtext=mapscript)'
 -   games:
     - C-evo (fangame)
     identifier: Sam Trenholme's map_gen
     url: https://github.com/samboy/c-evo-mapgen
-    original: '- [C-evo (fangame)](https://github.com/samboy/c-evo-mapgen) (Sam Trenholme''s
-        map_gen)'

@@ -6,6 +6,5 @@ randomizers:
     - Crystal Project
     identifier: LtSquigs's
     url: https://github.com/LtSquigs/crystal-project-randomizer
-    original: '- [Crystal Project](https://github.com/LtSquigs/crystal-project-randomizer)
-        (LtSquigs''s) - _OBSOLETE_'
     obsolete: true
+    comment: 'Marked as obsolete since the author will no longer maintain it now that the main game contains a built-in one.'
