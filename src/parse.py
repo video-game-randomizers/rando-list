@@ -8,24 +8,28 @@ series = dict()
 current = 'OTHER'
 subheading = None
 
-series[current] = {
-    'name': current,
-    'comment': '',
-    'sub-series': [],
-    'randomizers': [],
-}
+def NewSeries(name):
+    global series
+    if series.get(name):
+        return
+    series[name] = {
+        'name': name,
+        'comment': '',
+        'sub-series': [],
+        'randomizers': [],
+    }
+
+NewSeries(current)
 
 for line in md.splitlines():
+    if line.startswith('## New randomizers'):
+        current = 'New randomizers'
+        NewSeries(current)
+
     if line.startswith('### '):
         current = line.replace('### ', '')
         subheading = None
-        if not series.get(current):
-            series[current] = {
-                'name': current,
-                'comment': '',
-                'sub-series': [],
-                'randomizers': [],
-            }
+        NewSeries(current)
         continue
 
     if line.startswith('#### '):
