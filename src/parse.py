@@ -43,7 +43,12 @@ for line in md.splitlines():
     
     m = re.match(r'^- \[(.+?)\]\((.+?)\)( \((.*?)\))?(.*)$', line)
     if not m:
-        series[current]['randomizers'].append({ 'original': line })
+        series[current]['randomizers'].append({
+            'game': None,
+            'identifier': None,
+            'url': None,
+            'original': line
+        })
         continue
 
     comment = m[5].replace('- _OBSOLETE_', '').strip()
@@ -51,8 +56,8 @@ for line in md.splitlines():
 
     data = {
         'game': m[1],
-        'url': m[2],
         'identifier': m[4],
+        'url': m[2],
         'original': line,
     }
     if subheading == 'Connected worlds':
@@ -68,7 +73,7 @@ for line in md.splitlines():
 
 for (k,v) in series.items():
     filename = re.sub(r'\s+', '_', k) + '.yml'
-    file: Path = Path('series') / filename
+    file: Path = Path('dirty') / filename
     if isinstance(v, str):
         text = v
     else:
