@@ -1,0 +1,11 @@
+name: Tetris
+comment: null
+sub-series: null
+randomizers:
+-   games:
+    - Tetris (NES Nintendo)
+    identifier: fridaywitch's
+    url: https://drive.google.com/drive/folders/19NklVLPD1cF2cygbJSIgyvGfKUl7eCVg
+    original: '- [Tetris (NES Nintendo)](https://drive.google.com/drive/folders/19NklVLPD1cF2cygbJSIgyvGfKUl7eCVg)
+        (fridaywitch''s) - Overrides normal RNG'
+    comment: '- Overrides normal RNG'

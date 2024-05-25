@@ -1,0 +1,29 @@
+name: SaGa
+comment: null
+sub-series: null
+randomizers:
+-   games:
+    - The Final Fantasy Legend
+    identifier: Chaoseum
+    url: https://towerreversed.neocities.org/projects
+    original: '- [The Final Fantasy Legend](https://towerreversed.neocities.org/projects)
+        (Chaoseum) - Located under ffl chaoseum'
+    comment: '- Located under ffl chaoseum'
+-   games:
+    - The Final Fantasy Legend
+    identifier: eclipseyy's
+    url: https://github.com/eclipseyy/FFLRandomizer
+    original: '- [The Final Fantasy Legend](https://github.com/eclipseyy/FFLRandomizer)
+        (eclipseyy''s)'
+-   games:
+    - Final Fantasy Legend II
+    identifier: Mighty Power
+    url: https://github.com/abyssonym/mighty_power
+    original: '- [Final Fantasy Legend II](https://github.com/abyssonym/mighty_power)
+        (Mighty Power)'
+-   games:
+    - Final Fantasy Legend III
+    identifier: Lunacy
+    url: https://www.romhacking.net/hacks/4351/
+    original: '- [Final Fantasy Legend III](https://www.romhacking.net/hacks/4351/)
+        (Lunacy)'

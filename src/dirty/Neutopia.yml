@@ -1,0 +1,9 @@
+name: Neutopia
+comment: null
+sub-series: null
+randomizers:
+-   games:
+    - Neutopia
+    identifier: konkers's
+    url: https://neutopia.run/
+    original: '- [Neutopia](https://neutopia.run/) (konkers''s)'

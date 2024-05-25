@@ -1,0 +1,11 @@
+name: The Talos Principle
+comment: null
+sub-series: null
+randomizers:
+-   games:
+    - The Talos Principle
+    identifier: apple1417's
+    url: https://github.com/apple1417/Talos-Randomizer
+    original: '- [The Talos Principle](https://github.com/apple1417/Talos-Randomizer)
+        (apple1417''s) - Randomizes portals & sigils - Also on [Steam Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=1244163099)'
+    comment: '- Randomizes portals & sigils - Also on [Steam Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=1244163099)'

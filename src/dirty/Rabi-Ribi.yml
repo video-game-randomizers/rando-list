@@ -1,0 +1,9 @@
+name: Rabi-Ribi
+comment: null
+sub-series: null
+randomizers:
+-   games:
+    - Rabi-Ribi
+    identifier: wcko87's
+    url: https://wcko87.github.io/rabiribi-randomizer/
+    original: '- [Rabi-Ribi](https://wcko87.github.io/rabiribi-randomizer/) (wcko87''s)'

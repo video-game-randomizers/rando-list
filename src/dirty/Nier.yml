@@ -1,0 +1,10 @@
+name: Nier
+comment: null
+sub-series: null
+randomizers:
+-   games:
+    - 'Nier: Automata'
+    identifier: NAER
+    url: https://www.nexusmods.com/nierautomata/mods/565
+    original: '- [Nier: Automata](https://www.nexusmods.com/nierautomata/mods/565)
+        (NAER)'

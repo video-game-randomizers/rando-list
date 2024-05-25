@@ -1,0 +1,34 @@
+name: Subnautica
+comment: null
+sub-series: null
+randomizers:
+-   games:
+    - Subnautica
+    identifier: Aci's Drop Randomizer Challenge
+    url: https://www.nexusmods.com/subnautica/mods/1230
+    original: '- [Subnautica](https://www.nexusmods.com/subnautica/mods/1230) (Aci''s
+        Drop Randomizer Challenge)'
+-   games:
+    - Subnautica
+    identifier: Randomizer Remade
+    url: https://www.nexusmods.com/subnautica/mods/764
+    original: '- [Subnautica](https://www.nexusmods.com/subnautica/mods/764) (Randomizer
+        Remade)'
+-   games:
+    - Subnautica
+    identifier: Stephen England's
+    url: https://www.nexusmods.com/subnautica/mods/309
+    original: '- [Subnautica](https://www.nexusmods.com/subnautica/mods/309) (Stephen
+        England''s) - _OBSOLETE_'
+    obsolete: true
+-   games:
+    - Subnautica
+    identifier: Transition Randomiser
+    url: https://www.nexusmods.com/subnautica/mods/960
+    original: '- [Subnautica](https://www.nexusmods.com/subnautica/mods/960) (Transition
+        Randomiser)'
+-   games:
+    - null
+    identifier: null
+    url: null
+    original: '- Subnautica - _See at end of list: Multi-series, Connected worlds_'

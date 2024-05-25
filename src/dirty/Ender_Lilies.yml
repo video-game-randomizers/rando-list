@@ -1,0 +1,10 @@
+name: Ender Lilies
+comment: null
+sub-series: null
+randomizers:
+-   games:
+    - 'Ender Lilies: Quietus of the Knights'
+    identifier: Trexounay's
+    url: https://github.com/Trexounay/EnderLilies.Randomizer
+    original: '- [Ender Lilies: Quietus of the Knights](https://github.com/Trexounay/EnderLilies.Randomizer)
+        (Trexounay''s)'

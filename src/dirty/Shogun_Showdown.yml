@@ -1,0 +1,10 @@
+name: Shogun Showdown
+comment: null
+sub-series: null
+randomizers:
+-   games:
+    - Shogun Showdown
+    identifier: Enemy / Boss Randomizer
+    url: https://www.nexusmods.com/shogunshowdown/mods/6
+    original: '- [Shogun Showdown](https://www.nexusmods.com/shogunshowdown/mods/6)
+        (Enemy / Boss Randomizer)'

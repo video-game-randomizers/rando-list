@@ -1,0 +1,10 @@
+name: Lost Kingdoms
+comment: null
+sub-series: null
+randomizers:
+-   games:
+    - Lost Kingdoms
+    identifier: Benjamin Wolf's
+    url: https://github.com/BenjWolf/LKrandomizer
+    original: '- [Lost Kingdoms](https://github.com/BenjWolf/LKrandomizer) (Benjamin
+        Wolf''s)'

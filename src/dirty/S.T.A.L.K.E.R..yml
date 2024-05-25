@@ -1,0 +1,10 @@
+name: S.T.A.L.K.E.R.
+comment: null
+sub-series: null
+randomizers:
+-   games:
+    - 'S.T.A.L.K.E.R.: Shadow of Chernobyl'
+    identifier: Simple Randomizer
+    url: https://www.moddb.com/games/stalker/downloads/simple-randomizer-for-shadow-of-chernobyl
+    original: '- [S.T.A.L.K.E.R.: Shadow of Chernobyl](https://www.moddb.com/games/stalker/downloads/simple-randomizer-for-shadow-of-chernobyl)
+        (Simple Randomizer)'

@@ -1,0 +1,21 @@
+name: La-Mulana
+comment: null
+sub-series: null
+randomizers:
+-   games:
+    - La-Mulana (The Maze of Galious fangame)
+    identifier: progre's
+    url: https://github.com/progre/lmorandomizer
+    original: '- [La-Mulana (The Maze of Galious fangame)](https://github.com/progre/lmorandomizer)
+        (progre''s)'
+-   games:
+    - La-Mulana (2011 remake)
+    identifier: thezerothcat's
+    url: https://github.com/thezerothcat/LaMulanaRandomizer
+    original: '- [La-Mulana (2011 remake)](https://github.com/thezerothcat/LaMulanaRandomizer)
+        (thezerothcat''s)'
+-   games:
+    - La-Mulana 2
+    identifier: Coookie93's
+    url: https://github.com/Coookie93/LaMulana2Randomizer
+    original: '- [La-Mulana 2](https://github.com/Coookie93/LaMulana2Randomizer) (Coookie93''s)'

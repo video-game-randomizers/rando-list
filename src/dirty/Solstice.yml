@@ -1,0 +1,9 @@
+name: Solstice
+comment: null
+sub-series: null
+randomizers:
+-   games:
+    - Solstice
+    identifier: pbandpickle's
+    url: https://pbandpickle.com/
+    original: '- [Solstice](https://pbandpickle.com/) (pbandpickle''s)'

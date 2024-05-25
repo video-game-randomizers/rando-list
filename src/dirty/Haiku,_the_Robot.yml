@@ -1,0 +1,13 @@
+name: Haiku, the Robot
+comment: null
+sub-series: null
+randomizers:
+-   games:
+    - Haiku, the Robot
+    identifier: Jarlyk's
+    url: https://github.com/Jarlyk/Haiku.Rando
+    original: '- [Haiku, the Robot](https://github.com/Jarlyk/Haiku.Rando) (Jarlyk''s)
+        - Requires [Haiku.CoreModdingApi](https://github.com/Jarlyk/Haiku.ModdingApi)
+        and [BepInEx](https://github.com/BepInEx/BepInEx)'
+    comment: '- Requires [Haiku.CoreModdingApi](https://github.com/Jarlyk/Haiku.ModdingApi)
+        and [BepInEx](https://github.com/BepInEx/BepInEx)'

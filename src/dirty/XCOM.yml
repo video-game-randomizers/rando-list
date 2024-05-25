@@ -1,0 +1,10 @@
+name: XCOM
+comment: null
+sub-series: null
+randomizers:
+-   games:
+    - 'XCOM: Enemy Unknown'
+    identifier: Wasteland Ghost's
+    url: https://www.nexusmods.com/xcom/mods/499
+    original: '- [XCOM: Enemy Unknown](https://www.nexusmods.com/xcom/mods/499) (Wasteland
+        Ghost''s)'

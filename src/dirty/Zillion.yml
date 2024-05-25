@@ -1,0 +1,14 @@
+name: Zillion
+comment: null
+sub-series: null
+randomizers:
+-   games:
+    - Zillion
+    identifier: Zilliandomizer
+    url: https://github.com/beauxq/zilliandomizer
+    original: '- [Zillion](https://github.com/beauxq/zilliandomizer) (Zilliandomizer)'
+-   games:
+    - null
+    identifier: null
+    url: null
+    original: '- Zillion - _See at end of list: Multi-series, Connected worlds_'

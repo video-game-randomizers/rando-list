@@ -1,0 +1,9 @@
+name: Kartia
+comment: null
+sub-series: null
+randomizers:
+-   games:
+    - 'Kartia: The Word of Fate'
+    identifier: Meerkov's
+    url: https://github.com/Meerkov/Kartia
+    original: '- [Kartia: The Word of Fate](https://github.com/Meerkov/Kartia) (Meerkov''s)'

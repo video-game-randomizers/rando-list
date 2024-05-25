@@ -1,0 +1,21 @@
+name: Lies of P
+comment: null
+sub-series: null
+randomizers:
+-   games:
+    - Lies of P
+    identifier: Item Randomizer
+    url: https://www.nexusmods.com/liesofp/mods/117
+    original: '- [Lies of P](https://www.nexusmods.com/liesofp/mods/117) (Item Randomizer)'
+-   games:
+    - Lies of P
+    identifier: Shop Item Randomizer
+    url: https://www.nexusmods.com/liesofp/mods/118
+    original: '- [Lies of P](https://www.nexusmods.com/liesofp/mods/118) (Shop Item
+        Randomizer)'
+-   games:
+    - Lies of P
+    identifier: Starting Weapon Randomizer
+    url: https://www.nexusmods.com/liesofp/mods/119
+    original: '- [Lies of P](https://www.nexusmods.com/liesofp/mods/119) (Starting
+        Weapon Randomizer)'

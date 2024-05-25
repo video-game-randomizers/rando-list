@@ -1,0 +1,10 @@
+name: Live A Live
+comment: null
+sub-series: null
+randomizers:
+-   games:
+    - Live A Live
+    identifier: PinkSwitch's
+    url: https://github.com/PinkSwitch/Live-A-Live-Internal-Randomizer
+    original: '- [Live A Live](https://github.com/PinkSwitch/Live-A-Live-Internal-Randomizer)
+        (PinkSwitch''s)'

@@ -1,0 +1,23 @@
+name: The Legend of Heroes
+comment: null
+sub-series: null
+randomizers:
+-   games:
+    - 'The Legend of Heroes: Trails of Cold Steel'
+    identifier: nnguyen259's
+    url: https://github.com/nnguyen259/ColdSteelRandomizer
+    original: '- [The Legend of Heroes: Trails of Cold Steel](https://github.com/nnguyen259/ColdSteelRandomizer)
+        (nnguyen259''s)'
+-   games:
+    - 'The Legend of Heroes: Trails of Cold Steel III'
+    identifier: nnguyen259's
+    url: https://github.com/nnguyen259/ColdSteel3Tools
+    original: '- [The Legend of Heroes: Trails of Cold Steel III](https://github.com/nnguyen259/ColdSteel3Tools)
+        (nnguyen259''s) - Modding tool with bundled randomizer'
+    comment: '- Modding tool with bundled randomizer'
+-   games:
+    - 'The Legend of Heroes: Trails into Reverie'
+    identifier: nnguyen259's
+    url: https://github.com/nnguyen259/ReverieRandomizer
+    original: '- [The Legend of Heroes: Trails into Reverie](https://github.com/nnguyen259/ReverieRandomizer)
+        (nnguyen259''s)'

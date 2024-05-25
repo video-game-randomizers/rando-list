@@ -1,0 +1,21 @@
+name: Star Fox
+comment: null
+sub-series: null
+randomizers:
+-   games:
+    - Star Fox
+    identifier: kandowontu's
+    url: https://www.patreon.com/posts/star-fox-92309645
+    original: '- [Star Fox](https://www.patreon.com/posts/star-fox-92309645) (kandowontu''s)'
+-   games:
+    - Star Fox
+    identifier: Peppy's Tool
+    url: https://qubedstudios.rustedlogic.net/PeppysTool.htm
+    original: '- [Star Fox](https://qubedstudios.rustedlogic.net/PeppysTool.htm) (Peppy''s
+        Tool)'
+-   games:
+    - Star Fox 64
+    identifier: punk7890's
+    url: https://github.com/punk7890/Star-Fox-64-Randomizer
+    original: '- [Star Fox 64](https://github.com/punk7890/Star-Fox-64-Randomizer)
+        (punk7890''s)'

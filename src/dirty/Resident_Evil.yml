@@ -1,0 +1,111 @@
+name: Resident Evil
+comment: null
+sub-series: null
+randomizers:
+-   games:
+    - Resident Evil (MediaKite)
+    - Resident Evil 2 (Sourcenext)
+    - 'Resident Evil 3: Nemesis (Sourcenext)'
+    identifier: BioRand
+    url: https://github.com/IntelOrca/biorand
+    original: '- [Resident Evil (MediaKite) / Resident Evil 2 (Sourcenext) / Resident
+        Evil 3: Nemesis (Sourcenext)](https://github.com/IntelOrca/biorand) (BioRand)
+        - Requires [Classic REbirth](https://classicrebirth.com/index.php/downloads/)'
+    comment: '- Requires [Classic REbirth](https://classicrebirth.com/index.php/downloads/)'
+-   games:
+    - Resident Evil (MediaKite)
+    identifier: re_duke's
+    url: https://www.moddb.com/mods/re-randomizer
+    original: '- [Resident Evil (MediaKite)](https://www.moddb.com/mods/re-randomizer)
+        (re_duke''s) - Requires [Classic REbirth](https://classicrebirth.com/index.php/downloads/resident-evil-classic-rebirth/)'
+    comment: '- Requires [Classic REbirth](https://classicrebirth.com/index.php/downloads/resident-evil-classic-rebirth/)'
+-   games:
+    - Resident Evil HD Remaster
+    identifier: Benn Powell's
+    url: http://benn-gaming.co.uk/rerandomizer.html
+    original: '- [Resident Evil HD Remaster](http://benn-gaming.co.uk/rerandomizer.html)
+        (Benn Powell''s)'
+-   games:
+    - Resident Evil 2 (Sourcenext)
+    identifier: BIO2 RNDX
+    url: https://www.mediafire.com/file/zlxm2khdq8u2eqy/bio2_rndx_0.53.rar/file
+    original: '- [Resident Evil 2 (Sourcenext)](https://www.mediafire.com/file/zlxm2khdq8u2eqy/bio2_rndx_0.53.rar/file)
+        (BIO2 RNDX) - Run with the `/L` command line argument for Leon'
+    comment: '- Run with the `/L` command line argument for Leon'
+-   games:
+    - Resident Evil 2 (Sourcenext)
+    identifier: Claire A - Leon B
+    url: https://www.moddb.com/mods/re2randomizer
+    original: '- [Resident Evil 2 (Sourcenext)](https://www.moddb.com/mods/re2randomizer)
+        (Claire A - Leon B) - Requires [Classic REbirth](https://classicrebirth.com/index.php/downloads/resident-evil-2-classic-rebirth/)'
+    comment: '- Requires [Classic REbirth](https://classicrebirth.com/index.php/downloads/resident-evil-2-classic-rebirth/)'
+-   games:
+    - Resident Evil 2 (2019)
+    identifier: Benn Powell's
+    url: http://benn-gaming.co.uk/re2randomizer.html
+    original: '- [Resident Evil 2 (2019)](http://benn-gaming.co.uk/re2randomizer.html)
+        (Benn Powell''s)'
+-   games:
+    - 'Resident Evil 3: Nemesis'
+    identifier: PS Resident Evil 3 Tool
+    url: https://www.youtube.com/watch?v=znhyPqqveJg
+    original: '- [Resident Evil 3: Nemesis](https://www.youtube.com/watch?v=znhyPqqveJg)
+        (PS Resident Evil 3 Tool) - Trainer that can randomize items - Located in
+        video description'
+    comment: '- Trainer that can randomize items - Located in video description'
+-   games:
+    - 'Resident Evil 3: Nemesis (Sourcenext)'
+    identifier: New RE3 Randomizer
+    url: https://www.moddb.com/mods/re3-randomizer
+    original: '- [Resident Evil 3: Nemesis (Sourcenext)](https://www.moddb.com/mods/re3-randomizer)
+        (New RE3 Randomizer) - Requires [Classic REbirth](https://classicrebirth.com/index.php/downloads/resident-evil-3-classic-rebirth/)'
+    comment: '- Requires [Classic REbirth](https://classicrebirth.com/index.php/downloads/resident-evil-3-classic-rebirth/)'
+-   games:
+    - 'Resident Evil 3: Nemesis (EA Taiwanese)'
+    identifier: PyramidK & re_fan_2236's
+    url: https://discord.com/invite/cGuADyy4um
+    original: "- [Resident Evil 3: Nemesis (EA Taiwanese)](https://discord.com/invite/cGuADyy4um)\
+        \ (PyramidK & re_fan_2236's) - Randomizes enemies and items - Discord account\
+        \ required - Located in the #\U0001F4A5\u2622\u2623downloads channel"
+    comment: "- Randomizes enemies and items - Discord account required - Located\
+        \ in the #\U0001F4A5\u2622\u2623downloads channel"
+-   games:
+    - Resident Evil 3 (2020)
+    identifier: naitsircNH's
+    url: https://www.nexusmods.com/residentevil32020/mods/158
+    original: '- [Resident Evil 3 (2020)](https://www.nexusmods.com/residentevil32020/mods/158)
+        (naitsircNH''s)'
+-   games:
+    - Resident Evil 4
+    identifier: Enemy/Merchant Randomizer
+    url: https://www.moddb.com/mods/re4randomizer
+    original: '- [Resident Evil 4](https://www.moddb.com/mods/re4randomizer) (Enemy/Merchant
+        Randomizer)'
+-   games:
+    - Resident Evil 4
+    identifier: Item Randomizer
+    url: https://www.nexusmods.com/residentevil4/mods/210
+    original: '- [Resident Evil 4](https://www.nexusmods.com/residentevil4/mods/210)
+        (Item Randomizer)'
+-   games:
+    - Resident Evil 4
+    identifier: Rando Items 9000
+    url: https://www.nexusmods.com/residentevil4/mods/99
+    original: '- [Resident Evil 4](https://www.nexusmods.com/residentevil4/mods/99)
+        (Rando Items 9000)'
+-   games:
+    - Resident Evil 4
+    identifier: UHD Ultimate Trainer
+    url: https://www.nexusmods.com/residentevil4/mods/32
+    original: '- [Resident Evil 4](https://www.nexusmods.com/residentevil4/mods/32)
+        (UHD Ultimate Trainer) - Trainer that can randomize player inventory and merchant
+        - _Game downgrade to v1.0.6 required_ - _OBSOLETE_'
+    obsolete: true
+    comment: '- Trainer that can randomize player inventory and merchant - _Game downgrade
+        to v1.0.6 required_'
+-   games:
+    - Resident Evil 5
+    identifier: The Mercenaries Randomizer Mod
+    url: https://residentevilmodding.boards.net/thread/14061/mercenaries-randomizer-mod
+    original: '- [Resident Evil 5](https://residentevilmodding.boards.net/thread/14061/mercenaries-randomizer-mod)
+        (The Mercenaries Randomizer Mod)'

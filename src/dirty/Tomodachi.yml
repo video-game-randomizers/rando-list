@@ -1,0 +1,9 @@
+name: Tomodachi
+comment: null
+sub-series: null
+randomizers:
+-   games:
+    - Miitopia
+    identifier: Kobazco's
+    url: https://github.com/Kobazco/Miitopia_Randomizer
+    original: '- [Miitopia](https://github.com/Kobazco/Miitopia_Randomizer) (Kobazco''s)'

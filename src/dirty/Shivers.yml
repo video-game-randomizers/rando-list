@@ -1,0 +1,16 @@
+name: Shivers
+comment: null
+sub-series: null
+randomizers:
+-   games:
+    - Shivers
+    identifier: GodlFire's
+    url: https://www.speedrun.com/shivers/resources
+    original: '- [Shivers](https://www.speedrun.com/shivers/resources) (GodlFire''s)
+        - Located under Tools - [Source code](https://github.com/GodlFire/Shivers-Randomizer-CSharp)'
+    comment: '- Located under Tools - [Source code](https://github.com/GodlFire/Shivers-Randomizer-CSharp)'
+-   games:
+    - null
+    identifier: null
+    url: null
+    original: '- Shivers - _See at end of list: Multi-series, Connected worlds_'

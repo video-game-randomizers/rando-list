@@ -1,0 +1,10 @@
+name: Grandia
+comment: null
+sub-series: null
+randomizers:
+-   games:
+    - Grandia HD Remaster
+    identifier: Etsuna's
+    url: https://github.com/Etsuna/GrandiaRandomizer
+    original: '- [Grandia HD Remaster](https://github.com/Etsuna/GrandiaRandomizer)
+        (Etsuna''s)'

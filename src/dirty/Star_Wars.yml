@@ -1,0 +1,30 @@
+name: Star Wars
+comment: null
+sub-series: null
+randomizers:
+-   games:
+    - 'Star Wars: Dark Forces'
+    identifier: Showcase
+    url: https://github.com/The-MAZZTer/DarkForces
+    original: '- [Star Wars: Dark Forces](https://github.com/The-MAZZTer/DarkForces)
+        (Showcase) - Modding tool with bundled randomizer'
+    comment: '- Modding tool with bundled randomizer'
+-   games:
+    - 'Star Wars Jedi Knight: Jedi Academy'
+    identifier: RandomJK
+    url: https://github.com/ps1337/RandomJK
+    original: '- [Star Wars Jedi Knight: Jedi Academy](https://github.com/ps1337/RandomJK)
+        (RandomJK)'
+-   games:
+    - 'Lego Star Wars: The Complete Saga'
+    identifier: Viola's
+    url: https://discord.com/invite/h5NKfmGWWm
+    original: '- [Lego Star Wars: The Complete Saga](https://discord.com/invite/h5NKfmGWWm)
+        (Viola''s) - Discord account required - Located in the #downloads channel'
+    comment: '- Discord account required - Located in the #downloads channel'
+-   games:
+    - 'Star Wars Jedi: Fallen Order'
+    identifier: Enemy Randomizer
+    url: https://www.nexusmods.com/starwarsjedifallenorder/mods/209
+    original: '- [Star Wars Jedi: Fallen Order](https://www.nexusmods.com/starwarsjedifallenorder/mods/209)
+        (Enemy Randomizer)'
