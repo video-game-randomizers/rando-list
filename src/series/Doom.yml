@@ -81,7 +81,7 @@ randomizers:
     url: https://archipelago.gg/games/DOOM%201993/info/en
     multiworld: Archipelago
 -   games:
-    - Doom II:
+    - Doom II
     identifier: Archipelago
     url: https://archipelago.gg/games/DOOM%20II/info/en
     multiworld: Archipelago
