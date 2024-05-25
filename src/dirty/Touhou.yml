@@ -1,6 +1,6 @@
 name: Touhou
-comment: ''
-sub-series: []
+comment: null
+sub-series: null
 randomizers:
 -   game: Gensokyo no Nazo (Atlantis no Nazo fangame)
     identifier: Ryason55's

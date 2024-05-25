@@ -1,6 +1,6 @@
 name: Unreal
-comment: ''
-sub-series: []
+comment: null
+sub-series: null
 randomizers:
 -   game: Unreal Gold
     identifier: Die4Ever's

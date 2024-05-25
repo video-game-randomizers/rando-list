@@ -3,7 +3,7 @@ comment: '_Old versions of Minecraft: Java Edition are available on Mojang''s we
     although note that such versions may contain critical security vulnerabilities.
     Direct download links can be found on [MCVersions](https://mcversions.net/) for
     convenience._'
-sub-series: []
+sub-series: null
 randomizers:
 -   game: 'Minecraft: Java Edition'
     identifier: Fasguy's Minecraft Toolbox

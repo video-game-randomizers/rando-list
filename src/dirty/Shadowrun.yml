@@ -1,6 +1,6 @@
 name: Shadowrun
-comment: ''
-sub-series: []
+comment: null
+sub-series: null
 randomizers:
 -   game: Shadowrun
     identifier: Osteoclave's

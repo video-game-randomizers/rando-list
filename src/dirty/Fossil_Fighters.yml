@@ -1,6 +1,6 @@
 name: Fossil Fighters
-comment: ''
-sub-series: []
+comment: null
+sub-series: null
 randomizers:
 -   game: Fossil Fighters
     identifier: opiter09's

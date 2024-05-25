@@ -1,6 +1,6 @@
 name: Rogue Legacy
-comment: ''
-sub-series: []
+comment: null
+sub-series: null
 randomizers:
 -   game: Rogue Legacy
     identifier: Phar's

@@ -1,6 +1,6 @@
 name: Gato Roboto
-comment: ''
-sub-series: []
+comment: null
+sub-series: null
 randomizers:
 -   game: Gato Roboto
     identifier: CaptainDapper's

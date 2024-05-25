@@ -1,6 +1,6 @@
 name: The Witness
-comment: ''
-sub-series: []
+comment: null
+sub-series: null
 randomizers:
 -   game: The Witness
     identifier: jbzdarkid's

@@ -1,6 +1,6 @@
 name: Stardew Valley
-comment: ''
-sub-series: []
+comment: null
+sub-series: null
 randomizers:
 -   game: Stardew Valley
     identifier: Community Center Bundles Randomizer

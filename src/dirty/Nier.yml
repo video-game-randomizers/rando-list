@@ -1,6 +1,6 @@
 name: Nier
-comment: ''
-sub-series: []
+comment: null
+sub-series: null
 randomizers:
 -   game: 'Nier: Automata'
     identifier: NAER

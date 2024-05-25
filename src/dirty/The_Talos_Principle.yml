@@ -1,6 +1,6 @@
 name: The Talos Principle
-comment: ''
-sub-series: []
+comment: null
+sub-series: null
 randomizers:
 -   game: The Talos Principle
     identifier: apple1417's

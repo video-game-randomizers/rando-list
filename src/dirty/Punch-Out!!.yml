@@ -1,6 +1,6 @@
 name: Punch-Out!!
-comment: ''
-sub-series: []
+comment: null
+sub-series: null
 randomizers:
 -   game: Mike Tyson's Punch-Out!!
     identifier: authorblues's

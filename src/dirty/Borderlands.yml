@@ -1,6 +1,6 @@
 name: Borderlands
-comment: ''
-sub-series: []
+comment: null
+sub-series: null
 randomizers:
 -   game: 'Borderlands 2 / Borderlands: The Pre-Sequel'
     identifier: BLCMods

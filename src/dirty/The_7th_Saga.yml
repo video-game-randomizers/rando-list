@@ -1,6 +1,6 @@
 name: The 7th Saga
-comment: ''
-sub-series: []
+comment: null
+sub-series: null
 randomizers:
 -   game: The 7th Saga
     identifier: gameboy9's

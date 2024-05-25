@@ -1,6 +1,6 @@
 name: Contra
-comment: ''
-sub-series: []
+comment: null
+sub-series: null
 randomizers:
 -   game: Contra (NES)
     identifier: Azeryn's

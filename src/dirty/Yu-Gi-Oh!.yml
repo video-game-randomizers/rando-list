@@ -1,6 +1,6 @@
 name: Yu-Gi-Oh!
-comment: ''
-sub-series: []
+comment: null
+sub-series: null
 randomizers:
 -   game: Yu-Gi-Oh! Forbidden Memories
     identifier: Complete Randomizer / Random Startdeck Mod

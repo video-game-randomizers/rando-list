@@ -1,6 +1,6 @@
 name: Streets of Rage
-comment: ''
-sub-series: []
+comment: null
+sub-series: null
 randomizers:
 -   game: Streets of Rage 2 / Streets of Rage 2 Syndicate Wars (hack)
     identifier: SoR2 Level Editor

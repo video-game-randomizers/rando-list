@@ -1,6 +1,6 @@
 name: Ori
-comment: ''
-sub-series: []
+comment: null
+sub-series: null
 randomizers:
 -   game: 'Ori and the Blind Forest: Definitive Edition'
     identifier: sigmasin & Eiko's

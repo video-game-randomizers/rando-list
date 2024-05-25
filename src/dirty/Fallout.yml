@@ -1,6 +1,6 @@
 name: Fallout
-comment: ''
-sub-series: []
+comment: null
+sub-series: null
 randomizers:
 -   game: 'Fallout: New Vegas'
     identifier: NVRNG

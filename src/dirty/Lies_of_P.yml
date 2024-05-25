@@ -1,6 +1,6 @@
 name: Lies of P
-comment: ''
-sub-series: []
+comment: null
+sub-series: null
 randomizers:
 -   game: Lies of P
     identifier: Item Randomizer

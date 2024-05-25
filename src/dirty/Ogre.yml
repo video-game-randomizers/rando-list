@@ -1,6 +1,6 @@
 name: Ogre
-comment: ''
-sub-series: []
+comment: null
+sub-series: null
 randomizers:
 -   game: 'Ogre Battle: The March of the Black Queen'
     identifier: spellzapp's

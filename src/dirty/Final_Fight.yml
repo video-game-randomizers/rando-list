@@ -1,6 +1,6 @@
 name: Final Fight
-comment: ''
-sub-series: []
+comment: null
+sub-series: null
 randomizers:
 -   game: Final Fight AE (Final Fight hack)
     identifier: FFAEE

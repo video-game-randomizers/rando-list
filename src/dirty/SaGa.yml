@@ -1,6 +1,6 @@
 name: SaGa
-comment: ''
-sub-series: []
+comment: null
+sub-series: null
 randomizers:
 -   game: The Final Fantasy Legend
     identifier: Chaoseum

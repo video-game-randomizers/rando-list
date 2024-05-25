@@ -1,6 +1,6 @@
 name: Kingdom Hearts
-comment: ''
-sub-series: []
+comment: null
+sub-series: null
 randomizers:
 -   game: Kingdom Hearts Final Mix
     identifier: KHPCSpeedrunTools

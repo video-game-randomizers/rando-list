@@ -1,6 +1,6 @@
 name: Salt and Sanctuary
-comment: ''
-sub-series: []
+comment: null
+sub-series: null
 randomizers:
 -   game: Salt and Sanctuary
     identifier: coppie's

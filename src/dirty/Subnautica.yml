@@ -1,6 +1,6 @@
 name: Subnautica
-comment: ''
-sub-series: []
+comment: null
+sub-series: null
 randomizers:
 -   game: Subnautica
     identifier: Aci's Drop Randomizer Challenge

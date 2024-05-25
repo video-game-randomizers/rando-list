@@ -1,6 +1,6 @@
 name: Palworld
-comment: ''
-sub-series: []
+comment: null
+sub-series: null
 randomizers:
 -   game: Palworld
     identifier: Overworld Spawn Randomizer

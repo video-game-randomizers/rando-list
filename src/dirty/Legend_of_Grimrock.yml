@@ -1,6 +1,6 @@
 name: Legend of Grimrock
-comment: ''
-sub-series: []
+comment: null
+sub-series: null
 randomizers:
 -   game: Legend of Grimrock
     identifier: Random Dungeon

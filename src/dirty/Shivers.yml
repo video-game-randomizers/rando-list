@@ -1,6 +1,6 @@
 name: Shivers
-comment: ''
-sub-series: []
+comment: null
+sub-series: null
 randomizers:
 -   game: Shivers
     identifier: GodlFire's

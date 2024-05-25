@@ -1,6 +1,6 @@
 name: Dragon's Dogma
-comment: ''
-sub-series: []
+comment: null
+sub-series: null
 randomizers:
 -   game: 'Dragon''s Dogma: Dark Arisen'
     identifier: Bitterblack Isle Randomizer

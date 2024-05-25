@@ -1,6 +1,6 @@
 name: America's Army
-comment: ''
-sub-series: []
+comment: null
+sub-series: null
 randomizers:
 -   game: America's Army
     identifier: Weapon Randomizer

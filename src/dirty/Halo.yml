@@ -1,6 +1,6 @@
 name: Halo
-comment: ''
-sub-series: []
+comment: null
+sub-series: null
 randomizers:
 -   game: 'Halo: Combat Evolved Anniversary (The Master Chief Collection)'
     identifier: Enemy Randomizer

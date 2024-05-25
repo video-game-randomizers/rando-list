@@ -1,6 +1,6 @@
 name: Spelunky
-comment: ''
-sub-series: []
+comment: null
+sub-series: null
 randomizers:
 -   game: Spelunky 2
     identifier: Dregu's

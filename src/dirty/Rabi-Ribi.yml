@@ -1,6 +1,6 @@
 name: Rabi-Ribi
-comment: ''
-sub-series: []
+comment: null
+sub-series: null
 randomizers:
 -   game: Rabi-Ribi
     identifier: wcko87's

@@ -1,6 +1,6 @@
 name: SpongeBob SquarePants
-comment: ''
-sub-series: []
+comment: null
+sub-series: null
 randomizers:
 -   game: 'SpongeBob SquarePants: Battle for Bikini Bottom (GameCube)'
     identifier: BfBB AP World

@@ -1,6 +1,6 @@
 name: Super Meat Boy
-comment: ''
-sub-series: []
+comment: null
+sub-series: null
 randomizers:
 -   game: Super Meat Boy
     identifier: negative-seven

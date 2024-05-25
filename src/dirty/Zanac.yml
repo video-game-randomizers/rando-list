@@ -1,6 +1,6 @@
 name: Zanac
-comment: ''
-sub-series: []
+comment: null
+sub-series: null
 randomizers:
 -   game: Zanac
     identifier: Omaha's

@@ -1,6 +1,6 @@
 name: Undertale
-comment: ''
-sub-series: []
+comment: null
+sub-series: null
 randomizers:
 -   game: Undertale
     identifier: Geno Randomizer

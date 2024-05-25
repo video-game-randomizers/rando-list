@@ -1,6 +1,6 @@
 name: Advance Wars
-comment: ''
-sub-series: []
+comment: null
+sub-series: null
 randomizers:
 -   game: 'Advance Wars 2: Black Hole Rising'
     identifier: Ephraim225's

@@ -1,7 +1,7 @@
 name: Hollow Knight
 comment: '_Support is available on the [official Hollow Knight Discord server](https://discord.com/invite/hollowknight)
     in the #randomizer channel._'
-sub-series: []
+sub-series: null
 randomizers:
 -   game: Hollow Knight
     identifier: Randomizer 4

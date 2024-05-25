@@ -1,6 +1,6 @@
 name: Godzilla
-comment: ''
-sub-series: []
+comment: null
+sub-series: null
 randomizers:
 -   game: 'Godzilla: Monster of Monsters'
     identifier: MaybeDatapod's

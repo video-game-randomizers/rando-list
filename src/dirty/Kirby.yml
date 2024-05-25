@@ -1,6 +1,6 @@
 name: Kirby
-comment: ''
-sub-series: []
+comment: null
+sub-series: null
 randomizers:
 -   game: Kirby's Adventure
     identifier: Austin Bricker's

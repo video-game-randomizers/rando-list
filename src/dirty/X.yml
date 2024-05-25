@@ -1,6 +1,6 @@
 name: X
-comment: ''
-sub-series: []
+comment: null
+sub-series: null
 randomizers:
 -   game: 'X2: The Threat'
     identifier: Galaxy Editor

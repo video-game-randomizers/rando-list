@@ -1,6 +1,6 @@
 name: Star Wars
-comment: ''
-sub-series: []
+comment: null
+sub-series: null
 randomizers:
 -   game: 'Star Wars: Dark Forces'
     identifier: Showcase

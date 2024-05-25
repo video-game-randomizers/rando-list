@@ -1,6 +1,6 @@
 name: The Sims
-comment: ''
-sub-series: []
+comment: null
+sub-series: null
 randomizers:
 -   game: The Sims 4
     identifier: NPC Skill Randomizer

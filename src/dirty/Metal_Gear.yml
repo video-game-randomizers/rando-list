@@ -1,6 +1,6 @@
 name: Metal Gear
-comment: ''
-sub-series: []
+comment: null
+sub-series: null
 randomizers:
 -   game: Metal Gear
     identifier: Objects

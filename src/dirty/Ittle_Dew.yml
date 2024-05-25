@@ -1,6 +1,6 @@
 name: Ittle Dew
-comment: ''
-sub-series: []
+comment: null
+sub-series: null
 randomizers:
 -   game: Ittle Dew 2+
     identifier: Extra 2 Dew

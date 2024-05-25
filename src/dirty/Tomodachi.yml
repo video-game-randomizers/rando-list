@@ -1,6 +1,6 @@
 name: Tomodachi
-comment: ''
-sub-series: []
+comment: null
+sub-series: null
 randomizers:
 -   game: Miitopia
     identifier: Kobazco's

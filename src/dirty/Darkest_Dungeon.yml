@@ -1,6 +1,6 @@
 name: Darkest Dungeon
-comment: ''
-sub-series: []
+comment: null
+sub-series: null
 randomizers:
 -   game: Darkest Dungeon
     identifier: ddrand

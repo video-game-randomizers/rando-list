@@ -1,6 +1,6 @@
 name: Tunic
-comment: ''
-sub-series: []
+comment: null
+sub-series: null
 randomizers:
 -   game: Tunic
     identifier: Item Randomizer

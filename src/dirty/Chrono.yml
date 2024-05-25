@@ -1,6 +1,6 @@
 name: Chrono
-comment: ''
-sub-series: []
+comment: null
+sub-series: null
 randomizers:
 -   game: Chrono Trigger
     identifier: Eternal Nightmare

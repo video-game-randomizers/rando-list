@@ -1,6 +1,6 @@
 name: Blasphemous
-comment: ''
-sub-series: []
+comment: null
+sub-series: null
 randomizers:
 -   game: Blasphemous
     identifier: Item and Enemy Randomizer

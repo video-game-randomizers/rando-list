@@ -1,6 +1,6 @@
 name: Zero Sievert
-comment: ''
-sub-series: []
+comment: null
+sub-series: null
 randomizers:
 -   game: Zero Sievert
     identifier: Gun and Armor Randomizer

@@ -1,6 +1,6 @@
 name: S.T.A.L.K.E.R.
-comment: ''
-sub-series: []
+comment: null
+sub-series: null
 randomizers:
 -   game: 'S.T.A.L.K.E.R.: Shadow of Chernobyl'
     identifier: Simple Randomizer

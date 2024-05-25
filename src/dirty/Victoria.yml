@@ -1,7 +1,7 @@
 name: Victoria
 comment: _Old versions of Paradox Development Studio games are available on Steam
     as betas._
-sub-series: []
+sub-series: null
 randomizers:
 -   game: Victoria II
     identifier: FortTell's Random World Generator

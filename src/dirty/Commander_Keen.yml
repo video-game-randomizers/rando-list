@@ -1,6 +1,6 @@
 name: Commander Keen
-comment: ''
-sub-series: []
+comment: null
+sub-series: null
 randomizers:
 -   game: 'Commander Keen: Invasion of the Vorticons (shareware)'
     identifier: David Gow's

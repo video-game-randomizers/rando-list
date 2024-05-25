@@ -1,6 +1,6 @@
 name: Lufia
-comment: ''
-sub-series: []
+comment: null
+sub-series: null
 randomizers:
 -   game: 'Lufia II: Rise of the Sinistrals'
     identifier: Terror Wave

@@ -77,5 +77,9 @@ for (k,v) in series.items():
     if isinstance(v, str):
         text = v
     else:
+        if not v['comment']:
+            v['comment'] = None
+        if not v['sub-series']:
+            v['sub-series'] = None
         text = yaml.dump(v, sort_keys=False, indent=4)
     file.write_text(text)

@@ -1,6 +1,6 @@
 name: Kartia
-comment: ''
-sub-series: []
+comment: null
+sub-series: null
 randomizers:
 -   game: 'Kartia: The Word of Fate'
     identifier: Meerkov's

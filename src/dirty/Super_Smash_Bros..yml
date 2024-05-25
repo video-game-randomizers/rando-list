@@ -1,6 +1,6 @@
 name: Super Smash Bros.
-comment: ''
-sub-series: []
+comment: null
+sub-series: null
 randomizers:
 -   game: Super Smash Bros. Melee
     identifier: Break the Targets Randomizer

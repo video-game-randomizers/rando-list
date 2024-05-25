@@ -1,6 +1,6 @@
 name: Age of Empires
-comment: ''
-sub-series: []
+comment: null
+sub-series: null
 randomizers:
 -   game: 'Age of Empires II: The Age of Kings / Age of Empires II (2013) / Age of
         Empires II: Definitive Edition'

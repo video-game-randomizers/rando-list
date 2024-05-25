@@ -1,6 +1,6 @@
 name: "Keitai Denj\u016B Telefang"
-comment: ''
-sub-series: []
+comment: null
+sub-series: null
 randomizers:
 -   game: "Keitai Denj\u016B Telefang: Power Version"
     identifier: Sanqui's

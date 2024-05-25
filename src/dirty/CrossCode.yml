@@ -1,6 +1,6 @@
 name: CrossCode
-comment: ''
-sub-series: []
+comment: null
+sub-series: null
 randomizers:
 -   game: CrossCode
     identifier: Item Randomizer

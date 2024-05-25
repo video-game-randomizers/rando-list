@@ -1,6 +1,6 @@
 name: You Have to Win the Game
-comment: ''
-sub-series: []
+comment: null
+sub-series: null
 randomizers:
 -   game: You Have to Win the Game
     identifier: ZZKer's

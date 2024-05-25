@@ -1,6 +1,6 @@
 name: Diablo
-comment: ''
-sub-series: []
+comment: null
+sub-series: null
 randomizers:
 -   game: Diablo II
     identifier: D2 Mod Maker

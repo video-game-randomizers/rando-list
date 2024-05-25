@@ -1,6 +1,6 @@
 name: Quest
-comment: ''
-sub-series: []
+comment: null
+sub-series: null
 randomizers:
 -   game: Quest 64
     identifier: Merrow

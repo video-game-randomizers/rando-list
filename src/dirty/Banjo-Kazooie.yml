@@ -1,6 +1,6 @@
 name: Banjo-Kazooie
-comment: ''
-sub-series: []
+comment: null
+sub-series: null
 randomizers:
 -   game: Banjo-Kazooie
     identifier: Giant Jigglypuff's

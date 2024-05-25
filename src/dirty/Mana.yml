@@ -1,6 +1,6 @@
 name: Mana
-comment: ''
-sub-series: []
+comment: null
+sub-series: null
 randomizers:
 -   game: Secret of Mana
     identifier: Mop's

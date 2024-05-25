@@ -1,6 +1,6 @@
 name: Quest for Glory
-comment: ''
-sub-series: []
+comment: null
+sub-series: null
 randomizers:
 -   game: 'Quest for Glory I: So You Want to Be a Hero (EGA)'
     identifier: Rainault's

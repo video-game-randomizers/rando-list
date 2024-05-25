@@ -1,6 +1,6 @@
 name: Ratchet & Clank
-comment: ''
-sub-series: []
+comment: null
+sub-series: null
 randomizers:
 -   game: Ratchet & Clank Collection
     identifier: bordplate's

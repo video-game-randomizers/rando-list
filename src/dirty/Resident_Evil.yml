@@ -1,6 +1,6 @@
 name: Resident Evil
-comment: ''
-sub-series: []
+comment: null
+sub-series: null
 randomizers:
 -   game: 'Resident Evil (MediaKite) / Resident Evil 2 (Sourcenext) / Resident Evil
         3: Nemesis (Sourcenext)'

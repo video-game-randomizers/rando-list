@@ -1,6 +1,6 @@
 name: Golden Sun
-comment: ''
-sub-series: []
+comment: null
+sub-series: null
 randomizers:
 -   game: Golden Sun
     identifier: MarvinXLII's

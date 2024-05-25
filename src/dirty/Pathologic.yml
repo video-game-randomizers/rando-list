@@ -1,6 +1,6 @@
 name: Pathologic
-comment: ''
-sub-series: []
+comment: null
+sub-series: null
 randomizers:
 -   game: Pathologic 2
     identifier: District Randomizer Mod

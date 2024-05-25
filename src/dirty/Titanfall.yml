@@ -1,6 +1,6 @@
 name: Titanfall
-comment: ''
-sub-series: []
+comment: null
+sub-series: null
 randomizers:
 -   game: Titanfall 2
     identifier: taskinoz's

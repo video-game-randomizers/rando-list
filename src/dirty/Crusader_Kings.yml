@@ -2,7 +2,7 @@ name: Crusader Kings
 comment: _Old versions of Paradox Development Studio games are available on Steam
     as betas. To unlock Crusader Kings II versions prior to 2.8.3.4, refer to [this
     official announcement](https://forum.paradoxplaza.com/forum/threads/changes-to-playing-previous-versions-of-pds-titles.1120883/)._
-sub-series: []
+sub-series: null
 randomizers:
 -   game: Crusader Kings II
     identifier: Alternate History and Random Map Generator

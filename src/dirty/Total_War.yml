@@ -1,6 +1,6 @@
 name: Total War
-comment: ''
-sub-series: []
+comment: null
+sub-series: null
 randomizers:
 -   game: 'Rome: Total War / Total War: Rome Remastered'
     identifier: sargeantPig's

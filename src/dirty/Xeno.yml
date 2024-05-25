@@ -1,6 +1,6 @@
 name: Xeno
-comment: ''
-sub-series: []
+comment: null
+sub-series: null
 randomizers:
 -   game: Xenoblade Chronicles 3
     identifier: Future Redeemed unlock kit balance editor

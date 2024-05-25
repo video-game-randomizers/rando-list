@@ -1,6 +1,6 @@
 name: Azure Dreams
-comment: ''
-sub-series: []
+comment: null
+sub-series: null
 randomizers:
 -   game: Azure Dreams
     identifier: pro_grammar's

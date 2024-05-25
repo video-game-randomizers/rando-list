@@ -2,7 +2,7 @@ name: Europa Universalis
 comment: _Old versions of Paradox Development Studio games are available on Steam
     as betas. To unlock Europa Universalis IV versions prior to 1.27, refer to [this
     official announcement](https://forum.paradoxplaza.com/forum/threads/changes-to-playing-previous-versions-of-pds-titles.1120883/)._
-sub-series: []
+sub-series: null
 randomizers:
 -   game: Europa Universalis IV
     identifier: Haftetavenscrap's Realistic Map Generator

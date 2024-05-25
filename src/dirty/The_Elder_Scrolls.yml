@@ -1,6 +1,6 @@
 name: The Elder Scrolls
-comment: ''
-sub-series: []
+comment: null
+sub-series: null
 randomizers:
 -   game: 'The Elder Scrolls III: Morrowind'
     identifier: 4NM_Randomizer

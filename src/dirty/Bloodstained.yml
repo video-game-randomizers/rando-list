@@ -1,6 +1,6 @@
 name: Bloodstained
-comment: ''
-sub-series: []
+comment: null
+sub-series: null
 randomizers:
 -   game: 'Bloodstained: Ritual of the Night'
     identifier: Randomization Generator

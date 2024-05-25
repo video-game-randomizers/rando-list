@@ -1,6 +1,6 @@
 name: Rad Racer
-comment: ''
-sub-series: []
+comment: null
+sub-series: null
 randomizers:
 -   game: Rad Racer
     identifier: gameboy9's

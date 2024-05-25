@@ -1,6 +1,6 @@
 name: Broforce
-comment: ''
-sub-series: []
+comment: null
+sub-series: null
 randomizers:
 -   game: Broforce
     identifier: Alex Neargarder's

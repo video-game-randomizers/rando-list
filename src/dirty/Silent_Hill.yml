@@ -1,6 +1,6 @@
 name: Silent Hill
-comment: ''
-sub-series: []
+comment: null
+sub-series: null
 randomizers:
 -   game: Silent Hill 2 / Silent Hill 3
     identifier: Jokie's

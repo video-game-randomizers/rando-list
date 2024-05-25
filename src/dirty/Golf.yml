@@ -1,6 +1,6 @@
 name: Golf
-comment: ''
-sub-series: []
+comment: null
+sub-series: null
 randomizers:
 -   game: Golf (NES)
     identifier: gameboy9's

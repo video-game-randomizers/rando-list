@@ -1,6 +1,6 @@
 name: Pikmin
-comment: ''
-sub-series: []
+comment: null
+sub-series: null
 randomizers:
 -   game: Pikmin
     identifier: Minty-Meeo's

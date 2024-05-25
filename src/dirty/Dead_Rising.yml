@@ -1,6 +1,6 @@
 name: Dead Rising
-comment: ''
-sub-series: []
+comment: null
+sub-series: null
 randomizers:
 -   game: Dead Rising
     identifier: DrunkWario's

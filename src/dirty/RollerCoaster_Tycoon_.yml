@@ -1,6 +1,6 @@
 name: 'RollerCoaster Tycoon '
-comment: ''
-sub-series: []
+comment: null
+sub-series: null
 randomizers:
 -   game: OpenRCT2 (RollerCoaster Tycoon 2 fan recreation)
     identifier: Die4Ever's

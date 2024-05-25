@@ -1,6 +1,6 @@
 name: Captain Comic
-comment: ''
-sub-series: []
+comment: null
+sub-series: null
 randomizers:
 -   game: The Adventures of Captain Comic
     identifier: David Fifield's

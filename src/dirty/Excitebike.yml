@@ -1,6 +1,6 @@
 name: Excitebike
-comment: ''
-sub-series: []
+comment: null
+sub-series: null
 randomizers:
 -   game: Excitebike
     identifier: gameboy9's

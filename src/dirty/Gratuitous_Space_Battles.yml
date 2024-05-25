@@ -1,6 +1,6 @@
 name: Gratuitous Space Battles
-comment: ''
-sub-series: []
+comment: null
+sub-series: null
 randomizers:
 -   game: Gratuitous Space Battles
     identifier: Galaxy generator

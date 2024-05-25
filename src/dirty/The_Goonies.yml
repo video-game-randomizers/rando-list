@@ -1,6 +1,6 @@
 name: The Goonies
-comment: ''
-sub-series: []
+comment: null
+sub-series: null
 randomizers:
 -   game: The Goonies II
     identifier: Netsrotti's

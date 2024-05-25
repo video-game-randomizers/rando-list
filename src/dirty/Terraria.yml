@@ -1,6 +1,6 @@
 name: Terraria
-comment: ''
-sub-series: []
+comment: null
+sub-series: null
 randomizers:
 -   game: Terraria
     identifier: Chest Randomizer

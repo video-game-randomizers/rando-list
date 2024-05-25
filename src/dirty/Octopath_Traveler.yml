@@ -1,6 +1,6 @@
 name: Octopath Traveler
-comment: ''
-sub-series: []
+comment: null
+sub-series: null
 randomizers:
 -   game: Octopath Traveler
     identifier: Boss Randomizer

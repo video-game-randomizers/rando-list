@@ -1,6 +1,6 @@
 name: StarCraft
-comment: ''
-sub-series: []
+comment: null
+sub-series: null
 randomizers:
 -   game: StarCraft II
     identifier: Balance Patch Randomizer

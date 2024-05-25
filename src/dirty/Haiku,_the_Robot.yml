@@ -1,6 +1,6 @@
 name: Haiku, the Robot
-comment: ''
-sub-series: []
+comment: null
+sub-series: null
 randomizers:
 -   game: Haiku, the Robot
     identifier: Jarlyk's

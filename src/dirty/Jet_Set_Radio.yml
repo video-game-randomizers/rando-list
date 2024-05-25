@@ -1,6 +1,6 @@
 name: Jet Set Radio
-comment: ''
-sub-series: []
+comment: null
+sub-series: null
 randomizers:
 -   game: 'JSRF: Jet Set Radio Future'
     identifier: fusecv's

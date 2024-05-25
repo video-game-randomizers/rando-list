@@ -1,6 +1,6 @@
 name: Tecmo Bowl
-comment: ''
-sub-series: []
+comment: null
+sub-series: null
 randomizers:
 -   game: Tecmo Super Bowl
     identifier: Salary Cap Random Match

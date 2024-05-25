@@ -1,6 +1,6 @@
 name: Parasite Eve
-comment: ''
-sub-series: []
+comment: null
+sub-series: null
 randomizers:
 -   game: Parasite Eve II
     identifier: Randomized Eve II

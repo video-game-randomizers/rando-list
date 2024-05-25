@@ -1,6 +1,6 @@
 name: Soldier of Fortune
-comment: ''
-sub-series: []
+comment: null
+sub-series: null
 randomizers:
 -   game: 'Soldier of Fortune II: Double Helix - Gold Edition'
     identifier: RMG Expansion and SP Tweaks Mod

@@ -1,6 +1,6 @@
 name: DuckTales
-comment: ''
-sub-series: []
+comment: null
+sub-series: null
 randomizers:
 -   game: DuckTales
     identifier: Micheil Skeens's

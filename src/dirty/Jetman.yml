@@ -1,6 +1,6 @@
 name: Jetman
-comment: ''
-sub-series: []
+comment: null
+sub-series: null
 randomizers:
 -   game: Solar Jetman
     identifier: Niamek's

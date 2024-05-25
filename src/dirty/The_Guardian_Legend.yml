@@ -1,6 +1,6 @@
 name: The Guardian Legend
-comment: ''
-sub-series: []
+comment: null
+sub-series: null
 randomizers:
 -   game: The Guardian Legend
     identifier: fireball87's

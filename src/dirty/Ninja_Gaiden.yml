@@ -1,6 +1,6 @@
 name: Ninja Gaiden
-comment: ''
-sub-series: []
+comment: null
+sub-series: null
 randomizers:
 -   game: Ninja Gaiden (NES)
     identifier: Micheil Skeens's

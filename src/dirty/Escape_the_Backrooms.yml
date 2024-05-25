@@ -1,6 +1,6 @@
 name: Escape the Backrooms
-comment: ''
-sub-series: []
+comment: null
+sub-series: null
 randomizers:
 -   game: Escape the Backrooms
     identifier: Reokin's

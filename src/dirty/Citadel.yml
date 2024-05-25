@@ -1,6 +1,6 @@
 name: Citadel
-comment: ''
-sub-series: []
+comment: null
+sub-series: null
 randomizers:
 -   game: Citadel
     identifier: Item Randomiser

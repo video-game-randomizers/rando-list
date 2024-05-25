@@ -1,6 +1,6 @@
 name: A Short Hike
-comment: ''
-sub-series: []
+comment: null
+sub-series: null
 randomizers:
 -   game: null
     identifier: null

@@ -1,6 +1,6 @@
 name: Game Dev Tycoon
-comment: ''
-sub-series: []
+comment: null
+sub-series: null
 randomizers:
 -   game: Game Dev Tycoon
     identifier: Platform Randomiser

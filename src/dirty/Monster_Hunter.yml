@@ -1,6 +1,6 @@
 name: Monster Hunter
-comment: ''
-sub-series: []
+comment: null
+sub-series: null
 randomizers:
 -   game: 'Monster Hunter: World'
     identifier: Kana Miyoshi's

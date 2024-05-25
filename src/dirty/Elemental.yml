@@ -1,6 +1,6 @@
 name: Elemental
-comment: ''
-sub-series: []
+comment: null
+sub-series: null
 randomizers:
 -   game: Fallen Enchantress
     identifier: Randomized Monsters

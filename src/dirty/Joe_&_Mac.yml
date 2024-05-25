@@ -1,6 +1,6 @@
 name: Joe & Mac
-comment: ''
-sub-series: []
+comment: null
+sub-series: null
 randomizers:
 -   game: 'Joe & Mac: Caveman Ninja (Super NES)'
     identifier: Micheil Skeens's

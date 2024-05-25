@@ -1,6 +1,6 @@
 name: Like a Dragon
-comment: ''
-sub-series: []
+comment: null
+sub-series: null
 randomizers:
 -   game: 'Yakuza: Like a Dragon'
     identifier: Enemy Randomizer

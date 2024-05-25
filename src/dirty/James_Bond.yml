@@ -1,6 +1,6 @@
 name: James Bond
-comment: ''
-sub-series: []
+comment: null
+sub-series: null
 randomizers:
 -   game: GoldenEye 007
     identifier: K1lo's

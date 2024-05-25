@@ -1,6 +1,6 @@
 name: Ultrakill
-comment: ''
-sub-series: []
+comment: null
+sub-series: null
 randomizers:
 -   game: Ultrakill
     identifier: ArchipelagoULTRAKILL

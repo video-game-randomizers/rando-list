@@ -1,6 +1,6 @@
 name: Crazy Castle
-comment: ''
-sub-series: []
+comment: null
+sub-series: null
 randomizers:
 -   game: The Bugs Bunny Crazy Castle
     identifier: MaximumLance's

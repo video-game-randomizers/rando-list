@@ -1,6 +1,6 @@
 name: Zombies Ate My Neighbors
-comment: ''
-sub-series: []
+comment: null
+sub-series: null
 randomizers:
 -   game: Zombies Ate My Neighbors (Genesis)
     identifier: Zombies Ate My Roguelike

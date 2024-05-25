@@ -1,6 +1,6 @@
 name: Monster Rancher
-comment: ''
-sub-series: []
+comment: null
+sub-series: null
 randomizers:
 -   game: Monster Rancher 2
     identifier: Seasonal Shrine

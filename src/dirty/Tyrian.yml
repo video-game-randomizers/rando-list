@@ -1,6 +1,6 @@
 name: Tyrian
-comment: ''
-sub-series: []
+comment: null
+sub-series: null
 randomizers:
 -   game: OpenTyrian (Tyrian open source port)
     identifier: TyriGen

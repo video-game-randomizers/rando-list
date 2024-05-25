@@ -1,6 +1,6 @@
 name: The Simpsons
-comment: ''
-sub-series: []
+comment: null
+sub-series: null
 randomizers:
 -   game: 'The Simpsons: Hit & Run'
     identifier: EnAppelsin's

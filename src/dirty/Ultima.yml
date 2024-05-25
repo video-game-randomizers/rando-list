@@ -1,6 +1,6 @@
 name: Ultima
-comment: ''
-sub-series: []
+comment: null
+sub-series: null
 randomizers:
 -   game: 'Ultima IV: Quest of the Avatar (PC)'
     identifier: Fenyx4's

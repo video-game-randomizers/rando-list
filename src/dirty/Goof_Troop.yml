@@ -1,6 +1,6 @@
 name: Goof Troop
-comment: ''
-sub-series: []
+comment: null
+sub-series: null
 randomizers:
 -   game: Goof Troop
     identifier: Niamek's

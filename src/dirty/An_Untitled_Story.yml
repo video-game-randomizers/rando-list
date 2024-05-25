@@ -1,6 +1,6 @@
 name: An Untitled Story
-comment: ''
-sub-series: []
+comment: null
+sub-series: null
 randomizers:
 -   game: An Untitled Story
     identifier: Mokesmoe's

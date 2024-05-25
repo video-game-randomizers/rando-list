@@ -1,6 +1,6 @@
 name: Snowboard Kids
-comment: ''
-sub-series: []
+comment: null
+sub-series: null
 randomizers:
 -   game: Snowboard Kids
     identifier: Stingerman06's

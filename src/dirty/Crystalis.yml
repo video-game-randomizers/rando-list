@@ -1,6 +1,6 @@
 name: Crystalis
-comment: ''
-sub-series: []
+comment: null
+sub-series: null
 randomizers:
 -   game: Crystalis
     identifier: steve_hacks's

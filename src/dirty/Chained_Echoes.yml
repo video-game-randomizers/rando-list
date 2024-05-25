@@ -1,6 +1,6 @@
 name: Chained Echoes
-comment: ''
-sub-series: []
+comment: null
+sub-series: null
 randomizers:
 -   game: Chained Echoes
     identifier: Samupo's

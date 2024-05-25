@@ -1,6 +1,6 @@
 name: Vagrant Story
-comment: ''
-sub-series: []
+comment: null
+sub-series: null
 randomizers:
 -   game: Vagrant Story
     identifier: ChaoticBrave's

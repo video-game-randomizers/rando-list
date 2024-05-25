@@ -1,6 +1,6 @@
 name: Aerobiz
-comment: ''
-sub-series: []
+comment: null
+sub-series: null
 randomizers:
 -   game: Aerobiz Supersonic
     identifier: AeroBonkers

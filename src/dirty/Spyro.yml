@@ -1,6 +1,6 @@
 name: Spyro
-comment: ''
-sub-series: []
+comment: null
+sub-series: null
 randomizers:
 -   game: Spyro the Dragon
     identifier: Requirement Randomizer

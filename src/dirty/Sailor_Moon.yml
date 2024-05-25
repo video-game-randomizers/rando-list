@@ -1,6 +1,6 @@
 name: Sailor Moon
-comment: ''
-sub-series: []
+comment: null
+sub-series: null
 randomizers:
 -   game: Pretty Soldier Sailor Moon
     identifier: PSSME

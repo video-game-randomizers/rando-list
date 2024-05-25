@@ -1,6 +1,6 @@
 name: Lost Kingdoms
-comment: ''
-sub-series: []
+comment: null
+sub-series: null
 randomizers:
 -   game: Lost Kingdoms
     identifier: Benjamin Wolf's

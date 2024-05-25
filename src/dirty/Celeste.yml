@@ -1,6 +1,6 @@
 name: Celeste
-comment: ''
-sub-series: []
+comment: null
+sub-series: null
 randomizers:
 -   game: Celeste
     identifier: rhelmot's

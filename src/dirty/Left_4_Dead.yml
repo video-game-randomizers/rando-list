@@ -1,6 +1,6 @@
 name: Left 4 Dead
-comment: ''
-sub-series: []
+comment: null
+sub-series: null
 randomizers:
 -   game: Left 4 Dead 2
     identifier: Map Generator

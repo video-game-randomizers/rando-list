@@ -1,6 +1,6 @@
 name: Medabots
-comment: ''
-sub-series: []
+comment: null
+sub-series: null
 randomizers:
 -   game: 'Medabots: Metabee / Medabots: Rokusho'
     identifier: STulling's

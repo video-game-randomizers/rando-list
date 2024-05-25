@@ -1,6 +1,6 @@
 name: Legacy of the Wizard
-comment: ''
-sub-series: []
+comment: null
+sub-series: null
 randomizers:
 -   game: Legacy of the Wizard
     identifier: LadyStarbird's

@@ -1,6 +1,6 @@
 name: Faxanadu
-comment: ''
-sub-series: []
+comment: null
+sub-series: null
 randomizers:
 -   game: Faxanadu
     identifier: Notlob's

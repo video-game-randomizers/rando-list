@@ -1,6 +1,6 @@
 name: State of Decay
-comment: ''
-sub-series: []
+comment: null
+sub-series: null
 randomizers:
 -   game: State of Decay
     identifier: Character Randomizer

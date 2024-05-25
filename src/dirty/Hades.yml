@@ -1,6 +1,6 @@
 name: Hades
-comment: ''
-sub-series: []
+comment: null
+sub-series: null
 randomizers:
 -   game: Hades
     identifier: ZebraFish's

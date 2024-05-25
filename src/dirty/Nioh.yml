@@ -1,6 +1,6 @@
 name: Nioh
-comment: ''
-sub-series: []
+comment: null
+sub-series: null
 randomizers:
 -   game: Nioh 2
     identifier: Enemy Randomizer, gumbenzoin's

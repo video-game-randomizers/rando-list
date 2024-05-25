@@ -1,6 +1,6 @@
 name: XCOM
-comment: ''
-sub-series: []
+comment: null
+sub-series: null
 randomizers:
 -   game: 'XCOM: Enemy Unknown'
     identifier: Wasteland Ghost's

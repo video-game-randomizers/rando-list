@@ -1,6 +1,6 @@
 name: Bat Boy
-comment: ''
-sub-series: []
+comment: null
+sub-series: null
 randomizers:
 -   game: Bat Boy (Demo)
     identifier: Archipelago.BatBoy

@@ -1,6 +1,6 @@
 name: Persona
-comment: ''
-sub-series: []
+comment: null
+sub-series: null
 randomizers:
 -   game: Persona 5 Royal
     identifier: Screenments's

@@ -1,6 +1,6 @@
 name: Adventure Island
-comment: ''
-sub-series: []
+comment: null
+sub-series: null
 randomizers:
 -   game: Adventure Island II
     identifier: Micheil Skeens's

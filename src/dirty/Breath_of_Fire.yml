@@ -1,6 +1,6 @@
 name: Breath of Fire
-comment: ''
-sub-series: []
+comment: null
+sub-series: null
 randomizers:
 -   game: Breath of Fire
     identifier: pelador's

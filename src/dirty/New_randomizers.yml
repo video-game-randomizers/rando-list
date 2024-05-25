@@ -3,7 +3,7 @@ comment: '## New randomizersThis subset only shows recently added entries from t
     past 3 months, with the most recent ones on top, with the exclusion of obsolete
     ones.For older changes, you may consult the [full changelog](/randomizers-changelog/).---##
     All randomizers'
-sub-series: []
+sub-series: null
 randomizers:
 -   game: 'Advance Wars 2: Black Hole Rising'
     identifier: Self Randomizer

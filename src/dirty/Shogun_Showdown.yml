@@ -1,6 +1,6 @@
 name: Shogun Showdown
-comment: ''
-sub-series: []
+comment: null
+sub-series: null
 randomizers:
 -   game: Shogun Showdown
     identifier: Enemy / Boss Randomizer

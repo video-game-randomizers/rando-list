@@ -1,6 +1,6 @@
 name: Grandia
-comment: ''
-sub-series: []
+comment: null
+sub-series: null
 randomizers:
 -   game: Grandia HD Remaster
     identifier: Etsuna's

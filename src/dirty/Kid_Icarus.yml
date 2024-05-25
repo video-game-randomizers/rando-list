@@ -1,6 +1,6 @@
 name: Kid Icarus
-comment: ''
-sub-series: []
+comment: null
+sub-series: null
 randomizers:
 -   game: Kid Icarus
     identifier: Kid Randomicus

@@ -1,6 +1,6 @@
 name: Freeway
-comment: ''
-sub-series: []
+comment: null
+sub-series: null
 randomizers:
 -   game: Freeway
     identifier: Steve Englehardt's

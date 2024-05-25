@@ -1,6 +1,6 @@
 name: Half-Life
-comment: ''
-sub-series: []
+comment: null
+sub-series: null
 randomizers:
 -   game: Half-Life
     identifier: Randmap

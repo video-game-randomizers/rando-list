@@ -1,6 +1,6 @@
 name: Bloodborne
-comment: ''
-sub-series: []
+comment: null
+sub-series: null
 randomizers:
 -   game: Bloodborne
     identifier: Enemy and Item Randomizer

@@ -1,6 +1,6 @@
 name: Yo-kai Watch
-comment: ''
-sub-series: []
+comment: null
+sub-series: null
 randomizers:
 -   game: Yo-kai Watch
     identifier: YKWrandomizer

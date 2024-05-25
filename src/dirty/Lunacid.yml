@@ -1,6 +1,6 @@
 name: Lunacid
-comment: ''
-sub-series: []
+comment: null
+sub-series: null
 randomizers:
 -   game: Lunacid
     identifier: Witchybun Albrekka's

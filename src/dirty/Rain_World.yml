@@ -1,6 +1,6 @@
 name: Rain World
-comment: ''
-sub-series: []
+comment: null
+sub-series: null
 randomizers:
 -   game: Rain World
     identifier: Enemy Randomizer

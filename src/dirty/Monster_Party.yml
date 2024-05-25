@@ -1,6 +1,6 @@
 name: Monster Party
-comment: ''
-sub-series: []
+comment: null
+sub-series: null
 randomizers:
 -   game: Monster Party
     identifier: Micheil Skeens's

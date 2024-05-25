@@ -1,6 +1,6 @@
 name: Pac-Man
-comment: ''
-sub-series: []
+comment: null
+sub-series: null
 randomizers:
 -   game: Pac-Man World 2
     identifier: Montra's

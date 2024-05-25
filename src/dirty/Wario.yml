@@ -1,6 +1,6 @@
 name: Wario
-comment: ''
-sub-series: []
+comment: null
+sub-series: null
 randomizers:
 -   game: Wario Land 3
     identifier: AaronDobbe's

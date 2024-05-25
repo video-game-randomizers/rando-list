@@ -1,6 +1,6 @@
 name: 'Elden Ring '
-comment: ''
-sub-series: []
+comment: null
+sub-series: null
 randomizers:
 -   game: Elden Ring
     identifier: Elden Loot

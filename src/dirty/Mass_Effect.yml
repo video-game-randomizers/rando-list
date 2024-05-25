@@ -1,6 +1,6 @@
 name: Mass Effect
-comment: ''
-sub-series: []
+comment: null
+sub-series: null
 randomizers:
 -   game: Mass Effect 2
     identifier: ME3Tweaks's

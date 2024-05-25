@@ -1,6 +1,6 @@
 name: Bomberman
-comment: ''
-sub-series: []
+comment: null
+sub-series: null
 randomizers:
 -   game: Bomberman Tournament
     identifier: fusecv's

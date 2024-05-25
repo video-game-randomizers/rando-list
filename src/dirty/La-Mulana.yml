@@ -1,6 +1,6 @@
 name: La-Mulana
-comment: ''
-sub-series: []
+comment: null
+sub-series: null
 randomizers:
 -   game: La-Mulana (The Maze of Galious fangame)
     identifier: progre's

@@ -1,6 +1,6 @@
 name: Raft
-comment: ''
-sub-series: []
+comment: null
+sub-series: null
 randomizers:
 -   game: null
     identifier: null

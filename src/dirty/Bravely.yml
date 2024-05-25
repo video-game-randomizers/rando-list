@@ -1,6 +1,6 @@
 name: Bravely
-comment: ''
-sub-series: []
+comment: null
+sub-series: null
 randomizers:
 -   game: 'Bravely Default / Bravely Second: End Layer'
     identifier: MarvinXLII's

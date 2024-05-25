@@ -1,6 +1,6 @@
 name: Soul Blazer
-comment: ''
-sub-series: []
+comment: null
+sub-series: null
 randomizers:
 -   game: Soul Blazer
     identifier: RandoBlazer

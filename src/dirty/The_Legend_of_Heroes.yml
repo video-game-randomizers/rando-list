@@ -1,6 +1,6 @@
 name: The Legend of Heroes
-comment: ''
-sub-series: []
+comment: null
+sub-series: null
 randomizers:
 -   game: 'The Legend of Heroes: Trails of Cold Steel'
     identifier: nnguyen259's

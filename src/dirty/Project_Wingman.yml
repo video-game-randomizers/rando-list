@@ -1,6 +1,6 @@
 name: Project Wingman
-comment: ''
-sub-series: []
+comment: null
+sub-series: null
 randomizers:
 -   game: Project Wingman
     identifier: FalconLuma's

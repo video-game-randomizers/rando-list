@@ -1,6 +1,6 @@
 name: Dark Cloud
-comment: ''
-sub-series: []
+comment: null
+sub-series: null
 randomizers:
 -   game: Dark Cloud
     identifier: Chest Randomizer

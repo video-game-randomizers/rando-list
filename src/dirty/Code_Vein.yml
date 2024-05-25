@@ -1,6 +1,6 @@
 name: Code Vein
-comment: ''
-sub-series: []
+comment: null
+sub-series: null
 randomizers:
 -   game: Code Vein
     identifier: Party Randomizer 2

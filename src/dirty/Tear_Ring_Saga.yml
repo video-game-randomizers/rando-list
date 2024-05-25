@@ -1,6 +1,6 @@
 name: Tear Ring Saga
-comment: ''
-sub-series: []
+comment: null
+sub-series: null
 randomizers:
 -   game: 'Berwick Saga: Lazberia Chronicle Chapter 174'
     identifier: Editor & Randomizer

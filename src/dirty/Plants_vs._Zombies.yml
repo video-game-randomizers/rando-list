@@ -1,6 +1,6 @@
 name: Plants vs. Zombies
-comment: ''
-sub-series: []
+comment: null
+sub-series: null
 randomizers:
 -   game: PlantsVsZombies.NET (Plants vs. Zombies unofficial PC port)
     identifier: Andree's

@@ -2,7 +2,7 @@ name: Dark Souls
 comment: _A game downgrade to the last version released before 2022-01-23 may be required
     for some of these randomizers. For Dark Souls III, this would be application v1.15
     with regulation v1.35._
-sub-series: []
+sub-series: null
 randomizers:
 -   game: 'Dark Souls: Prepare to Die Edition / Dark Souls: Remastered'
     identifier: Enemy Randomizer

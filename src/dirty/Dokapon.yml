@@ -1,6 +1,6 @@
 name: Dokapon
-comment: ''
-sub-series: []
+comment: null
+sub-series: null
 randomizers:
 -   game: Dokapon Kingdom
     identifier: X Kirby's

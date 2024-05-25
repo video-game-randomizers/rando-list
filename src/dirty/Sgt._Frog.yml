@@ -1,6 +1,6 @@
 name: Sgt. Frog
-comment: ''
-sub-series: []
+comment: null
+sub-series: null
 randomizers:
 -   game: 'Keroro RPG: Kishi to Musha to Densetsu no Kaizoku'
     identifier: Dawnbomb's English Patch + Optional Randomizer

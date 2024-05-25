@@ -1,6 +1,6 @@
 name: Smash T.V.
-comment: ''
-sub-series: []
+comment: null
+sub-series: null
 randomizers:
 -   game: Super Smash T.V.
     identifier: Micheil Skeens's

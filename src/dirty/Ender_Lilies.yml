@@ -1,6 +1,6 @@
 name: Ender Lilies
-comment: ''
-sub-series: []
+comment: null
+sub-series: null
 randomizers:
 -   game: 'Ender Lilies: Quietus of the Knights'
     identifier: Trexounay's

@@ -1,6 +1,6 @@
 name: SWAT
-comment: ''
-sub-series: []
+comment: null
+sub-series: null
 randomizers:
 -   game: SWAT 4
     identifier: Infinite

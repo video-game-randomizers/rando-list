@@ -1,6 +1,6 @@
 name: Necropolis
-comment: ''
-sub-series: []
+comment: null
+sub-series: null
 randomizers:
 -   game: Necropolis
     identifier: Weapon Randomizer

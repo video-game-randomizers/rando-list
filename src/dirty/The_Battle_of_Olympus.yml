@@ -1,6 +1,6 @@
 name: The Battle of Olympus
-comment: ''
-sub-series: []
+comment: null
+sub-series: null
 randomizers:
 -   game: The Battle of Olympus
     identifier: Item Randomizer

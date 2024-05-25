@@ -1,6 +1,6 @@
 name: Psychonauts
-comment: ''
-sub-series: []
+comment: null
+sub-series: null
 randomizers:
 -   game: Psychonauts
     identifier: PsychoRando

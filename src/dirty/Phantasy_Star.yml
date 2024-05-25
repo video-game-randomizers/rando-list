@@ -1,6 +1,6 @@
 name: Phantasy Star
-comment: ''
-sub-series: []
+comment: null
+sub-series: null
 randomizers:
 -   game: Phantasy Star II
     identifier: LadyStarbird's

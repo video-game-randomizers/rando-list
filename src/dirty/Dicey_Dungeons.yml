@@ -1,6 +1,6 @@
 name: Dicey Dungeons
-comment: ''
-sub-series: []
+comment: null
+sub-series: null
 randomizers:
 -   game: Dicey Dungeons
     identifier: Random Equipment

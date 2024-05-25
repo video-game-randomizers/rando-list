@@ -1,6 +1,6 @@
 name: Blaster Master
-comment: ''
-sub-series: []
+comment: null
+sub-series: null
 randomizers:
 -   game: Blaster Master
     identifier: Quantam's

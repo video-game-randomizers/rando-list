@@ -1,6 +1,6 @@
 name: Blade of Darkness
-comment: ''
-sub-series: []
+comment: null
+sub-series: null
 randomizers:
 -   game: Blade of Darkness
     identifier: Gorentity Mod with Random Enemy Creator

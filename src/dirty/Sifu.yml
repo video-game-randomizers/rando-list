@@ -1,6 +1,6 @@
 name: Sifu
-comment: ''
-sub-series: []
+comment: null
+sub-series: null
 randomizers:
 -   game: Sifu
     identifier: Randomizer Mod

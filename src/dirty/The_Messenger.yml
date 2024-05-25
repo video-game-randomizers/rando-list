@@ -1,6 +1,6 @@
 name: The Messenger
-comment: ''
-sub-series: []
+comment: null
+sub-series: null
 randomizers:
 -   game: The Messenger
     identifier: Minous27's

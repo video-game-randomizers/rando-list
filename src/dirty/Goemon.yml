@@ -1,6 +1,6 @@
 name: Goemon
-comment: ''
-sub-series: []
+comment: null
+sub-series: null
 randomizers:
 -   game: Mystical Ninja Starring Goemon
     identifier: Ancient Cave Starring Goemon

@@ -1,6 +1,6 @@
 name: Demon's Souls
-comment: ''
-sub-series: []
+comment: null
+sub-series: null
 randomizers:
 -   game: Demon's Souls
     identifier: Item Randomiser

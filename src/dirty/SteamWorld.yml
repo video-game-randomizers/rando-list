@@ -1,6 +1,6 @@
 name: SteamWorld
-comment: ''
-sub-series: []
+comment: null
+sub-series: null
 randomizers:
 -   game: SteamWorld Dig
     identifier: LiveSplit.SteamWorldDig.Randomizer

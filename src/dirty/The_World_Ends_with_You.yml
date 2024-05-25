@@ -1,6 +1,6 @@
 name: The World Ends with You
-comment: ''
-sub-series: []
+comment: null
+sub-series: null
 randomizers:
 -   game: The World Ends with You
     identifier: Fractalizon

@@ -1,6 +1,6 @@
 name: Homeworld
-comment: ''
-sub-series: []
+comment: null
+sub-series: null
 randomizers:
 -   game: Homeworld 2
     identifier: Capturable Fleets Mod

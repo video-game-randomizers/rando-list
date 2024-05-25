@@ -1,6 +1,6 @@
 name: Milon
-comment: ''
-sub-series: []
+comment: null
+sub-series: null
 randomizers:
 -   game: Milon's Secret Castle
     identifier: Micheil Skeens's

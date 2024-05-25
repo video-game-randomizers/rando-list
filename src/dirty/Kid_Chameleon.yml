@@ -1,6 +1,6 @@
 name: Kid Chameleon
-comment: ''
-sub-series: []
+comment: null
+sub-series: null
 randomizers:
 -   game: Kid Chameleon
     identifier: Level Randomizer

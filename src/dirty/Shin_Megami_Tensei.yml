@@ -1,6 +1,6 @@
 name: Shin Megami Tensei
-comment: ''
-sub-series: []
+comment: null
+sub-series: null
 randomizers:
 -   game: Shin Megami Tensei
     identifier: spannerisms's

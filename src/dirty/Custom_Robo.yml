@@ -1,6 +1,6 @@
 name: Custom Robo
-comment: ''
-sub-series: []
+comment: null
+sub-series: null
 randomizers:
 -   game: Custom Robo
     identifier: PoggieB's

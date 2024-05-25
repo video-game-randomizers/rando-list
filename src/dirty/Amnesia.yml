@@ -1,6 +1,6 @@
 name: Amnesia
-comment: ''
-sub-series: []
+comment: null
+sub-series: null
 randomizers:
 -   game: 'Amnesia: The Bunker'
     identifier: Dog Tag Randomizer

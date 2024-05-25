@@ -1,6 +1,6 @@
 name: Divinity
-comment: ''
-sub-series: []
+comment: null
+sub-series: null
 randomizers:
 -   game: 'Divinity: Original Sin 2'
     identifier: Enemy Randomization

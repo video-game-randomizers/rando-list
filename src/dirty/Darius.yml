@@ -1,6 +1,6 @@
 name: Darius
-comment: ''
-sub-series: []
+comment: null
+sub-series: null
 randomizers:
 -   game: Darius Twin
     identifier: Micheil Skeens's

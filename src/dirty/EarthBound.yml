@@ -1,6 +1,6 @@
 name: EarthBound
-comment: ''
-sub-series: []
+comment: null
+sub-series: null
 randomizers:
 -   game: EarthBound Beginnings
     identifier: Agent Ape's

@@ -1,6 +1,6 @@
 name: Prey
-comment: ''
-sub-series: []
+comment: null
+sub-series: null
 randomizers:
 -   game: Prey (2017)
     identifier: Tsundereployer's

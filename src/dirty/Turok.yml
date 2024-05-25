@@ -1,6 +1,6 @@
 name: Turok
-comment: ''
-sub-series: []
+comment: null
+sub-series: null
 randomizers:
 -   game: Turok (Nightdive Studios)
     identifier: Behemoth's

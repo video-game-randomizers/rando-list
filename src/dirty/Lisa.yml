@@ -1,6 +1,6 @@
 name: Lisa
-comment: ''
-sub-series: []
+comment: null
+sub-series: null
 randomizers:
 -   game: 'Lisa: The Pointless (fangame)'
     identifier: TrueCobalion's

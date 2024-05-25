@@ -1,6 +1,6 @@
 name: Front Mission
-comment: ''
-sub-series: []
+comment: null
+sub-series: null
 randomizers:
 -   game: 'Front Mission 5: Scars of the War'
     identifier: Khalid SA's

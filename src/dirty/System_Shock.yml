@@ -1,6 +1,6 @@
 name: System Shock
-comment: ''
-sub-series: []
+comment: null
+sub-series: null
 randomizers:
 -   game: System Shock (2023)
     identifier: Ironman

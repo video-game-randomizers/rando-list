@@ -1,6 +1,6 @@
 name: Uncharted Waters
-comment: ''
-sub-series: []
+comment: null
+sub-series: null
 randomizers:
 -   game: 'Uncharted Waters: New Horizons'
     identifier: Gilmok's

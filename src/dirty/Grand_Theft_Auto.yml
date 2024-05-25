@@ -1,6 +1,6 @@
 name: Grand Theft Auto
-comment: ''
-sub-series: []
+comment: null
+sub-series: null
 randomizers:
 -   game: 'Grand Theft Auto: San Andreas'
     identifier: Rainbomizer

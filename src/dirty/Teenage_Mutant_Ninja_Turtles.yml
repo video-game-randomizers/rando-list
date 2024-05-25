@@ -1,6 +1,6 @@
 name: Teenage Mutant Ninja Turtles
-comment: ''
-sub-series: []
+comment: null
+sub-series: null
 randomizers:
 -   game: Teenage Mutant Ninja Turtles (NES)
     identifier: abyssonym's
