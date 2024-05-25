@@ -1,0 +1,22 @@
+name: Diablo
+comment: ''
+sub-series: []
+randomizers:
+-   game: Diablo II
+    identifier: D2 Mod Maker
+    url: https://github.com/tlentz/d2modmaker
+    original: '- [Diablo II](https://github.com/tlentz/d2modmaker) (D2 Mod Maker)
+        - Modding tool with bundled randomizer'
+    comment: '- Modding tool with bundled randomizer'
+-   game: Diablo II
+    identifier: Sunbeam's
+    url: https://twitter.com/SunbeamX11/status/1383417309201453058
+    original: '- [Diablo II](https://twitter.com/SunbeamX11/status/1383417309201453058)
+        (Sunbeam''s) - Support available on [Sunbeam''s Discord server](https://discord.com/invite/K9AeByXyMu)'
+    comment: '- Support available on [Sunbeam''s Discord server](https://discord.com/invite/K9AeByXyMu)'
+-   game: 'Diablo II: Resurrected'
+    identifier: Mod generator
+    url: https://github.com/mapron/d2modgen
+    original: '- [Diablo II: Resurrected](https://github.com/mapron/d2modgen) (Mod
+        generator) - Modding tool with bundled randomizer'
+    comment: '- Modding tool with bundled randomizer'

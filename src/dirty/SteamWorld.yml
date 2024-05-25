@@ -1,0 +1,14 @@
+name: SteamWorld
+comment: ''
+sub-series: []
+randomizers:
+-   game: SteamWorld Dig
+    identifier: LiveSplit.SteamWorldDig.Randomizer
+    url: https://github.com/clementgallet/LiveSplit.SteamWorldDig.Randomizer
+    original: '- [SteamWorld Dig](https://github.com/clementgallet/LiveSplit.SteamWorldDig.Randomizer)
+        (LiveSplit.SteamWorldDig.Randomizer)'
+-   game: SteamWorld Dig 2
+    identifier: SWD2Randomizer
+    url: https://github.com/clementgallet/SWD2Randomizer
+    original: '- [SteamWorld Dig 2](https://github.com/clementgallet/SWD2Randomizer)
+        (SWD2Randomizer)'

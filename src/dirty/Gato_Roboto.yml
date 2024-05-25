@@ -1,0 +1,9 @@
+name: Gato Roboto
+comment: ''
+sub-series: []
+randomizers:
+-   game: Gato Roboto
+    identifier: CaptainDapper's
+    url: https://github.com/CaptainDapper/GatoRobotoRandomizer/releases
+    original: '- [Gato Roboto](https://github.com/CaptainDapper/GatoRobotoRandomizer/releases)
+        (CaptainDapper''s)'

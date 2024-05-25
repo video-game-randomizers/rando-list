@@ -1,0 +1,8 @@
+name: Spelunky
+comment: ''
+sub-series: []
+randomizers:
+-   game: Spelunky 2
+    identifier: Dregu's
+    url: https://spelunky.fyi/mods/m/randomizer/
+    original: '- [Spelunky 2](https://spelunky.fyi/mods/m/randomizer/) (Dregu''s)'

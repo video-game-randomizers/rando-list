@@ -1,0 +1,15 @@
+name: Contra
+comment: ''
+sub-series: []
+randomizers:
+-   game: Contra (NES)
+    identifier: Azeryn's
+    url: https://cdn.discordapp.com/attachments/1140465134066741309/1147430404438102057/ContraRandomizerSetup.exe
+    original: '- [Contra (NES)](https://cdn.discordapp.com/attachments/1140465134066741309/1147430404438102057/ContraRandomizerSetup.exe)
+        (Azeryn''s) - [Documentation](https://sites.google.com/view/contrarandomizer/features)'
+    comment: '- [Documentation](https://sites.google.com/view/contrarandomizer/features)'
+-   game: Super C (NES)
+    identifier: SpiderDave's
+    url: https://spiderdave.me/nes/?c=70-Super-C-Randomizer
+    original: '- [Super C (NES)](https://spiderdave.me/nes/?c=70-Super-C-Randomizer)
+        (SpiderDave''s)'

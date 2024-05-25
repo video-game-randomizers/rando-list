@@ -1,0 +1,9 @@
+name: Necropolis
+comment: ''
+sub-series: []
+randomizers:
+-   game: Necropolis
+    identifier: Weapon Randomizer
+    url: https://www.nexusmods.com/necropolis/mods/10
+    original: '- [Necropolis](https://www.nexusmods.com/necropolis/mods/10) (Weapon
+        Randomizer)'

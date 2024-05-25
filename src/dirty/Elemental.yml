@@ -1,0 +1,9 @@
+name: Elemental
+comment: ''
+sub-series: []
+randomizers:
+-   game: Fallen Enchantress
+    identifier: Randomized Monsters
+    url: https://www.nexusmods.com/fallenenchantress/mods/55
+    original: '- [Fallen Enchantress](https://www.nexusmods.com/fallenenchantress/mods/55)
+        (Randomized Monsters)'

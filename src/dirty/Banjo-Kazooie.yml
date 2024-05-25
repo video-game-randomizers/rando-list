@@ -1,0 +1,9 @@
+name: Banjo-Kazooie
+comment: ''
+sub-series: []
+randomizers:
+-   game: Banjo-Kazooie
+    identifier: Giant Jigglypuff's
+    url: https://github.com/CyrusKashef/BK_Randomizer
+    original: '- [Banjo-Kazooie](https://github.com/CyrusKashef/BK_Randomizer) (Giant
+        Jigglypuff''s)'

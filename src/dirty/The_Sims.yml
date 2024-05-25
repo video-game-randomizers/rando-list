@@ -1,0 +1,9 @@
+name: The Sims
+comment: ''
+sub-series: []
+randomizers:
+-   game: The Sims 4
+    identifier: NPC Skill Randomizer
+    url: https://www.nexusmods.com/thesims4/mods/1349?tab=description
+    original: '- [The Sims 4](https://www.nexusmods.com/thesims4/mods/1349?tab=description)
+        (NPC Skill Randomizer)'

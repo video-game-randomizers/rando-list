@@ -1,0 +1,27 @@
+name: Undertale
+comment: ''
+sub-series: []
+randomizers:
+-   game: Undertale
+    identifier: Geno Randomizer
+    url: https://gamejolt.com/games/UndertaleGenoRandomizer/604714
+    original: '- [Undertale](https://gamejolt.com/games/UndertaleGenoRandomizer/604714)
+        (Geno Randomizer)'
+-   game: null
+    identifier: null
+    url: null
+    original: '- Undertale - _See at end of list: Multi-series, Connected worlds_'
+-   game: Deltarune (SURVEY_PROGRAM)
+    identifier: Deltarando
+    url: https://discord.com/invite/WwVB9sxd47
+    original: '- [Deltarune (SURVEY_PROGRAM)](https://discord.com/invite/WwVB9sxd47)
+        (Deltarando) - Discord account required - Located in the #resources channel
+        - Randomizes Chapter 1'
+    comment: '- Discord account required - Located in the #resources channel - Randomizes
+        Chapter 1'
+-   game: Deltarune (Chapter 1&2)
+    identifier: Chapter 2 Encounter Randomizer
+    url: https://gamebanana.com/mods/405974
+    original: '- [Deltarune (Chapter 1&2)](https://gamebanana.com/mods/405974) (Chapter
+        2 Encounter Randomizer) - Randomizes Chapter 2'
+    comment: '- Randomizes Chapter 2'

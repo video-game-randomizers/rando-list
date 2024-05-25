@@ -1,0 +1,8 @@
+name: Zanac
+comment: ''
+sub-series: []
+randomizers:
+-   game: Zanac
+    identifier: Omaha's
+    url: https://www.zanacga.me/
+    original: '- [Zanac](https://www.zanacga.me/) (Omaha''s)'

@@ -1,0 +1,8 @@
+name: Alundra
+comment: ''
+sub-series: []
+randomizers:
+-   game: Alundra
+    identifier: Dinopony's
+    url: https://github.com/Dinopony/alundra-randomizer
+    original: '- [Alundra](https://github.com/Dinopony/alundra-randomizer) (Dinopony''s)'

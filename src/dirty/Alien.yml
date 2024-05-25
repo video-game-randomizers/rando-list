@@ -1,0 +1,9 @@
+name: Alien
+comment: ''
+sub-series: []
+randomizers:
+-   game: 'Alien: Isolation'
+    identifier: Mission Randomiser
+    url: https://www.nexusmods.com/alienisolation/mods/47
+    original: '- [Alien: Isolation](https://www.nexusmods.com/alienisolation/mods/47)
+        (Mission Randomiser)'

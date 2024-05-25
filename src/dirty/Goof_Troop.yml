@@ -1,0 +1,8 @@
+name: Goof Troop
+comment: ''
+sub-series: []
+randomizers:
+-   game: Goof Troop
+    identifier: Niamek's
+    url: https://github.com/GB127/GT-Rando/releases
+    original: '- [Goof Troop](https://github.com/GB127/GT-Rando/releases) (Niamek''s)'

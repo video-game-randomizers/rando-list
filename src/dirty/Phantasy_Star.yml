@@ -1,0 +1,19 @@
+name: Phantasy Star
+comment: ''
+sub-series: []
+randomizers:
+-   game: Phantasy Star II
+    identifier: LadyStarbird's
+    url: https://github.com/MrStarbird/PSII-Randomizer/releases
+    original: '- [Phantasy Star II](https://github.com/MrStarbird/PSII-Randomizer/releases)
+        (LadyStarbird''s)'
+-   game: 'Phantasy Star IV: The End of the Millennium'
+    identifier: LadyStarbird's, 2018
+    url: https://github.com/MrStarbird/PStar4-Randomizer
+    original: '- [Phantasy Star IV: The End of the Millennium](https://github.com/MrStarbird/PStar4-Randomizer)
+        (LadyStarbird''s, 2018)'
+-   game: 'Phantasy Star IV: The End of the Millennium'
+    identifier: Profound Disorder
+    url: https://sites.google.com/view/ps4-pd/home
+    original: '- [Phantasy Star IV: The End of the Millennium](https://sites.google.com/view/ps4-pd/home)
+        (Profound Disorder)'

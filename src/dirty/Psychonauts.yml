@@ -1,0 +1,8 @@
+name: Psychonauts
+comment: ''
+sub-series: []
+randomizers:
+-   game: Psychonauts
+    identifier: PsychoRando
+    url: https://github.com/Akashortstack/PsychoRando
+    original: '- [Psychonauts](https://github.com/Akashortstack/PsychoRando) (PsychoRando)'

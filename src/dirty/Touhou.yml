@@ -1,0 +1,13 @@
+name: Touhou
+comment: ''
+sub-series: []
+randomizers:
+-   game: Gensokyo no Nazo (Atlantis no Nazo fangame)
+    identifier: Ryason55's
+    url: https://github.com/Ryason55/gnazo_randomizer
+    original: '- [Gensokyo no Nazo (Atlantis no Nazo fangame)](https://github.com/Ryason55/gnazo_randomizer)
+        (Ryason55''s)'
+-   game: null
+    identifier: null
+    url: null
+    original: '- Touhou Luna Nights - _See at end of list: Multi-series, Other_'

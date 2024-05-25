@@ -1,0 +1,8 @@
+name: Quest
+comment: ''
+sub-series: []
+randomizers:
+-   game: Quest 64
+    identifier: Merrow
+    url: https://hangedman.itch.io/merrow
+    original: '- [Quest 64](https://hangedman.itch.io/merrow) (Merrow)'

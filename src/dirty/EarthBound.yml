@@ -1,0 +1,40 @@
+name: EarthBound
+comment: ''
+sub-series: []
+randomizers:
+-   game: EarthBound Beginnings
+    identifier: Agent Ape's
+    url: https://forum.starmen.net/forum/Community/PKHack/EarthBound-Zero-Randomizer-Updated-9-6-14
+    original: '- [EarthBound Beginnings](https://forum.starmen.net/forum/Community/PKHack/EarthBound-Zero-Randomizer-Updated-9-6-14)
+        (Agent Ape''s)'
+-   game: EarthBound
+    identifier: Bizarre Dimension
+    url: https://github.com/abyssonym/bizarre_dimension
+    original: '- [EarthBound](https://github.com/abyssonym/bizarre_dimension) (Bizarre
+        Dimension) - _OBSOLETE_'
+    obsolete: true
+-   game: EarthBound
+    identifier: Chaz's
+    url: https://earthbound.app/
+    original: '- [EarthBound](https://earthbound.app/) (Chaz''s)'
+-   game: EarthBound
+    identifier: PK Scramble
+    url: https://pkscramble.com/
+    original: '- [EarthBound](https://pkscramble.com/) (PK Scramble)'
+-   game: EarthBound
+    identifier: Rydel's Reshuffler
+    url: https://secure.fangamer.com/forum/Community/PKHack/EarthBound-Reshuffler-2-0
+    original: '- [EarthBound](https://secure.fangamer.com/forum/Community/PKHack/EarthBound-Reshuffler-2-0)
+        (Rydel''s Reshuffler) - _OBSOLETE_'
+    obsolete: true
+-   game: EarthBound
+    identifier: Tomato's Reshuffler
+    url: https://earthboundcentral.com/reshuffler/
+    original: '- [EarthBound](https://earthboundcentral.com/reshuffler/) (Tomato''s
+        Reshuffler) - _OBSOLETE_'
+    obsolete: true
+-   game: Mother 3
+    identifier: Lorenzooone's
+    url: https://forum.starmen.net/forum/Community/PKHack/Mother-3-Randomizer-Version-0-0-1
+    original: '- [Mother 3](https://forum.starmen.net/forum/Community/PKHack/Mother-3-Randomizer-Version-0-0-1)
+        (Lorenzooone''s)'

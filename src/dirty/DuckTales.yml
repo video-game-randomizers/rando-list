@@ -1,0 +1,9 @@
+name: DuckTales
+comment: ''
+sub-series: []
+randomizers:
+-   game: DuckTales
+    identifier: Micheil Skeens's
+    url: https://micheilskeens.com/duck-tales-randomizer.php
+    original: '- [DuckTales](https://micheilskeens.com/duck-tales-randomizer.php)
+        (Micheil Skeens''s)'

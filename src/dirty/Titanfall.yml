@@ -1,0 +1,12 @@
+name: Titanfall
+comment: ''
+sub-series: []
+randomizers:
+-   game: Titanfall 2
+    identifier: taskinoz's
+    url: https://github.com/taskinoz/Titanfall2-Randomizer
+    original: '- [Titanfall 2](https://github.com/taskinoz/Titanfall2-Randomizer)
+        (taskinoz''s) - [Official hints](https://github.com/taskinoz/Titanfall-Randomizer-Hints)
+        for new possible helmet locations'
+    comment: '- [Official hints](https://github.com/taskinoz/Titanfall-Randomizer-Hints)
+        for new possible helmet locations'

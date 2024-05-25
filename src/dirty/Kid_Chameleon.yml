@@ -1,0 +1,8 @@
+name: Kid Chameleon
+comment: ''
+sub-series: []
+randomizers:
+-   game: Kid Chameleon
+    identifier: Level Randomizer
+    url: https://www.romhacking.net/hacks/7490/
+    original: '- [Kid Chameleon](https://www.romhacking.net/hacks/7490/) (Level Randomizer)'

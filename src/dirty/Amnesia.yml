@@ -1,0 +1,9 @@
+name: Amnesia
+comment: ''
+sub-series: []
+randomizers:
+-   game: 'Amnesia: The Bunker'
+    identifier: Dog Tag Randomizer
+    url: https://www.nexusmods.com/amnesiathebunker/mods/3
+    original: '- [Amnesia: The Bunker](https://www.nexusmods.com/amnesiathebunker/mods/3)
+        (Dog Tag Randomizer)'

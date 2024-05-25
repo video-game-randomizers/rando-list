@@ -1,0 +1,10 @@
+name: Scourge of War
+comment: ''
+sub-series: []
+randomizers:
+-   game: 'Scourge of War: Gettysburg'
+    identifier: GCM Singleplayer Campaign
+    url: https://www.norbsoftdev.net/index.php/kunena/modifications/44306-gcm-singleplayer-campaign
+    original: '- [Scourge of War: Gettysburg](https://www.norbsoftdev.net/index.php/kunena/modifications/44306-gcm-singleplayer-campaign)
+        (GCM Singleplayer Campaign) - Stripped-down [offline version](https://www.norbsoftdev.net/index.php/kunena/garnier-s-campaign-mod/63173-gcm-offline-scenario-generator-for-sp-mp)'
+    comment: '- Stripped-down [offline version](https://www.norbsoftdev.net/index.php/kunena/garnier-s-campaign-mod/63173-gcm-offline-scenario-generator-for-sp-mp)'

@@ -1,0 +1,9 @@
+name: Vagrant Story
+comment: ''
+sub-series: []
+randomizers:
+-   game: Vagrant Story
+    identifier: ChaoticBrave's
+    url: https://github.com/ChaoticBrave/VagrantStoryRandomizer
+    original: "- [Vagrant Story](https://github.com/ChaoticBrave/VagrantStoryRandomizer)\
+        \ (ChaoticBrave's)\t"

@@ -1,0 +1,14 @@
+name: Lufia
+comment: ''
+sub-series: []
+randomizers:
+-   game: 'Lufia II: Rise of the Sinistrals'
+    identifier: Terror Wave
+    url: https://abyssonym.wordpress.com/2017/09/12/lufia-2-terror-wave-new-randomizer/
+    original: '- [Lufia II: Rise of the Sinistrals](https://abyssonym.wordpress.com/2017/09/12/lufia-2-terror-wave-new-randomizer/)
+        (Terror Wave)'
+-   game: null
+    identifier: null
+    url: null
+    original: '- Lufia II: Rise of the Sinistrals - _See at end of list: Multi-series,
+        Connected worlds_'

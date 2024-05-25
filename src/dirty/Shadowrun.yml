@@ -1,0 +1,8 @@
+name: Shadowrun
+comment: ''
+sub-series: []
+randomizers:
+-   game: Shadowrun
+    identifier: Osteoclave's
+    url: https://github.com/Osteoclave/shadowrun-randomizer
+    original: '- [Shadowrun](https://github.com/Osteoclave/shadowrun-randomizer) (Osteoclave''s)'

@@ -1,0 +1,18 @@
+name: Unreal
+comment: ''
+sub-series: []
+randomizers:
+-   game: Unreal Gold
+    identifier: Die4Ever's
+    url: https://github.com/Die4Ever/unreal-randomizer
+    original: '- [Unreal Gold](https://github.com/Die4Ever/unreal-randomizer) (Die4Ever''s)'
+-   game: Unreal Tournament
+    identifier: Map Randomizer
+    url: https://www.gweb.me.uk/gweb/ut_mr.htm
+    original: '- [Unreal Tournament](https://www.gweb.me.uk/gweb/ut_mr.htm) (Map Randomizer)
+        - _OBSOLETE_'
+    obsolete: true
+-   game: Unreal Tournament
+    identifier: XMaps
+    url: https://www.gweb.me.uk/xmaps/index.html
+    original: '- [Unreal Tournament](https://www.gweb.me.uk/xmaps/index.html) (XMaps)'

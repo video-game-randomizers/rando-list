@@ -1,0 +1,57 @@
+name: Kingdom Hearts
+comment: ''
+sub-series: []
+randomizers:
+-   game: Kingdom Hearts Final Mix
+    identifier: KHPCSpeedrunTools
+    url: https://github.com/Denhonator/KHPCSpeedrunTools
+    original: '- [Kingdom Hearts Final Mix](https://github.com/Denhonator/KHPCSpeedrunTools)
+        (KHPCSpeedrunTools) - Mod collection with bundled randomizer'
+    comment: '- Mod collection with bundled randomizer'
+-   game: Critical Mix (Kingdom Hearts Final Mix mod)
+    identifier: Xendra's
+    url: https://www.nexusmods.com/kingdomheartsfinalmix/mods/96
+    original: '- [Critical Mix (Kingdom Hearts Final Mix mod)](https://www.nexusmods.com/kingdomheartsfinalmix/mods/96)
+        (Xendra''s) - Old [PS2 version](https://docs.google.com/document/d/1eUGd_Bdf2PtMWP8JjbdddNeLknfWiij2F0lLXlE0lWc/edit)
+        which requires special emulator'
+    comment: '- Old [PS2 version](https://docs.google.com/document/d/1eUGd_Bdf2PtMWP8JjbdddNeLknfWiij2F0lLXlE0lWc/edit)
+        which requires special emulator'
+-   game: 'Kingdom Hearts: Chain of Memories'
+    identifier: gaithern's
+    url: https://github.com/gaithern/Archipelago/releases
+    original: '- [Kingdom Hearts: Chain of Memories](https://github.com/gaithern/Archipelago/releases)
+        (gaithern''s) - Requires [Archipelago](https://archipelago.gg/)'
+    comment: '- Requires [Archipelago](https://archipelago.gg/)'
+-   game: Kingdom Hearts II Final Mix
+    identifier: Door Randomizer
+    url: https://www.nexusmods.com/kingdomhearts2finalmix/mods/116
+    original: '- [Kingdom Hearts II Final Mix](https://www.nexusmods.com/kingdomhearts2finalmix/mods/116)
+        (Door Randomizer) - PS2 version requires special emulator - [Source code](https://github.com/MainMemory/KH2DoorRando)'
+    comment: '- PS2 version requires special emulator - [Source code](https://github.com/MainMemory/KH2DoorRando)'
+-   game: Kingdom Hearts II Final Mix
+    identifier: Tommadness & thundrio's
+    url: https://tommadness.github.io/KH2Randomizer/
+    original: '- [Kingdom Hearts II Final Mix](https://tommadness.github.io/KH2Randomizer/)
+        (Tommadness & thundrio''s) - PS2 version requires special emulator'
+    comment: '- PS2 version requires special emulator'
+-   game: Kingdom Hearts II Final Mix
+    identifier: Valaxor's
+    url: https://randomizer.valaxor.com/#/seed
+    original: '- [Kingdom Hearts II Final Mix](https://randomizer.valaxor.com/#/seed)
+        (Valaxor''s) - _OBSOLETE_'
+    obsolete: true
+-   game: null
+    identifier: null
+    url: null
+    original: '- Kingdom Hearts II Final Mix - _See at end of list: Multi-series,
+        Connected worlds_'
+-   game: Kingdom Hearts Birth by Sleep Final Mix
+    identifier: Keytotruth's
+    url: https://github.com/Truthkey/Birth-by-Sleep-Randomizer
+    original: '- [Kingdom Hearts Birth by Sleep Final Mix](https://github.com/Truthkey/Birth-by-Sleep-Randomizer)
+        (Keytotruth''s)'
+-   game: Kingdom Hearts III
+    identifier: WaterKH's
+    url: https://kh3-randomizer-2ivd7.ondigitalocean.app/
+    original: '- [Kingdom Hearts III](https://kh3-randomizer-2ivd7.ondigitalocean.app/)
+        (WaterKH''s)'

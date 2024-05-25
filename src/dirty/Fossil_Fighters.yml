@@ -1,0 +1,14 @@
+name: Fossil Fighters
+comment: ''
+sub-series: []
+randomizers:
+-   game: Fossil Fighters
+    identifier: opiter09's
+    url: https://github.com/opiter09/Fossil-Fighters-Randomizer
+    original: '- [Fossil Fighters](https://github.com/opiter09/Fossil-Fighters-Randomizer)
+        (opiter09''s)'
+-   game: 'Fossil Fighters: Champions'
+    identifier: opiter09's
+    url: https://github.com/opiter09/Fossil-Fighters-Champions-Randomizer
+    original: '- [Fossil Fighters: Champions](https://github.com/opiter09/Fossil-Fighters-Champions-Randomizer)
+        (opiter09''s)'

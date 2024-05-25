@@ -1,0 +1,9 @@
+name: The 7th Saga
+comment: ''
+sub-series: []
+randomizers:
+-   game: The 7th Saga
+    identifier: gameboy9's
+    url: https://github.com/gameboy9/7thSagaRando/releases
+    original: '- [The 7th Saga](https://github.com/gameboy9/7thSagaRando/releases)
+        (gameboy9''s)'

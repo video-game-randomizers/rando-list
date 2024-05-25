@@ -1,0 +1,10 @@
+name: Crystal Project
+comment: ''
+sub-series: []
+randomizers:
+-   game: Crystal Project
+    identifier: LtSquigs's
+    url: https://github.com/LtSquigs/crystal-project-randomizer
+    original: '- [Crystal Project](https://github.com/LtSquigs/crystal-project-randomizer)
+        (LtSquigs''s) - _OBSOLETE_'
+    obsolete: true

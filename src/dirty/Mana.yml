@@ -1,0 +1,16 @@
+name: Mana
+comment: ''
+sub-series: []
+randomizers:
+-   game: Secret of Mana
+    identifier: Mop's
+    url: https://secretofmanaancientcave.blogspot.com/
+    original: '- [Secret of Mana](https://secretofmanaancientcave.blogspot.com/) (Mop''s)'
+-   game: Sin of Mana (Trials of Mana hack)
+    identifier: praetarius5018's
+    url: http://ngplus.net/index.php?/files/file/28-seiken-densetsu-3-sin-of-mana/
+    original: '- [Sin of Mana (Trials of Mana hack)](http://ngplus.net/index.php?/files/file/28-seiken-densetsu-3-sin-of-mana/)
+        (praetarius5018''s) - Randomizer listed as separate download along with previous
+        versions of the main hack'
+    comment: '- Randomizer listed as separate download along with previous versions
+        of the main hack'

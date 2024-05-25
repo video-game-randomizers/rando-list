@@ -1,0 +1,27 @@
+name: Shining
+comment: ''
+sub-series: []
+randomizers:
+-   game: Shining Force
+    identifier: Join Order Randomizer
+    url: https://forums.shiningforcecentral.com/viewtopic.php?t=45800
+    original: '- [Shining Force](https://forums.shiningforcecentral.com/viewtopic.php?t=45800)
+        (Join Order Randomizer)'
+-   game: Shining Force II
+    identifier: Scrambled Force II
+    url: https://forums.shiningforcecentral.com/viewtopic.php?f=5&t=15502
+    original: '- [Shining Force II](https://forums.shiningforcecentral.com/viewtopic.php?f=5&t=15502)
+        (Scrambled Force II)'
+-   game: Shining Force II
+    identifier: Shining Chaos Prelude
+    url: https://www.romhacking.net/hacks/5809/
+    original: '- [Shining Force II](https://www.romhacking.net/hacks/5809/) (Shining
+        Chaos Prelude)'
+-   game: Shining Force III
+    identifier: Chaos
+    url: https://sf3transftp.shiningforcecentral.com/Mods/
+    original: '- [Shining Force III](https://sf3transftp.shiningforcecentral.com/Mods/)
+        (Chaos) - More information in the [Shining Force III Translation Project Progress
+        Report May 2022](https://sf3trans.shiningforcecentral.com/2022/05/11/progress-report-may-2022/)'
+    comment: '- More information in the [Shining Force III Translation Project Progress
+        Report May 2022](https://sf3trans.shiningforcecentral.com/2022/05/11/progress-report-may-2022/)'

@@ -1,0 +1,14 @@
+name: Like a Dragon
+comment: ''
+sub-series: []
+randomizers:
+-   game: 'Yakuza: Like a Dragon'
+    identifier: Enemy Randomizer
+    url: https://www.nexusmods.com/yakuzalikeadragon/mods/147
+    original: '- [Yakuza: Like a Dragon](https://www.nexusmods.com/yakuzalikeadragon/mods/147)
+        (Enemy Randomizer)'
+-   game: 'Like a Dragon: Infinite Wealth'
+    identifier: Zoo's
+    url: https://www.nexusmods.com/likeadragoninfinitewealth/mods/145
+    original: '- [Like a Dragon: Infinite Wealth](https://www.nexusmods.com/likeadragoninfinitewealth/mods/145)
+        (Zoo''s)'

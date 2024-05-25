@@ -1,0 +1,30 @@
+name: Golden Sun
+comment: ''
+sub-series: []
+randomizers:
+-   game: Golden Sun
+    identifier: MarvinXLII's
+    url: https://web.archive.org/web/20210418021402/https://forum.goldensunhacking.net/index.php?action=downloads;sa=view;down=120
+    original: '- [Golden Sun](https://web.archive.org/web/20210418021402/https://forum.goldensunhacking.net/index.php?action=downloads;sa=view;down=120)
+        (MarvinXLII''s) - _OBSOLETE_'
+    obsolete: true
+-   game: Golden Sun
+    identifier: Valyssa's
+    url: https://github.com/Valyssa/GS-Randomizer
+    original: '- [Golden Sun](https://github.com/Valyssa/GS-Randomizer) (Valyssa''s)'
+-   game: Golden Sun
+    identifier: MarvinXLII's
+    url: https://web.archive.org/web/20210418021402/https://forum.goldensunhacking.net/index.php?action=downloads;sa=view;down=120
+    original: '- [Golden Sun](https://web.archive.org/web/20210418021402/https://forum.goldensunhacking.net/index.php?action=downloads;sa=view;down=120)
+        (MarvinXLII''s) - _OBSOLETE_'
+    obsolete: true
+-   game: 'Golden Sun: The Lost Age'
+    identifier: Karanum's
+    url: https://gs2randomiser.com/
+    original: '- [Golden Sun: The Lost Age](https://gs2randomiser.com/) (Karanum''s)'
+-   game: 'Golden Sun: The Lost Age'
+    identifier: MarvinXLII's
+    url: https://web.archive.org/web/20210401215000/http://forum.goldensunhacking.net/index.php?action=downloads;sa=view;down=122
+    original: '- [Golden Sun: The Lost Age](https://web.archive.org/web/20210401215000/http://forum.goldensunhacking.net/index.php?action=downloads;sa=view;down=122)
+        (MarvinXLII''s) - _OBSOLETE_'
+    obsolete: true
