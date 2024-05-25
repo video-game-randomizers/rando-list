@@ -2,7 +2,8 @@ name: Doom
 comment: null
 sub-series: null
 randomizers:
--   game: null
+-   games:
+    - null
     identifier: null
     url: null
     original: '- Doom (Ultimate) / Doom II / Final Doom / Harmony (fangame) - _See
@@ -38,7 +39,8 @@ randomizers:
     url: https://www.doomworld.com/forum/topic/112713-v104-vandomizer-a-vanilla-randomizer-for-gzdoom/
     original: '- [Doom (Ultimate) / Doom II](https://www.doomworld.com/forum/topic/112713-v104-vandomizer-a-vanilla-randomizer-for-gzdoom/)
         (Vandomizer)'
--   game: null
+-   games:
+    - null
     identifier: null
     url: null
     original: '- Doom (Ultimate) / Doom II - _See at end of list: Multi-series, Connected

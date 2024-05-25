@@ -44,7 +44,7 @@ for line in md.splitlines():
     m = re.match(r'^- \[(.+?)\]\((.+?)\)( \((.*?)\))?(.*)$', line)
     if not m:
         series[current]['randomizers'].append({
-            'game': None,
+            'games': [None],
             'identifier': None,
             'url': None,
             'original': line
@@ -63,7 +63,7 @@ for line in md.splitlines():
     if subheading == 'Connected worlds':
         data['multiworld'] = True
     if subheading:
-        data['subheading'] = subheading
+        data['sub-series'] = subheading
     if obsolete:
         data['obsolete'] = obsolete
     if comment:

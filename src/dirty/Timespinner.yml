@@ -7,7 +7,8 @@ randomizers:
     identifier: Jarno's
     url: https://github.com/Jarno458/TsRandomizer
     original: '- [Timespinner](https://github.com/Jarno458/TsRandomizer) (Jarno''s)'
--   game: null
+-   games:
+    - null
     identifier: null
     url: null
     original: '- Timespinner - _See at end of list: Multi-series, Connected worlds_'

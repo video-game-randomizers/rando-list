@@ -30,7 +30,8 @@ randomizers:
         - _OBSOLETE_'
     obsolete: true
     comment: '- [Source code](https://github.com/cTooshi/stardew-valley-randomizer)'
--   game: null
+-   games:
+    - null
     identifier: null
     url: null
     original: '- Stardew Valley - _See at end of list: Multi-series, Connected worlds_'

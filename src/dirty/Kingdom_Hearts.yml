@@ -46,7 +46,8 @@ randomizers:
     original: '- [Kingdom Hearts II Final Mix](https://randomizer.valaxor.com/#/seed)
         (Valaxor''s) - _OBSOLETE_'
     obsolete: true
--   game: null
+-   games:
+    - null
     identifier: null
     url: null
     original: '- Kingdom Hearts II Final Mix - _See at end of list: Multi-series,

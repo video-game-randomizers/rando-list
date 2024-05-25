@@ -8,7 +8,8 @@ randomizers:
     url: https://gamejolt.com/games/UndertaleGenoRandomizer/604714
     original: '- [Undertale](https://gamejolt.com/games/UndertaleGenoRandomizer/604714)
         (Geno Randomizer)'
--   game: null
+-   games:
+    - null
     identifier: null
     url: null
     original: '- Undertale - _See at end of list: Multi-series, Connected worlds_'

@@ -8,7 +8,8 @@ randomizers:
     url: https://github.com/minous27/TheMessengerRandomizerMod
     original: '- [The Messenger](https://github.com/minous27/TheMessengerRandomizerMod)
         (Minous27''s)'
--   game: null
+-   games:
+    - null
     identifier: null
     url: null
     original: '- The Messenger - _See at end of list: Multi-series, Connected worlds_'

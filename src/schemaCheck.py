@@ -40,6 +40,7 @@ randomizer_schema = {
             "default": None
         },
         "obsolete": {"type": "boolean"},
+        "sub-series": MaybeString,
         "discord": ValidString,
         "community": ValidString,
         "contact": ValidString,

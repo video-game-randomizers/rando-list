@@ -27,7 +27,8 @@ randomizers:
     url: https://www.nexusmods.com/subnautica/mods/960
     original: '- [Subnautica](https://www.nexusmods.com/subnautica/mods/960) (Transition
         Randomiser)'
--   game: null
+-   games:
+    - null
     identifier: null
     url: null
     original: '- Subnautica - _See at end of list: Multi-series, Connected worlds_'

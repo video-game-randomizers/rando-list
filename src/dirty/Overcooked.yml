@@ -2,7 +2,8 @@ name: Overcooked
 comment: null
 sub-series: null
 randomizers:
--   game: null
+-   games:
+    - null
     identifier: null
     url: null
     original: '- Overcooked! 2 - _See at end of list: Multi-series, Connected worlds_'

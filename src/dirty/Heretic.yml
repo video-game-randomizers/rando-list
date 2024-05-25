@@ -2,12 +2,14 @@ name: Heretic
 comment: null
 sub-series: null
 randomizers:
--   game: null
+-   games:
+    - null
     identifier: null
     url: null
     original: '- Heretic / Hexen: Beyond Heretic - _See at end of list: Multi-series,
         id Software engines_'
--   game: null
+-   games:
+    - null
     identifier: null
     url: null
     original: '- Heretic - _See at end of list: Multi-series, Connected worlds_'

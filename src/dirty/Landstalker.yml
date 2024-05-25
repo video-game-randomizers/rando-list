@@ -8,7 +8,8 @@ randomizers:
     url: https://randstalker.ovh/
     original: '- [Landstalker: The Treasures of King Nole](https://randstalker.ovh/)
         (Randstalker)'
--   game: null
+-   games:
+    - null
     identifier: null
     url: null
     original: '- Landstalker: The Treasures of King Nole - _See at end of list: Multi-series,

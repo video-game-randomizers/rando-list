@@ -2,7 +2,8 @@ name: Hebereke
 comment: null
 sub-series: null
 randomizers:
--   game: null
+-   games:
+    - null
     identifier: null
     url: null
     original: '- Hebereke - _See at end of list: Multi-series, Other_'

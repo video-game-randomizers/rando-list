@@ -19,7 +19,8 @@ randomizers:
     identifier: firubii's
     url: https://github.com/firubii/kss-randomizer
     original: '- [Kirby Super Star](https://github.com/firubii/kss-randomizer) (firubii''s)'
--   game: null
+-   games:
+    - null
     identifier: null
     url: null
     original: '- Kirby''s Dream Land 3 - _See at end of list: Multi-series, Connected

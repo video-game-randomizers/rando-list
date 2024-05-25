@@ -101,7 +101,8 @@ randomizers:
         - Randomizing bosses may generate unwinnable games - _OBSOLETE_'
     obsolete: true
     comment: '- Randomizing bosses may generate unwinnable games'
--   game: null
+-   games:
+    - null
     identifier: null
     url: null
     original: '- Dark Souls III - _See at end of list: Multi-series, Connected worlds_'

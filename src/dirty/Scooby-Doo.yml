@@ -2,7 +2,8 @@ name: Scooby-Doo
 comment: null
 sub-series: null
 randomizers:
--   game: null
+-   games:
+    - null
     identifier: null
     url: null
     original: '- Scooby-Doo: Night of 100 Frights - _See at end of list: Multi-series,

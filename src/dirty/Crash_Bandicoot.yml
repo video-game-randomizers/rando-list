@@ -4,7 +4,8 @@ sub-series:
 - Main
 - Racing
 randomizers:
--   game: null
+-   games:
+    - null
     identifier: null
     url: null
     original: '- Crash Bandicoot / Crash Bandicoot 2: Cortex Strikes Back / Crash
@@ -16,8 +17,9 @@ randomizers:
     url: https://github.com/CDRomatron/CTTRRando
     original: '- [Crash Tag Team Racing](https://github.com/CDRomatron/CTTRRando)
         (CDRomatron''s)'
-    subheading: Racing
--   game: null
+    sub-series: Racing
+-   games:
+    - null
     identifier: null
     url: null
     original: '- Crash Nitro Kart / Crash Tag Team Racing - _See at end of list: Multi-series,

@@ -22,7 +22,8 @@ randomizers:
     original: '- [Terraria](https://forums.terraria.org/index.php?threads/randomizer-challenge-mod.83163/)
         (JamSnack''s) - Requires [tModLoader](https://tmodloader.net/)'
     comment: '- Requires [tModLoader](https://tmodloader.net/)'
--   game: null
+-   games:
+    - null
     identifier: null
     url: null
     original: '- Terraria - _See at end of list: Multi-series, Connected worlds_'

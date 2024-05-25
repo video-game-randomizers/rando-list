@@ -141,7 +141,7 @@ randomizers:
         \ / Castlevania (Nintendo 64) / A Short Hike / Yoshi's Island](https://archipelago.gg/)\
         \ (Archipelago) - List of [additional extensions in development](https://multiworld.news/apworlds.html)"
     multiworld: true
-    subheading: Connected worlds
+    sub-series: Connected worlds
     comment: '- List of [additional extensions in development](https://multiworld.news/apworlds.html)'
 -   games:
     - 'Castlevania: Harmony of Dissonance'
@@ -151,7 +151,7 @@ randomizers:
     original: '- [Castlevania: Harmony of Dissonance / Bomberman Tournament](https://hodbt.surge.sh/)
         (HoDBT)'
     multiworld: true
-    subheading: Connected worlds
+    sub-series: Connected worlds
 -   games:
     - Super Metroid
     - 'The Legend of Zelda: A Link to the Past'
@@ -160,7 +160,7 @@ randomizers:
     original: '- [Super Metroid / The Legend of Zelda: A Link to the Past](https://github.com/Vivelin/SMZ3Randomizer)
         (SMZ3 Cas'' Randomizer)'
     multiworld: true
-    subheading: Connected worlds
+    sub-series: Connected worlds
 -   games:
     - Super Metroid
     - 'The Legend of Zelda: A Link to the Past'
@@ -169,7 +169,7 @@ randomizers:
     original: '- [Super Metroid / The Legend of Zelda: A Link to the Past](https://samus.link/)
         (Super Metroid and A Link to the Past'
     multiworld: true
-    subheading: Connected worlds
+    sub-series: Connected worlds
     comment: (Super Metroid and A Link to the Past
 -   games:
     - AM2R (Metroid fangame)
@@ -185,7 +185,7 @@ randomizers:
         / Metroid Prime / Metroid Prime 2: Echoes / Metroid: Samus Returns](https://randovania.org/)
         (Randovania)'
     multiworld: true
-    subheading: Connected worlds
+    sub-series: Connected worlds
 -   games:
     - The Legend of Zelda
     - Metroid
@@ -193,7 +193,7 @@ randomizers:
     url: https://z1m1.info/
     original: '- [The Legend of Zelda / Metroid](https://z1m1.info/) (Z1M1)'
     multiworld: true
-    subheading: Connected worlds
+    sub-series: Connected worlds
 -   games:
     - Doom (Ultimate)
     - Doom II
@@ -207,7 +207,7 @@ randomizers:
     original: '- [Doom (Ultimate) / Doom II / Final Doom / Heretic / Hexen: Beyond
         Heretic / Strife / Chex Quest](https://forum.zdoom.org/viewtopic.php?f=45&t=51446)
         (CustomDoom) - _OBSOLETE_'
-    subheading: id Software engines
+    sub-series: id Software engines
     obsolete: true
 -   games:
     - Doom (Ultimate)
@@ -222,7 +222,7 @@ randomizers:
     original: '- [Doom (Ultimate) / Doom II / Final Doom / Heretic / Hexen: Beyond
         Heretic / Strife / Chex Quest](https://forum.zdoom.org/viewtopic.php?f=43&t=64678)
         (Universal Custom Doom)'
-    subheading: id Software engines
+    sub-series: id Software engines
 -   games:
     - Doom (Ultimate)
     - Doom II
@@ -236,7 +236,7 @@ randomizers:
     original: '- [Doom (Ultimate) / Doom II / Final Doom / Heretic / Hexen: Beyond
         Heretic / Strife / Chex Quest](https://www.moddb.com/mods/universal-entropy)
         (Universal Entropy)'
-    subheading: id Software engines
+    sub-series: id Software engines
 -   games:
     - Doom (Ultimate)
     - Doom II
@@ -256,7 +256,7 @@ randomizers:
         (fangame) / Hacx / Harmony (fangame) / Hexen: Beyond Heretic / Strife / Wolfenstein
         3D / Spear of Destiny / Super 3D Noah''s Ark](https://obsidian-level-maker.github.io/index.html)
         (OBSIDIAN)'
-    subheading: id Software engines
+    sub-series: id Software engines
 -   games:
     - Doom (Ultimate)
     - Doom II
@@ -271,7 +271,7 @@ randomizers:
         4.28 also supported [Hexen: Beyond Heretic / Quake / Quake II](https://sourceforge.net/projects/oblige/files/Oblige/4.28/)
         - Version 0.97 also had experimental support for [Wolfenstein 3D](https://sourceforge.net/projects/oblige/files/Oblige/0.97/)
         - _OBSOLETE_'
-    subheading: id Software engines
+    sub-series: id Software engines
     obsolete: true
     comment: '- Unofficial [64-bit executable](https://forum.zdoom.org/viewtopic.php?f=44&t=64879)
         - Extensive add-on [ObAddon](https://github.com/caligari87/ObAddon/) - Add-on
@@ -287,7 +287,7 @@ randomizers:
     url: https://samiam.org/obhack/
     original: '- [Doom (Ultimate) / Doom II / Final Doom / Heretic](https://samiam.org/obhack/)
         (ObHack) - _OBSOLETE_'
-    subheading: id Software engines
+    sub-series: id Software engines
     obsolete: true
 -   games:
     - Doom (Ultimate)
@@ -296,7 +296,7 @@ randomizers:
     url: https://forum.zdoom.org/viewtopic.php?f=43&t=72760
     original: '- [Doom (Ultimate) / Heretic](https://forum.zdoom.org/viewtopic.php?f=43&t=72760)
         (MOShuffle)'
-    subheading: id Software engines
+    sub-series: id Software engines
 -   games:
     - Duke Nukem 3D
     - Ion Fury
@@ -307,7 +307,7 @@ randomizers:
     url: https://github.com/Die4Ever/build-engine-randomizer
     original: '- [Duke Nukem 3D / Ion Fury / Shadow Warrior / Blood / PowerSlave (PC)](https://github.com/Die4Ever/build-engine-randomizer)
         (Build Engine Randomizer)'
-    subheading: Other
+    sub-series: Other
 -   games:
     - Crash Nitro Kart
     - Crash Twinsanity
@@ -323,7 +323,7 @@ randomizers:
         3: Hoodlum Havoc / Crash Bandicoot / Crash Bandicoot 2: Cortex Strikes Back
         / Crash Bandicoot: Warped / Crash Bandicoot: The Wrath of Cortex](https://github.com/TheBetaM/CrateModLoader)
         (Crate Mod Loader)'
-    subheading: Other
+    sub-series: Other
 -   games:
     - Hebereke
     - Willow (NES)
@@ -335,7 +335,7 @@ randomizers:
     original: '- [Hebereke / Willow (NES) / Mega Man X3 / Zero Project (Mega Man X3
         hack) / Breath of Fire](https://github.com/vinheim3/randomizers) (Dan Jia
         Randomizers) - Download code in local directory and open `index.html` to use'
-    subheading: Other
+    sub-series: Other
     comment: '- Download code in local directory and open `index.html` to use'
 -   games:
     - 'SpongeBob SquarePants: Battle for Bikini Bottom (GameCube'
@@ -351,7 +351,7 @@ randomizers:
         / PS2) / Scooby-Doo: Night of 100 Frights / The SpongeBob SquarePants Movie
         (GameCube / Xbox / PS2)](https://github.com/igorseabra4/IndustrialPark) (Industrial
         Park) - Level editor with bundled randomizer - [User guide](https://heavyironmodding.org/wiki/Randomizer)'
-    subheading: Other
+    sub-series: Other
     comment: '- Level editor with bundled randomizer - [User guide](https://heavyironmodding.org/wiki/Randomizer)'
 -   games:
     - Touhou Luna Nights
@@ -360,96 +360,116 @@ randomizers:
     url: https://github.com/Lakifume/Ladybug-Randomizer
     original: '- [Touhou Luna Nights / Record of Lodoss War: Deedlit in Wonder Labyrinth](https://github.com/Lakifume/Ladybug-Randomizer)
         (Ladybug Randomizer)'
-    subheading: Other
--   game: null
+    sub-series: Other
+-   games:
+    - null
     identifier: null
     url: null
     original: '- Official games and bundled tools.'
--   game: null
+-   games:
+    - null
     identifier: null
     url: null
     original: '- Game modification that randomizes itself rather than the game it
         is modifying.'
--   game: null
+-   games:
+    - null
     identifier: null
     url: null
     original: '- Located behind a paywall.'
--   game: null
+-   games:
+    - null
     identifier: null
     url: null
     original: '- Can easily be performed without game modifications or external logic
         trackers.'
--   game: null
+-   games:
+    - null
     identifier: null
     url: null
     original: '- No significant gameplay changes beyond superficial ones.'
--   game: null
+-   games:
+    - null
     identifier: null
     url: null
     original: '- Randomization requiring major modifications to the original moment-to-moment
         gameplay mechanics.'
--   game: null
+-   games:
+    - null
     identifier: null
     url: null
     original: '- Guaranteed to be beatable only by using expert techniques that trivializes
         the randomization.'
--   game: null
+-   games:
+    - null
     identifier: null
     url: null
     original: '- Pre-randomized data in the randomizer''s code.'
--   game: null
+-   games:
+    - null
     identifier: null
     url: null
     original: '- Incomplete coverage of a randomized data type within a standalone
         game mode.'
--   game: null
+-   games:
+    - null
     identifier: null
     url: null
     original: '- Random object injection within original game areas.'
--   game: null
+-   games:
+    - null
     identifier: null
     url: null
     original: '- Inconsistent outcomes within the same playthrough.'
--   game: null
+-   games:
+    - null
     identifier: null
     url: null
     original: '- Recurring random events triggered by seemingly-unrelated causes.'
--   game: null
+-   games:
+    - null
     identifier: null
     url: null
     original: '- Chaotic effects.'
--   game: null
+-   games:
+    - null
     identifier: null
     url: null
     original: '- For games with different versions, the list refers to the base game
         name only, unless an alternate version has significantly different gameplay
         content in which case it is considered a separate game.'
--   game: null
+-   games:
+    - null
     identifier: null
     url: null
     original: '- For games with official expansions or downloadable content, only
         the base game name is listed, even if said expansions or DLCs are required
         for the associated randomizer to work.'
--   game: null
+-   games:
+    - null
     identifier: null
     url: null
     original: '- If at least one official English name exists, the most current one
         is used, with American English prioritized over European English.'
--   game: null
+-   games:
+    - null
     identifier: null
     url: null
     original: '- Official Japanese names with no official English equivalent are romanized
         in modified Hepburn, with the exception of katakana which is directly translated.'
--   game: null
+-   games:
+    - null
     identifier: null
     url: null
     original: '- Whenever different games have identical names, the list refers to
         the one originally released, unless explicitely specified.'
--   game: null
+-   games:
+    - null
     identifier: null
     url: null
     original: '- Legal characters are omitted.'
--   game: null
+-   games:
+    - null
     identifier: null
     url: null
     original: '- Proper grammar is used over stylized writings.'

@@ -10,28 +10,28 @@ randomizers:
     identifier: BloodSweatAndCode's
     url: https://cv2r.kaelari.tech/
     original: '- [Castlevania II: Simon''s Quest](https://cv2r.kaelari.tech/) (BloodSweatAndCode''s)'
-    subheading: Classic
+    sub-series: Classic
 -   games:
     - 'Castlevania II: Simon''s Quest'
     identifier: Deadly Curse
     url: https://abyssonym.wordpress.com/2017/10/27/castlevania-2-deadly-curse/
     original: '- [Castlevania II: Simon''s Quest](https://abyssonym.wordpress.com/2017/10/27/castlevania-2-deadly-curse/)
         (Deadly Curse)'
-    subheading: Classic
+    sub-series: Classic
 -   games:
     - 'Castlevania III: Dracula''s Curse'
     identifier: Micheil Skeens's
     url: https://micheilskeens.com/castlevania-3-randomizer.php
     original: '- [Castlevania III: Dracula''s Curse](https://micheilskeens.com/castlevania-3-randomizer.php)
         (Micheil Skeens''s)'
-    subheading: Classic
+    sub-series: Classic
 -   games:
     - Super Castlevania IV
     identifier: RedGuy's
     url: https://www.romhacking.net/forum/index.php?topic=22494.msg346214#msg346214
     original: '- [Super Castlevania IV](https://www.romhacking.net/forum/index.php?topic=22494.msg346214#msg346214)
         (RedGuy''s)'
-    subheading: Classic
+    sub-series: Classic
 -   games:
     - 'Castlevania: Symphony of the Night (PlayStation'
     - Saturn)
@@ -40,7 +40,7 @@ randomizers:
     original: '- [Castlevania: Symphony of the Night (PlayStation / Saturn)](https://github.com/MottZilla/SOTN_AR)
         (Area Randomizer) - Includes a Richter converter for Wild Mouse''s item randomizer,
         and a standalone Maria item randomizer'
-    subheading: Metroidvania
+    sub-series: Metroidvania
     comment: '- Includes a Richter converter for Wild Mouse''s item randomizer, and
         a standalone Maria item randomizer'
 -   games:
@@ -52,7 +52,7 @@ randomizers:
         and [PS1 2352 image EDC/ECC recalculator](https://www.romhacking.net/utilities/1264/)
         - Game data to patch should be named `Castlevania - Symphony of the Night
         (USA) (Track 1).bin` - _OBSOLETE_'
-    subheading: Metroidvania
+    sub-series: Metroidvania
     obsolete: true
     comment: '- Requires [Python 2](https://www.python.org/downloads/) and [PS1 2352
         image EDC/ECC recalculator](https://www.romhacking.net/utilities/1264/) -
@@ -63,22 +63,23 @@ randomizers:
     identifier: Wild Mouse's
     url: https://sotn.io/
     original: '- [Castlevania: Symphony of the Night](https://sotn.io/) (Wild Mouse''s)'
-    subheading: Metroidvania
+    sub-series: Metroidvania
 -   games:
     - 'Castlevania: Circle of the Moon'
     identifier: calm-palm's
     url: https://github.com/calm-palm/cotm-randomizer
     original: '- [Castlevania: Circle of the Moon](https://github.com/calm-palm/cotm-randomizer)
         (calm-palm''s)'
-    subheading: Metroidvania
+    sub-series: Metroidvania
 -   games:
     - 'Castlevania: Harmony of Dissonance'
     identifier: fusecv's
     url: https://hodrando.surge.sh/
     original: '- [Castlevania: Harmony of Dissonance](https://hodrando.surge.sh/)
         (fusecv''s)'
-    subheading: Metroidvania
--   game: null
+    sub-series: Metroidvania
+-   games:
+    - null
     identifier: null
     url: null
     original: '- Castlevania: Harmony of Dissonance - _See at end of list: Multi-series,
@@ -89,21 +90,21 @@ randomizers:
     url: https://github.com/abyssonym/aos_rando
     original: '- [Castlevania: Aria of Sorrow](https://github.com/abyssonym/aos_rando)
         (Item Randomizer)'
-    subheading: Metroidvania
+    sub-series: Metroidvania
 -   games:
     - 'Castlevania: Aria of Sorrow'
     identifier: Randomizer 2
     url: https://aosrando.surge.sh/
     original: '- [Castlevania: Aria of Sorrow](https://aosrando.surge.sh/) (Randomizer
         2)'
-    subheading: Metroidvania
+    sub-series: Metroidvania
 -   games:
     - 'Castlevania: Aria of Sorrow'
     identifier: Reprise
     url: https://www.romhacking.net/forum/index.php?topic=35962.0
     original: '- [Castlevania: Aria of Sorrow](https://www.romhacking.net/forum/index.php?topic=35962.0)
         (Reprise)'
-    subheading: Metroidvania
+    sub-series: Metroidvania
 -   games:
     - 'Castlevania: Dawn of Sorrow'
     - 'Castlevania: Portrait of Ruin'
@@ -112,8 +113,9 @@ randomizers:
     url: https://github.com/LagoLunatic/dsvrandom
     original: '- [Castlevania: Dawn of Sorrow / Castlevania: Portrait of Ruin / Castlevania:
         Order of Ecclesia](https://github.com/LagoLunatic/dsvrandom) (DSVania Randomizer)'
-    subheading: Metroidvania
--   game: null
+    sub-series: Metroidvania
+-   games:
+    - null
     identifier: null
     url: null
     original: '- Castlevania (Nintendo 64) - _See at end of list: Multi-series, Connected

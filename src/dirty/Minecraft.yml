@@ -27,7 +27,8 @@ randomizers:
     original: '- [Minecraft: Java Edition](https://www.spigotmc.org/resources/randomizer-1-13-1-16-x.77069/)
         (MotzlMotzt''s) - _OBSOLETE_'
     obsolete: true
--   game: null
+-   games:
+    - null
     identifier: null
     url: null
     original: '- Minecraft: Java Edition - _See at end of list: Multi-series, Connected

@@ -8,7 +8,8 @@ randomizers:
     url: https://mods.factorio.com/?version=1.1&search_order=updated&query=randomize
     original: '- [Factorio](https://mods.factorio.com/?version=1.1&search_order=updated&query=randomize)
         (Official Mod Portal - Randomizers)'
--   game: null
+-   games:
+    - null
     identifier: null
     url: null
     original: '- Factorio - _See at end of list: Multi-series, Connected worlds_'

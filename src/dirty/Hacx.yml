@@ -2,7 +2,8 @@ name: Hacx
 comment: null
 sub-series: null
 randomizers:
--   game: null
+-   games:
+    - null
     identifier: null
     url: null
     original: '- Hacx - _See at end of list: Multi-series, id Software engines_'

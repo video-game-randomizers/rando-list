@@ -14,7 +14,8 @@ randomizers:
     url: https://github.com/sigma144/witness-randomizer
     original: '- [The Witness](https://github.com/sigma144/witness-randomizer) (Witness
         Random Puzzle Generator)'
--   game: null
+-   games:
+    - null
     identifier: null
     url: null
     original: '- The Witness - _See at end of list: Multi-series, Connected worlds_'

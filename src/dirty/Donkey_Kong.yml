@@ -10,7 +10,7 @@ randomizers:
     identifier: Randomized Edition
     url: https://www.donkeykonghacks.net/
     original: '- [Donkey Kong](https://www.donkeykonghacks.net/) (Randomized Edition)'
-    subheading: Classic
+    sub-series: Classic
 -   games:
     - Donkey Kong Country
     - 'Donkey Kong Country 2: Diddy''s Kong Quest'
@@ -20,7 +20,7 @@ randomizers:
         (DKC Randomizer / DKC Entrance Rando / DKC2 Entrance Randomizer) - Located
         under ROM Hacks - DKC Randomizer randomizes animal buddies and enemies and
         requires an NA 1.0 ROM - Partial [source code](https://github.com/mike19283?tab=repositories)'
-    subheading: Country
+    sub-series: Country
     comment: '- Located under ROM Hacks - DKC Randomizer randomizes animal buddies
         and enemies and requires an NA 1.0 ROM - Partial [source code](https://github.com/mike19283?tab=repositories)'
 -   games:
@@ -29,8 +29,9 @@ randomizers:
     url: https://github.com/pozzum/DKC3Randomizer/releases
     original: '- [Donkey Kong Country 3: Dixie Kong''s Double Trouble](https://github.com/pozzum/DKC3Randomizer/releases)
         (Pozzum''s)'
-    subheading: Country
--   game: null
+    sub-series: Country
+-   games:
+    - null
     identifier: null
     url: null
     original: '- Donkey Kong Country 3: Dixie Kong''s Double Trouble - _See at end
@@ -40,7 +41,7 @@ randomizers:
     identifier: 2dos's, 2021
     url: https://dk64randomizer.com/
     original: '- [Donkey Kong 64](https://dk64randomizer.com/) (2dos''s, 2021)'
-    subheading: Country
+    sub-series: Country
 -   games:
     - Donkey Kong 64
     identifier: Loading Zone Randomizer
@@ -48,7 +49,7 @@ randomizers:
     original: '- [Donkey Kong 64](https://drive.google.com/file/d/1H21m7tiKPqRYNRh2O2R-KRcMT6nuyUJZ/view)
         (Loading Zone Randomizer) - Requires special emulator [BizHawk](https://tasvideos.org/BizHawk)
         - _OBSOLETE_'
-    subheading: Country
+    sub-series: Country
     obsolete: true
     comment: '- Requires special emulator [BizHawk](https://tasvideos.org/BizHawk)'
 -   games:
@@ -57,5 +58,5 @@ randomizers:
     url: https://acastelli.com/dkr/hacks/
     original: '- [Diddy Kong Racing](https://acastelli.com/dkr/hacks/) (acastelli''s)
         - Located under Randomizer'
-    subheading: Racing
+    sub-series: Racing
     comment: '- Located under Randomizer'

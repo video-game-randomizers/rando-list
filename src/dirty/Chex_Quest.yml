@@ -2,7 +2,8 @@ name: Chex Quest
 comment: null
 sub-series: null
 randomizers:
--   game: null
+-   games:
+    - null
     identifier: null
     url: null
     original: '- Chex Quest / Chex Quest 3 (fangame) - _See at end of list: Multi-series,

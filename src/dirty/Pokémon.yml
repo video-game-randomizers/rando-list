@@ -9,52 +9,61 @@ sub-series:
 - Spin-offs
 - Unofficial
 randomizers:
--   game: null
+-   games:
+    - null
     identifier: null
     url: null
     original: "- _**I**: Pok\xE9mon Red Version (international) / Pok\xE9mon Blue\
         \ Version (international) as **primary**, Pok\xE9mon Yellow Version: Special\
         \ Pikachu Edition as **secondary**_"
--   game: null
+-   games:
+    - null
     identifier: null
     url: null
     original: "- _**II**: Pok\xE9mon Gold Version / Pok\xE9mon Silver Version as **primary**,\
         \ Pok\xE9mon Crystal Version as **secondary**_"
--   game: null
+-   games:
+    - null
     identifier: null
     url: null
     original: "- _**III**: Pok\xE9mon Ruby Version / Pok\xE9mon Sapphire Version as\
         \ **primary**, Pok\xE9mon Emerald Version as **secondary**, Pok\xE9mon FireRed\
         \ Version / Pok\xE9mon LeafGreen Version as **remakes**_"
--   game: null
+-   games:
+    - null
     identifier: null
     url: null
     original: "- _**IV**: Pok\xE9mon Diamond Version / Pok\xE9mon Pearl Version as\
         \ **primary**, Pok\xE9mon Platinum Version as **secondary**, Pok\xE9mon HeartGold\
         \ Version / Pok\xE9mon SoulSilver Version as **remakes**_"
--   game: null
+-   games:
+    - null
     identifier: null
     url: null
     original: "- _**V**: Pok\xE9mon Black Version / Pok\xE9mon White Version as **primary**,\
         \ Pok\xE9mon Black Version 2, Pok\xE9mon White Version 2 as **secondary**_"
--   game: null
+-   games:
+    - null
     identifier: null
     url: null
     original: "- _**VI**: Pok\xE9mon X / Pok\xE9mon Y as **primary**, Pok\xE9mon Omega\
         \ Ruby / Pok\xE9mon Alpha Sapphire as **remakes**_"
--   game: null
+-   games:
+    - null
     identifier: null
     url: null
     original: "- _**VII**: Pok\xE9mon Sun / Pok\xE9mon Moon as **primary**, Pok\xE9\
         mon Ultra Sun / Pok\xE9mon Ultra Moon as **secondary**, Pok\xE9mon: Let's\
         \ Go Pikachu! / Pok\xE9mon: Let's Go Eevee! as **remakes**_"
--   game: null
+-   games:
+    - null
     identifier: null
     url: null
     original: "- _**VIII**: Pok\xE9mon Sword / Pok\xE9mon Shield as **primary**. Pok\xE9\
         mon Legends: Arceus as **secondary**, Pok\xE9mon Brillant Diamond / Pok\xE9\
         mon Shining Pearl as **remakes**_"
--   game: null
+-   games:
+    - null
     identifier: null
     url: null
     original: "- _**IX**: Pok\xE9mon Scarlet / Pok\xE9mon Violet as **primary**_"
@@ -65,14 +74,14 @@ randomizers:
     url: https://github.com/Ajarmar/universal-pokemon-randomizer-zx
     original: '- [(I-VII) Gens I to VI all / Gen VII primary & secondary](https://github.com/Ajarmar/universal-pokemon-randomizer-zx)
         (Universal Pokemon Randomizer ZX)'
-    subheading: Core
+    sub-series: Core
 -   games:
     - (I-V) Gens I to V all
     identifier: Universal Pokemon Randomizer
     url: https://pokehacks.dabomstew.com/randomizer/index.php
     original: '- [(I-V) Gens I to V all](https://pokehacks.dabomstew.com/randomizer/index.php)
         (Universal Pokemon Randomizer) - _OBSOLETE_'
-    subheading: Core
+    sub-series: Core
     obsolete: true
 -   games:
     - (I-III) Gens I to III all
@@ -86,8 +95,9 @@ randomizers:
         \ Pok\xE9mon Crystal Speedchoice (hack) / Pok\xE9mon Emerald Speedchoice (hack)\
         \ / Pok\xE9mon Emerald EX Speedchoice (hack)](https://github.com/NPO-197/PokemonTypeChartRandomizer)\
         \ (Type Chart Randomizer)"
-    subheading: Core
--   game: null
+    sub-series: Core
+-   games:
+    - null
     identifier: null
     url: null
     original: '- (I/III) Gen I primary / Gen III secondary - _See at end of list:
@@ -98,21 +108,21 @@ randomizers:
     url: http://artemis251.fobby.net/downloads/redblue/
     original: '- [(I) Gen I primary](http://artemis251.fobby.net/downloads/redblue/)
         (Artemis251''s) - _OBSOLETE_'
-    subheading: Core
+    sub-series: Core
     obsolete: true
 -   games:
     - (I) Gen I primary
     identifier: Key Item Randomizer
     url: https://stump.io/itemrando/
     original: '- [(I) Gen I primary](https://stump.io/itemrando/) (Key Item Randomizer)'
-    subheading: Core
+    sub-series: Core
 -   games:
     - (I) Gen I primary
     identifier: RAMdomizer
     url: https://github.com/NPO-197/PokemonRedBlue-RAMdomizer
     original: '- [(I) Gen I primary](https://github.com/NPO-197/PokemonRedBlue-RAMdomizer)
         (RAMdomizer) - _OBSOLETE_'
-    subheading: Core
+    sub-series: Core
     obsolete: true
 -   games:
     - (I) Gen I primary
@@ -120,7 +130,7 @@ randomizers:
     url: https://code.google.com/archive/p/red-blue-randomizer/
     original: '- [(I) Gen I primary](https://code.google.com/archive/p/red-blue-randomizer/)
         (Ubuntaur''s) - _OBSOLETE_'
-    subheading: Core
+    sub-series: Core
     obsolete: true
 -   games:
     - "(I) Pok\xE9mon Red Version (international)"
@@ -128,7 +138,7 @@ randomizers:
     url: https://sanqui.net/randomizer/#pokered
     original: "- [(I) Pok\xE9mon Red Version (international)](https://sanqui.net/randomizer/#pokered)\
         \ (Sanqui's) - [Source code](https://github.com/Sanqui/online-randomizer)"
-    subheading: Core
+    sub-series: Core
     comment: '- [Source code](https://github.com/Sanqui/online-randomizer)'
 -   games:
     - "(I) Pok\xE9mon Red Speedchoice (hack)"
@@ -138,7 +148,7 @@ randomizers:
         \ (Official) - Support and potential future versions available on the [Pokemon\
         \ Crystal Randomizer Central Discord server](https://discord.com/invite/nT56DbT)\
         \ in the #resources channel - [Source code](https://github.com/Dabomstew/UPR-Speedchoice)"
-    subheading: Core
+    sub-series: Core
     comment: '- Support and potential future versions available on the [Pokemon Crystal
         Randomizer Central Discord server](https://discord.com/invite/nT56DbT) in
         the #resources channel - [Source code](https://github.com/Dabomstew/UPR-Speedchoice)'
@@ -148,7 +158,7 @@ randomizers:
     url: https://code.google.com/archive/p/pokemon-randomiser/
     original: '- [(II-III) Gens II to III all](https://code.google.com/archive/p/pokemon-randomiser/)
         (pateandrew''s) - _OBSOLETE_'
-    subheading: Core
+    sub-series: Core
     obsolete: true
 -   games:
     - (II) Gen II secondary
@@ -157,21 +167,21 @@ randomizers:
     url: https://github.com/choatix/pokemon-crystal-map-randomizer
     original: "- [(II) Gen II secondary / Pok\xE9mon Crystal Speedchoice (hack)](https://github.com/choatix/pokemon-crystal-map-randomizer)\
         \ (Map Randomizer)"
-    subheading: Core
+    sub-series: Core
 -   games:
     - (II) Gen II secondary
     identifier: Randofuser
     url: https://github.com/xCrystal/crystal-randofuser/releases
     original: '- [(II) Gen II secondary](https://github.com/xCrystal/crystal-randofuser/releases)
         (Randofuser)'
-    subheading: Core
+    sub-series: Core
 -   games:
     - "(II) Pok\xE9mon Crystal Speedchoice (hack)"
     identifier: Item Randomizer
     url: https://github.com/choatix/Pokemon-Crystal-Item-Randomizer
     original: "- [(II) Pok\xE9mon Crystal Speedchoice (hack)](https://github.com/choatix/Pokemon-Crystal-Item-Randomizer)\
         \ (Item Randomizer)"
-    subheading: Core
+    sub-series: Core
 -   games:
     - (III-V) Gen III secondary & remakes
     - Gen IV secondary & remakes
@@ -181,7 +191,7 @@ randomizers:
     original: "- [(III-V) Gen III secondary & remakes / Gen IV secondary & remakes\
         \ / Pok\xE9mon White Version 2](https://warprandomizer.com/) (Universal Warp\
         \ Randomizer) - [Source code](https://warprandomizer.com//randomizer_py.zip)"
-    subheading: Core
+    sub-series: Core
     comment: '- [Source code](https://warprandomizer.com//randomizer_py.zip)'
 -   games:
     - (III) Gen III all
@@ -189,7 +199,7 @@ randomizers:
     url: https://code.google.com/archive/p/pokemon-reasonable-randomizer/
     original: '- [(III) Gen III all](https://code.google.com/archive/p/pokemon-reasonable-randomizer/)
         (Reasonable Randomizer)'
-    subheading: Core
+    sub-series: Core
 -   games:
     - "(III) Pok\xE9mon FireRed Version"
     - "Pok\xE9mon CrystalDust (hack)"
@@ -199,7 +209,7 @@ randomizers:
     original: "- [(III) Pok\xE9mon FireRed Version / Pok\xE9mon CrystalDust (hack)\
         \ / Pok\xE9mon Emerald Version](https://kittypboxx.github.io/GBAXG/) (GBAXG)\
         \ - Requires special emulator"
-    subheading: Core
+    sub-series: Core
     comment: '- Requires special emulator'
 -   games:
     - "(III) Pok\xE9mon FireRed Speedchoice (hack)"
@@ -207,7 +217,7 @@ randomizers:
     url: https://github.com/pikalaxalt/firered-speedchoice/releases
     original: "- [(III) Pok\xE9mon FireRed Speedchoice (hack)](https://github.com/pikalaxalt/firered-speedchoice/releases)\
         \ (Official) - Included in hack release"
-    subheading: Core
+    sub-series: Core
     comment: '- Included in hack release'
 -   games:
     - (III) Gen III secondary
@@ -215,7 +225,7 @@ randomizers:
     url: http://artemis251.fobby.net/downloads/emerald/
     original: '- [(III) Gen III secondary](http://artemis251.fobby.net/downloads/emerald/)
         (Artemis251''s) - _OBSOLETE_'
-    subheading: Core
+    sub-series: Core
     obsolete: true
 -   games:
     - (III) Gen III secondary
@@ -224,7 +234,7 @@ randomizers:
     original: '- [(III) Gen III secondary](https://github.com/shinyquagsire23/pokeemerald-warprandomizer)
         (pokeemerald warp randomizer) - Requires decompiled version of original game
         - _OBSOLETE_'
-    subheading: Core
+    sub-series: Core
     obsolete: true
     comment: '- Requires decompiled version of original game'
 -   games:
@@ -233,21 +243,21 @@ randomizers:
     url: https://ko-fi.com/s/b0c17d6f9d
     original: "- [(III) Gen III secondary](https://ko-fi.com/s/b0c17d6f9d) (Pok\xE9\
         mon Emerald Cross)"
-    subheading: Core
+    sub-series: Core
 -   games:
     - (III) Gen III secondary
     identifier: Pokemon Emerald Rogue
     url: https://www.pokecommunity.com/showthread.php?t=479406
     original: '- [(III) Gen III secondary](https://www.pokecommunity.com/showthread.php?t=479406)
         (Pokemon Emerald Rogue)'
-    subheading: Core
+    sub-series: Core
 -   games:
     - "(III) Pok\xE9mon Emerald Speedchoice (hack)"
     identifier: Official
     url: https://github.com/RevoSucks/pokeemerald-speedchoice/releases
     original: "- [(III) Pok\xE9mon Emerald Speedchoice (hack)](https://github.com/RevoSucks/pokeemerald-speedchoice/releases)\
         \ (Official) - Included in hack release"
-    subheading: Core
+    sub-series: Core
     comment: '- Included in hack release'
 -   games:
     - "(III) Pok\xE9mon Emerald EX Speedchoice (hack)"
@@ -256,7 +266,7 @@ randomizers:
     original: "- [(III) Pok\xE9mon Emerald EX Speedchoice (hack)](https://kittypboxx.github.io/Emerald-Ex-Map-Rando/dist/RomMaker/)\
         \ (Map Rando) - Source code [part 1](https://github.com/KittyPBoxx/Emerald-Ex-Map-Rando),\
         \ [part 2](https://github.com/KittyPBoxx/Emerald-Ex-Map-Rando)"
-    subheading: Core
+    sub-series: Core
     comment: '- Source code [part 1](https://github.com/KittyPBoxx/Emerald-Ex-Map-Rando),
         [part 2](https://github.com/KittyPBoxx/Emerald-Ex-Map-Rando)'
 -   games:
@@ -265,7 +275,7 @@ randomizers:
     url: https://github.com/RevoSucks/pokeemerald-ex-speedchoice/releases
     original: "- [(III) Pok\xE9mon Emerald EX Speedchoice (hack)](https://github.com/RevoSucks/pokeemerald-ex-speedchoice/releases)\
         \ (Official) - Included in hack release"
-    subheading: Core
+    sub-series: Core
     comment: '- Included in hack release'
 -   games:
     - (IV-V) Gen IV remakes
@@ -274,14 +284,14 @@ randomizers:
     url: https://github.com/adrienntindall/hgss-map-randomizer/releases
     original: '- [(IV-V) Gen IV remakes / Gen V secondary](https://github.com/adrienntindall/hgss-map-randomizer/releases)
         (Map Randomizer)'
-    subheading: Core
+    sub-series: Core
 -   games:
     - (IV) Gen IV secondary
     identifier: Entrance Randomizer
     url: https://github.com/SilverstarStream/pokemon-entrance-randomizer
     original: '- [(IV) Gen IV secondary](https://github.com/SilverstarStream/pokemon-entrance-randomizer)
         (Entrance Randomizer)'
-    subheading: Core
+    sub-series: Core
 -   games:
     - (VI-VII) Gen VI all
     - Gen VII primary
@@ -290,7 +300,7 @@ randomizers:
     url: https://projectpokemon.org/home/forums/topic/34377-pk3ds-xyoras-rom-editor-amp-randomizer/
     original: '- [(VI-VII) Gen VI all / Gen VII primary / Gen VII secondary](https://projectpokemon.org/home/forums/topic/34377-pk3ds-xyoras-rom-editor-amp-randomizer/)
         (pk3DS) - _OBSOLETE_'
-    subheading: Core
+    sub-series: Core
     obsolete: true
 -   games:
     - (VII-VIII) Gen VII remakes
@@ -299,14 +309,14 @@ randomizers:
     url: https://projectpokemon.org/home/forums/topic/48647-pknx-nintendo-switch-rom-editor-randomizer/
     original: '- [(VII-VIII) Gen VII remakes / Gen VIII primary](https://projectpokemon.org/home/forums/topic/48647-pknx-nintendo-switch-rom-editor-randomizer/)
         (pkNX)'
-    subheading: Core
+    sub-series: Core
 -   games:
     - (VIII) Gen VIII remakes
     identifier: Imposter's Ordeal
     url: https://gamebanana.com/tools/8385
     original: '- [(VIII) Gen VIII remakes](https://gamebanana.com/tools/8385) (Imposter''s
         Ordeal) - Modding tool with bundled randomizer'
-    subheading: Core
+    sub-series: Core
     comment: '- Modding tool with bundled randomizer'
 -   games:
     - (VIII) Gen VIII remakes
@@ -314,7 +324,7 @@ randomizers:
     url: https://gamebanana.com/tools/7848
     original: '- [(VIII) Gen VIII remakes](https://gamebanana.com/tools/7848) (SanGawku''s)
         - _OBSOLETE_'
-    subheading: Core
+    sub-series: Core
     obsolete: true
 -   games:
     - (IX) Gen IX primary
@@ -322,14 +332,14 @@ randomizers:
     url: https://github.com/Gonzalooo/Scarlet-and-Violet-Randomizer
     original: '- [(IX) Gen IX primary](https://github.com/Gonzalooo/Scarlet-and-Violet-Randomizer)
         (Gonzalo''s)'
-    subheading: Core
+    sub-series: Core
 -   games:
     - (IX) Gen IX primary
     identifier: XLuma's
     url: https://github.com/XLuma/SV-Randomizer
     original: '- [(IX) Gen IX primary](https://github.com/XLuma/SV-Randomizer) (XLuma''s)
         - _OBSOLETE_'
-    subheading: Core
+    sub-series: Core
     obsolete: true
 -   games:
     - (IX) Gen IX primary
@@ -337,7 +347,7 @@ randomizers:
     url: https://gamebanana.com/tools/11402
     original: '- [(IX) Gen IX primary](https://gamebanana.com/tools/11402) (ZadenOwer''s)
         - _OBSOLETE_'
-    subheading: Core
+    sub-series: Core
     obsolete: true
 -   games:
     - "(I) Pok\xE9mon Stadium"
@@ -345,21 +355,21 @@ randomizers:
     url: https://www.speedrun.com/pkmnstadium/thread/8ias0
     original: "- [(I) Pok\xE9mon Stadium](https://www.speedrun.com/pkmnstadium/thread/8ias0)\
         \ (Randomizer and Editor)"
-    subheading: Side
+    sub-series: Side
 -   games:
     - "(II) Pok\xE9mon Stadium 2"
     identifier: RainbowSprinklez's
     url: https://github.com/mike19283/Pokemon-Stadium-2-Randomizer
     original: "- [(II) Pok\xE9mon Stadium 2](https://github.com/mike19283/Pokemon-Stadium-2-Randomizer)\
         \ (RainbowSprinklez's)"
-    subheading: Side
+    sub-series: Side
 -   games:
     - "(II) Pok\xE9mon Stadium 2"
     identifier: Rental Moveset Randomizer
     url: https://www.speedrun.com/pkmnstadium2/thread/9febd
     original: "- [(II) Pok\xE9mon Stadium 2](https://www.speedrun.com/pkmnstadium2/thread/9febd)\
         \ (Rental Moveset Randomizer)"
-    subheading: Side
+    sub-series: Side
 -   games:
     - "(III) Pok\xE9mon Colosseum"
     - "Pok\xE9mon XD: Gale of Darkness"
@@ -367,7 +377,7 @@ randomizers:
     url: https://github.com/rotobash/pokemon-ngc-rando
     original: "- [(III) Pok\xE9mon Colosseum / Pok\xE9mon XD: Gale of Darkness](https://github.com/rotobash/pokemon-ngc-rando)\
         \ (Pokemon NGC Rando)"
-    subheading: Side
+    sub-series: Side
 -   games:
     - "(III) Pok\xE9mon Colosseum"
     - "Pok\xE9mon XD: Gale of Darkness"
@@ -377,7 +387,7 @@ randomizers:
         \ (Reclaimer Shawn's) - Located in video description - Requires special emulator\
         \ [Dolphin 5.0 Windows x64 stable version](https://dolphin-emu.org/download/)\
         \ - _OBSOLETE_"
-    subheading: Side
+    sub-series: Side
     obsolete: true
     comment: '- Located in video description - Requires special emulator [Dolphin
         5.0 Windows x64 stable version](https://dolphin-emu.org/download/)'
@@ -389,7 +399,7 @@ randomizers:
     original: "- [(III) Pok\xE9mon Colosseum / Pok\xE9mon XD: Gale of Darkness](https://projectpokemon.org/home/files/file/2463-gale-of-darkness-tool-osx-colosseum-tool/)\
         \ (Gale of Darkness Tool + Colosseum Tool) - [Source code](https://github.com/PekanMmd/Pokemon-XD-Code)\
         \ - _OBSOLETE_"
-    subheading: Side
+    sub-series: Side
     obsolete: true
     comment: '- [Source code](https://github.com/PekanMmd/Pokemon-XD-Code)'
 -   games:
@@ -398,14 +408,14 @@ randomizers:
     url: https://github.com/anmart/UniversalCardGameRandomizer/releases
     original: "- [Pok\xE9mon Trading Card Game](https://github.com/anmart/UniversalCardGameRandomizer/releases)\
         \ (Aroymart's)"
-    subheading: Spin-offs
+    sub-series: Spin-offs
 -   games:
     - "Pok\xE9mon Trading Card Game"
     identifier: Sanqui's
     url: https://sanqui.net/randomizer/#poketcg
     original: "- [Pok\xE9mon Trading Card Game](https://sanqui.net/randomizer/#poketcg)\
         \ (Sanqui's) - [Source code](https://github.com/Sanqui/online-randomizer)"
-    subheading: Spin-offs
+    sub-series: Spin-offs
     comment: '- [Source code](https://github.com/Sanqui/online-randomizer)'
 -   games:
     - "Pok\xE9mon Trading Card Game"
@@ -413,14 +423,14 @@ randomizers:
     url: https://github.com/pokepress/TCGRandomizer
     original: "- [Pok\xE9mon Trading Card Game](https://github.com/pokepress/TCGRandomizer)\
         \ (pokepress's)"
-    subheading: Spin-offs
+    sub-series: Spin-offs
 -   games:
     - "Pok\xE9mon Trading Card Game"
     identifier: xCrystal's
     url: https://github.com/xCrystal/TCGRandomizer
     original: "- [Pok\xE9mon Trading Card Game](https://github.com/xCrystal/TCGRandomizer)\
         \ (xCrystal's) - _OBSOLETE_"
-    subheading: Spin-offs
+    sub-series: Spin-offs
     obsolete: true
 -   games:
     - "Pok\xE9mon Mystery Dungeon: Red Rescue Team"
@@ -428,28 +438,28 @@ randomizers:
     url: https://github.com/Suguivy/pmdrc-randomizer
     original: "- [Pok\xE9mon Mystery Dungeon: Red Rescue Team](https://github.com/Suguivy/pmdrc-randomizer)\
         \ (Suguivy's)"
-    subheading: Spin-offs
+    sub-series: Spin-offs
 -   games:
     - "Pok\xE9mon Mystery Dungeon: Explorers of Sky"
     identifier: mdrngzer
     url: https://github.com/Aissurteivos/mdrngzer/releases
     original: "- [Pok\xE9mon Mystery Dungeon: Explorers of Sky](https://github.com/Aissurteivos/mdrngzer/releases)\
         \ (mdrngzer)"
-    subheading: Spin-offs
+    sub-series: Spin-offs
 -   games:
     - "Pok\xE9mon Mystery Dungeon: Explorers of Sky"
     identifier: SkyTemple Randomizer
     url: https://projectpokemon.org/home/files/file/4235-skytemple-randomizer/
     original: "- [Pok\xE9mon Mystery Dungeon: Explorers of Sky](https://projectpokemon.org/home/files/file/4235-skytemple-randomizer/)\
         \ (SkyTemple Randomizer)"
-    subheading: Spin-offs
+    sub-series: Spin-offs
 -   games:
     - "Pok\xE9mon Conquest"
     identifier: RanseiLink
     url: https://github.com/Deijin27/RanseiLink
     original: "- [Pok\xE9mon Conquest](https://github.com/Deijin27/RanseiLink) (RanseiLink)\
         \ - Game editor with bundled randomizer"
-    subheading: Spin-offs
+    sub-series: Spin-offs
     comment: '- Game editor with bundled randomizer'
 -   games:
     - "Pok\xE9mon Gaia Version (Pok\xE9mon FireRed Version hack)"
@@ -457,11 +467,11 @@ randomizers:
     url: https://github.com/sphericalice/universal-pokemon-randomizer
     original: "- [Pok\xE9mon Gaia Version (Pok\xE9mon FireRed Version hack)](https://github.com/sphericalice/universal-pokemon-randomizer)\
         \ (Universal Pok\xE9mon Randomizer - Pok\xE9mon Gaia Fork)"
-    subheading: Unofficial
+    sub-series: Unofficial
 -   games:
     - "Pok\xE9mon Rejuvenation (fangame)"
     identifier: Challenge Pack
     url: https://www.rebornevo.com/forums/topic/51568-rejuvenation-v12-challenge-pack/
     original: "- [Pok\xE9mon Rejuvenation (fangame)](https://www.rebornevo.com/forums/topic/51568-rejuvenation-v12-challenge-pack/)\
         \ (Challenge Pack)"
-    subheading: Unofficial
+    sub-series: Unofficial

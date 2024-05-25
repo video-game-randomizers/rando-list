@@ -14,7 +14,8 @@ randomizers:
     comment: '- [Multiplayer add-on](https://github.com/Shadudev/HollowKnight.MultiWorld)
         - Mod manager [Scarab](https://github.com/fifty-six/Scarab) for easy installation
         and updates'
--   game: null
+-   games:
+    - null
     identifier: null
     url: null
     original: '- Hollow Knight - _See at end of list: Multi-series, Connected worlds_'

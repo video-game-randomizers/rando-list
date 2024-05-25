@@ -9,7 +9,8 @@ randomizers:
     original: '- [Shivers](https://www.speedrun.com/shivers/resources) (GodlFire''s)
         - Located under Tools - [Source code](https://github.com/GodlFire/Shivers-Randomizer-CSharp)'
     comment: '- Located under Tools - [Source code](https://github.com/GodlFire/Shivers-Randomizer-CSharp)'
--   game: null
+-   games:
+    - null
     identifier: null
     url: null
     original: '- Shivers - _See at end of list: Multi-series, Connected worlds_'

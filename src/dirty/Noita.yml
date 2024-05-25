@@ -8,7 +8,8 @@ randomizers:
     url: https://steamcommunity.com/workshop/browse/?appid=881100&searchtext=randomizer
     original: '- [Noita](https://steamcommunity.com/workshop/browse/?appid=881100&searchtext=randomizer)
         (Steam Workshop - Randomizers)'
--   game: null
+-   games:
+    - null
     identifier: null
     url: null
     original: '- Noita - _See at end of list: Multi-series, Connected worlds_'

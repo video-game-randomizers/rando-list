@@ -14,7 +14,8 @@ randomizers:
     identifier: SilentDestroyer's
     url: https://github.com/silent-destroyer/tunic-randomizer
     original: '- [Tunic](https://github.com/silent-destroyer/tunic-randomizer) (SilentDestroyer''s)'
--   game: null
+-   games:
+    - null
     identifier: null
     url: null
     original: '- Tunic - _See at end of list: Multi-series, Connected worlds_'
