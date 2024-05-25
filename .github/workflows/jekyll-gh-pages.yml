@@ -47,5 +47,6 @@ jobs:
     needs: build
     steps:
       - name: Deploy to GitHub Pages
+        if: github.repository_owner == 'video-game-randomizers'
         id: deployment
         uses: actions/deploy-pages@v4
