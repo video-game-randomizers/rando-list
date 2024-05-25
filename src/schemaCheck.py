@@ -30,7 +30,8 @@ randomizer_schema = {
                 False,
                 "Standard",
                 "Archipelago",
-                "Randovania"
+                "Randovania",
+                "Other"
             ],
             "default": None
         },

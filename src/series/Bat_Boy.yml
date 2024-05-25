@@ -1,0 +1,9 @@
+name: Bat Boy
+comment: null
+sub-series: null
+randomizers:
+-   game: Bat Boy (Demo)
+    identifier: Archipelago.BatBoy
+    url: https://github.com/alwaysintreble/Archipelago.BatBoy
+    comment: 'Requires [Archipelago](https://archipelago.gg/)'
+    multiworld: Archipelago

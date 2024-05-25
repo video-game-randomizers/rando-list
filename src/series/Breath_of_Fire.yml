@@ -1,0 +1,17 @@
+name: Breath of Fire
+comment: null
+sub-series: null
+randomizers:
+-   game: Breath of Fire
+    identifier: pelador's
+    url: https://github.com/pelador/Breath-of-Fire-Rando
+-   game: Breath of Fire
+    identifier: Dan Jia Randomizers
+    url: https://github.com/vinheim3/randomizers
+    comment: 'Download code in local directory and open `index.html` to use'
+-   game: Breath of Fire II
+    identifier: Painsong
+    url: https://github.com/abyssonym/painsong
+-   game: Breath of Fire III
+    identifier: The Vast and the Violent
+    url: https://github.com/abyssonym/vast_violence

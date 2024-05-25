@@ -1,0 +1,11 @@
+name: Blasphemous
+comment: null
+sub-series: null
+randomizers:
+-   game: Blasphemous
+    identifier: Item and Enemy Randomizer
+    url: https://www.nexusmods.com/blasphemous/mods/15
+-   game: Blasphemous
+    identifier: Archipelago
+    url: https://archipelago.gg/
+    multiworld: Archipelago
