@@ -1,0 +1,78 @@
+name: Dark Souls
+comment: A game downgrade to the last version released before 2022-01-23 may be required
+    for some of these randomizers. For Dark Souls III, this would be application v1.15
+    with regulation v1.35.
+sub-series: null
+randomizers:
+-   games:
+    - 'Dark Souls: Prepare to Die Edition'
+    - 'Dark Souls: Remastered'
+    identifier: Enemy Randomizer
+    url: https://www.nexusmods.com/darksouls/mods/1407
+-   games:
+    - 'Dark Souls: Prepare to Die Edition'
+    - 'Dark Souls: Remastered'
+    identifier: Fog Gate Randomizer
+    url: https://www.nexusmods.com/darksoulsremastered/mods/165
+-   games:
+    - 'Dark Souls: Prepare to Die Edition'
+    - 'Dark Souls: Remastered'
+    identifier: Item Randomizer
+    url: https://github.com/HotPocketRemix/DarkSoulsItemRandomizer
+-   games:
+    - 'Dark Souls: Prepare to Die Edition'
+    - 'Dark Souls: Remastered'
+    identifier: Paramdomizer
+    url: https://github.com/Poppyanimal/Paramdomizer
+-   games:
+    - 'Dark Souls: Remastered'
+    identifier: Roguelike Souls - The Binding of Lordran
+    url: https://www.nexusmods.com/darksoulsremastered/mods/255
+-   games:
+    - 'Dark Souls II: Scholar of the First Sin'
+    identifier: Item Location Randomizer
+    url: https://www.nexusmods.com/darksouls2/mods/743
+    obsolete: true
+-   games:
+    - 'Dark Souls II: Scholar of the First Sin'
+    identifier: Item Randomizer REMIX
+    url: https://www.nexusmods.com/darksouls2/mods/774
+-   games:
+    - 'Dark Souls II: Scholar of the First Sin'
+    identifier: Ran-door-mizer
+    url: https://www.nexusmods.com/darksouls2/mods/1108
+-   games:
+    - 'Dark Souls II: Scholar of the First Sin'
+    identifier: Scrambler
+    url: https://www.nexusmods.com/darksouls2/mods/1163
+-   games:
+    - Dark Souls III
+    identifier: Enemy Randomizer
+    url: https://www.nexusmods.com/darksouls3/mods/484
+-   games:
+    - Dark Souls III
+    identifier: Fog Gate Randomizer
+    url: https://www.nexusmods.com/darksouls3/mods/551
+-   games:
+    - Dark Souls III
+    identifier: Irregulator
+    url: https://www.nexusmods.com/darksouls3/mods/298
+-   games:
+    - Dark Souls III
+    identifier: Item Randomiser and Auto-Equip
+    url: https://www.nexusmods.com/darksouls3/mods/241
+-   games:
+    - Dark Souls III
+    identifier: Static Item and Enemy Randomizer
+    url: https://www.nexusmods.com/darksouls3/mods/361
+-   games:
+    - Dark Souls III
+    identifier: StraySouls
+    url: https://www.nexusmods.com/darksouls3/mods/318
+    obsolete: true
+    comment: 'Randomizing bosses may generate unwinnable games'
+-   games:
+    - Dark Souls III
+    identifier: Archipelago
+    url: https://archipelago.gg/games/Dark%20Souls%20III/info/en
+    multiworld: Archipelago
