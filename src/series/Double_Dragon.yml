@@ -1,0 +1,8 @@
+name: Double Dragon
+comment: null
+sub-series: null
+randomizers:
+-   games:
+    - 'Double Dragon II: The Revenge (NES)'
+    identifier: Micheil Skeens's
+    url: https://micheilskeens.com/double-dragon-2-randomizer.php

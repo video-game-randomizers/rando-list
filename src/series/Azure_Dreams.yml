@@ -1,0 +1,12 @@
+name: Azure Dreams
+comment: null
+sub-series: null
+randomizers:
+-   games:
+    - Azure Dreams
+    identifier: pro_grammar's
+    url: https://adrando.com/
+-   games:
+    - Azure Dreams (Game Boy Color)
+    identifier: pro_grammar's
+    url: https://adrando.com/gbc/

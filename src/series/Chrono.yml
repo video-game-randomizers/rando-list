@@ -1,0 +1,17 @@
+name: Chrono
+comment: null
+sub-series: null
+randomizers:
+-   games:
+    - Chrono Trigger
+    identifier: Eternal Nightmare
+    url: https://github.com/abyssonym/eternalnightmare
+-   games:
+    - Chrono Trigger
+    identifier: Jets of Time
+    url: https://ctjot.com/
+-   games:
+    - Chrono Trigger
+    identifier: Wings of Time
+    url: https://github.com/Anskiy/wingsoftime
+    obsolete: true

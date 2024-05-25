@@ -1,0 +1,93 @@
+name: Castlevania
+comment: null
+sub-series:
+- Classic
+- Metroidvania
+- 3D
+randomizers:
+-   games:
+    - 'Castlevania II: Simon''s Quest'
+    identifier: BloodSweatAndCode's
+    url: https://cv2r.kaelari.tech/
+    sub-series: Classic
+-   games:
+    - 'Castlevania II: Simon''s Quest'
+    identifier: Deadly Curse
+    url: https://abyssonym.wordpress.com/2017/10/27/castlevania-2-deadly-curse/
+    sub-series: Classic
+-   games:
+    - 'Castlevania III: Dracula''s Curse'
+    identifier: Micheil Skeens's
+    url: https://micheilskeens.com/castlevania-3-randomizer.php
+    sub-series: Classic
+-   games:
+    - Super Castlevania IV
+    identifier: RedGuy's
+    url: https://www.romhacking.net/forum/index.php?topic=22494.msg346214#msg346214
+    sub-series: Classic
+-   games:
+    - 'Castlevania: Symphony of the Night (PlayStation / Saturn)'
+    identifier: Area Randomizer
+    url: https://github.com/MottZilla/SOTN_AR
+    sub-series: Metroidvania
+    comment: 'Includes a Richter converter for Wild Mouse''s item randomizer, and
+        a standalone Maria item randomizer'
+-   games:
+    - 'Castlevania: Symphony of the Night'
+    identifier: Relic Randomizer
+    url: https://raw.githubusercontent.com/josephstevenspgh/SotN-Relic-Randomizer/master/relicrando.py
+    sub-series: Metroidvania
+    obsolete: true
+    comment: 'Requires [Python 2](https://www.python.org/downloads/) and [PS1 2352
+        image EDC/ECC recalculator](https://www.romhacking.net/utilities/1264/) -
+        Game data to patch should be named `Castlevania - Symphony of the Night (USA)
+        (Track 1).bin`'
+-   games:
+    - 'Castlevania: Symphony of the Night'
+    identifier: Wild Mouse's
+    url: https://sotn.io/
+    sub-series: Metroidvania
+-   games:
+    - 'Castlevania: Circle of the Moon'
+    identifier: calm-palm's
+    url: https://github.com/calm-palm/cotm-randomizer
+    sub-series: Metroidvania
+-   games:
+    - 'Castlevania: Harmony of Dissonance'
+    identifier: fusecv's
+    url: https://hodrando.surge.sh/
+    sub-series: Metroidvania
+-   games:
+    - 'Castlevania: Harmony of Dissonance'
+    identifier: HoDBT
+    url: https://hodbt.surge.sh/
+    sub-series: Metroidvania
+    multiworld: Other
+    comment: 'Castlevania: Harmony of Dissonance / Bomberman Tournament multiworld'
+-   games:
+    - 'Castlevania: Aria of Sorrow'
+    identifier: Item Randomizer
+    url: https://github.com/abyssonym/aos_rando
+    sub-series: Metroidvania
+-   games:
+    - 'Castlevania: Aria of Sorrow'
+    identifier: Randomizer 2
+    url: https://aosrando.surge.sh/
+    sub-series: Metroidvania
+-   games:
+    - 'Castlevania: Aria of Sorrow'
+    identifier: Reprise
+    url: https://www.romhacking.net/forum/index.php?topic=35962.0
+    sub-series: Metroidvania
+-   games:
+    - 'Castlevania: Dawn of Sorrow'
+    - 'Castlevania: Portrait of Ruin'
+    - 'Castlevania: Order of Ecclesia'
+    identifier: DSVania Randomizer
+    url: https://github.com/LagoLunatic/dsvrandom
+    sub-series: Metroidvania
+-   games:
+    - Castlevania (Nintendo 64)
+    identifier: Archipelago
+    url: https://archipelago.gg/games/Castlevania%2064/info/en
+    multiworld: Archipelago

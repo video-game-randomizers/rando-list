@@ -1,0 +1,9 @@
+name: DLC Quest
+comment: null
+sub-series: null
+randomizers:
+-   games:
+    - DLC Quest
+    identifier: Archipelago
+    url: https://archipelago.gg/games/DLCQuest/info/en
+    multiworld: Archipelago

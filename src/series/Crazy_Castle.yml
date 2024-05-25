@@ -1,0 +1,8 @@
+name: Crazy Castle
+comment: null
+sub-series: null
+randomizers:
+-   games:
+    - The Bugs Bunny Crazy Castle
+    identifier: MaximumLance's
+    url: https://github.com/MaximumLance/Crazy-Castle-Randomizer

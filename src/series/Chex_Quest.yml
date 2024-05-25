@@ -1,0 +1,21 @@
+name: Chex Quest
+comment: null
+sub-series: null
+randomizers:
+-   games:
+    - Chex Quest
+    identifier: CustomDoom
+    url: https://forum.zdoom.org/viewtopic.php?f=45&t=51446
+    obsolete: true
+-   games:
+    - Chex Quest
+    identifier: Universal Custom Doom
+    url: https://forum.zdoom.org/viewtopic.php?f=43&t=64678
+-   games:
+    - Chex Quest
+    identifier: Universal Entropy
+    url: https://www.moddb.com/mods/universal-entropy
+-   games:
+    - Chex Quest 3 (fangame)
+    identifier: OBSIDIAN
+    url: https://obsidian-level-maker.github.io/index.html

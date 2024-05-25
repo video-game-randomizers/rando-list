@@ -1,0 +1,8 @@
+name: Bloodborne
+comment: null
+sub-series: null
+randomizers:
+-   games:
+    - Bloodborne
+    identifier: Enemy and Item Randomizer
+    url: https://www.nexusmods.com/bloodborne/mods/15

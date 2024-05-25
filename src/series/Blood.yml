@@ -1,0 +1,8 @@
+name: Blood
+comment: null
+sub-series: null
+randomizers:
+-   games:
+    - Blood
+    identifier: Build Engine Randomizer
+    url: https://github.com/Die4Ever/build-engine-randomizer

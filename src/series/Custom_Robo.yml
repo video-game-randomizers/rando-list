@@ -1,0 +1,8 @@
+name: Custom Robo
+comment: null
+sub-series: null
+randomizers:
+-   games:
+    - Custom Robo
+    identifier: PoggieB's
+    url: https://www.romhacking.net/utilities/1778/

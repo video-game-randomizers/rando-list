@@ -1,0 +1,12 @@
+name: Darkest Dungeon
+comment: null
+sub-series: null
+randomizers:
+-   games:
+    - Darkest Dungeon
+    identifier: ddrand
+    url: https://cdn.discordapp.com/attachments/1140465134066741309/1147430562450116648/ddrand-v0.2.0-x86_64-windows-msvc.zip
+-   games:
+    - Darkest Dungeon
+    identifier: TheUnlocked's
+    url: https://github.com/TheUnlocked/DarkestDungeonRandomizer/releases

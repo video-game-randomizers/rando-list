@@ -1,0 +1,20 @@
+name: Dark Cloud
+comment: null
+sub-series: null
+randomizers:
+-   games:
+    - Dark Cloud
+    identifier: Chest Randomizer
+    url: https://www.reddit.com/r/DarkCloud/comments/g141j0/dark_cloud_chest_randomizer_v102_update_upcoming/
+    comment: 'Requires special emulator [PCSX2 v1.4.0](https://pcsx2.net/downloads/)'
+-   games:
+    - Dark Cloud
+    identifier: Enemy Randomizer
+    url: https://www.reddit.com/r/DarkCloud/comments/g6aqab/dark_cloud_1_enemy_randomizer_emulator/
+    comment: 'Requires special emulator [PCSX2 v1.4.0](https://pcsx2.net/downloads/)'
+-   games:
+    - Dark Cloud 2
+    identifier: Chest Randomizer
+    url: https://www.reddit.com/r/DarkCloud/comments/m4f253/dc2_introducing_dark_cloud_2_chest_randomizer/
+    comment: 'Requires special emulator [PCSX2 v1.4.0 or v1.6.0](https://pcsx2.net/downloads/)
+        (Chest Randomizer)'

@@ -1,0 +1,13 @@
+name: Bloodstained
+comment: null
+sub-series: null
+randomizers:
+-   games:
+    - 'Bloodstained: Ritual of the Night'
+    identifier: Randomization Generator
+    url: https://www.nexusmods.com/bloodstainedritualofthenight/mods/135
+-   games:
+    - 'Bloodstained: Ritual of the Night'
+    identifier: Randomizer Tweaks and True Randomization Script
+    url: https://www.nexusmods.com/bloodstainedritualofthenight/mods/132
+

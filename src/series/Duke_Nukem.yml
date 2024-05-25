@@ -1,0 +1,13 @@
+name: Duke Nukem
+comment: null
+sub-series: null
+randomizers:
+-   games:
+    - Duke Nukem 3D
+    identifier: Map Order Randomizer
+    url: https://forums.duke4.net/topic/7246-map-order-randomizer/
+    obsolete: true
+-   games:
+    - Duke Nukem 3D
+    identifier: Build Engine Randomizer
+    url: https://github.com/Die4Ever/build-engine-randomizer
