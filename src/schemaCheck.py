@@ -23,7 +23,17 @@ randomizer_schema = {
         "identifier": ValidString,
         "url": ValidString,
         "comment": MaybeString,
-        "multiworld": {"type": "boolean"},
+        "multiworld": {
+            "type": ["string", "boolean", "null"],
+            "enum": [
+                None,
+                False,
+                "Standard",
+                "Archipelago",
+                "Randovania"
+            ],
+            "default": None
+        },
         "obsolete": {"type": "boolean"},
         "discord": ValidString,
         "community": ValidString,
@@ -63,7 +73,7 @@ def validateSeriesConfig(path: Path):
             except exceptions.ValidationError as e:
                 failures += 1
                 print('ERROR:', rando)
-                id = rando.get('game', '')  + ' ' + rando.get('identifier', '')
+                id = str(rando.get('game', ''))  + ' ' + str(rando.get('identifier', ''))
                 print('ERROR in', path, ': randomizer definition', id, '-', e.message)
     except exceptions.ValidationError as e:
         failures += 1
