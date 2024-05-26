@@ -1,7 +1,7 @@
 name: Schema Checks
 on: [push, pull_request]
 jobs:
-  Ubuntu:
+  Schema_Checks:
     runs-on: ubuntu-latest
     steps:
       - run: echo "🔎 The name of your branch is ${{ github.ref }} and your repository is ${{ github.repository }}."
