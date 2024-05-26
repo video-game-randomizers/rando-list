@@ -13,7 +13,7 @@
     {% for series in site.data %}
         <h3 id="{{ series[0] }}"><a href="#{{ series[0] }}">🔗</a> {{ series[1].name }}</h3>
         {% if series[1].comment %}
-            <p>{{ series[1].comment }}</p>
+            <p>{{ series[1].comment | markdownify }}</p>
         {% endif %}
 
         <ul class="series">
@@ -33,7 +33,7 @@
                     <p>Multiworld: {{ rando.multiworld }}</p>
                 {% endif %}
                 {% if rando.comment %}
-                    <p>{{ rando.comment }}</p>
+                    <p>{{ rando.comment | markdownify }}</p>
                 {% endif %}
             </li>
         {% endfor %}
