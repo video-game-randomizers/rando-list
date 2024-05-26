@@ -20,7 +20,7 @@ randomizers:
     sub-series: Main
 -   games:
     - Super Metroid
-    identifier: null
+    identifier: Super Metroid and A Link to the Past Crossover Randomizer
     url: https://samus.link/
     multiworld: Other
     sub-series: Main
@@ -138,12 +138,6 @@ randomizers:
     url: https://forum.metroidconstruction.com/index.php?topic=5376.0
     sub-series: Main
 -   games:
-    - null
-    identifier: null
-    url: null
-    original: '- Metroid Prime / Metroid Prime 2: Echoes - _See at end of list: Multi-series,
-        Connected worlds_'
--   games:
     - Metroid Prime
     identifier: BashPrime's
     url: https://github.com/BashPrime/metroid-prime-randomizer
@@ -214,11 +208,6 @@ randomizers:
         beating the game under 4 hours on Normal or Hard difficulty, or by entering
         cheat code \[UP]\[UP]\[DOWN]\[DOWN]\[LEFT]\[RIGHT]\[LEFT]\[RIGHT]\[ACCEPT]\[BACK]
         on the game selection screen - Options documented in `explanations.txt`
--   games:
-    - null
-    identifier: null
-    url: null
-    original: '- AM2R - _See at end of list: Multi-series, Connected worlds_'
 -   games:
     - Metroid The Threat Never Ends
     identifier: DodoBirby's

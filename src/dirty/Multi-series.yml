@@ -142,7 +142,7 @@ randomizers:
 -   games:
     - Super Metroid
     - 'The Legend of Zelda: A Link to the Past'
-    identifier: null
+    identifier: Super Metroid and A Link to the Past Crossover Randomizer
     url: https://samus.link/
     multiworld: true
     sub-series: Connected worlds
