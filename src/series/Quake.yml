@@ -3,11 +3,11 @@ comment: null
 sub-series: null
 randomizers:
 -   games:
-    - null
-    identifier: null
-    url: null
-    original: '- Quake / Quake II - _See at end of list: Multi-series, id Software
-        engines_'
+    - Quake
+    - Quake II
+    identifier: OBLIGE
+    url: https://sourceforge.net/projects/oblige/files/Oblige/4.28/
+    comment: '4.28 supported Hexen: Beyond Heretic / Quake / Quake II'
 -   games:
     - Quake
     identifier: RandoQ

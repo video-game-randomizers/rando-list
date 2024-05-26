@@ -20,7 +20,7 @@ randomizers:
     identifier: Transition Randomiser
     url: https://www.nexusmods.com/subnautica/mods/960
 -   games:
-    - null
-    identifier: null
-    url: null
-    original: '- Subnautica - _See at end of list: Multi-series, Connected worlds_'
+    - Subnautica
+    identifier: Archipelago
+    url: https://archipelago.gg/tutorial/#Subnautica
+    multiworld: Archipelago

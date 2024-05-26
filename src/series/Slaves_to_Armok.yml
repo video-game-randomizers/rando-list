@@ -1,0 +1,10 @@
+name: 'Slaves to Armok: God of Blood'
+randomizers:
+-   games:
+    - Dwarf Fortress
+    identifier: Random plant creation script
+    url: https://dffd.bay12games.com/file.php?id=3752
+-   games:
+    - Dwarf Fortress
+    identifier: Random Raw Scripts
+    url: http://www.bay12forums.com/smf/index.php?topic=91255.0

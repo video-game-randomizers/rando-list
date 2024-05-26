@@ -1,0 +1,8 @@
+name: Shadow Warrior
+comment: null
+sub-series: null
+randomizers:
+-   games:
+    - Shadow Warrior (1997)
+    identifier: Build Engine Randomizer
+    url: https://github.com/Die4Ever/build-engine-randomizer

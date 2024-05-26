@@ -22,7 +22,7 @@ randomizers:
     obsolete: true
     comment: '[Source code](https://github.com/cTooshi/stardew-valley-randomizer)'
 -   games:
-    - null
-    identifier: null
-    url: null
-    original: '- Stardew Valley - _See at end of list: Multi-series, Connected worlds_'
+    - Stardew Valley
+    identifier: Archipelago
+    url: https://archipelago.gg/tutorial/#Stardew%20Valley
+    multiworld: Archipelago

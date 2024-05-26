@@ -1,0 +1,15 @@
+name: SpongeBob SquarePants
+comment: null
+sub-series: null
+randomizers:
+-   games:
+    - 'SpongeBob SquarePants: Battle for Bikini Bottom (GameCube)'
+    identifier: BfBB AP World
+    url: https://github.com/Cyb3RGER/bfbb_ap_world/
+    comment: Requires [Archipelago](https://archipelago.gg/)
+-   games:
+    - 'SpongeBob SquarePants: Battle for Bikini Bottom (GameCube / Xbox / PS2)'
+    - 'The SpongeBob SquarePants Movie (GameCube / Xbox / PS2)'
+    identifier: Industrial Park
+    url: https://github.com/igorseabra4/IndustrialPark
+    comment: Level editor with bundled randomizer - [User guide](https://heavyironmodding.org/wiki/Randomizer)

@@ -42,11 +42,10 @@ randomizers:
     url: https://github.com/Ngolinvaux/SA2Randomizer
     sub-series: 3D
 -   games:
-    - null
-    identifier: null
-    url: null
-    original: '- Sonic Adventure 2 - _See at end of list: Multi-series, Connected
-        worlds_'
+    - Sonic Adventure 2
+    identifier: Archipelago
+    url: https://archipelago.gg/tutorial/#Sonic%20Adventure%202%20Battle
+    multiworld: Archipelago
 -   games:
     - Shadow the Hedgehog
     identifier: MainMemory & dreamsyntax's

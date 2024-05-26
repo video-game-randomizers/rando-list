@@ -1,0 +1,8 @@
+name: Rayman
+comment: null
+sub-series: null
+randomizers:
+-   games:
+    - 'Rayman 3: Hoodlum Havoc'
+    identifier: Crate Mod Loader
+    url: https://github.com/TheBetaM/CrateModLoader

@@ -7,7 +7,7 @@ randomizers:
     identifier: Balance Patch Randomizer
     url: https://github.com/Die4Ever/starcraft-2-randomizer
 -   games:
-    - null
-    identifier: null
-    url: null
-    original: '- StarCraft II - _See at end of list: Multi-series, Connected worlds_'
+    - StarCraft II
+    identifier: Archipelago
+    url: https://archipelago.gg/tutorial/#Starcraft%202
+    multiworld: Archipelago

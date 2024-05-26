@@ -1,0 +1,9 @@
+name: Super 3D Noah's Ark
+comment: null
+sub-series: [id Software engines]
+randomizers:
+-   games:
+    - Super 3D Noah's Ark
+    identifier: OBSIDIAN
+    url: https://obsidian-level-maker.github.io/index.html
+    sub-series: id Software engines

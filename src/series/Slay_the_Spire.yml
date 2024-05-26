@@ -1,0 +1,9 @@
+name: Slay the Spire
+comment: null
+sub-series: null
+randomizers:
+-   games:
+    - Slay the Spire
+    identifier: Archipelago
+    url: https://archipelago.gg/tutorial/#Slay%20the%20Spire
+    multiworld: Archipelago

@@ -1,0 +1,8 @@
+name: Record of Lodoss War
+comment: null
+sub-series: null
+randomizers:
+-   games:
+    - 'Record of Lodoss War: Deedlit in Wonder Labyrinth'
+    identifier: Ladybug Randomizer
+    url: https://github.com/Lakifume/Ladybug-Randomizer

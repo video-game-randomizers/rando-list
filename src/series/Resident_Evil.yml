@@ -69,8 +69,8 @@ randomizers:
     identifier: UHD Ultimate Trainer
     url: https://www.nexusmods.com/residentevil4/mods/32
     obsolete: true
-    comment: Trainer that can randomize player inventory and merchant - _Game downgrade
-        to v1.0.6 required_
+    comment: Trainer that can randomize player inventory and merchant - Game downgrade
+        to v1.0.6 required
 -   games:
     - Resident Evil 5
     identifier: The Mercenaries Randomizer Mod

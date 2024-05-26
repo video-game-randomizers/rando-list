@@ -8,7 +8,7 @@ randomizers:
     url: https://www.speedrun.com/shivers/resources
     comment: Located under Tools - [Source code](https://github.com/GodlFire/Shivers-Randomizer-CSharp)
 -   games:
-    - null
-    identifier: null
-    url: null
-    original: '- Shivers - _See at end of list: Multi-series, Connected worlds_'
+    - Shivers
+    identifier: Archipelago
+    url: https://archipelago.gg/tutorial/#Shivers
+    multiworld: Archipelago

@@ -7,7 +7,7 @@ randomizers:
     identifier: Phar's
     url: https://github.com/ThePhar/RogueLegacyRandomizer
 -   games:
-    - null
-    identifier: null
-    url: null
-    original: '- Rogue Legacy - _See at end of list: Multi-series, Connected worlds_'
+    - Rogue Legacy
+    identifier: Archipelago
+    url: https://archipelago.gg/tutorial/#Rogue%20Legacy
+    multiworld: Archipelago

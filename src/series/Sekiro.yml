@@ -1,0 +1,8 @@
+name: Sekiro
+comment: null
+sub-series: null
+randomizers:
+-   games:
+    - 'Sekiro: Shadows Die Twice'
+    identifier: Enemy and Item Randomizer
+    url: https://www.nexusmods.com/sekiro/mods/543
