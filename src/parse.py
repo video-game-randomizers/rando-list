@@ -52,13 +52,17 @@ for line in md.splitlines():
         continue
 
     comment = m[5].replace('- _OBSOLETE_', '').strip()
+    if comment.startswith('- '):
+        comment = comment[2:]
+    if comment.startswith('_') and comment.endswith('_'):
+        comment = comment[1:-1]
     obsolete = '_OBSOLETE_' in m[5]
 
     data = {
         'games': m[1].split(' / '),
         'identifier': m[4],
         'url': m[2],
-        'original': line,
+        #'original': line,
     }
     if subheading == 'Connected worlds':
         data['multiworld'] = True
