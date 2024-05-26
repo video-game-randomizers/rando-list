@@ -1,0 +1,9 @@
+name: Zork
+comment: null
+sub-series: null
+randomizers:
+-   games:
+    - 'Zork: Grand Inquisitor'
+    identifier: Archipelago
+    url: https://archipelago.gg/tutorial/#Zork%20Grand%20Inquisitor
+    multiworld: Archipelago

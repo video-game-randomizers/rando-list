@@ -17,7 +17,7 @@ randomizers:
     url: https://forums.terraria.org/index.php?threads/randomizer-challenge-mod.83163/
     comment: Requires [tModLoader](https://tmodloader.net/)
 -   games:
-    - null
-    identifier: null
-    url: null
-    original: '- Terraria - _See at end of list: Multi-series, Connected worlds_'
+    - Terraria
+    identifier: Archipelago
+    url: https://archipelago.gg/tutorial/#Terraria
+    multiworld: Archipelago

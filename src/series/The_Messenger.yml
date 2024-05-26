@@ -7,7 +7,7 @@ randomizers:
     identifier: Minous27's
     url: https://github.com/minous27/TheMessengerRandomizerMod
 -   games:
-    - null
-    identifier: null
-    url: null
-    original: '- The Messenger - _See at end of list: Multi-series, Connected worlds_'
+    - The Messenger
+    identifier: Archipelago
+    url: https://archipelago.gg/tutorial/#The%20Messenger
+    multiworld: Archipelago

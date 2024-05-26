@@ -5,12 +5,45 @@ sub-series:
 - 3D
 randomizers:
 -   games:
-    - null
-    identifier: null
-    url: null
-    original: '- The Legend of Zelda / The Legend of Zelda: A Link to the Past / The
-        Legend of Zelda: Link''s Awakening DX - _See at end of list: Multi-series,
-        Connected worlds_'
+    - The Legend of Zelda
+    identifier: Archipelago
+    url: https://archipelago.gg/tutorial/#The%20Legend%20of%20Zelda
+    sub-series: 2D & 2D-like
+    multiworld: Archipelago
+-   games:
+    - 'The Legend of Zelda: A Link to the Past'
+    identifier: Archipelago
+    url: https://archipelago.gg/tutorial/#A%20Link%20to%20the%20Past
+    sub-series: 2D & 2D-like
+    multiworld: Archipelago
+-   games:
+    - 'The Legend of Zelda: Link''s Awakening DX'
+    identifier: Archipelago
+    url: https://archipelago.gg/tutorial/#Links%20Awakening%20DX
+    sub-series: 2D & 2D-like
+    multiworld: Archipelago
+-   games:
+    - 'The Legend of Zelda: Ocarina of Time'
+    - 'The Legend of Zelda: Ocarina of Time Master Quest'
+    identifier: Archipelago
+    url: https://archipelago.gg/tutorial/#Ocarina%20of%20Time
+    sub-series: 3D
+    multiworld: Archipelago
+-   games:
+    - 'The Legend of Zelda: A Link to the Past'
+    identifier: SMZ3 Cas' Randomizer
+    url: https://github.com/Vivelin/SMZ3Randomizer
+    multiworld: Other
+-   games:
+    - 'The Legend of Zelda: A Link to the Past'
+    identifier: Super Metroid and A Link to the Past Crossover Randomizer
+    url: https://samus.link/
+    multiworld: Other
+-   games:
+    - The Legend of Zelda
+    identifier: Z1M1
+    url: https://z1m1.info/
+    multiworld: Other
 -   games:
     - The Legend of Zelda
     identifier: Ancient Dungeon
@@ -123,7 +156,7 @@ randomizers:
 -   games:
     - 'The Legend of Zelda: Oracle of Ages'
     - 'The Legend of Zelda: Oracle of Seasons'
-    identifier: null
+    identifier: jangler's
     url: https://github.com/jangler/oracles-randomizer
     sub-series: 2D & 2D-like
 -   games:
@@ -168,12 +201,6 @@ randomizers:
     identifier: TestRunner's
     url: https://ootrandomizer.com/
     sub-series: 3D
--   games:
-    - null
-    identifier: null
-    url: null
-    original: '- The Legend of Zelda: Ocarina of Time / The Legend of Zelda: Ocarina
-        of Time Master Quest - _See at end of list: Multi-series, Connected worlds_'
 -   games:
     - 'The Legend of Zelda: Ocarina of Time'
     identifier: Beta Quest

@@ -1,0 +1,9 @@
+name: Yoshi
+comment: null
+sub-series: null
+randomizers:
+-   games:
+    - Yoshi's Island
+    identifier: Archipelago
+    url: https://archipelago.gg/tutorial/#Yoshi's%20Island
+    multiworld: Archipelago

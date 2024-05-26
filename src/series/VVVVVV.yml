@@ -1,0 +1,9 @@
+name: VVVVVV
+comment: null
+sub-series: null
+randomizers:
+-   games:
+    - VVVVVV
+    identifier: Archipelago
+    url: https://archipelago.gg/tutorial/#VVVVVV
+    multiworld: Archipelago

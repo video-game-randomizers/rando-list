@@ -12,7 +12,7 @@ randomizers:
     identifier: SilentDestroyer's
     url: https://github.com/silent-destroyer/tunic-randomizer
 -   games:
-    - null
-    identifier: null
-    url: null
-    original: '- Tunic - _See at end of list: Multi-series, Connected worlds_'
+    - Tunic
+    identifier: Archipelago
+    url: https://archipelago.gg/tutorial/#TUNIC
+    multiworld: Archipelago

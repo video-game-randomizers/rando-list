@@ -7,7 +7,6 @@ randomizers:
     identifier: Ryason55's
     url: https://github.com/Ryason55/gnazo_randomizer
 -   games:
-    - null
-    identifier: null
-    url: null
-    original: '- Touhou Luna Nights - _See at end of list: Multi-series, Other_'
+    - Touhou Luna Nights
+    identifier: Ladybug Randomizer
+    url: https://github.com/Lakifume/Ladybug-Randomizer

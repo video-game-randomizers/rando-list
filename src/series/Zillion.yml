@@ -7,7 +7,7 @@ randomizers:
     identifier: Zilliandomizer
     url: https://github.com/beauxq/zilliandomizer
 -   games:
-    - null
-    identifier: null
-    url: null
-    original: '- Zillion - _See at end of list: Multi-series, Connected worlds_'
+    - Zillion
+    identifier: Archipelago
+    url: https://archipelago.gg/tutorial/#Zillion
+    multiworld: Archipelago

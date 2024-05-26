@@ -11,7 +11,7 @@ randomizers:
     identifier: Witness Random Puzzle Generator
     url: https://github.com/sigma144/witness-randomizer
 -   games:
-    - null
-    identifier: null
-    url: null
-    original: '- The Witness - _See at end of list: Multi-series, Connected worlds_'
+    - The Witness
+    identifier: Archipelago
+    url: https://archipelago.gg/tutorial/#The%20Witness
+    multiworld: Archipelago

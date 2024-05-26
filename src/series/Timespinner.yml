@@ -7,7 +7,7 @@ randomizers:
     identifier: Jarno's
     url: https://github.com/Jarno458/TsRandomizer
 -   games:
-    - null
-    identifier: null
-    url: null
-    original: '- Timespinner - _See at end of list: Multi-series, Connected worlds_'
+    - Timespinner
+    identifier: Archipelago
+    url: https://archipelago.gg/tutorial/#Timespinner
+    multiworld: Archipelago

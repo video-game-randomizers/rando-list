@@ -7,10 +7,10 @@ randomizers:
     identifier: Geno Randomizer
     url: https://gamejolt.com/games/UndertaleGenoRandomizer/604714
 -   games:
-    - null
-    identifier: null
-    url: null
-    original: '- Undertale - _See at end of list: Multi-series, Connected worlds_'
+    - Undertale
+    identifier: Archipelago
+    url: https://archipelago.gg/tutorial/#Undertale
+    multiworld: Archipelago
 -   games:
     - Deltarune (SURVEY_PROGRAM)
     identifier: Deltarando
