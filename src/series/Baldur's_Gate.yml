@@ -5,25 +5,29 @@ randomizers:
 -   games:
     - 'Baldur''s Gate
     - Baldur''s Gate: Enhanced Edition
-    - Baldur''s Gate II:
-        Shadows of Amn / Baldur''s Gate II: Enhanced Edition / Baldur''s Gate: Enhanced
-        Edition Trilogy (mod)'
+    - Baldur''s Gate II: Shadows of Amn'
+    - 'Baldur''s Gate II: Enhanced Edition'
+    - 'Baldur''s Gate: Enhanced Edition Trilogy (mod)'
     identifier: Enemy Randomizer
     url: https://www.gibberlings3.net/files/file/1031-enemy-randomizer/
 -   games:
     - 'Baldur''s Gate
     - Baldur''s Gate: Enhanced Edition
-    - Baldur''s Gate II:
-        Shadows of Amn / Baldur''s Gate II: Enhanced Edition / EasyTutu (mod) / Baldur''s
-        Gate Trilogy (mod) / Baldur''s Gate: Enhanced Edition Trilogy (mod)'
+    - Baldur''s Gate II: Shadows of Amn'
+    - 'Baldur''s Gate II: Enhanced Edition'
+    - 'EasyTutu (mod)'
+    - 'Baldur''s Gate Trilogy (mod)'
+    - 'Baldur''s Gate: Enhanced Edition Trilogy (mod)'
     identifier: Item Randomiser
     url: https://www.gibberlings3.net/mods/items/item_rand/
 -   games:
     - 'Baldur''s Gate
     - Baldur''s Gate: Enhanced Edition
-    - Baldur''s Gate II:
-        Shadows of Amn / Baldur''s Gate II: Enhanced Edition / EasyTutu (mod) / Baldur''s
-        Gate Trilogy (mod) / Baldur''s Gate: Enhanced Edition Trilogy (mod)'
+    - Baldur''s Gate II: Shadows of Amn'
+    - 'Baldur''s Gate II: Enhanced Edition'
+    - 'EasyTutu (mod)'
+    - 'Baldur''s Gate Trilogy (mod)'
+    - 'Baldur''s Gate: Enhanced Edition Trilogy (mod)'
     identifier: Sword Coast Stratagems
     url: https://www.gibberlings3.net/mods/tweaks/scs/
     comment: 'Mod collection that can randomize the maze in Watcher''s Keep for

@@ -3,7 +3,8 @@ comment: null
 sub-series: null
 randomizers:
 -   games:
-    - 'Borderlands 2 / Borderlands: The Pre-Sequel'
+    - 'Borderlands 2'
+    - 'Borderlands: The Pre-Sequel'
     identifier: BLCMods
     url: https://github.com/BLCM/BLCMods
     comment: 'Mod repository containing multiple randomizers'
