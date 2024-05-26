@@ -15,11 +15,10 @@ randomizers:
     identifier: firubii's
     url: https://github.com/firubii/kss-randomizer
 -   games:
-    - null
-    identifier: null
-    url: null
-    original: '- Kirby''s Dream Land 3 - _See at end of list: Multi-series, Connected
-        worlds_'
+    - Kirby's Dream Land 3
+    identifier: Archipelago
+    url: https://archipelago.gg/tutorial/#Kirby's%20Dream%20Land%203
+    multiworld: Archipelago
 -   games:
     - 'Kirby 64: The Crystal Shards'
     identifier: jesusyoshi54's

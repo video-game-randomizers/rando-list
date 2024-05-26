@@ -34,11 +34,10 @@ randomizers:
     url: https://randomizer.valaxor.com/#/seed
     obsolete: true
 -   games:
-    - null
-    identifier: null
-    url: null
-    original: '- Kingdom Hearts II Final Mix - _See at end of list: Multi-series,
-        Connected worlds_'
+    - Kingdom Hearts II Final Mix
+    identifier: Archipelago
+    url: https://archipelago.gg/tutorial/#Kingdom%20Hearts%202
+    multiworld: Archipelago
 -   games:
     - Kingdom Hearts Birth by Sleep Final Mix
     identifier: Keytotruth's
