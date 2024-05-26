@@ -3,7 +3,6 @@ comment: null
 sub-series: null
 randomizers:
 -   games:
-    - null
-    identifier: null
-    url: null
-    original: '- Hacx - _See at end of list: Multi-series, id Software engines_'
+    - Hacx
+    identifier: OBSIDIAN
+    url: https://obsidian-level-maker.github.io/index.html

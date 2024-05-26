@@ -3,7 +3,7 @@ comment: null
 sub-series: null
 randomizers:
 -   games:
-    - null
-    identifier: null
-    url: null
-    original: '- Hylics 2 - _See at end of list: Multi-series, Connected worlds_'
+    - Hylics 2
+    identifier: Archipelago
+    url: https://archipelago.gg/tutorial/#Hylics%202
+    multiworld: Archipelago

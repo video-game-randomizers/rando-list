@@ -3,7 +3,7 @@ comment: null
 sub-series: null
 randomizers:
 -   games:
-    - null
-    identifier: null
-    url: null
-    original: '- Hebereke - _See at end of list: Multi-series, Other_'
+    - Hebereke
+    identifier: Dan Jia Randomizers
+    url: https://github.com/vinheim3/randomizers
+    comment: Download code in local directory and open `index.html` to use

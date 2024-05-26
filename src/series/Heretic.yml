@@ -1,15 +1,56 @@
 name: Heretic
 comment: null
-sub-series: null
+sub-series: [id Software engines]
 randomizers:
 -   games:
-    - null
-    identifier: null
-    url: null
-    original: '- Heretic / Hexen: Beyond Heretic - _See at end of list: Multi-series,
-        id Software engines_'
+    - Heretic
+    - 'Hexen: Beyond Heretic'
+    identifier: CustomDoom
+    url: https://forum.zdoom.org/viewtopic.php?f=45&t=51446
+    sub-series: id Software engines
+    obsolete: true
 -   games:
-    - null
-    identifier: null
-    url: null
-    original: '- Heretic - _See at end of list: Multi-series, Connected worlds_'
+    - Heretic
+    - 'Hexen: Beyond Heretic'
+    identifier: Universal Custom Doom
+    url: https://forum.zdoom.org/viewtopic.php?f=43&t=64678
+    sub-series: id Software engines
+-   games:
+    - Heretic
+    - 'Hexen: Beyond Heretic'
+    identifier: Universal Entropy
+    url: https://www.moddb.com/mods/universal-entropy
+    sub-series: id Software engines
+-   games:
+    - Heretic
+    - 'Hexen: Beyond Heretic'
+    identifier: OBSIDIAN
+    url: https://obsidian-level-maker.github.io/index.html
+    sub-series: id Software engines
+-   games:
+    - Heretic
+    identifier: OBLIGE
+    url: https://oblige.sourceforge.net/
+    sub-series: id Software engines
+    obsolete: true
+    comment: 'Unofficial [64-bit executable](https://forum.zdoom.org/viewtopic.php?f=44&t=64879)
+        - Extensive add-on [ObAddon](https://github.com/caligari87/ObAddon/) - Add-on
+        for [Brutal Doom (mod)](https://gitlab.com/CloudOfShame/BrutalOblige) - Version
+        4.28 also supported [Hexen: Beyond Heretic / Quake / Quake II](https://sourceforge.net/projects/oblige/files/Oblige/4.28/)
+        - Version 0.97 also had experimental support for [Wolfenstein 3D](https://sourceforge.net/projects/oblige/files/Oblige/0.97/)'
+-   games:
+    - Heretic
+    identifier: ObHack
+    url: https://samiam.org/obhack/
+    sub-series: id Software engines
+    obsolete: true
+-   games:
+    - Heretic
+    identifier: MOShuffle
+    url: https://forum.zdoom.org/viewtopic.php?f=43&t=72760
+    sub-series: id Software engines
+-   games:
+    - Heretic
+    identifier: Archipelago
+    url: https://archipelago.gg/tutorial/#Heretic
+    multiworld: Archipelago
