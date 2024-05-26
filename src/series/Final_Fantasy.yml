@@ -9,194 +9,143 @@ randomizers:
     - Final Fantasy
     identifier: Deep Dungeon
     url: https://www.romhacking.net/utilities/1519/
-    original: '- [Final Fantasy](https://www.romhacking.net/utilities/1519/) (Deep
-        Dungeon) - _OBSOLETE_'
     sub-series: Main
     obsolete: true
 -   games:
     - Final Fantasy
     identifier: Entroper's
     url: https://finalfantasyrandomizer.com/
-    original: '- [Final Fantasy](https://finalfantasyrandomizer.com/) (Entroper''s)'
     sub-series: Main
 -   games:
-    - null
-    identifier: null
-    url: null
-    original: '- Final Fantasy - _See at end of list: Multi-series, Connected worlds_'
+    - Final Fantasy
+    identifier: Archipelago
+    url: https://archipelago.gg/tutorial/#Final%20Fantasy
+    multiworld: Archipelago
 -   games:
     - Final Fantasy (PSP)
     identifier: gameboy9's
     url: https://github.com/gameboy9/FFRPSP
-    original: '- [Final Fantasy (PSP)](https://github.com/gameboy9/FFRPSP) (gameboy9''s)'
     sub-series: Main
 -   games:
     - Final Fantasy (pixel remaster)
     identifier: gameboy9, leggystarscream & seeliefae's
     url: https://github.com/gameboy9/FF1-PR-Rando
-    original: '- [Final Fantasy (pixel remaster)](https://github.com/gameboy9/FF1-PR-Rando)
-        (gameboy9, leggystarscream & seeliefae''s)'
     sub-series: Main
 -   games:
     - Final Fantasy II
     identifier: Fast Food Tour Randomizer
     url: https://borokobo.web.fc2.com/#FF2
-    original: '- [Final Fantasy II](https://borokobo.web.fc2.com/#FF2) (Fast Food
-        Tour Randomizer) - Located under FF2'
     sub-series: Main
-    comment: '- Located under FF2'
+    comment: 'Located under FF2'
 -   games:
     - Final Fantasy II
     identifier: PheonixMMKC777's
     url: https://github.com/PheonixMMKC777/Final_Fantasy_2_Randomizer
-    original: '- [Final Fantasy II](https://github.com/PheonixMMKC777/Final_Fantasy_2_Randomizer)
-        (PheonixMMKC777''s)'
     sub-series: Main
 -   games:
     - 'Final Fantasy I & II: Dawn of Souls'
     identifier: Approaching Chaos
     url: https://abyssonym.wordpress.com/2017/10/12/ff-dawn-of-souls-approaching-chaos-randomizer/
-    original: '- [Final Fantasy I & II: Dawn of Souls](https://abyssonym.wordpress.com/2017/10/12/ff-dawn-of-souls-approaching-chaos-randomizer/)
-        (Approaching Chaos)'
     sub-series: Main
 -   games:
     - 'Final Fantasy I & II: Dawn of Souls'
     identifier: HMS Jayne
     url: https://hmsjayne.com/
-    original: '- [Final Fantasy I & II: Dawn of Souls](https://hmsjayne.com/) (HMS
-        Jayne) - [Source code](https://github.com/hmsjayne/ffr-hmsj) - Randomizes
-        Final Fantasy I'
     sub-series: Main
-    comment: '- [Source code](https://github.com/hmsjayne/ffr-hmsj) - Randomizes Final
+    comment: '[Source code](https://github.com/hmsjayne/ffr-hmsj) - Randomizes Final
         Fantasy I'
 -   games:
     - Final Fantasy III
     identifier: Nacho Yacopu's
     url: https://github.com/nachoyacopu/ff3-randomizer
-    original: '- [Final Fantasy III](https://github.com/nachoyacopu/ff3-randomizer)
-        (Nacho Yacopu''s) - If online version does not work, download the code and
-        open `index.html`'
     sub-series: Main
-    comment: '- If online version does not work, download the code and open `index.html`'
+    comment: 'If online version does not work, download the code and open `index.html`'
 -   games:
     - Final Fantasy IV
     identifier: Beyond Babil
     url: https://github.com/abyssonym/beyond_babil
-    original: '- [Final Fantasy IV](https://github.com/abyssonym/beyond_babil) (Beyond
-        Babil)'
     sub-series: Main
 -   games:
     - Final Fantasy IV
     identifier: Free Enterprise
     url: http://ff4fe.com/
-    original: '- [Final Fantasy IV](http://ff4fe.com/) (Free Enterprise)'
     sub-series: Main
 -   games:
     - Final Fantasy IV
     identifier: Roguelikeifyer
     url: https://www.romhacking.net/forum/index.php?topic=23126.0
-    original: '- [Final Fantasy IV](https://www.romhacking.net/forum/index.php?topic=23126.0)
-        (Roguelikeifyer)'
     sub-series: Main
 -   games:
     - Final Fantasy IV
     identifier: The Lunarian Shuffle
     url: https://ff4-lunarianshuffle.blogspot.com/
-    original: '- [Final Fantasy IV](https://ff4-lunarianshuffle.blogspot.com/) (The
-        Lunarian Shuffle)'
     sub-series: Main
 -   games:
     - Final Fantasy IV (pixel remaster)
     identifier: Fabul Gauntlet
     url: https://github.com/gameboy9/FF4FabulGauntlet
-    original: '- [Final Fantasy IV (pixel remaster)](https://github.com/gameboy9/FF4FabulGauntlet)
-        (Fabul Gauntlet)'
     sub-series: Main
 -   games:
     - Final Fantasy IV (pixel remaster)
     identifier: Falcon Dive
     url: https://github.com/gameboy9/FF4FalconDive/
-    original: '- [Final Fantasy IV (pixel remaster)](https://github.com/gameboy9/FF4FalconDive/)
-        (Falcon Dive)'
     sub-series: Main
 -   games:
     - Final Fantasy V
     identifier: Ancient Cave
     url: https://www.romhacking.net/hacks/957/
-    original: '- [Final Fantasy V](https://www.romhacking.net/hacks/957/) (Ancient
-        Cave) - Original [English translation by Sky Render](https://www.mediafire.com/file/jjv80yb83ychmvt/ff5ace.zip/file)
-        - Revised [English translation by FlamePurge](https://www.romhacking.net/hacks/7228/)'
     sub-series: Main
-    comment: '- Original [English translation by Sky Render](https://www.mediafire.com/file/jjv80yb83ychmvt/ff5ace.zip/file)
+    comment: 'Original [English translation by Sky Render](https://www.mediafire.com/file/jjv80yb83ychmvt/ff5ace.zip/file)
         - Revised [English translation by FlamePurge](https://www.romhacking.net/hacks/7228/)'
 -   games:
     - Final Fantasy V
     identifier: Career Day
     url: https://bigbridge.studio/careerday/
-    original: '- [Final Fantasy V](https://bigbridge.studio/careerday/) (Career Day)'
     sub-series: Main
 -   games:
     - Final Fantasy V
     identifier: Grand Cross
     url: https://github.com/abyssonym/grand_cross
-    original: '- [Final Fantasy V](https://github.com/abyssonym/grand_cross) (Grand
-        Cross)'
     sub-series: Main
 -   games:
     - Final Fantasy V Advance
     identifier: Ancient Cave
     url: https://www.romhacking.net/forum/index.php?topic=18507.0
-    original: '- [Final Fantasy V Advance](https://www.romhacking.net/forum/index.php?topic=18507.0)
-        (Ancient Cave)'
     sub-series: Main
 -   games:
     - Final Fantasy V Advance
     identifier: DarkJDL's
     url: https://discord.com/invite/vvu3TXY
-    original: '- [Final Fantasy V Advance](https://discord.com/invite/vvu3TXY) (DarkJDL''s)
-        - Discord account required - Located in the #randomizerfiles channel'
     sub-series: Main
-    comment: '- Discord account required - Located in the #randomizerfiles channel'
+    comment: 'Discord account required - Located in the #randomizerfiles channel'
 -   games:
     - Final Fantasy V Advance
     identifier: Spicy
     url: https://www.dropbox.com/s/jq1vdp650j0bf8d/ffvarandomizer.zip?dl=0
-    original: '- [Final Fantasy V Advance](https://www.dropbox.com/s/jq1vdp650j0bf8d/ffvarandomizer.zip?dl=0)
-        (Spicy) - Randomizes job abilities - Mild output is normal randomization,
-        while Extra Spicy output also randomizes job abilities independently between
-        characters - Drag & drop original USA ROM on `randomizer.exe` to randomize'
     sub-series: Main
-    comment: '- Randomizes job abilities - Mild output is normal randomization, while
+    comment: 'Randomizes job abilities - Mild output is normal randomization, while
         Extra Spicy output also randomizes job abilities independently between characters
         - Drag & drop original USA ROM on `randomizer.exe` to randomize'
 -   games:
     - Final Fantasy V (pixel remaster)
     identifier: FF5Abridged
     url: https://github.com/gameboy9/FF5Abridged
-    original: '- [Final Fantasy V (pixel remaster)](https://github.com/gameboy9/FF5Abridged)
-        (FF5Abridged)'
     sub-series: Main
 -   games:
     - Final Fantasy VI
     identifier: Beyond Chaos
     url: https://github.com/abyssonym/beyondchaos
-    original: '- [Final Fantasy VI](https://github.com/abyssonym/beyondchaos) (Beyond
-        Chaos) - _OBSOLETE_'
     sub-series: Main
     obsolete: true
 -   games:
     - Final Fantasy VI
     identifier: Beyond Chaos CE
     url: https://github.com/FF6BeyondChaos/BeyondChaosRandomizer
-    original: '- [Final Fantasy VI](https://github.com/FF6BeyondChaos/BeyondChaosRandomizer)
-        (Beyond Chaos CE)'
     sub-series: Main
 -   games:
     - Final Fantasy VI
     identifier: Beyond Chaos EX
     url: https://github.com/subtractionsoup/beyondchaos
-    original: '- [Final Fantasy VI](https://github.com/subtractionsoup/beyondchaos)
-        (Beyond Chaos EX) - _OBSOLETE_'
     sub-series: Main
     obsolete: true
 -   games:
@@ -204,126 +153,91 @@ randomizers:
     - Brave New World (hack)
     identifier: Beyond Chaos Gaiden
     url: https://abyssonym.wordpress.com/2018/04/02/176/
-    original: '- [Final Fantasy VI / Brave New World (hack)](https://abyssonym.wordpress.com/2018/04/02/176/)
-        (Beyond Chaos Gaiden)'
     sub-series: Main
 -   games:
     - Final Fantasy VI
     identifier: Dessyreqt's
     url: https://web.archive.org/web/20201109152941/https://archive.codeplex.com/?p=ff6randomizer
-    original: '- [Final Fantasy VI](https://web.archive.org/web/20201109152941/https://archive.codeplex.com/?p=ff6randomizer)
-        (Dessyreqt''s) - Extract `/releases/0/55609bb9-67b8-4ce4-8ff0-4673a618e35f`
-        from the archive and rename it to its original file name `FinalFantasy6Randomizer.exe`
-        to use'
     sub-series: Main
-    comment: '- Extract `/releases/0/55609bb9-67b8-4ce4-8ff0-4673a618e35f` from the
+    comment: 'Extract `/releases/0/55609bb9-67b8-4ce4-8ff0-4673a618e35f` from the
         archive and rename it to its original file name `FinalFantasy6Randomizer.exe`
         to use'
 -   games:
     - Final Fantasy VI
     identifier: Exit Rando
     url: https://abyssonym.wordpress.com/2017/09/13/ff6-exit-rando/
-    original: '- [Final Fantasy VI](https://abyssonym.wordpress.com/2017/09/13/ff6-exit-rando/)
-        (Exit Rando)'
     sub-series: Main
 -   games:
     - Final Fantasy VI
     identifier: Worlds Collide
     url: https://www.ff6worldscollide.com/
-    original: '- [Final Fantasy VI](https://www.ff6worldscollide.com/) (Worlds Collide)'
     sub-series: Main
 -   games:
     - Final Fantasy VI (pixel remaster)
     identifier: Kefka Rush
     url: https://github.com/gameboy9/FF6KefkaRush
-    original: '- [Final Fantasy VI (pixel remaster)](https://github.com/gameboy9/FF6KefkaRush)
-        (Kefka Rush)'
     sub-series: Main
 -   games:
     - Final Fantasy VII
     identifier: Godo
     url: https://forums.qhimm.com/index.php?topic=19468.0
-    original: '- [Final Fantasy VII](https://forums.qhimm.com/index.php?topic=19468.0)
-        (Godo)'
     sub-series: Main
 -   games:
     - Final Fantasy VIII
     - Final Fantasy VIII Remastered
     identifier: Maelstrom
     url: https://github.com/sleepeybunney/maelstrom
-    original: '- [Final Fantasy VIII / Final Fantasy VIII Remastered](https://github.com/sleepeybunney/maelstrom)
-        (Maelstrom)'
     sub-series: Main
 -   games:
     - Final Fantasy IX
     identifier: Meteor On Final Fantasy IX
     url: https://forums.qhimm.com/index.php?topic=16285.0
-    original: '- [Final Fantasy IX](https://forums.qhimm.com/index.php?topic=16285.0)
-        (Meteor On Final Fantasy IX)'
     sub-series: Main
 -   games:
     - Final Fantasy IX
     identifier: Stiltzkin's Bag
     url: https://github.com/Druthulu/Stiltzkins-Bag
-    original: '- [Final Fantasy IX](https://github.com/Druthulu/Stiltzkins-Bag) (Stiltzkin''s
-        Bag)'
     sub-series: Main
 -   games:
     - Final Fantasy IX
     identifier: "\uFEFFVVs Randomizer"
     url: https://www.nexusmods.com/finalfantasy9/mods/30
-    original: "- [Final Fantasy IX](https://www.nexusmods.com/finalfantasy9/mods/30)\
-        \ (\uFEFFVVs Randomizer)"
     sub-series: Main
 -   games:
     - Final Fantasy X
     identifier: FFXED
     url: https://forums.pcsx2.net/Thread-FFXED-Final-Fantasy-X-Save-Editor
-    original: '- [Final Fantasy X](https://forums.pcsx2.net/Thread-FFXED-Final-Fantasy-X-Save-Editor)
-        (FFXED) - Save editor that can randomize Sphere Grids'
     sub-series: Main
-    comment: '- Save editor that can randomize Sphere Grids'
+    comment: 'Save editor that can randomize Sphere Grids'
 -   games:
     - Final Fantasy X/X-2 HD Remaster
     identifier: Final Fantasy X HD Randomizer Pack
     url: https://github.com/Stingerman06/Stingerman06_FFXRandomizerPack
-    original: '- [Final Fantasy X/X-2 HD Remaster](https://github.com/Stingerman06/Stingerman06_FFXRandomizerPack)
-        (Final Fantasy X HD Randomizer Pack)'
     sub-series: Main
 -   games:
     - Final Fantasy X/X-2 HD Remaster
     identifier: FFX Randomizer
     url: https://ffxrandomizer.zint.ch/
-    original: '- [Final Fantasy X/X-2 HD Remaster](https://ffxrandomizer.zint.ch/)
-        (FFX Randomizer)'
     sub-series: Main
 -   games:
     - Final Fantasy X/X-2 HD Remaster
     identifier: FFX-2 Remaster Randomizer
     url: https://github.com/shea093/FFX-2-Remaster-Randomizer
-    original: '- [Final Fantasy X/X-2 HD Remaster](https://github.com/shea093/FFX-2-Remaster-Randomizer)
-        (FFX-2 Remaster Randomizer)'
     sub-series: Main
 -   games:
     - Final Fantasy XII The Zodiac Age
     identifier: Bartz24's
     url: https://www.nexusmods.com/finalfantasy12/mods/72
-    original: '- [Final Fantasy XII The Zodiac Age](https://www.nexusmods.com/finalfantasy12/mods/72)
-        (Bartz24''s)'
     sub-series: Main
 -   games:
     - Final Fantasy XII The Zodiac Age
     identifier: Open World Randomizer
     url: https://www.nexusmods.com/finalfantasy12/mods/224
-    original: '- [Final Fantasy XII The Zodiac Age](https://www.nexusmods.com/finalfantasy12/mods/224)
-        (Open World Randomizer)'
     sub-series: Main
 -   games:
     - Final Fantasy XIII (Steam)
     identifier: Bartz24's, 2020
     url: https://github.com/Bartz24/FF13Randomizer/releases
-    original: '- [Final Fantasy XIII (Steam)](https://github.com/Bartz24/FF13Randomizer/releases)
-        (Bartz24''s, 2020)'
     sub-series: Main
 -   games:
     - Final Fantasy XIII (Steam)
@@ -331,58 +245,42 @@ randomizers:
     - 'Lightning Returns: Final Fantasy XIII (Steam)'
     identifier: Bartz24's, 2021
     url: https://github.com/Bartz24/FFModdingWPF/releases
-    original: '- [Final Fantasy XIII (Steam) / Final Fantasy XIII-2 (Steam) / Lightning
-        Returns: Final Fantasy XIII (Steam)](https://github.com/Bartz24/FFModdingWPF/releases)
-        (Bartz24''s, 2021) - Discord account required to download the required Nova
-        Chrysalia mod manager'
     sub-series: Main
-    comment: '- Discord account required to download the required Nova Chrysalia mod
-        manager'
+    comment: 'Discord account required to download the required Nova Chrysalia mod manager'
 -   games:
     - Final Fantasy Tactics
     identifier: Rumble Chaos Crashdown
     url: https://github.com/abyssonym/rumble_chaos_crashdown
-    original: '- [Final Fantasy Tactics](https://github.com/abyssonym/rumble_chaos_crashdown)
-        (Rumble Chaos Crashdown) - _OBSOLETE_'
     sub-series: Tactics
     obsolete: true
 -   games:
     - Final Fantasy Tactics
     identifier: 'Rumble: Chaos: >>The Crashdown<< REMAKE'
     url: https://github.com/abyssonym/fftrctcr
-    original: '- [Final Fantasy Tactics](https://github.com/abyssonym/fftrctcr) (Rumble:
-        Chaos: >>The Crashdown<< REMAKE)'
     sub-series: Tactics
 -   games:
     - Final Fantasy Tactics Advance
     identifier: Leonarth's
     url: https://ffhacktics.com/smf/index.php?topic=12184.0
-    original: '- [Final Fantasy Tactics Advance](https://ffhacktics.com/smf/index.php?topic=12184.0)
-        (Leonarth''s)'
     sub-series: Tactics
 -   games:
     - Final Fantasy Tactics Advance
     identifier: TojiKitten's
     url: https://github.com/TojiKitten/FFTA-randomizer/releases
-    original: '- [Final Fantasy Tactics Advance](https://github.com/TojiKitten/FFTA-randomizer/releases)
-        (TojiKitten''s)'
     sub-series: Tactics
 -   games:
     - Final Fantasy Mystic Quest
     identifier: A Terrible Secret
     url: https://github.com/abyssonym/terriblesecret
-    original: '- [Final Fantasy Mystic Quest](https://github.com/abyssonym/terriblesecret)
-        (A Terrible Secret)'
     sub-series: Other
 -   games:
     - Final Fantasy Mystic Quest
     identifier: wildham's
     url: https://www.ffmqrando.net/
-    original: '- [Final Fantasy Mystic Quest](https://www.ffmqrando.net/) (wildham''s)'
     sub-series: Other
 -   games:
-    - null
-    identifier: null
-    url: null
-    original: '- Final Fantasy Mystic Quest - _See at end of list: Multi-series, Connected
-        worlds_'
+    - Final Fantasy Mystic Quest
+    identifier: Archipelago
+    url: https://archipelago.gg/tutorial/#Final%20Fantasy%20Mystic%20Quest
+    sub-series: Other
+    multiworld: Archipelago

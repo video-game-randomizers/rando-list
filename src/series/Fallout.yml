@@ -1,0 +1,52 @@
+name: Fallout
+comment: null
+sub-series: null
+randomizers:
+-   games:
+    - 'Fallout: New Vegas'
+    identifier: NVRNG
+    url: https://www.nexusmods.com/newvegas/mods/70845
+    comment: 'Unofficial [debug weapon nerf mod](https://www.nexusmods.com/newvegas/mods/71211)'
+-   games:
+    - 'Fallout: New Vegas'
+    identifier: Skill Check Randomizer
+    url: https://www.nexusmods.com/newvegas/mods/53420
+    comment: 'Unofficial [patch for YUP mod](https://www.nexusmods.com/newvegas/mods/84349)'
+-   games:
+    - 'Fallout: New Vegas'
+    identifier: World Randomizer
+    url: https://www.nexusmods.com/newvegas/mods/74554
+-   games:
+    - Fallout 4
+    identifier: Bobblehead Randomizer
+    url: https://www.nexusmods.com/fallout4/mods/58541
+-   games:
+    - Fallout 4
+    identifier: Crazy's Armor Overhaul and Randomizer
+    url: https://www.nexusmods.com/fallout4/mods/69102
+-   games:
+    - Fallout 4
+    identifier: Crazy's Weapon Randomizer
+    url: https://www.nexusmods.com/fallout4/mods/69248
+-   games:
+    - Fallout 4
+    identifier: Enemy Weapon Randomizer
+    url: https://www.nexusmods.com/fallout4/mods/9528
+-   games:
+    - Fallout 4
+    identifier: Mechtechnal's
+    url: https://www.nexusmods.com/fallout4/mods/21297
+    comment: 'Only mitigates sequence breaking'
+-   games:
+    - Fallout 4
+    identifier: Random Weapon Stats
+    url: https://www.nexusmods.com/fallout4/mods/43223
+-   games:
+    - Fallout 4
+    identifier: Randomized Enemy Weapons
+    url: https://www.nexusmods.com/fallout4/mods/40446
+-   games:
+    - Fallout 4
+    identifier: Weapon Quality Randomizer
+    url: https://www.nexusmods.com/fallout4/mods/44946
+
