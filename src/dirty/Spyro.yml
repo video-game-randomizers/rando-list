@@ -6,12 +6,8 @@ randomizers:
     - Spyro the Dragon
     identifier: Requirement Randomizer
     url: https://www.youtube.com/watch?v=jYrPQZnwXSk&t=3s
-    original: '- [Spyro the Dragon](https://www.youtube.com/watch?v=jYrPQZnwXSk&t=3s)
-        (Requirement Randomizer) - Located in video description'
-    comment: '- Located in video description'
+    comment: Located in video description
 -   games:
     - 'Spyro: Year of the Dragon'
     identifier: hwd405's
     url: https://twitter.com/hwd405/status/1617036701980889088?cxt=HHwWgMC4pYSU7_AsAAAA
-    original: '- [Spyro: Year of the Dragon](https://twitter.com/hwd405/status/1617036701980889088?cxt=HHwWgMC4pYSU7_AsAAAA)
-        (hwd405''s)'

@@ -6,6 +6,4 @@ randomizers:
     - Kid Icarus
     identifier: Kid Randomicus
     url: https://www.romhacking.net/hacks/6447/
-    original: '- [Kid Icarus](https://www.romhacking.net/hacks/6447/) (Kid Randomicus)
-        - [Source code](https://github.com/toddcblank/kid_randomicus)'
-    comment: '- [Source code](https://github.com/toddcblank/kid_randomicus)'
+    comment: '[Source code](https://github.com/toddcblank/kid_randomicus)'

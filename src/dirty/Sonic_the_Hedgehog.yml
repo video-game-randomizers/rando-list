@@ -9,50 +9,37 @@ randomizers:
     - Sonic the Hedgehog
     identifier: Random Levels Project
     url: https://forums.sonicretro.org/index.php?threads/random-levels-project.36646/
-    original: '- [Sonic the Hedgehog](https://forums.sonicretro.org/index.php?threads/random-levels-project.36646/)
-        (Random Levels Project) - Randomizes Green Hill Zone'
     sub-series: 2D
-    comment: '- Randomizes Green Hill Zone'
+    comment: Randomizes Green Hill Zone
 -   games:
     - Sonic the Hedgehog (Master System)
     identifier: ssjtroly's
     url: https://ssjtroly.github.io/sonic1-sms-randomizer/
-    original: '- [Sonic the Hedgehog (Master System)](https://ssjtroly.github.io/sonic1-sms-randomizer/)
-        (ssjtroly''s)'
     sub-series: 2D
 -   games:
     - Sonic CD
     identifier: MainMemory's
     url: https://gamebanana.com/mods/347942
-    original: '- [Sonic CD](https://gamebanana.com/mods/347942) (MainMemory''s)'
     sub-series: 2D
 -   games:
     - Sonic & Knuckles Collection
     identifier: MainMemory's
     url: https://shc.zone/entries/expo2022/682
-    original: '- [Sonic & Knuckles Collection](https://shc.zone/entries/expo2022/682)
-        (MainMemory''s)'
     sub-series: 2D
 -   games:
     - Sonic Mania
     identifier: junglechief87's
     url: https://github.com/junglechief87/Sonic-Mania-Randomizer-Custom-Game-Maker
-    original: '- [Sonic Mania](https://github.com/junglechief87/Sonic-Mania-Randomizer-Custom-Game-Maker)
-        (junglechief87''s)'
     sub-series: 2D
 -   games:
     - Sonic Adventure DX
     identifier: Sora's
     url: https://github.com/Sora-yx/SADX-Randomizer
-    original: '- [Sonic Adventure DX](https://github.com/Sora-yx/SADX-Randomizer)
-        (Sora''s)'
     sub-series: 3D
 -   games:
     - Sonic Adventure 2
     identifier: Ngolinvaux's
     url: https://github.com/Ngolinvaux/SA2Randomizer
-    original: '- [Sonic Adventure 2](https://github.com/Ngolinvaux/SA2Randomizer)
-        (Ngolinvaux''s)'
     sub-series: 3D
 -   games:
     - null
@@ -64,20 +51,14 @@ randomizers:
     - Shadow the Hedgehog
     identifier: MainMemory & dreamsyntax's
     url: https://github.com/ShadowTheHedgehogHacking/ShadowRando
-    original: '- [Shadow the Hedgehog](https://github.com/ShadowTheHedgehogHacking/ShadowRando)
-        (MainMemory & dreamsyntax''s)'
     sub-series: 3D
 -   games:
     - Sonic the Hedgehog (2006)
     identifier: Randomiser Suite
     url: https://github.com/Knuxfan24/Sonic-06-Randomiser-Suite
-    original: '- [Sonic the Hedgehog (2006)](https://github.com/Knuxfan24/Sonic-06-Randomiser-Suite)
-        (Randomiser Suite)'
     sub-series: 3D
 -   games:
     - Sonic Robo Blast 2 (fangame)
     identifier: "SRB2Randomizer\u200B"
     url: https://mb.srb2.org/threads/srb2randomizer.28983/
-    original: "- [Sonic Robo Blast 2 (fangame)](https://mb.srb2.org/threads/srb2randomizer.28983/)\
-        \ (SRB2Randomizer\u200B)"
     sub-series: Unofficial

@@ -16,131 +16,98 @@ randomizers:
     - Metroid
     identifier: Metrandomizer
     url: https://www.romhacking.net/utilities/1437/
-    original: '- [Metroid](https://www.romhacking.net/utilities/1437/) (Metrandomizer)'
     sub-series: Main
 -   games:
     - Metroid
     identifier: Nestroid Randomizer
     url: https://www.romhacking.net/utilities/1257/
-    original: '- [Metroid](https://www.romhacking.net/utilities/1257/) (Nestroid Randomizer)'
     sub-series: Main
 -   games:
     - Metroid
     identifier: Netsrotti's
     url: https://www.romhacking.net/utilities/1250/
-    original: '- [Metroid](https://www.romhacking.net/utilities/1250/) (Netsrotti''s)
-        - _OBSOLETE_'
     sub-series: Main
     obsolete: true
 -   games:
     - Metroid
     identifier: Planets
     url: https://forum.metroidconstruction.com/index.php/topic,4952.0.html
-    original: '- [Metroid](https://forum.metroidconstruction.com/index.php/topic,4952.0.html)
-        (Planets) - Fan recreation with bundled randomizer'
     sub-series: Main
-    comment: '- Fan recreation with bundled randomizer'
+    comment: Fan recreation with bundled randomizer
 -   games:
     - 'Metroid: Zero Mission'
     identifier: biospark's
     url: https://forum.metroidconstruction.com/index.php/topic,4559.0.html
-    original: '- [Metroid: Zero Mission](https://forum.metroidconstruction.com/index.php/topic,4559.0.html)
-        (biospark''s)'
     sub-series: Main
 -   games:
     - 'Metroid: Zero Mission'
     identifier: Quantum Deluxe Boogaloo
     url: https://forum.metroidconstruction.com/index.php/topic,2765.0.html
-    original: '- [Metroid: Zero Mission](https://forum.metroidconstruction.com/index.php/topic,2765.0.html)
-        (Quantum Deluxe Boogaloo)'
     sub-series: Main
 -   games:
     - 'Metroid II: Return of Samus'
     identifier: liamnajor's
     url: https://liamnajor.github.io/Metroid-2-Randomizer/
-    original: '- [Metroid II: Return of Samus](https://liamnajor.github.io/Metroid-2-Randomizer/)
-        (liamnajor''s)'
     sub-series: Main
 -   games:
     - Super Metroid
     identifier: Arcade
     url: https://metroidconstruction.com/hack.php?id=357
-    original: '- [Super Metroid](https://metroidconstruction.com/hack.php?id=357)
-        (Arcade)'
     sub-series: Main
 -   games:
     - Super Metroid
     identifier: DASH
     url: https://www.dashrando.net/
-    original: '- [Super Metroid](https://www.dashrando.net/) (DASH)'
     sub-series: Main
 -   games:
     - Super Metroid
     identifier: Dessyreqt's
     url: https://github.com/Dessyreqt/smrandomizer
-    original: '- [Super Metroid](https://github.com/Dessyreqt/smrandomizer) (Dessyreqt''s)
-        - _OBSOLETE_'
     sub-series: Main
     obsolete: true
 -   games:
     - Super Metroid
     identifier: Door Randomizer
     url: https://web.archive.org/web/20201113040706/https://archive.codeplex.com/?p=smdoor
-    original: '- [Super Metroid](https://web.archive.org/web/20201113040706/https://archive.codeplex.com/?p=smdoor)
-        (Door Randomizer) - Extract `/releases/1/a60245ee-c346-4473-9cc9-2f19ae1e1095`
-        from the archive and rename it to its original file name `SuperMetroidDoor0.3a.rar`
-        to use'
     sub-series: Main
-    comment: '- Extract `/releases/1/a60245ee-c346-4473-9cc9-2f19ae1e1095` from the
-        archive and rename it to its original file name `SuperMetroidDoor0.3a.rar`
-        to use'
+    comment: Extract `/releases/1/a60245ee-c346-4473-9cc9-2f19ae1e1095` from the archive
+        and rename it to its original file name `SuperMetroidDoor0.3a.rar` to use
 -   games:
     - Super Metroid
     identifier: Item Randomizer
     url: https://itemrando.supermetroid.run/
-    original: '- [Super Metroid](https://itemrando.supermetroid.run/) (Item Randomizer)
-        - _OBSOLETE_'
     sub-series: Main
     obsolete: true
 -   games:
     - Super Metroid
     identifier: Item Randomizer Multiworld
     url: https://sm.samus.link/
-    original: '- [Super Metroid](https://sm.samus.link/) (Item Randomizer Multiworld)'
     sub-series: Main
 -   games:
     - Super Metroid
     identifier: Map Rando
     url: https://maprando.com/
-    original: '- [Super Metroid](https://maprando.com/) (Map Rando)'
     sub-series: Main
 -   games:
     - Super Metroid
     identifier: Route Randomizer
     url: https://metroidconstruction.com/resource.php?id=102
-    original: '- [Super Metroid](https://metroidconstruction.com/resource.php?id=102)
-        (Route Randomizer)'
     sub-series: Main
 -   games:
     - Super Metroid
     identifier: VARIA
     url: https://randommetroidsolver.pythonanywhere.com/
-    original: '- [Super Metroid](https://randommetroidsolver.pythonanywhere.com/)
-        (VARIA) - Conversion tool to [randomize Rotation (Super Metroid hack)](https://strotlog.github.io/randoxrotation/)'
     sub-series: Main
-    comment: '- Conversion tool to [randomize Rotation (Super Metroid hack)](https://strotlog.github.io/randoxrotation/)'
+    comment: Conversion tool to [randomize Rotation (Super Metroid hack)](https://strotlog.github.io/randoxrotation/)
 -   games:
     - Super Metroid
     identifier: World Randomizer
     url: https://worldrandomizer.com/
-    original: '- [Super Metroid](https://worldrandomizer.com/) (World Randomizer)'
     sub-series: Main
 -   games:
     - Metroid Fusion
     identifier: MFOR
     url: https://forum.metroidconstruction.com/index.php?topic=5376.0
-    original: '- [Metroid Fusion](https://forum.metroidconstruction.com/index.php?topic=5376.0)
-        (MFOR)'
     sub-series: Main
 -   games:
     - null
@@ -152,50 +119,36 @@ randomizers:
     - Metroid Prime
     identifier: BashPrime's
     url: https://github.com/BashPrime/metroid-prime-randomizer
-    original: '- [Metroid Prime](https://github.com/BashPrime/metroid-prime-randomizer)
-        (BashPrime''s) - _OBSOLETE_'
     sub-series: Prime
     obsolete: true
 -   games:
     - Metroid Prime
     identifier: Metroid Prime Seed Generator
     url: https://github.com/EthanArmbrust/new-prime-seed-generator
-    original: '- [Metroid Prime](https://github.com/EthanArmbrust/new-prime-seed-generator)
-        (Metroid Prime Seed Generator) - Requires [Claris''s Randomizer v3.2](https://www.dropbox.com/s/s9nomgf5few8kyv/Randomizer.zip?dl=0)
-        which may generate unwinnable games by itself - _OBSOLETE_'
     sub-series: Prime
     obsolete: true
-    comment: '- Requires [Claris''s Randomizer v3.2](https://www.dropbox.com/s/s9nomgf5few8kyv/Randomizer.zip?dl=0)
-        which may generate unwinnable games by itself'
+    comment: Requires [Claris's Randomizer v3.2](https://www.dropbox.com/s/s9nomgf5few8kyv/Randomizer.zip?dl=0)
+        which may generate unwinnable games by itself
 -   games:
     - 'Metroid Prime 3: Corruption'
     identifier: gollop's
     url: https://discord.com/invite/WWGcay6
-    original: '- [Metroid Prime 3: Corruption](https://discord.com/invite/WWGcay6)
-        (gollop''s) - Discord account required - Located in the #corruption-general
-        channel'
     sub-series: Prime
-    comment: '- Discord account required - Located in the #corruption-general channel'
+    comment: 'Discord account required - Located in the #corruption-general channel'
 -   games:
     - Metroid Prime Hunters
     identifier: toiletman74's
     url: https://github.com/toiletman74/MPHrandomizer
-    original: '- [Metroid Prime Hunters](https://github.com/toiletman74/MPHrandomizer)
-        (toiletman74''s)'
     sub-series: Prime
 -   games:
     - Hyper Metroid
     identifier: Item Randomizer
     url: https://github.com/Galamoz/HyperMetroidRandomizer
-    original: '- [Hyper Metroid](https://github.com/Galamoz/HyperMetroidRandomizer)
-        (Item Randomizer)'
     sub-series: Super Metroid hacks
 -   games:
     - Project Base
     identifier: Item Randomizer
     url: https://github.com/Galamoz/ProjectBaseRandomizer
-    original: '- [Project Base](https://github.com/Galamoz/ProjectBaseRandomizer)
-        (Item Randomizer)'
     sub-series: Super Metroid hacks
 -   games:
     - Subversion
@@ -216,36 +169,23 @@ randomizers:
     - 'Super Metroid: Golden Dawn'
     identifier: ironrusty's
     url: https://randorandy.github.io/
-    original: "- [Subversion / Cryogenesis / Eris / Escape II / Recovery / Stardust\
-        \ / Nature / V\_I\_T\_A\_L\_I\_T\_Y / Ascent / Cliffhanger Redux / Super Zero\
-        \ Mission / Metroid: The Blue Plague / Oxide / Super Metroid: Redesign / Digital\
-        \ Cube / Super Metroid: Golden Dawn](https://randorandy.github.io/) (ironrusty's)\
-        \ - [Source code for the Subversion randomizer](https://github.com/SubversionRando/SubversionRando)\
-        \ - [Source code for the other randomizers](https://github.com/randorandy?tab=repositories)"
     sub-series: Super Metroid hacks
-    comment: '- [Source code for the Subversion randomizer](https://github.com/SubversionRando/SubversionRando)
+    comment: '[Source code for the Subversion randomizer](https://github.com/SubversionRando/SubversionRando)
         - [Source code for the other randomizers](https://github.com/randorandy?tab=repositories)'
 -   games:
     - Z-Factor
     identifier: Item Randomizer
     url: https://github.com/Galamoz/Z-Factor-ItemRandomizer
-    original: '- [Z-Factor](https://github.com/Galamoz/Z-Factor-ItemRandomizer) (Item
-        Randomizer)'
     sub-series: Super Metroid hacks
 -   games:
     - AM2R
     identifier: Community Updates
     url: https://www.reddit.com/r/AM2R/
-    original: '- [AM2R](https://www.reddit.com/r/AM2R/) (Community Updates) - Fan
-        updates with randomizer in pinned post - Unlock Random Game+ by either beating
-        the game under 4 hours on Normal or Hard difficulty, or by entering cheat
-        code \[UP]\[UP]\[DOWN]\[DOWN]\[LEFT]\[RIGHT]\[LEFT]\[RIGHT]\[ACCEPT]\[BACK]
-        on the game selection screen - Options documented in `explanations.txt`'
     sub-series: Fangames
-    comment: '- Fan updates with randomizer in pinned post - Unlock Random Game+ by
-        either beating the game under 4 hours on Normal or Hard difficulty, or by
-        entering cheat code \[UP]\[UP]\[DOWN]\[DOWN]\[LEFT]\[RIGHT]\[LEFT]\[RIGHT]\[ACCEPT]\[BACK]
-        on the game selection screen - Options documented in `explanations.txt`'
+    comment: Fan updates with randomizer in pinned post - Unlock Random Game+ by either
+        beating the game under 4 hours on Normal or Hard difficulty, or by entering
+        cheat code \[UP]\[UP]\[DOWN]\[DOWN]\[LEFT]\[RIGHT]\[LEFT]\[RIGHT]\[ACCEPT]\[BACK]
+        on the game selection screen - Options documented in `explanations.txt`
 -   games:
     - null
     identifier: null
@@ -255,6 +195,4 @@ randomizers:
     - Metroid The Threat Never Ends
     identifier: DodoBirby's
     url: https://github.com/DodoBirby/MTTNE-Randomiser
-    original: '- [Metroid The Threat Never Ends](https://github.com/DodoBirby/MTTNE-Randomiser)
-        (DodoBirby''s)'
     sub-series: Fangames

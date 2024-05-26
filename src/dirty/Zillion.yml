@@ -6,7 +6,6 @@ randomizers:
     - Zillion
     identifier: Zilliandomizer
     url: https://github.com/beauxq/zilliandomizer
-    original: '- [Zillion](https://github.com/beauxq/zilliandomizer) (Zilliandomizer)'
 -   games:
     - null
     identifier: null

@@ -6,6 +6,4 @@ randomizers:
     - Xenoblade Chronicles 3
     identifier: Future Redeemed unlock kit balance editor
     url: https://github.com/RoccoDev/xc3fr-unlock-kit-balance
-    original: '- [Xenoblade Chronicles 3](https://github.com/RoccoDev/xc3fr-unlock-kit-balance)
-        (Future Redeemed unlock kit balance editor) - Randomizes Art Unlock Kit locations'
-    comment: '- Randomizes Art Unlock Kit locations'
+    comment: Randomizes Art Unlock Kit locations

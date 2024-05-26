@@ -6,17 +6,11 @@ randomizers:
     - 'Ultima IV: Quest of the Avatar (PC)'
     identifier: Fenyx4's
     url: https://github.com/Fenyx4/U4DosRandomizer
-    original: '- [Ultima IV: Quest of the Avatar (PC)](https://github.com/Fenyx4/U4DosRandomizer)
-        (Fenyx4''s)'
 -   games:
     - 'Ultima IV: Quest of the Avatar (NES)'
     identifier: Gilmok's
     url: https://github.com/Gilmok/U4Rando/
-    original: '- [Ultima IV: Quest of the Avatar (NES)](https://github.com/Gilmok/U4Rando/)
-        (Gilmok''s)'
 -   games:
     - 'Ultima VI: The False Prophet (Super NES)'
     identifier: squibbons's
     url: https://arya-iwakura.github.io/Ultima6Randomizer/
-    original: '- [Ultima VI: The False Prophet (Super NES)](https://arya-iwakura.github.io/Ultima6Randomizer/)
-        (squibbons''s)'

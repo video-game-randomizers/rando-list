@@ -6,6 +6,4 @@ randomizers:
     - 'King Arthur: Knight''s Tale'
     identifier: Skill Tree Randomizer
     url: https://github.com/GeorgieH/kakt-skill-tree-randomizer
-    original: '- [King Arthur: Knight''s Tale](https://github.com/GeorgieH/kakt-skill-tree-randomizer)
-        (Skill Tree Randomizer) - Documentation in Wiki'
-    comment: '- Documentation in Wiki'
+    comment: Documentation in Wiki

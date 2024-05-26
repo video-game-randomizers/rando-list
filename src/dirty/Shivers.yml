@@ -6,9 +6,7 @@ randomizers:
     - Shivers
     identifier: GodlFire's
     url: https://www.speedrun.com/shivers/resources
-    original: '- [Shivers](https://www.speedrun.com/shivers/resources) (GodlFire''s)
-        - Located under Tools - [Source code](https://github.com/GodlFire/Shivers-Randomizer-CSharp)'
-    comment: '- Located under Tools - [Source code](https://github.com/GodlFire/Shivers-Randomizer-CSharp)'
+    comment: Located under Tools - [Source code](https://github.com/GodlFire/Shivers-Randomizer-CSharp)
 -   games:
     - null
     identifier: null

@@ -6,11 +6,8 @@ randomizers:
     - The Goonies II
     identifier: Netsrotti's
     url: https://www.romhacking.net/utilities/1247/
-    original: '- [The Goonies II](https://www.romhacking.net/utilities/1247/) (Netsrotti''s)
-        - _OBSOLETE_'
     obsolete: true
 -   games:
     - The Goonies II
     identifier: Veetorp's
     url: https://goonies2r.com/en
-    original: '- [The Goonies II](https://goonies2r.com/en) (Veetorp''s)'

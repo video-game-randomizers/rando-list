@@ -6,22 +6,16 @@ randomizers:
     - Terraria
     identifier: Chest Randomizer
     url: http://artemis251.fobby.net/stuff/terrariaMusic.html
-    original: '- [Terraria](http://artemis251.fobby.net/stuff/terrariaMusic.html)
-        (Chest Randomizer)'
 -   games:
     - Terraria
     identifier: Flag Randomizer
     url: https://forums.terraria.org/index.php?threads/terraria-flag-randomizer.113407/
-    original: '- [Terraria](https://forums.terraria.org/index.php?threads/terraria-flag-randomizer.113407/)
-        (Flag Randomizer) - Requires [tModLoader](https://tmodloader.net/)'
-    comment: '- Requires [tModLoader](https://tmodloader.net/)'
+    comment: Requires [tModLoader](https://tmodloader.net/)
 -   games:
     - Terraria
     identifier: JamSnack's
     url: https://forums.terraria.org/index.php?threads/randomizer-challenge-mod.83163/
-    original: '- [Terraria](https://forums.terraria.org/index.php?threads/randomizer-challenge-mod.83163/)
-        (JamSnack''s) - Requires [tModLoader](https://tmodloader.net/)'
-    comment: '- Requires [tModLoader](https://tmodloader.net/)'
+    comment: Requires [tModLoader](https://tmodloader.net/)
 -   games:
     - null
     identifier: null

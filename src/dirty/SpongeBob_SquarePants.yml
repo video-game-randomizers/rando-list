@@ -6,9 +6,7 @@ randomizers:
     - 'SpongeBob SquarePants: Battle for Bikini Bottom (GameCube)'
     identifier: BfBB AP World
     url: https://github.com/Cyb3RGER/bfbb_ap_world/
-    original: '- [SpongeBob SquarePants: Battle for Bikini Bottom (GameCube)](https://github.com/Cyb3RGER/bfbb_ap_world/)
-        (BfBB AP World) - Requires [Archipelago](https://archipelago.gg/)'
-    comment: '- Requires [Archipelago](https://archipelago.gg/)'
+    comment: Requires [Archipelago](https://archipelago.gg/)
 -   games:
     - null
     identifier: null

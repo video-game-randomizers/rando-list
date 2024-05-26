@@ -7,15 +7,10 @@ randomizers:
     - Victoria II
     identifier: FortTell's Random World Generator
     url: https://yadi.sk/d/b6jEkpbrBMexiw
-    original: '- [Victoria II](https://yadi.sk/d/b6jEkpbrBMexiw) (FortTell''s Random
-        World Generator) - [Original release forum post](https://forum.paradoxplaza.com/forum/threads/victoria-ii-random-world-generator.546055/page-35#post-26579083)
-        for Paradox Interactive account users'
-    comment: '- [Original release forum post](https://forum.paradoxplaza.com/forum/threads/victoria-ii-random-world-generator.546055/page-35#post-26579083)
+    comment: '[Original release forum post](https://forum.paradoxplaza.com/forum/threads/victoria-ii-random-world-generator.546055/page-35#post-26579083)
         for Paradox Interactive account users'
 -   games:
     - Victoria II
     identifier: Jefferson Pinheiro's Random World Generator
     url: https://web.archive.org/web/20210125171855/https://www.magiadosdoces.com/jeff/v2rwg.html
-    original: '- [Victoria II](https://web.archive.org/web/20210125171855/https://www.magiadosdoces.com/jeff/v2rwg.html)
-        (Jefferson Pinheiro''s Random World Generator) - _OBSOLETE_'
     obsolete: true

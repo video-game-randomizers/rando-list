@@ -6,8 +6,6 @@ randomizers:
     - Undertale
     identifier: Geno Randomizer
     url: https://gamejolt.com/games/UndertaleGenoRandomizer/604714
-    original: '- [Undertale](https://gamejolt.com/games/UndertaleGenoRandomizer/604714)
-        (Geno Randomizer)'
 -   games:
     - null
     identifier: null
@@ -17,15 +15,10 @@ randomizers:
     - Deltarune (SURVEY_PROGRAM)
     identifier: Deltarando
     url: https://discord.com/invite/WwVB9sxd47
-    original: '- [Deltarune (SURVEY_PROGRAM)](https://discord.com/invite/WwVB9sxd47)
-        (Deltarando) - Discord account required - Located in the #resources channel
-        - Randomizes Chapter 1'
-    comment: '- Discord account required - Located in the #resources channel - Randomizes
+    comment: 'Discord account required - Located in the #resources channel - Randomizes
         Chapter 1'
 -   games:
     - Deltarune (Chapter 1&2)
     identifier: Chapter 2 Encounter Randomizer
     url: https://gamebanana.com/mods/405974
-    original: '- [Deltarune (Chapter 1&2)](https://gamebanana.com/mods/405974) (Chapter
-        2 Encounter Randomizer) - Randomizes Chapter 2'
-    comment: '- Randomizes Chapter 2'
+    comment: Randomizes Chapter 2

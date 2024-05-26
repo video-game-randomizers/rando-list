@@ -6,14 +6,11 @@ randomizers:
     - Tunic
     identifier: Item Randomizer
     url: https://github.com/Dr4g0nsoul/TunicRandomizer
-    original: '- [Tunic](https://github.com/Dr4g0nsoul/TunicRandomizer) (Item Randomizer)
-        - _OBSOLETE_'
     obsolete: true
 -   games:
     - Tunic
     identifier: SilentDestroyer's
     url: https://github.com/silent-destroyer/tunic-randomizer
-    original: '- [Tunic](https://github.com/silent-destroyer/tunic-randomizer) (SilentDestroyer''s)'
 -   games:
     - null
     identifier: null

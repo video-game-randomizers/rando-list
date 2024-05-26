@@ -12,10 +12,7 @@ randomizers:
     - Quake
     identifier: RandoQ
     url: https://www.reddit.com/r/quake/comments/q3d0mc/quake_randomizer_updated_for_the_quake_rerelease/
-    original: '- [Quake](https://www.reddit.com/r/quake/comments/q3d0mc/quake_randomizer_updated_for_the_quake_rerelease/)
-        (RandoQ)'
 -   games:
     - Quake II
     identifier: Campaign Randomizer
     url: https://www.nexusmods.com/quake2/mods/6
-    original: '- [Quake II](https://www.nexusmods.com/quake2/mods/6) (Campaign Randomizer)'

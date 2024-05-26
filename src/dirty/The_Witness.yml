@@ -6,14 +6,10 @@ randomizers:
     - The Witness
     identifier: jbzdarkid's
     url: https://github.com/jbzdarkid/witness-randomizer/releases
-    original: '- [The Witness](https://github.com/jbzdarkid/witness-randomizer/releases)
-        (jbzdarkid''s)'
 -   games:
     - The Witness
     identifier: Witness Random Puzzle Generator
     url: https://github.com/sigma144/witness-randomizer
-    original: '- [The Witness](https://github.com/sigma144/witness-randomizer) (Witness
-        Random Puzzle Generator)'
 -   games:
     - null
     identifier: null

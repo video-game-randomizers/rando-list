@@ -6,19 +6,14 @@ randomizers:
     - Kirby's Adventure
     identifier: Austin Bricker's
     url: https://github.com/Aquova/KA-Rando
-    original: '- [Kirby''s Adventure](https://github.com/Aquova/KA-Rando) (Austin
-        Bricker''s)'
 -   games:
     - 'Kirby: Nightmare in Dream Land'
     identifier: Austin Bricker's
     url: https://github.com/Aquova/KNDL-Rando
-    original: '- [Kirby: Nightmare in Dream Land](https://github.com/Aquova/KNDL-Rando)
-        (Austin Bricker''s)'
 -   games:
     - Kirby Super Star
     identifier: firubii's
     url: https://github.com/firubii/kss-randomizer
-    original: '- [Kirby Super Star](https://github.com/firubii/kss-randomizer) (firubii''s)'
 -   games:
     - null
     identifier: null
@@ -29,30 +24,20 @@ randomizers:
     - 'Kirby 64: The Crystal Shards'
     identifier: jesusyoshi54's
     url: https://www.youtube.com/watch?v=e8wVqrb0BUw
-    original: '- [Kirby 64: The Crystal Shards](https://www.youtube.com/watch?v=e8wVqrb0BUw)
-        (jesusyoshi54''s) - Located in video description'
-    comment: '- Located in video description'
+    comment: Located in video description
 -   games:
     - Kirby & The Amazing Mirror
     identifier: HeyImTG's
     url: https://github.com/HeyImTG/Amazing-Mirror-Randomizer
-    original: '- [Kirby & The Amazing Mirror](https://github.com/HeyImTG/Amazing-Mirror-Randomizer)
-        (HeyImTG''s)'
 -   games:
     - Kirby & The Amazing Mirror
     identifier: Mips96's
     url: https://github.com/Mips96/kamrandomizer
-    original: '- [Kirby & The Amazing Mirror](https://github.com/Mips96/kamrandomizer)
-        (Mips96''s)'
 -   games:
     - Kirby Star Allies
     identifier: firubii's
     url: https://github.com/firubii/StarAlliesRandomizer
-    original: '- [Kirby Star Allies](https://github.com/firubii/StarAlliesRandomizer)
-        (firubii''s)'
 -   games:
     - Kirby and the Forgotten Land
     identifier: Toranix's
     url: https://gamebanana.com/mods/390471
-    original: '- [Kirby and the Forgotten Land](https://gamebanana.com/mods/390471)
-        (Toranix''s)'

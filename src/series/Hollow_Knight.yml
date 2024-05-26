@@ -1,0 +1,17 @@
+name: Hollow Knight
+comment: 'Support is available on the [official Hollow Knight Discord server](https://discord.com/invite/hollowknight)
+    in the #randomizer channel.'
+sub-series: null
+randomizers:
+-   games:
+    - Hollow Knight
+    identifier: Randomizer 4
+    url: https://github.com/homothetyhk/RandomizerMod
+    comment: '[Multiplayer add-on](https://github.com/Shadudev/HollowKnight.MultiWorld)
+        - Mod manager [Scarab](https://github.com/fifty-six/Scarab) for easy installation
+        and updates'
+-   games:
+    - Hollow Knight
+    identifier: Archipelago
+    url: https://archipelago.gg/tutorial/#Hollow%20Knight
+    multiworld: Archipelago

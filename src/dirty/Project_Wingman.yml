@@ -6,6 +6,4 @@ randomizers:
     - Project Wingman
     identifier: FalconLuma's
     url: https://www.nexusmods.com/projectwingman/mods/355
-    original: '- [Project Wingman](https://www.nexusmods.com/projectwingman/mods/355)
-        (FalconLuma''s) - Requires [Project Sicario Merger](https://sicario.modding.app/merger)'
-    comment: '- Requires [Project Sicario Merger](https://sicario.modding.app/merger)'
+    comment: Requires [Project Sicario Merger](https://sicario.modding.app/merger)
