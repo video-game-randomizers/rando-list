@@ -11,18 +11,21 @@
     <h1>{{ page.title}}</h1>
 
     {% for series in site.data %}
-        <h3>{{ series[1].name }}</h3>
+        <h3 id="{{ series[0] }}"><a href="#{{ series[0] }}">🔗</a> {{ series[1].name }}</h3>
         {% if series[1].comment %}
             <p>{{ series[1].comment }}</p>
         {% endif %}
-        <ul>
+
+        <ul class="series">
         {% for rando in series[1].randomizers %}
-            <li>
+            <li class="rando">
                 <h5><a href="{{ rando.url }}">{{ rando.identifier }}</a></h5>
+
                 <ul>{% for game in rando.games %}
                     <li>{{ game }}</li>
                 {% endfor %}
                 </ul>
+
                 {% if rando.obsolete %}
                     <p>OBSOLETE</p>
                 {% endif %}
