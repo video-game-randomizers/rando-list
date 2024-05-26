@@ -1,0 +1,31 @@
+name: Europa Universalis
+comment: Old versions of Paradox Development Studio games are available on Steam
+    as betas. To unlock Europa Universalis IV versions prior to 1.27, refer to [this
+    official announcement](https://forum.paradoxplaza.com/forum/threads/changes-to-playing-previous-versions-of-pds-titles.1120883/).
+sub-series: null
+randomizers:
+-   games:
+    - Europa Universalis IV
+    identifier: Haftetavenscrap's Realistic Map Generator
+    url: https://www.mediafire.com/file/3b5lb78vybzv2e0/EUIV_Map_Generator_2.0.zip/file
+    comment: 'Paradox Interactive account required to access [original forum thread](https://forum.paradoxplaza.com/forum/threads/mod-cop-haftetavenscraps-realistic-map-generator.751689/)'
+-   games:
+    - Europa Universalis IV
+    identifier: Random New World Improvements
+    url: https://steamcommunity.com/sharedfiles/filedetails/?id=602251342
+    obsolete: true
+    comment: 'Paradox Interactive account required to access [original forum thread](https://forum.paradoxplaza.com/forum/threads/mod-random-new-world-improvements.907010/)'
+-   games:
+    - Europa Universalis IV
+    identifier: Random New World Improvements \[Updated]
+    url: https://steamcommunity.com/sharedfiles/filedetails/?id=2786231870
+    obsolete: true
+-   games:
+    - Europa Universalis IV
+    identifier: Randomizable World
+    url: https://steamcommunity.com/sharedfiles/filedetails/?id=2484562172
+-   games:
+    - Europa Universalis IV
+    identifier: Religion Randomizer
+    url: https://steamcommunity.com/sharedfiles/filedetails/?id=1852796430
+

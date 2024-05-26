@@ -1,0 +1,28 @@
+name: 'Elden Ring '
+comment: null
+sub-series: null
+randomizers:
+-   games:
+    - Elden Ring
+    identifier: Elden Loot
+    url: https://www.nexusmods.com/eldenring/mods/2683
+-   games:
+    - Elden Ring
+    identifier: Fog Gate Randomizer
+    url: https://www.nexusmods.com/eldenring/mods/3295
+    comment: 'Unofficial [Randomizer Hints](https://www.nexusmods.com/eldenring/mods/4096)
+        mod'
+-   games:
+    - Elden Ring
+    identifier: Item and Param Randomiser
+    url: https://www.nexusmods.com/eldenring/mods/97
+-   games:
+    - Elden Ring
+    identifier: Item and Enemy Randomizer
+    url: https://www.nexusmods.com/eldenring/mods/428
+    comment: 'Unofficial [Randomizer Hints](https://www.nexusmods.com/eldenring/mods/4096) mod'
+-   games:
+    - Elden Ring
+    identifier: Summon Randomizer
+    url: https://www.nexusmods.com/eldenring/mods/982
+

@@ -6,6 +6,4 @@ randomizers:
     - Environmental Station Alpha
     identifier: Mokesmoe's
     url: https://www.speedrun.com/esalpha/resources
-    original: '- [Environmental Station Alpha](https://www.speedrun.com/esalpha/resources)
-        (Mokesmoe''s) - Located under Tools'
-    comment: '- Located under Tools'
+    comment: 'Located under Tools'
