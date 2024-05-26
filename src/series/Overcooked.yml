@@ -1,0 +1,9 @@
+name: Overcooked
+comment: null
+sub-series: null
+randomizers:
+-   games:
+    - Overcooked! 2
+    identifier: Archipelago
+    url: https://archipelago.gg/tutorial/#Overcooked!%202
+    multiworld: Archipelago

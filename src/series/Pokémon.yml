@@ -1,72 +1,46 @@
 name: "Pok\xE9mon"
-comment: '_Note that for readability, the core games in this series may be referred
+comment: 'Note that for readability, the core games in this series may be referred
     to one the following **Generation (Gen)** groupings instead of their full names:__Speedchoice
     hacks are available on the [Pokemon Crystal Randomizer Central Discord server](https://discord.com/invite/nT56DbT)
-    in the #resources channel._'
+    in the #resources channel.
+    
+    - _**I**: Pok\xE9mon Red Version (international) / Pok\xE9mon Blue\
+        \ Version (international) as **primary**, Pok\xE9mon Yellow Version: Special\
+        \ Pikachu Edition as **secondary**_
+        
+    - _**II**: Pok\xE9mon Gold Version / Pok\xE9mon Silver Version as **primary**,\
+        \ Pok\xE9mon Crystal Version as **secondary**_
+
+    - _**III**: Pok\xE9mon Ruby Version / Pok\xE9mon Sapphire Version as\
+        \ **primary**, Pok\xE9mon Emerald Version as **secondary**, Pok\xE9mon FireRed\
+        \ Version / Pok\xE9mon LeafGreen Version as **remakes**_
+
+    - _**IV**: Pok\xE9mon Diamond Version / Pok\xE9mon Pearl Version as\
+        \ **primary**, Pok\xE9mon Platinum Version as **secondary**, Pok\xE9mon HeartGold\
+        \ Version / Pok\xE9mon SoulSilver Version as **remakes**_
+
+    - _**V**: Pok\xE9mon Black Version / Pok\xE9mon White Version as **primary**,\
+        \ Pok\xE9mon Black Version 2, Pok\xE9mon White Version 2 as **secondary**_
+
+    - _**VI**: Pok\xE9mon X / Pok\xE9mon Y as **primary**, Pok\xE9mon Omega\
+        \ Ruby / Pok\xE9mon Alpha Sapphire as **remakes**_
+
+    - _**VII**: Pok\xE9mon Sun / Pok\xE9mon Moon as **primary**, Pok\xE9\
+        mon Ultra Sun / Pok\xE9mon Ultra Moon as **secondary**, Pok\xE9mon: Let''s\
+        \ Go Pikachu! / Pok\xE9mon: Let''s Go Eevee! as **remakes**_
+
+    - _**VIII**: Pok\xE9mon Sword / Pok\xE9mon Shield as **primary**. Pok\xE9\
+        mon Legends: Arceus as **secondary**, Pok\xE9mon Brillant Diamond / Pok\xE9\
+        mon Shining Pearl as **remakes**_
+
+    - _**IX**: Pok\xE9mon Scarlet / Pok\xE9mon Violet as **primary**_
+        '
 sub-series:
 - Core
 - Side
 - Spin-offs
 - Unofficial
 randomizers:
--   games:
-    - null
-    identifier: null
-    url: null
-    original: "- _**I**: Pok\xE9mon Red Version (international) / Pok\xE9mon Blue\
-        \ Version (international) as **primary**, Pok\xE9mon Yellow Version: Special\
-        \ Pikachu Edition as **secondary**_"
--   games:
-    - null
-    identifier: null
-    url: null
-    original: "- _**II**: Pok\xE9mon Gold Version / Pok\xE9mon Silver Version as **primary**,\
-        \ Pok\xE9mon Crystal Version as **secondary**_"
--   games:
-    - null
-    identifier: null
-    url: null
-    original: "- _**III**: Pok\xE9mon Ruby Version / Pok\xE9mon Sapphire Version as\
-        \ **primary**, Pok\xE9mon Emerald Version as **secondary**, Pok\xE9mon FireRed\
-        \ Version / Pok\xE9mon LeafGreen Version as **remakes**_"
--   games:
-    - null
-    identifier: null
-    url: null
-    original: "- _**IV**: Pok\xE9mon Diamond Version / Pok\xE9mon Pearl Version as\
-        \ **primary**, Pok\xE9mon Platinum Version as **secondary**, Pok\xE9mon HeartGold\
-        \ Version / Pok\xE9mon SoulSilver Version as **remakes**_"
--   games:
-    - null
-    identifier: null
-    url: null
-    original: "- _**V**: Pok\xE9mon Black Version / Pok\xE9mon White Version as **primary**,\
-        \ Pok\xE9mon Black Version 2, Pok\xE9mon White Version 2 as **secondary**_"
--   games:
-    - null
-    identifier: null
-    url: null
-    original: "- _**VI**: Pok\xE9mon X / Pok\xE9mon Y as **primary**, Pok\xE9mon Omega\
-        \ Ruby / Pok\xE9mon Alpha Sapphire as **remakes**_"
--   games:
-    - null
-    identifier: null
-    url: null
-    original: "- _**VII**: Pok\xE9mon Sun / Pok\xE9mon Moon as **primary**, Pok\xE9\
-        mon Ultra Sun / Pok\xE9mon Ultra Moon as **secondary**, Pok\xE9mon: Let's\
-        \ Go Pikachu! / Pok\xE9mon: Let's Go Eevee! as **remakes**_"
--   games:
-    - null
-    identifier: null
-    url: null
-    original: "- _**VIII**: Pok\xE9mon Sword / Pok\xE9mon Shield as **primary**. Pok\xE9\
-        mon Legends: Arceus as **secondary**, Pok\xE9mon Brillant Diamond / Pok\xE9\
-        mon Shining Pearl as **remakes**_"
--   games:
-    - null
-    identifier: null
-    url: null
-    original: "- _**IX**: Pok\xE9mon Scarlet / Pok\xE9mon Violet as **primary**_"
 -   games:
     - (I-VII) Gens I to VI all
     - Gen VII primary & secondary
@@ -89,11 +63,18 @@ randomizers:
     url: https://github.com/NPO-197/PokemonTypeChartRandomizer
     sub-series: Core
 -   games:
-    - null
-    identifier: null
-    url: null
-    original: '- (I/III) Gen I primary / Gen III secondary - _See at end of list:
-        Multi-series, Connected worlds_'
+    - "Pok\xE9mon Emerald Version"
+    identifier: Archipelago
+    url: https://archipelago.gg/tutorial/#Pokemon%20Emerald
+    multiworld: Archipelago
+    sub-series: Core
+-   games:
+    - "Pok\xE9mon Red Version (international)"
+    - "Pok\xE9mon Blue Version (international)"
+    identifier: Archipelago
+    url: https://archipelago.gg/tutorial/#Pokemon%20Red%20and%20Blue
+    multiworld: Archipelago
+    sub-series: Core
 -   games:
     - (I) Gen I primary
     identifier: Artemis251's

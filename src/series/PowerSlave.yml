@@ -1,0 +1,8 @@
+name: PowerSlave
+comment: null
+sub-series: null
+randomizers:
+-   games:
+    - PowerSlave (PC 1996)
+    identifier: Build Engine Randomizer
+    url: https://github.com/Die4Ever/build-engine-randomizer
