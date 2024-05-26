@@ -7,7 +7,7 @@ randomizers:
     identifier: Steam Workshop - Randomizers
     url: https://steamcommunity.com/workshop/browse/?appid=881100&searchtext=randomizer
 -   games:
-    - null
-    identifier: null
-    url: null
-    original: '- Noita - _See at end of list: Multi-series, Connected worlds_'
+    - Noita
+    identifier: Archipelago
+    url: https://archipelago.gg/tutorial/#Noita
+    multiworld: Archipelago

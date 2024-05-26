@@ -63,11 +63,12 @@ randomizers:
     url: https://github.com/MaximumLance/Wily-Wars-Randomizer
     sub-series: Classic
 -   games:
-    - null
-    identifier: null
-    url: null
-    original: '- Mega Man X3 / Zero Project (hack) - _See at end of list: Multi-series,
-        Other_'
+    - Mega Man X3
+    - Zero Project (Mega Man X3 hack)
+    identifier: Dan Jia Randomizers
+    url: https://github.com/vinheim3/randomizers
+    sub-series: X
+    multiworld: Other
 -   games:
     - Mega Man X6
     identifier: Tweaks Patcher
@@ -97,11 +98,10 @@ randomizers:
     sub-series: Battle Network
     obsolete: true
 -   games:
-    - null
-    identifier: null
-    url: null
-    original: '- Mega Man Battle Network 3 Blue - _See at end of list: Multi-series,
-        Connected worlds_'
+    - Mega Man Battle Network 3 Blue
+    identifier: Archipelago
+    url: https://archipelago.gg/tutorial/#MegaMan%20Battle%20Network%203
+    multiworld: Archipelago
 -   games:
     - Mega Man Battle Network 5 Team Protoman
     - Mega Man Battle Network 5 Team Colonel

@@ -1,0 +1,9 @@
+name: Muse Dash
+comment: null
+sub-series: null
+randomizers:
+-   games:
+    - Muse Dash
+    identifier: Archipelago
+    url: https://archipelago.gg/tutorial/#Muse%20Dash
+    multiworld: Archipelago

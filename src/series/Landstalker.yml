@@ -1,0 +1,13 @@
+name: Landstalker
+comment: null
+sub-series: null
+randomizers:
+-   games:
+    - 'Landstalker: The Treasures of King Nole'
+    identifier: Randstalker
+    url: https://randstalker.ovh/
+-   games:
+    - 'Landstalker: The Treasures of King Nole'
+    identifier: Archipelago
+    url: https://archipelago.gg/tutorial/#Landstalker%20-%20The%20Treasures%20of%20King%20Nole
+    multiworld: Archipelago

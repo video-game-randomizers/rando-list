@@ -43,11 +43,10 @@ randomizers:
     url: https://ssjtroly.github.io/smb3-nes-web-randomizer/
     sub-series: 2D & 2D-like platformers
 -   games:
-    - null
-    identifier: null
-    url: null
-    original: '- Super Mario World - _See at end of list: Multi-series, Connected
-        worlds_'
+    - Super Mario World
+    identifier: Archipelago
+    url: https://archipelago.gg/tutorial/#Super%20Mario%20World
+    multiworld: Archipelago
 -   games:
     - Super Mario World
     identifier: authorblues's
@@ -85,10 +84,10 @@ randomizers:
     url: https://romhacking.com/hack/sm64-randomizer
     sub-series: 3D platformers
 -   games:
-    - null
-    identifier: null
-    url: null
-    original: '- Super Mario 64 - _See at end of list: Multi-series, Connected worlds_'
+    - Super Mario 64
+    identifier: Archipelago
+    url: https://archipelago.gg/tutorial/#Super%20Mario%2064
+    multiworld: Archipelago
 -   games:
     - Super Mario Galaxy
     - Super Mario Galaxy 2

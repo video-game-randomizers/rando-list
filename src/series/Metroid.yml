@@ -7,11 +7,39 @@ sub-series:
 - Fangames
 randomizers:
 -   games:
-    - null
+    - Super Metroid
+    identifier: Archipelago
+    url: https://archipelago.gg/tutorial/#Super%20Metroid
+    multiworld: Archipelago
+    sub-series: Main
+-   games:
+    - Super Metroid
+    identifier: SMZ3 Cas' Randomizer
+    url: https://github.com/Vivelin/SMZ3Randomizer
+    multiworld: Other
+    sub-series: Main
+-   games:
+    - Super Metroid
     identifier: null
-    url: null
-    original: '- Metroid / Super Metroid / Metroid Dread / Metroid: Samus Returns
-        - _See at end of list: Multi-series, Connected worlds_'
+    url: https://samus.link/
+    multiworld: Other
+    sub-series: Main
+    comment: Super Metroid and A Link to the Past
+-   games:
+    - AM2R (Metroid fangame)
+    - Metroid Dread
+    - Metroid Prime
+    - 'Metroid Prime 2: Echoes'
+    - 'Metroid: Samus Returns'
+    identifier: Randovania
+    url: https://randovania.org/
+    multiworld: Randovania
+-   games:
+    - Metroid
+    identifier: Z1M1
+    url: https://z1m1.info/
+    multiworld: Other
+    sub-series: Main
 -   games:
     - Metroid
     identifier: Metrandomizer

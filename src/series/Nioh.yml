@@ -8,7 +8,7 @@ randomizers:
     url: https://cdn.discordapp.com/attachments/1140465134066741309/1147430736178192385/Randomizer-304-1-1655766157.zip
     obsolete: true
     comment: '[Documentation archive](https://web.archive.org/web/20220621010638/https://www.nexusmods.com/nioh2/mods/304)
-        - _Game downgrade to v1.28.6 required_'
+        - Game downgrade to v1.28.6 required'
 -   games:
     - Nioh 2
     identifier: Enemy Randomizer, rphii's

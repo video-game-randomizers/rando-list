@@ -1,0 +1,9 @@
+name: Meritous
+comment: null
+sub-series: null
+randomizers:
+-   games:
+    - Meritous
+    identifier: Archipelago
+    url: https://archipelago.gg/tutorial/#Meritous
+    multiworld: Archipelago

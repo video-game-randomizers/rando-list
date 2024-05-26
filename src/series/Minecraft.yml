@@ -21,8 +21,6 @@ randomizers:
     url: https://www.spigotmc.org/resources/randomizer-1-13-1-16-x.77069/
     obsolete: true
 -   games:
-    - null
-    identifier: null
-    url: null
-    original: '- Minecraft: Java Edition - _See at end of list: Multi-series, Connected
-        worlds_'
+    - 'Minecraft: Java Edition'
+    identifier: Archipelago
+    url: https://archipelago.gg/tutorial/#Minecraft
