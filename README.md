@@ -1,28 +1,23 @@
 # The BIG List of Video Game Randomizers
 
 - Home page: <https://www.debigare.com/randomizers/>
+- Work in progress new page: <https://video-game-randomizers.github.io/rando-list/>
 - Discord Community Server: <https://discord.com/invite/YREMzGQ3gd>
 
 ## About
 
-This repository contains the source code for [The BIG List of Video Game Randomizers](https://www.debigare.com/randomizers/), a community project created and originally published in 2016 by [Guillaume Fortin-Debigaré](https://www.debigare.com/). The project has been continuously maintained by him based on countless contributions by the community over the years, up until it became open source in 2024.
+This repository contains the source code for [The BIG List of Video Game Randomizers](https://video-game-randomizers.github.io/rando-list/), a community project created and originally published in 2016 by [Guillaume Fortin-Debigaré](https://www.debigare.com/). The project has been continuously maintained by him based on countless contributions by the community over the years, up until it became open source in 2024.
 
-The project is currently hosted on Guillaume Fortin-Debigaré's personal website, although we are considering moving it to a separate domain or subdomain as part of the open source transition as soon as possible.
+The project is currently hosted on [Guillaume Fortin-Debigaré's personal website](https://www.debigare.com/randomizers/), although we are currently working on moving it to <https://video-game-randomizers.github.io/rando-list/>.
 
 ## How to contribute
 
-If you want to improve or become a maintainer of this project, please join the [official Discord Community Server](https://discord.com/invite/YREMzGQ3gd) and post in the `#list-maintenance` channel. Pull requests from the public are also welcome.
-
-The current code, from a development and from an end-user perspective, was never designed to handle as much data as it currently handles. As such, any contributions that fundamentally change its structure and build pipeline will be considered.
+Pull requests from the public are very welcome. If you want to become a maintainer of this project or you need help with contributing, please join the [official Discord Community Server](https://discord.com/invite/YREMzGQ3gd) and post in the `#list-maintenance` channel.
 
 ## Code structure
 
-The actual code and content is located in the `src` directory. It is currently exclusively composed of Markdown documents conforming with the [CommonMark specifications](https://commonmark.org/), with an added [Jekyll-style Front Matter](https://jekyllrb.com/docs/front-matter/) YAML header for metadata used during building.
-
-Links between internal pages are currently based on the `permalink` Front Matter metadata, used to generate the final URLs.
+The actual code and content is located in the `src` directory. The data about the games/randomizers is stored in `yml` files inside of `src/series/`, while the HTML code is built from [Jekyll](https://jekyllrb.com/docs/)/[Liquid](https://shopify.github.io/liquid/basics/introduction/) templates in `src/index.html` and `src/_includes/series.html`.
 
 ## Building
 
-The current build pipeline is private, due to multiple dependencies with Guillaume Fortin-Debigaré's personal website. However, any static site generator with Front Matter support should be able to properly convert the Markdown documents into HTML documents, including Hugo, Jekyll and Metalsmith.
-
-Contributions for a new open source build pipeline that would remove this dependency would be appreciated.
+We use [Jekyll](https://jekyllrb.com/docs/) to build the website into static files. If you do not have Jekyll installed, you can just let GitHub Actions build the website for you, you can download and extract the artifact file from there and open the static HTML files. If you do have Jekyll installed then you can `cd` into the `src` folder, then run `bundle install`, and then run `bundle exec jekyll serve` and it will host the website on `http://127.0.0.1:4000/rando-list/`.
