@@ -34,6 +34,7 @@ jobs:
 
   # Deployment job
   deploy_jekyll:
+    if: ${{ (github.repository_owner == 'video-game-randomizers') && (github.ref == 'refs/heads/main') }}
     environment:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
@@ -41,6 +42,5 @@ jobs:
     needs: build_jekyll
     steps:
       - name: Deploy to GitHub Pages
-        if: ${{ (github.repository_owner == 'video-game-randomizers') && (github.ref == 'refs/heads/main') }}
         id: deployment
         uses: actions/deploy-pages@v4
