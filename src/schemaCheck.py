@@ -29,14 +29,6 @@ randomizer_schema = {
         "comment": MaybeString,
         "multiworld": {
             "type": ["string", "boolean", "null"],
-            "enum": [
-                None,
-                False,
-                "Standard",
-                "Archipelago",
-                "Randovania",
-                "Other"
-            ],
             "default": None
         },
         "obsolete": {"type": "boolean"},
