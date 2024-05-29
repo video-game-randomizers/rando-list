@@ -8,3 +8,4 @@ randomizers:
     url: https://github.com/Jarlyk/Haiku.Rando
     comment: Requires [Haiku.CoreModdingApi](https://github.com/Jarlyk/Haiku.ModdingApi)
         and [BepInEx](https://github.com/BepInEx/BepInEx)
+    multiworld: Shadu-Multiworld

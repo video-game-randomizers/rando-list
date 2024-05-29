@@ -71,6 +71,13 @@ randomizers:
     sub-series: Connected worlds
     comment: List of [additional extensions in development](https://multiworld.news/apworlds.html)
 -   games:
+        - Hollow Knight
+        - Haiku, the Robot
+    identifier: Shadu's Multiworld
+    url: https://github.com/Shadudev/HollowKnight.MultiWorld
+    multiworld: Shadu-Multiworld
+    sub-series: Connected worlds
+-   games:
     - 'Castlevania: Harmony of Dissonance'
     - Bomberman Tournament
     identifier: HoDBT
