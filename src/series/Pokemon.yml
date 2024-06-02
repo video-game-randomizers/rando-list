@@ -247,6 +247,13 @@ randomizers:
     sub-series: Core
 -   games:
     - (IX) Gen IX primary
+    identifier: sora10pls's
+    url: https://gist.github.com/sora10pls/07d69600241f3a47959b802560ab8900?permalink_comment_id=5057231#gistcomment-5057231
+    sub-series: Core
+    comment: 'Announcement Tweet https://x.com/mattyoukhana_/status/1790503673367257582'
+    infoupdated: 2024-06-02
+-   games:
+    - (IX) Gen IX primary
     identifier: XLuma's
     url: https://github.com/XLuma/SV-Randomizer
     sub-series: Core
