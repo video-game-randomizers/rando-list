@@ -1,6 +1,7 @@
 from jsonschema import validate, exceptions
 from pathlib import Path
 import yaml
+from datetime import date
 
 # https://json-schema.org/learn/getting-started-step-by-step#going-deeper-with-properties
 # https://cswr.github.io/JsonSchema/spec/introduction/
@@ -36,6 +37,7 @@ randomizer_schema = {
         "discord": ValidString,
         "community": ValidString,
         "contact": ValidString,
+        "infoupdated": {}, # we update the info, but we don't keep track of when the randomizers receive patches/new versions
     },
     "required": ["games", "identifier", "url" ],
     "additionalProperties": False,
@@ -61,6 +63,16 @@ series_schema = {
 }
 
 
+def validateDate(rando, prop):
+    d = rando.get(prop)
+    if not d:
+        return
+    if not isinstance(d, date):
+        raise exceptions.ValidationError(prop + ' invalid date format: ' + repr(d))
+    if date.today() < d:
+        raise exceptions.ValidationError(prop + ' date is in the future: ' + repr(d))
+
+
 def validateSeriesConfig(path: Path):
     failures = 0
     text = path.read_text()
@@ -70,11 +82,12 @@ def validateSeriesConfig(path: Path):
         for rando in data['randomizers']:
             try:
                 validate(rando, randomizer_schema)
+                validateDate(rando, 'infoupdated')
             except exceptions.ValidationError as e:
                 failures += 1
-                print('ERROR:', rando)
+                print('\nIn Randomizer definition:', rando)
                 id = str(rando.get('game', ''))  + ' ' + str(rando.get('identifier', ''))
-                print('ERROR in', path, ': randomizer definition', id, '-', e.message)
+                print('\nERROR in', path, ': randomizer definition', id, '-', e.message)
     except exceptions.ValidationError as e:
         failures += 1
         print('ERROR in', path, ': series definition -', e.message)
@@ -92,7 +105,7 @@ def validateYamlFiles():
             failures += new_failures
         except Exception as e:
             failures += 1
-            print('ERROR in', file, e)
+            print('\nERROR in', file, e)
 
     assert success > 0
     return failures
