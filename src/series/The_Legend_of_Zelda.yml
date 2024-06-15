@@ -10,18 +10,24 @@ randomizers:
     url: https://archipelago.gg/tutorial/#The%20Legend%20of%20Zelda
     sub-series: 2D & 2D-like
     multiworld: Archipelago
+    added-date: null
+    info-updated: null
 -   games:
     - 'The Legend of Zelda: A Link to the Past'
     identifier: Archipelago
     url: https://archipelago.gg/tutorial/#A%20Link%20to%20the%20Past
     sub-series: 2D & 2D-like
     multiworld: Archipelago
+    added-date: null
+    info-updated: null
 -   games:
     - 'The Legend of Zelda: Link''s Awakening DX'
     identifier: Archipelago
     url: https://archipelago.gg/tutorial/#Links%20Awakening%20DX
     sub-series: 2D & 2D-like
     multiworld: Archipelago
+    added-date: null
+    info-updated: null
 -   games:
     - 'The Legend of Zelda: Ocarina of Time'
     - 'The Legend of Zelda: Ocarina of Time Master Quest'
@@ -29,57 +35,79 @@ randomizers:
     url: https://archipelago.gg/tutorial/#Ocarina%20of%20Time
     sub-series: 3D
     multiworld: Archipelago
+    added-date: null
+    info-updated: null
 -   games:
     - 'The Legend of Zelda: A Link to the Past'
     identifier: SMZ3 Cas' Randomizer
     url: https://github.com/Vivelin/SMZ3Randomizer
     multiworld: Other
+    added-date: null
+    info-updated: null
 -   games:
     - 'The Legend of Zelda: A Link to the Past'
     identifier: Super Metroid and A Link to the Past Crossover Randomizer
     url: https://samus.link/
     multiworld: Other
+    added-date: null
+    info-updated: null
 -   games:
     - The Legend of Zelda
     identifier: Z1M1
     url: https://z1m1.info/
     multiworld: Other
+    added-date: null
+    info-updated: null
 -   games:
     - The Legend of Zelda
     identifier: Ancient Dungeon
     url: https://www.romhacking.net/hacks/7358/
     sub-series: 2D & 2D-like
+    added-date: null
+    info-updated: null
 -   games:
     - The Legend of Zelda
     identifier: Fred Coughlin's
     url: https://sites.google.com/site/zeldarandomizer/
     sub-series: 2D & 2D-like
+    added-date: null
+    info-updated: null
 -   games:
     - The Legend of Zelda
     identifier: Infinite Hyrule
     url: https://bitbucket.org/Garmichael/infinite-hyrule/src/master/
     sub-series: 2D & 2D-like
+    added-date: null
+    info-updated: null
 -   games:
     - The Legend of Zelda
     identifier: Reloaded
     url: https://www.reloadedretro.com/games/zelda
     sub-series: 2D & 2D-like
+    added-date: null
+    info-updated: null
 -   games:
     - The Legend of Zelda
     identifier: tetraly's
     url: https://github.com/tetraly/zelda-randomizer
     sub-series: 2D & 2D-like
+    added-date: null
+    info-updated: null
 -   games:
     - 'Zelda II: The Adventure of Link'
     identifier: Digshake's
     url: https://bitbucket.org/digshake/z2randomizer/wiki/Home
     sub-series: 2D & 2D-like
     obsolete: true
+    added-date: null
+    info-updated: null
 -   games:
     - 'Zelda II: The Adventure of Link'
     identifier: Ellendar's
     url: https://github.com/Ellendar/Z2Randomizer
     sub-series: 2D & 2D-like
+    added-date: null
+    info-updated: null
 -   games:
     - 'The Legend of Zelda: A Link to the Past'
     identifier: Bonta0's Multiworld
@@ -88,99 +116,135 @@ randomizers:
     obsolete: true
     comment: Optional [Enemizer](https://github.com/Bonta0/Enemizer/releases) - Unofficial
         [setup/instructions guide](https://docs.google.com/document/d/19FoqUkuyStMqhOq8uGiocskMo1KMjOW4nEeG81xrKoI/edit)
+    added-date: null
+    info-updated: null
 -   games:
     - 'The Legend of Zelda: A Link to the Past'
     identifier: Dessyreqt's
     url: https://dessyreqt.github.io/alttprandomizer/
     sub-series: 2D & 2D-like
     obsolete: true
+    added-date: null
+    info-updated: null
 -   games:
     - 'The Legend of Zelda: A Link to the Past'
     identifier: Door Randomizer
     url: https://github.com/aerinon/ALttPDoorRandomizer
     sub-series: 2D & 2D-like
+    added-date: null
+    info-updated: null
 -   games:
     - 'The Legend of Zelda: A Link to the Past'
     identifier: Enemizer
     url: https://github.com/Zarby89/Enemizer
     sub-series: 2D & 2D-like
     obsolete: true
+    added-date: null
+    info-updated: null
 -   games:
     - 'The Legend of Zelda: A Link to the Past'
     identifier: Entrance Randomizer
     url: https://github.com/AmazingAmpharos/ALttPEntranceRandomizer
     sub-series: 2D & 2D-like
     obsolete: true
+    added-date: null
+    info-updated: null
 -   games:
     - 'The Legend of Zelda: A Link to the Past'
     identifier: karafruit's
     url: https://alttpr.gwaa.kiwi/en
     sub-series: 2D & 2D-like
     comment: '[Source code](https://github.com/ardnaxelarak/alttp_vt_randomizer/tree/ow_shuffle)'
+    added-date: null
+    info-updated: null
 -   games:
     - 'The Legend of Zelda: A Link to the Past'
     identifier: Overworld Randomizer
     url: https://github.com/codemann8/ALttPDoorRandomizer
     sub-series: 2D & 2D-like
+    added-date: null
+    info-updated: null
 -   games:
     - 'The Legend of Zelda: A Link to the Past'
     identifier: Veetorp's
     url: https://alttpr.com/en
     sub-series: 2D & 2D-like
+    added-date: null
+    info-updated: null
 -   games:
     - 'The Legend of Zelda: A Link to the Past/Four Swords'
     identifier: MichaelK__'s
     url: https://github.com/MichaelK-UnderscoreUnderscore/alttprandomizer_GBA/releases
     sub-series: 2D & 2D-like
+    added-date: null
+    info-updated: null
 -   games:
     - 'The Legend of Zelda: Link''s Awakening DX'
     identifier: LADXR
     url: https://daid.github.io/LADXR/
     sub-series: 2D & 2D-like
+    added-date: null
+    info-updated: null
 -   games:
     - 'The Legend of Zelda: Link''s Awakening DX'
     identifier: Z4Randomizer
     url: https://sites.google.com/view/z4randomizer
     sub-series: 2D & 2D-like
+    added-date: null
+    info-updated: null
 -   games:
     - 'The Legend of Zelda: Link''s Awakening (Switch)'
     identifier: Glan9's
     url: https://github.com/la-switch/LAS-Randomizer
     sub-series: 2D & 2D-like
     obsolete: true
+    added-date: null
+    info-updated: null
 -   games:
     - 'The Legend of Zelda: Link''s Awakening (Switch)'
     identifier: Owen-Splat's
     url: https://github.com/Owen-Splat/LAS-Randomizer
     sub-series: 2D & 2D-like
+    added-date: null
+    info-updated: null
 -   games:
     - 'The Legend of Zelda: Oracle of Ages'
     - 'The Legend of Zelda: Oracle of Seasons'
     identifier: jangler's
     url: https://github.com/jangler/oracles-randomizer
     sub-series: 2D & 2D-like
+    added-date: null
+    info-updated: null
 -   games:
     - 'The Legend of Zelda: The Minish Cap'
     identifier: Minish Maker's
     url: https://github.com/minishmaker/randomizer
     sub-series: 2D & 2D-like
+    added-date: null
+    info-updated: null
 -   games:
     - 'The Legend of Zelda: A Link Between Worlds'
     identifier: Kevin Marsolais's
     url: https://gitlab.com/marsolk/albw-randomizer-cli
     sub-series: 2D & 2D-like
     obsolete: true
+    added-date: null
+    info-updated: null
 -   games:
     - 'The Legend of Zelda: A Link Between Worlds'
     identifier: Rick Fay's
     url: https://github.com/rickfay/z17-randomizer
     sub-series: 2D & 2D-like
+    added-date: null
+    info-updated: null
 -   games:
     - 'The Faces of Evil Remastered (Link: The Faces of Evil fan recreation)'
     - 'The Wand of Gamelon Remastered (Zelda: The Wand of Gamelon fan recreation'
     identifier: Dopply's
     url: https://archive.org/details/foer-wogr-randomizer-mod
     sub-series: 2D & 2D-like
+    added-date: null
+    info-updated: null
 -   games:
     - 'The Legend of Zelda: Ocarina of Time'
     - 'The Legend of Zelda: Majora''s Mask'
@@ -188,6 +252,8 @@ randomizers:
     url: https://ootmm.com/
     sub-series: 3D
     comment: '[Source code](https://github.com/OoTMM/core)'
+    added-date: null
+    info-updated: null
 -   games:
     - 'The Legend of Zelda: Ocarina of Time'
     - 'The Legend of Zelda: Ocarina of Time Master Quest'
@@ -195,40 +261,54 @@ randomizers:
     url: https://github.com/AmazingAmpharos/OoT-Randomizer
     sub-series: 3D
     obsolete: true
+    added-date: null
+    info-updated: null
 -   games:
     - 'The Legend of Zelda: Ocarina of Time'
     - 'The Legend of Zelda: Ocarina of Time Master Quest'
     identifier: TestRunner's
     url: https://ootrandomizer.com/
     sub-series: 3D
+    added-date: null
+    info-updated: null
 -   games:
     - 'The Legend of Zelda: Ocarina of Time'
     identifier: Beta Quest
     url: https://www.mediafire.com/folder/8c5ez915mhfww/latest
     sub-series: 3D
+    added-date: null
+    info-updated: null
 -   games:
     - 'The Legend of Zelda: Ocarina of Time'
     identifier: Ship of Harkinian
     url: https://github.com/HarbourMasters/Shipwright
     sub-series: 3D
     comment: Unofficial PC port with bundled randomizer
+    added-date: null
+    info-updated: null
 -   games:
     - 'The Legend of Zelda: Ocarina of Time 3D'
     identifier: gamestabled's
     url: https://github.com/gamestabled/OoT3D_Randomizer
     sub-series: 3D
+    added-date: null
+    info-updated: null
 -   games:
     - 'The Legend of Zelda: Majora''s Mask'
     identifier: Beta Quest
     url: https://www.zeldacodes.org/challenges/beta-quest
     sub-series: 3D
     comment: Requires a cheat engine supporting Gecko codes
+    added-date: null
+    info-updated: null
 -   games:
     - 'The Legend of Zelda: Majora''s Mask'
     identifier: DeathBasket's, 2013
     url: https://pastebin.com/M0asDmXy
     sub-series: 3D
     comment: Randomizes items based on file name - Requires using non-casual techniques
+    added-date: null
+    info-updated: null
 -   games:
     - 'The Legend of Zelda: Majora''s Mask'
     identifier: DeathBasket's, 2019
@@ -236,64 +316,99 @@ randomizers:
     sub-series: 3D
     obsolete: true
     comment: Located in video description - Requires using non-casual techniques
+    added-date: null
+    info-updated: null
 -   games:
     - 'The Legend of Zelda: Majora''s Mask'
     identifier: ZoeyZolotova's
     url: https://github.com/ZoeyZolotova/mm-rando/releases
     sub-series: 3D
+    added-date: null
+    info-updated: null
 -   games:
     - 'The Legend of Zelda: Majora''s Mask 3D'
     identifier: MM3D_Randomizer
     url: https://github.com/Z3DR/MM3D_Randomizer/releases
     sub-series: 3D
+    added-date: null
+    info-updated: null
 -   games:
     - 'The Legend of Zelda: The Wind Waker'
     identifier: Beta Quest
     url: https://github.com/CryZe/WindWakerBetaQuest
     sub-series: 3D
+    added-date: null
+    info-updated: null
 -   games:
     - 'The Legend of Zelda: The Wind Waker'
     identifier: LagoLunatic's
     url: https://github.com/LagoLunatic/wwrando
     sub-series: 3D
+    added-date: null
+    info-updated: null
 -   games:
     - 'The Legend of Zelda: Twilight Princess'
     identifier: AECX's
     url: https://tprandomizer.com/
     sub-series: 3D
+    added-date: null
+    info-updated: null
 -   games:
     - 'The Legend of Zelda: Twilight Princess HD'
     identifier: Beta Quest
     url: https://www.youtube.com/watch?v=ql7qzX1mPIY
     sub-series: 3D
     comment: Located in video description - [Source code](https://github.com/zsrtp/TPHD-BetaQuest)
+    added-date: null
+    info-updated: null
 -   games:
     - 'The Legend of Zelda: Skyward Sword'
     identifier: lepelog's
     url: https://github.com/ssrando/ssrando
     sub-series: 3D
+    added-date: null
+    info-updated: null
+-   games:
+    - 'The Legend of Zelda: Skyward Sword HD'
+    identifier: mint-choc-chip-skyblade's
+    url: https://github.com/mint-choc-chip-skyblade/sshd-rando
+    sub-series: 3D
+    added-date: 2024-06-15
+    info-updated: null
+    added-date: null
+    info-updated: null
 -   games:
     - 'The Legend of Zelda: Breath of the Wild (Wii U)'
     identifier: MelonSpeedruns's
     url: https://github.com/MelonSpeedruns/BotwRandomizer
     sub-series: 3D
+    added-date: null
+    info-updated: null
 -   games:
     - 'The Legend of Zelda: Breath of the Wild (Wii U)'
     identifier: Randomized Leveled Chests
     url: https://gamebanana.com/mods/354911
     sub-series: 3D
+    added-date: null
+    info-updated: null
 -   games:
     - 'The Legend of Zelda: Breath of the Wild (Wii U)'
     identifier: Waikuteru's
     url: https://gamebanana.com/mods/345664
     sub-series: 3D
+    added-date: null
+    info-updated: null
 -   games:
     - 'The Legend of Zelda: Breath of the Wild (Switch)'
     identifier: Waikuteru's
     url: https://gamebanana.com/mods/345673
     sub-series: 3D
+    added-date: null
+    info-updated: null
 -   games:
     - 'The Legend of Zelda: Tears of the Kingdom'
     identifier: MelonSpeedruns's
     url: https://github.com/MelonSpeedruns/TotkRandomizer
     sub-series: 3D
+    added-date: null
+    info-updated: null
