@@ -151,7 +151,7 @@ randomizers:
     url: https://www.romhacking.net/translations/7324/
     sub-series: Main
     comment: 'Random job each level up.  Seeding now supported.'
-    added-date: null
+    added-date: 2024-06-15
     info-updated: null
 -   games:
     - Final Fantasy V Advance
