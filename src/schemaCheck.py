@@ -124,8 +124,8 @@ def validateYamlFiles():
             print('\nERROR in', file, e)
 
     assert success > 0
-    return failures
+    assert failures == 0, 'got ' + str(failures) + ' failures'
 
 
 if __name__ == "__main__":
-    exit(validateYamlFiles())
+    validateYamlFiles()
