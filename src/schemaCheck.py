@@ -1,7 +1,9 @@
 from jsonschema import validate, exceptions
 from pathlib import Path
 import yaml
+import subprocess
 from datetime import date
+from datetime import datetime
 
 # https://json-schema.org/learn/getting-started-step-by-step#going-deeper-with-properties
 # https://cswr.github.io/JsonSchema/spec/introduction/
@@ -17,50 +19,57 @@ MaybeString = {
         {"type": "null"}, 
 ]}
 
-randomizer_schema = {
-    "type": "object",
-    "properties": {
-        "games": {
-            "type": "array",
-            "minItems": 1,
-            "items": ValidString,
+def randomizer_schema(modified: datetime):
+    ret = {
+        "type": "object",
+        "properties": {
+            "games": {
+                "type": "array",
+                "minItems": 1,
+                "items": ValidString,
+            },
+            "identifier": ValidString,
+            "url": ValidString,
+            "comment": MaybeString,
+            "multiworld": {
+                "type": ["string", "boolean", "null"],
+                "default": None
+            },
+            "obsolete": {"type": "boolean"},
+            "sub-series": ValidString,
+            "discord": ValidString,
+            "community": ValidString,
+            "contact": ValidString,
+            "infoupdated": {}, # we update the info, but we don't keep track of when the randomizers receive patches/new versions
+            "opensource": {"type": "boolean"}
         },
-        "identifier": ValidString,
-        "url": ValidString,
-        "comment": MaybeString,
-        "multiworld": {
-            "type": ["string", "boolean", "null"],
-            "default": None
-        },
-        "obsolete": {"type": "boolean"},
-        "sub-series": MaybeString,
-        "discord": ValidString,
-        "community": ValidString,
-        "contact": ValidString,
-        "infoupdated": {}, # we update the info, but we don't keep track of when the randomizers receive patches/new versions
-    },
-    "required": ["games", "identifier", "url" ],
-    "additionalProperties": False,
-}
+        "required": ["games", "identifier", "url" ],
+        "additionalProperties": False,
+    }
+    if modified > datetime(2024, 6, 14):
+        ret['required'].append('infoupdated')
+    return ret
 
-series_schema = {
-    "type": "object",
-    "properties": {
-        "name": ValidString,
-        "comment": MaybeString,
-        "sub-series": {
-            "type": ["array", "null"],
+def series_schema(modified: datetime):
+    ret = {
+        "type": "object",
+        "properties": {
+            "name": ValidString,
+            "comment": MaybeString,
+            "sub-series": {
+                "type": ["array", "null"],
+            },
+            "randomizers": {
+                "type": "array",
+                "minItems": 1,
+                #"items": randomizer_schema,
+            },
         },
-        "randomizers": {
-            "type": "array",
-            "minItems": 1,
-            #"items": randomizer_schema,
-        },
-    },
 
-    "required": ["name", "randomizers"],
-    "additionalProperties": False,
-}
+        "required": ["name", "randomizers"],
+        "additionalProperties": False,
+    }
+    return ret
 
 
 def validateDate(rando, prop):
@@ -73,15 +82,22 @@ def validateDate(rando, prop):
         raise exceptions.ValidationError(prop + ' date is in the future: ' + repr(d))
 
 
+def get_modified_time(path: Path):
+    ret = subprocess.run(["git", "log", "--pretty=%at", "-n1", "--", str(path)], stdout=subprocess.PIPE, check=True)
+    ret = ret.stdout.decode()
+    i = int(ret)
+    return datetime.fromtimestamp(i)
+
 def validateSeriesConfig(path: Path):
     failures = 0
+    modified = get_modified_time(path)
     text = path.read_text()
     data = yaml.load(text, Loader=yaml.CLoader)
     try:
-        validate(data, series_schema)
+        validate(data, series_schema(modified))
         for rando in data['randomizers']:
             try:
-                validate(rando, randomizer_schema)
+                validate(rando, randomizer_schema(modified))
                 validateDate(rando, 'infoupdated')
             except exceptions.ValidationError as e:
                 failures += 1
