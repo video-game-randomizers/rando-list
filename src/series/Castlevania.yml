@@ -39,7 +39,7 @@ randomizers:
     url: https://github.com/MottZilla/SOTN_AR
     sub-series: Metroidvania
     comment: 'Includes a Richter converter for Wild Mouse''s item randomizer, and
-        a standalone Maria item randomizer. Browser version here: https://sotn.io/'
+        a standalone Maria item randomizer. Browser version here: <https://sotn.io/>'
     added-date: null
     info-updated: 2024-06-15
 -   games:
@@ -47,7 +47,7 @@ randomizers:
     identifier: 3snowp7im's
     url: https://github.com/3snowp7im/SotN-Randomizer
     sub-series: Metroidvania
-    comment: 'Fork of MottZilla''s, browser version here: https://sotnrando.net/'
+    comment: 'Fork of MottZilla''s, browser version here: <https://sotnrando.net/>'
     added-date: 2024-06-15
     info-updated: null
 -   games:
