@@ -146,6 +146,14 @@ randomizers:
     added-date: null
     info-updated: null
 -   games:
+    - Final Fantasy V
+    identifier: Whirlwind
+    url: https://www.romhacking.net/translations/7324/
+    sub-series: Main
+    comment: 'Random job each level up.  Seeding now supported.'
+    added-date: 2024-06-15
+    info-updated: null
+-   games:
     - Final Fantasy V Advance
     identifier: Ancient Cave
     url: https://www.romhacking.net/forum/index.php?topic=18507.0
