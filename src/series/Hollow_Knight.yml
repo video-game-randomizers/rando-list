@@ -10,14 +10,14 @@ randomizers:
     identifier: Randomizer 4
     url: https://github.com/homothetyhk/RandomizerMod
     comment: Find add-ons through Lumafly's `Advanced Search > Search by Dependencies & Integrations` with the term `Randomizer 4`.
-    infoupdated: 2024-05-29
+    info-updated: 2024-05-29
 -   games: 
     - Hollow Knight
     identifier: Multiworld
     url: https://github.com/Shadudev/HollowKnight.MultiWorld
     multiworld: Shadu-Multiworld
     comment: Requires Randomizer 4. Also see Itemsync in the same repo or on Lumafly.
-    infoupdated: 2024-05-29
+    info-updated: 2024-05-29
 -   games:
     - Hollow Knight
     identifier: Archipelago

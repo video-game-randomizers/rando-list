@@ -9,4 +9,4 @@ randomizers:
     comment: Requires [Haiku.CoreModdingApi](https://github.com/Jarlyk/Haiku.ModdingApi)
         and [BepInEx](https://github.com/BepInEx/BepInEx)
     multiworld: Shadu-Multiworld
-    infoupdated: 2024-05-29
+    info-updated: 2024-05-29

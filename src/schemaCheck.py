@@ -40,14 +40,15 @@ def randomizer_schema(modified: datetime):
             "discord": ValidString,
             "community": ValidString,
             "contact": ValidString,
-            "infoupdated": {}, # we update the info, but we don't keep track of when the randomizers receive patches/new versions
+            "added-date": {},
+            "info-updated": {}, # we update the info, but we don't keep track of when the randomizers receive patches/new versions
             "opensource": {"type": "boolean"}
         },
         "required": ["games", "identifier", "url" ],
         "additionalProperties": False,
     }
-    if modified > datetime(2024, 6, 14):
-        ret['required'].append('infoupdated')
+    if modified > datetime(2024, 6, 16):
+        ret['required'].extend(('info-updated', 'added-date'))
     return ret
 
 def series_schema(modified: datetime):
@@ -83,6 +84,11 @@ def validateDate(rando, prop):
 
 
 def get_modified_time(path: Path):
+    ret = subprocess.run(["git", "status", "--porcelain", str(path)], stdout=subprocess.PIPE, check=True)
+    ret = ret.stdout.decode()
+    if ret:
+        return datetime.now()
+
     ret = subprocess.run(["git", "log", "--pretty=%at", "-n1", "--", str(path)], stdout=subprocess.PIPE, check=True)
     ret = ret.stdout.decode()
     i = int(ret)
@@ -98,7 +104,8 @@ def validateSeriesConfig(path: Path):
         for rando in data['randomizers']:
             try:
                 validate(rando, randomizer_schema(modified))
-                validateDate(rando, 'infoupdated')
+                validateDate(rando, 'info-updated')
+                validateDate(rando, 'added-date')
             except exceptions.ValidationError as e:
                 failures += 1
                 print('\nIn Randomizer definition:', rando)
