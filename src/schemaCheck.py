@@ -2,6 +2,7 @@ from jsonschema import validate, exceptions
 from pathlib import Path
 import yaml
 import subprocess
+import datetime as datetime_module
 from datetime import date
 from datetime import datetime
 
@@ -79,8 +80,9 @@ def validateDate(rando, prop):
         return
     if not isinstance(d, date):
         raise exceptions.ValidationError(prop + ' invalid date format: ' + repr(d))
-    if date.today() < d:
-        raise exceptions.ValidationError(prop + ' date is in the future: ' + repr(d))
+    today = datetime.now(datetime_module.UTC).date()
+    if today < d:
+        raise exceptions.ValidationError(prop + ' date is in the future: ' + repr(d) + ", UTC today is: " + repr(today))
 
 
 def get_modified_time(path: Path):
