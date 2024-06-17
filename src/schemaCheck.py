@@ -50,6 +50,7 @@ def randomizer_schema(modified: datetime):
     }
     if modified > datetime(2024, 6, 16):
         ret['required'].extend(('info-updated', 'added-date'))
+    # other new requirements can be checked by the added-date and info-updated dates, and eventually we can drop the expensive call to get_modified_time
     return ret
 
 def series_schema(modified: datetime):

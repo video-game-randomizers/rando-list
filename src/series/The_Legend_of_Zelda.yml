@@ -347,6 +347,13 @@ randomizers:
     added-date: null
     info-updated: null
 -   games:
+    - 'The Legend of Zelda: The Wind Waker HD'
+    identifier: SuperDude88's
+    url: https://github.com/SuperDude88/TWWHD-Randomizer
+    sub-series: 3D
+    added-date: 2024-06-17
+    info-updated: null
+-   games:
     - 'The Legend of Zelda: Twilight Princess'
     identifier: AECX's
     url: https://tprandomizer.com/
