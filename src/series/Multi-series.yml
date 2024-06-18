@@ -70,6 +70,8 @@ randomizers:
     multiworld: Archipelago
     sub-series: Connected worlds
     comment: List of [additional extensions in development](https://multiworld.news/apworlds.html)
+    added-date: 2024-05-25
+    info-updated: 2024-05-25
 -   games:
         - Hollow Knight
         - Haiku, the Robot
@@ -77,6 +79,7 @@ randomizers:
     url: https://github.com/Shadudev/HollowKnight.MultiWorld
     multiworld: Shadu-Multiworld
     sub-series: Connected worlds
+    added-date: 2024-05-29
     info-updated: 2024-05-29
 -   games:
     - 'Castlevania: Harmony of Dissonance'
@@ -85,6 +88,8 @@ randomizers:
     url: https://hodbt.surge.sh/
     multiworld: Other
     sub-series: Connected worlds
+    added-date: 2024-05-25
+    info-updated: 2024-05-25
 -   games:
     - Super Metroid
     - 'The Legend of Zelda: A Link to the Past'
@@ -92,6 +97,8 @@ randomizers:
     url: https://github.com/Vivelin/SMZ3Randomizer
     multiworld: Other
     sub-series: Connected worlds
+    added-date: 2024-05-25
+    info-updated: 2024-05-25
 -   games:
     - Super Metroid
     - 'The Legend of Zelda: A Link to the Past'
@@ -99,6 +106,8 @@ randomizers:
     url: https://samus.link/
     multiworld: Other
     sub-series: Connected worlds
+    added-date: 2024-05-25
+    info-updated: 2024-05-25
 -   games:
     - AM2R (Metroid fangame)
     - Cave Story
@@ -111,6 +120,8 @@ randomizers:
     url: https://randovania.org/
     multiworld: Other
     sub-series: Connected worlds
+    added-date: 2024-05-25
+    info-updated: 2024-05-25
 -   games:
     - The Legend of Zelda
     - Metroid
@@ -118,6 +129,8 @@ randomizers:
     url: https://z1m1.info/
     multiworld: Other
     sub-series: Connected worlds
+    added-date: 2024-05-25
+    info-updated: 2024-05-25
 -   games:
     - Doom (Ultimate)
     - Doom II
@@ -130,6 +143,8 @@ randomizers:
     url: https://forum.zdoom.org/viewtopic.php?f=45&t=51446
     sub-series: id Software engines
     obsolete: true
+    added-date: 2024-05-25
+    info-updated: 2024-05-25
 -   games:
     - Doom (Ultimate)
     - Doom II
@@ -141,6 +156,8 @@ randomizers:
     identifier: Universal Custom Doom
     url: https://forum.zdoom.org/viewtopic.php?f=43&t=64678
     sub-series: id Software engines
+    added-date: 2024-05-25
+    info-updated: 2024-05-25
 -   games:
     - Doom (Ultimate)
     - Doom II
@@ -152,6 +169,8 @@ randomizers:
     identifier: Universal Entropy
     url: https://www.moddb.com/mods/universal-entropy
     sub-series: id Software engines
+    added-date: 2024-05-25
+    info-updated: 2024-05-25
 -   games:
     - Doom (Ultimate)
     - Doom II
@@ -168,6 +187,8 @@ randomizers:
     identifier: OBSIDIAN
     url: https://obsidian-level-maker.github.io/index.html
     sub-series: id Software engines
+    added-date: 2024-05-25
+    info-updated: 2024-05-25
 -   games:
     - Doom (Ultimate)
     - Doom II
@@ -182,6 +203,8 @@ randomizers:
         for [Brutal Doom (mod)](https://gitlab.com/CloudOfShame/BrutalOblige) - Version
         4.28 also supported [Hexen: Beyond Heretic / Quake / Quake II](https://sourceforge.net/projects/oblige/files/Oblige/4.28/)
         - Version 0.97 also had experimental support for [Wolfenstein 3D](https://sourceforge.net/projects/oblige/files/Oblige/0.97/)'
+    added-date: 2024-05-25
+    info-updated: 2024-05-25
 -   games:
     - Doom (Ultimate)
     - Doom II
@@ -191,12 +214,16 @@ randomizers:
     url: https://samiam.org/obhack/
     sub-series: id Software engines
     obsolete: true
+    added-date: 2024-05-25
+    info-updated: 2024-05-25
 -   games:
     - Doom (Ultimate)
     - Heretic
     identifier: MOShuffle
     url: https://forum.zdoom.org/viewtopic.php?f=43&t=72760
     sub-series: id Software engines
+    added-date: 2024-05-25
+    info-updated: 2024-05-25
 -   games:
     - Duke Nukem 3D
     - Ion Fury
@@ -206,6 +233,8 @@ randomizers:
     identifier: Build Engine Randomizer
     url: https://github.com/Die4Ever/build-engine-randomizer
     sub-series: Other
+    added-date: 2024-05-25
+    info-updated: 2024-05-25
 -   games:
     - Crash Nitro Kart
     - Crash Twinsanity
@@ -218,6 +247,8 @@ randomizers:
     identifier: Crate Mod Loader
     url: https://github.com/TheBetaM/CrateModLoader
     sub-series: Other
+    added-date: 2024-05-25
+    info-updated: 2024-05-25
 -   games:
     - Hebereke
     - Willow (NES)
@@ -228,6 +259,8 @@ randomizers:
     url: https://github.com/vinheim3/randomizers
     sub-series: Other
     comment: Download code in local directory and open `index.html` to use
+    added-date: 2024-05-25
+    info-updated: 2024-05-25
 -   games:
     - 'SpongeBob SquarePants: Battle for Bikini Bottom (GameCube'
     - Xbox
@@ -240,9 +273,13 @@ randomizers:
     url: https://github.com/igorseabra4/IndustrialPark
     sub-series: Other
     comment: Level editor with bundled randomizer - [User guide](https://heavyironmodding.org/wiki/Randomizer)
+    added-date: 2024-05-25
+    info-updated: 2024-05-25
 -   games:
     - Touhou Luna Nights
     - 'Record of Lodoss War: Deedlit in Wonder Labyrinth'
     identifier: Ladybug Randomizer
     url: https://github.com/Lakifume/Ladybug-Randomizer
     sub-series: Other
+    added-date: 2024-05-25
+    info-updated: 2024-05-25
