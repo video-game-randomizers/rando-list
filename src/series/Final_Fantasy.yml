@@ -11,58 +11,58 @@ randomizers:
     url: https://www.romhacking.net/utilities/1519/
     sub-series: Main
     obsolete: true
-    added-date: null
-    info-updated: null
+    added-date: 2024-05-25
+    info-updated: 2024-05-25
 -   games:
     - Final Fantasy
     identifier: Entroper's
     url: https://finalfantasyrandomizer.com/
     sub-series: Main
-    added-date: null
-    info-updated: null
+    added-date: 2024-05-25
+    info-updated: 2024-05-25
 -   games:
     - Final Fantasy
     identifier: Archipelago
     url: https://archipelago.gg/tutorial/#Final%20Fantasy
     multiworld: Archipelago
-    added-date: null
-    info-updated: null
+    added-date: 2024-05-25
+    info-updated: 2024-05-25
 -   games:
     - Final Fantasy (PSP)
     identifier: gameboy9's
     url: https://github.com/gameboy9/FFRPSP
     sub-series: Main
-    added-date: null
-    info-updated: null
+    added-date: 2024-05-25
+    info-updated: 2024-05-25
 -   games:
     - Final Fantasy (pixel remaster)
     identifier: gameboy9, leggystarscream & seeliefae's
     url: https://github.com/gameboy9/FF1-PR-Rando
     sub-series: Main
-    added-date: null
-    info-updated: null
+    added-date: 2024-05-25
+    info-updated: 2024-05-25
 -   games:
     - Final Fantasy II
     identifier: Fast Food Tour Randomizer
     url: https://borokobo.web.fc2.com/#FF2
     sub-series: Main
     comment: 'Located under FF2'
-    added-date: null
-    info-updated: null
+    added-date: 2024-05-25
+    info-updated: 2024-05-25
 -   games:
     - Final Fantasy II
     identifier: PheonixMMKC777's
     url: https://github.com/PheonixMMKC777/Final_Fantasy_2_Randomizer
     sub-series: Main
-    added-date: null
-    info-updated: null
+    added-date: 2024-05-25
+    info-updated: 2024-05-25
 -   games:
     - 'Final Fantasy I & II: Dawn of Souls'
     identifier: Approaching Chaos
     url: https://abyssonym.wordpress.com/2017/10/12/ff-dawn-of-souls-approaching-chaos-randomizer/
     sub-series: Main
-    added-date: null
-    info-updated: null
+    added-date: 2024-05-25
+    info-updated: 2024-05-25
 -   games:
     - 'Final Fantasy I & II: Dawn of Souls'
     identifier: HMS Jayne
@@ -70,58 +70,58 @@ randomizers:
     sub-series: Main
     comment: '[Source code](https://github.com/hmsjayne/ffr-hmsj) - Randomizes Final
         Fantasy I'
-    added-date: null
-    info-updated: null
+    added-date: 2024-05-25
+    info-updated: 2024-05-25
 -   games:
     - Final Fantasy III
     identifier: Nacho Yacopu's
     url: https://github.com/nachoyacopu/ff3-randomizer
     sub-series: Main
     comment: 'If online version does not work, download the code and open `index.html`'
-    added-date: null
-    info-updated: null
+    added-date: 2024-05-25
+    info-updated: 2024-05-25
 -   games:
     - Final Fantasy IV
     identifier: Beyond Babil
     url: https://github.com/abyssonym/beyond_babil
     sub-series: Main
-    added-date: null
-    info-updated: null
+    added-date: 2024-05-25
+    info-updated: 2024-05-25
 -   games:
     - Final Fantasy IV
     identifier: Free Enterprise
     url: http://ff4fe.com/
     sub-series: Main
-    added-date: null
-    info-updated: null
+    added-date: 2024-05-25
+    info-updated: 2024-05-25
 -   games:
     - Final Fantasy IV
     identifier: Roguelikeifyer
     url: https://www.romhacking.net/forum/index.php?topic=23126.0
     sub-series: Main
-    added-date: null
-    info-updated: null
+    added-date: 2024-05-25
+    info-updated: 2024-05-25
 -   games:
     - Final Fantasy IV
     identifier: The Lunarian Shuffle
     url: https://ff4-lunarianshuffle.blogspot.com/
     sub-series: Main
-    added-date: null
-    info-updated: null
+    added-date: 2024-05-25
+    info-updated: 2024-05-25
 -   games:
     - Final Fantasy IV (pixel remaster)
     identifier: Fabul Gauntlet
     url: https://github.com/gameboy9/FF4FabulGauntlet
     sub-series: Main
-    added-date: null
-    info-updated: null
+    added-date: 2024-05-25
+    info-updated: 2024-05-25
 -   games:
     - Final Fantasy IV (pixel remaster)
     identifier: Falcon Dive
     url: https://github.com/gameboy9/FF4FalconDive/
     sub-series: Main
-    added-date: null
-    info-updated: null
+    added-date: 2024-05-25
+    info-updated: 2024-05-25
 -   games:
     - Final Fantasy V
     identifier: Ancient Cave
@@ -129,22 +129,22 @@ randomizers:
     sub-series: Main
     comment: 'Original [English translation by Sky Render](https://www.mediafire.com/file/jjv80yb83ychmvt/ff5ace.zip/file)
         - Revised [English translation by FlamePurge](https://www.romhacking.net/hacks/7228/)'
-    added-date: null
-    info-updated: null
+    added-date: 2024-05-25
+    info-updated: 2024-05-25
 -   games:
     - Final Fantasy V
     identifier: Career Day
     url: https://bigbridge.studio/careerday/
     sub-series: Main
-    added-date: null
-    info-updated: null
+    added-date: 2024-05-25
+    info-updated: 2024-05-25
 -   games:
     - Final Fantasy V
     identifier: Grand Cross
     url: https://github.com/abyssonym/grand_cross
     sub-series: Main
-    added-date: null
-    info-updated: null
+    added-date: 2024-05-25
+    info-updated: 2024-05-25
 -   games:
     - Final Fantasy V
     identifier: Whirlwind
@@ -152,22 +152,22 @@ randomizers:
     sub-series: Main
     comment: 'Random job each level up.  Seeding now supported.'
     added-date: 2024-06-15
-    info-updated: null
+    info-updated: 2024-06-15
 -   games:
     - Final Fantasy V Advance
     identifier: Ancient Cave
     url: https://www.romhacking.net/forum/index.php?topic=18507.0
     sub-series: Main
-    added-date: null
-    info-updated: null
+    added-date: 2024-05-25
+    info-updated: 2024-05-25
 -   games:
     - Final Fantasy V Advance
     identifier: DarkJDL's
     url: https://discord.com/invite/vvu3TXY
     sub-series: Main
     comment: 'Discord account required - Located in the #randomizerfiles channel'
-    added-date: null
-    info-updated: null
+    added-date: 2024-05-25
+    info-updated: 2024-05-25
 -   games:
     - Final Fantasy V Advance
     identifier: Spicy
@@ -176,46 +176,46 @@ randomizers:
     comment: 'Randomizes job abilities - Mild output is normal randomization, while
         Extra Spicy output also randomizes job abilities independently between characters
         - Drag & drop original USA ROM on `randomizer.exe` to randomize'
-    added-date: null
-    info-updated: null
+    added-date: 2024-05-25
+    info-updated: 2024-05-25
 -   games:
     - Final Fantasy V (pixel remaster)
     identifier: FF5Abridged
     url: https://github.com/gameboy9/FF5Abridged
     sub-series: Main
-    added-date: null
-    info-updated: null
+    added-date: 2024-05-25
+    info-updated: 2024-05-25
 -   games:
     - Final Fantasy VI
     identifier: Beyond Chaos
     url: https://github.com/abyssonym/beyondchaos
     sub-series: Main
     obsolete: true
-    added-date: null
-    info-updated: null
+    added-date: 2024-05-25
+    info-updated: 2024-05-25
 -   games:
     - Final Fantasy VI
     identifier: Beyond Chaos CE
     url: https://github.com/FF6BeyondChaos/BeyondChaosRandomizer
     sub-series: Main
-    added-date: null
-    info-updated: null
+    added-date: 2024-05-25
+    info-updated: 2024-05-25
 -   games:
     - Final Fantasy VI
     identifier: Beyond Chaos EX
     url: https://github.com/subtractionsoup/beyondchaos
     sub-series: Main
     obsolete: true
-    added-date: null
-    info-updated: null
+    added-date: 2024-05-25
+    info-updated: 2024-05-25
 -   games:
     - Final Fantasy VI
     - Brave New World (hack)
     identifier: Beyond Chaos Gaiden
     url: https://abyssonym.wordpress.com/2018/04/02/176/
     sub-series: Main
-    added-date: null
-    info-updated: null
+    added-date: 2024-05-25
+    info-updated: 2024-05-25
 -   games:
     - Final Fantasy VI
     identifier: Dessyreqt's
@@ -224,115 +224,115 @@ randomizers:
     comment: 'Extract `/releases/0/55609bb9-67b8-4ce4-8ff0-4673a618e35f` from the
         archive and rename it to its original file name `FinalFantasy6Randomizer.exe`
         to use'
-    added-date: null
-    info-updated: null
+    added-date: 2024-05-25
+    info-updated: 2024-05-25
 -   games:
     - Final Fantasy VI
     identifier: Exit Rando
     url: https://abyssonym.wordpress.com/2017/09/13/ff6-exit-rando/
     sub-series: Main
-    added-date: null
-    info-updated: null
+    added-date: 2024-05-25
+    info-updated: 2024-05-25
 -   games:
     - Final Fantasy VI
     identifier: Worlds Collide
     url: https://www.ff6worldscollide.com/
     sub-series: Main
-    added-date: null
-    info-updated: null
+    added-date: 2024-05-25
+    info-updated: 2024-05-25
 -   games:
     - Final Fantasy VI (pixel remaster)
     identifier: Kefka Rush
     url: https://github.com/gameboy9/FF6KefkaRush
     sub-series: Main
-    added-date: null
-    info-updated: null
+    added-date: 2024-05-25
+    info-updated: 2024-05-25
 -   games:
     - Final Fantasy VII
     identifier: Godo
     url: https://forums.qhimm.com/index.php?topic=19468.0
     sub-series: Main
-    added-date: null
-    info-updated: null
+    added-date: 2024-05-25
+    info-updated: 2024-05-25
 -   games:
     - Final Fantasy VIII
     - Final Fantasy VIII Remastered
     identifier: Maelstrom
     url: https://github.com/sleepeybunney/maelstrom
     sub-series: Main
-    added-date: null
-    info-updated: null
+    added-date: 2024-05-25
+    info-updated: 2024-05-25
 -   games:
     - Final Fantasy IX
     identifier: Meteor On Final Fantasy IX
     url: https://forums.qhimm.com/index.php?topic=16285.0
     sub-series: Main
-    added-date: null
-    info-updated: null
+    added-date: 2024-05-25
+    info-updated: 2024-05-25
 -   games:
     - Final Fantasy IX
     identifier: Stiltzkin's Bag
     url: https://github.com/Druthulu/Stiltzkins-Bag
     sub-series: Main
-    added-date: null
-    info-updated: null
+    added-date: 2024-05-25
+    info-updated: 2024-05-25
 -   games:
     - Final Fantasy IX
     identifier: "\uFEFFVVs Randomizer"
     url: https://www.nexusmods.com/finalfantasy9/mods/30
     sub-series: Main
-    added-date: null
-    info-updated: null
+    added-date: 2024-05-25
+    info-updated: 2024-05-25
 -   games:
     - Final Fantasy X
     identifier: FFXED
     url: https://forums.pcsx2.net/Thread-FFXED-Final-Fantasy-X-Save-Editor
     sub-series: Main
     comment: 'Save editor that can randomize Sphere Grids'
-    added-date: null
-    info-updated: null
+    added-date: 2024-05-25
+    info-updated: 2024-05-25
 -   games:
     - Final Fantasy X/X-2 HD Remaster
     identifier: Final Fantasy X HD Randomizer Pack
     url: https://github.com/Stingerman06/Stingerman06_FFXRandomizerPack
     sub-series: Main
-    added-date: null
-    info-updated: null
+    added-date: 2024-05-25
+    info-updated: 2024-05-25
 -   games:
     - Final Fantasy X/X-2 HD Remaster
     identifier: FFX Randomizer
     url: https://ffxrandomizer.zint.ch/
     sub-series: Main
-    added-date: null
-    info-updated: null
+    added-date: 2024-05-25
+    info-updated: 2024-05-25
 -   games:
     - Final Fantasy X/X-2 HD Remaster
     identifier: FFX-2 Remaster Randomizer
     url: https://github.com/shea093/FFX-2-Remaster-Randomizer
     sub-series: Main
-    added-date: null
-    info-updated: null
+    added-date: 2024-05-25
+    info-updated: 2024-05-25
 -   games:
     - Final Fantasy XII The Zodiac Age
     identifier: Bartz24's
     url: https://www.nexusmods.com/finalfantasy12/mods/72
     sub-series: Main
-    added-date: null
-    info-updated: null
+    added-date: 2024-05-25
+    info-updated: 2024-05-25
 -   games:
     - Final Fantasy XII The Zodiac Age
     identifier: Open World Randomizer
     url: https://www.nexusmods.com/finalfantasy12/mods/224
     sub-series: Main
-    added-date: null
-    info-updated: null
+    added-date: 2024-05-25
+    info-updated: 2024-05-25
 -   games:
     - Final Fantasy XIII (Steam)
     identifier: Bartz24's, 2020
     url: https://github.com/Bartz24/FF13Randomizer/releases
     sub-series: Main
-    added-date: null
-    info-updated: null
+    added-date: 2024-05-25
+    info-updated: 2024-05-25
 -   games:
     - Final Fantasy XIII (Steam)
     - Final Fantasy XIII-2 (Steam)
@@ -341,56 +341,56 @@ randomizers:
     url: https://github.com/Bartz24/FFModdingWPF/releases
     sub-series: Main
     comment: 'Discord account required to download the required Nova Chrysalia mod manager'
-    added-date: null
-    info-updated: null
+    added-date: 2024-05-25
+    info-updated: 2024-05-25
 -   games:
     - Final Fantasy Tactics
     identifier: Rumble Chaos Crashdown
     url: https://github.com/abyssonym/rumble_chaos_crashdown
     sub-series: Tactics
     obsolete: true
-    added-date: null
-    info-updated: null
+    added-date: 2024-05-25
+    info-updated: 2024-05-25
 -   games:
     - Final Fantasy Tactics
     identifier: 'Rumble: Chaos: >>The Crashdown<< REMAKE'
     url: https://github.com/abyssonym/fftrctcr
     sub-series: Tactics
-    added-date: null
-    info-updated: null
+    added-date: 2024-05-25
+    info-updated: 2024-05-25
 -   games:
     - Final Fantasy Tactics Advance
     identifier: Leonarth's
     url: https://ffhacktics.com/smf/index.php?topic=12184.0
     sub-series: Tactics
-    added-date: null
-    info-updated: null
+    added-date: 2024-05-25
+    info-updated: 2024-05-25
 -   games:
     - Final Fantasy Tactics Advance
     identifier: TojiKitten's
     url: https://github.com/TojiKitten/FFTA-randomizer/releases
     sub-series: Tactics
-    added-date: null
-    info-updated: null
+    added-date: 2024-05-25
+    info-updated: 2024-05-25
 -   games:
     - Final Fantasy Mystic Quest
     identifier: A Terrible Secret
     url: https://github.com/abyssonym/terriblesecret
     sub-series: Other
-    added-date: null
-    info-updated: null
+    added-date: 2024-05-25
+    info-updated: 2024-05-25
 -   games:
     - Final Fantasy Mystic Quest
     identifier: wildham's
     url: https://www.ffmqrando.net/
     sub-series: Other
-    added-date: null
-    info-updated: null
+    added-date: 2024-05-25
+    info-updated: 2024-05-25
 -   games:
     - Final Fantasy Mystic Quest
     identifier: Archipelago
     url: https://archipelago.gg/tutorial/#Final%20Fantasy%20Mystic%20Quest
     sub-series: Other
     multiworld: Archipelago
-    added-date: null
-    info-updated: null
+    added-date: 2024-05-25
+    info-updated: 2024-05-25
