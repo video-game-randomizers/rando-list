@@ -76,14 +76,15 @@ def series_schema(modified: datetime):
 
 
 def validateDate(rando, prop):
-    d = rando.get(prop)
-    if not d:
+    if prop not in rando:
         return
+    d = rando.get(prop)
     if not isinstance(d, date):
         raise exceptions.ValidationError(prop + ' invalid date format: ' + repr(d))
     today = datetime.now(datetime_module.UTC).date()
     if today < d:
         raise exceptions.ValidationError(prop + ' date is in the future: ' + repr(d) + ", UTC today is: " + repr(today))
+    return d
 
 
 def get_modified_time(path: Path):
@@ -107,8 +108,10 @@ def validateSeriesConfig(path: Path):
         for rando in data['randomizers']:
             try:
                 validate(rando, randomizer_schema(modified))
-                validateDate(rando, 'info-updated')
-                validateDate(rando, 'added-date')
+                updated = validateDate(rando, 'info-updated')
+                added = validateDate(rando, 'added-date')
+                if updated and updated < added:
+                    raise exceptions.ValidationError('added-date ' + repr(added) + ' is newer than info-updated ' + repr(updated))
             except exceptions.ValidationError as e:
                 failures += 1
                 print('\nIn Randomizer definition:', rando)
