@@ -1,4 +1,5 @@
-from jsonschema import validate, exceptions
+from jsonschema import validate
+from jsonschema.exceptions import ValidationError
 from pathlib import Path
 import yaml
 import subprocess
@@ -80,10 +81,10 @@ def validateDate(rando, prop):
         return
     d = rando.get(prop)
     if not isinstance(d, date):
-        raise exceptions.ValidationError(prop + ' invalid date format: ' + repr(d))
+        raise ValidationError(prop + ' invalid date format: ' + repr(d))
     today = datetime.now(datetime_module.UTC).date()
     if today < d:
-        raise exceptions.ValidationError(prop + ' date is in the future: ' + repr(d) + ", UTC today is: " + repr(today))
+        raise ValidationError(prop + ' date is in the future: ' + repr(d) + ", UTC today is: " + repr(today))
     return d
 
 
@@ -104,22 +105,22 @@ def validateSeriesConfig(path: Path):
     text = path.read_text()
     data = yaml.load(text, Loader=yaml.CLoader)
     try:
-        validate(data, series_schema(modified))
+        validate(data, series_schema(data, modified))
         for rando in data['randomizers']:
             try:
-                validate(rando, randomizer_schema(modified))
+                validate(rando, randomizer_schema(rando, modified))
                 updated = validateDate(rando, 'info-updated')
                 added = validateDate(rando, 'added-date')
                 if updated and updated < added:
-                    raise exceptions.ValidationError('added-date ' + repr(added) + ' is newer than info-updated ' + repr(updated))
-            except exceptions.ValidationError as e:
+                    raise ValidationError('added-date ' + repr(added) + ' is newer than info-updated ' + repr(updated))
+            except ValidationError as e:
                 failures += 1
                 print('\nIn Randomizer definition:', rando)
                 id = str(rando.get('game', ''))  + ' ' + str(rando.get('identifier', ''))
-                print('\nERROR in', path, ': randomizer definition', id, '-', e.message)
-    except exceptions.ValidationError as e:
+                print('\nERROR in', path, ': randomizer definition', id, '-\n', e.path, e.message)
+    except ValidationError as e:
         failures += 1
-        print('ERROR in', path, ': series definition -', e.message)
+        print('ERROR in', path, ': series definition -\n', e.path, e.message)
     return failures
 
 
@@ -134,8 +135,9 @@ def validateYamlFiles():
             failures += new_failures
         except Exception as e:
             failures += 1
-            print('\nERROR in', file, e)
+            print('\nERROR in', file, '-\n', e)
 
+    print('\n\n')
     assert success > 0
     assert failures == 0, 'got ' + str(failures) + ' failures'
 
