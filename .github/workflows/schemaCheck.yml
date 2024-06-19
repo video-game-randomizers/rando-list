@@ -13,6 +13,9 @@ jobs:
       #- name: switching from HTTPS to SSH
       #  run: git remote set-url --add origin ${{ secrets.ssh }}
 
+      - run: git config --global user.email "hackerman@example.com"
+      - run: git config --global user.name "hackerman"
+
       - name: edit file
         run: date > test.txt
       - name: stage changed files
