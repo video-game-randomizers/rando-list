@@ -22,6 +22,7 @@ jobs:
         run: git add .
       - name: commit changed files
         run: git commit -m "Auto updating file"
+      - run: git checkout main
       - name: fetch from main
         run: git fetch origin main
       - name: push code to main
