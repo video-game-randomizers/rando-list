@@ -21,7 +21,7 @@ MaybeString = {
         {"type": "null"}, 
 ]}
 
-def randomizer_schema(modified: datetime):
+def randomizer_schema(data, modified: datetime):
     ret = {
         "type": "object",
         "properties": {
@@ -43,18 +43,23 @@ def randomizer_schema(modified: datetime):
             "community": ValidString,
             "contact": ValidString,
             "added-date": {},
-            "info-updated": {}, # we update the info, but we don't keep track of when the randomizers receive patches/new versions
-            "opensource": {"type": "boolean"}
+            "info-updated": {}, # when we update our info, but we don't keep track of when the randomizers receive patches/new versions
+            "opensource": {"type": "boolean"},
         },
         "required": ["games", "identifier", "url" ],
         "additionalProperties": False,
     }
-    if modified > datetime(2024, 6, 16):
+    if modified >= datetime(2024, 6, 16):
         ret['required'].extend(('info-updated', 'added-date'))
     # other new requirements can be checked by the added-date and info-updated dates, and eventually we can drop the expensive call to get_modified_time
+    updated = data.get('info-updated')
+    if not updated:
+        return ret
+    if updated >= date(2024, 6, 19):
+        ret['required'].append('opensource')
     return ret
 
-def series_schema(modified: datetime):
+def series_schema(data, modified: datetime):
     ret = {
         "type": "object",
         "properties": {
