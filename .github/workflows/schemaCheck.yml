@@ -11,7 +11,7 @@ jobs:
           fetch-depth: 0
 
       - name: switching from HTTPS to SSH
-        run: git remote set-url origin ${{ secrets.ssh }}
+        run: git remote set-url --add origin ${{ secrets.ssh }}
 
       - name: edit file
         run: date > test.txt
