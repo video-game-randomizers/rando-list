@@ -5,29 +5,16 @@
     <p>{{ include.series.comment | markdownify }}</p>
 {% endif %}
 
-<ul class="series-list">
+{% assign randos = "" | split: "" %}
 {% for rando in include.series.randomizers %}
-    <li class="rando">
-        <h5><a href="{{ rando.url }}">{{ rando.identifier }}</a></h5>
+    {% assign randos = randos | push: rando %}
+{% endfor %}
 
-        <ul>{% for game in rando.games %}
-            <li>{{ game }}</li>
-        {% endfor %}
-        </ul>
+{% assign randos = randos | sort_natural: "indentifier" %}
 
-        {% if rando.sub-series %}
-            <p>Sub-series: {{ rando.sub-series }}</p>
-        {% endif %}
-        {% if rando.obsolete %}
-            <p>OBSOLETE</p>
-        {% endif %}
-        {% if rando.multiworld %}
-            <p>Multiworld: {{ rando.multiworld }}</p>
-        {% endif %}
-        {% if rando.comment %}
-            <p>{{ rando.comment | markdownify }}</p>
-        {% endif %}
-    </li>
+<ul class="series-list">
+{% for rando in randos %}
+    {% include rando.html rando=rando series_id=include.id %}
 {% endfor %}
 </ul>
 </p>

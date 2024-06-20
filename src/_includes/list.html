@@ -1,0 +1,15 @@
+
+{% for series in include.series %}
+    {% assign series_id=series[0] %}
+    {% assign series_data=series[1] %}
+
+    {% if series_id == 'Multi-series' %}
+        {% continue %}
+    {% endif %}
+
+    {% include series.html id=series_id series=series_data %}
+{% endfor %}
+
+{% assign series_id='Multi-series' %}
+{% assign series_data=site.data.Multi-series %}
+{% include series.html id=series_id series=series_data %}
