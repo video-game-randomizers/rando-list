@@ -262,13 +262,9 @@ randomizers:
     added-date: 2024-05-25
     info-updated: 2024-05-25
 -   games:
-    - 'SpongeBob SquarePants: Battle for Bikini Bottom (GameCube'
-    - Xbox
-    - PS2)
+    - 'SpongeBob SquarePants: Battle for Bikini Bottom (GameCube / Xbox / PS2)'
     - 'Scooby-Doo: Night of 100 Frights'
-    - The SpongeBob SquarePants Movie (GameCube
-    - Xbox
-    - PS2)
+    - The SpongeBob SquarePants Movie (GameCube / Xbox / PS2)
     identifier: Industrial Park
     url: https://github.com/igorseabra4/IndustrialPark
     sub-series: Other
