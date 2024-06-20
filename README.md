@@ -16,7 +16,7 @@ Pull requests from the public are very welcome. If you want to become a maintain
 
 ## Code structure
 
-The actual code and content is located in the `src` directory. The data about the games/randomizers is stored in `yml` files inside of `src/series/`, while the HTML code is built from [Jekyll](https://jekyllrb.com/docs/)/[Liquid](https://shopify.github.io/liquid/basics/introduction/) templates in `src/index.html` and `src/_includes/series.html`.
+The actual code and content is located in the [`src`](https://github.com/video-game-randomizers/rando-list/tree/main/src) directory. The data about the games/randomizers is stored in `yml` files inside of [`src/series/`](https://github.com/video-game-randomizers/rando-list/tree/main/src/series), while the HTML code is built from [Jekyll](https://jekyllrb.com/docs/)/[Liquid](https://shopify.github.io/liquid/basics/introduction/) templates in [`src/index.html`](https://github.com/video-game-randomizers/rando-list/blob/main/src/index.html) and [`src/_includes/`](https://github.com/video-game-randomizers/rando-list/tree/main/src/_includes).
 
 ## Building
 
