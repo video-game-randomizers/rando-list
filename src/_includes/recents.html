@@ -1,24 +1,24 @@
-{% assign old = '2024-06-01' | date: '%s' %}
+{%- assign old = '2024-06-01' | date: '%s' -%}
 
-{% for series in include.series %}
-    {% assign series_id=series[0] %}
-    {% assign series_data=series[1] %}
+{%- for series in include.series -%}
+    {%- assign series_id=series[0] -%}
+    {%- assign series_data=series[1] -%}
 
 
-    {% assign randos = "" | split: "" %}
-    {% for rando in series_data.randomizers %}
-        {% assign randos = randos | push: rando %}
-    {% endfor %}
+    {%- assign randos = "" | split: "" -%}
+    {%- for rando in series_data.randomizers -%}
+        {%- assign randos = randos | push: rando -%}
+    {%- endfor -%}
 
-    {% assign randos = randos | sort_natural: "indentifier" %}
+    {%- assign randos = randos | sort_natural: "indentifier" -%}
 
-    {% for rando in randos %}
-        {% assign updated = rando.info-updated | date: '%s' %}
-        {% if rando.info-updated == null or updated < old %}
-            {% continue %}
-        {% endif %}
+    {%- for rando in randos -%}
+        {%- assign updated = rando.info-updated | date: '%s' -%}
+        {%- if rando.info-updated == null or updated < old -%}
+            {%- continue -%}
+        {%- endif -%}
     
-        {% include rando.html rando=rando series_id=series_id %}
-    {% endfor %}
+        {%- include rando.html rando=rando series_id=series_id -%}
+    {%- endfor -%}
 
-{% endfor %}
+{%- endfor -%}

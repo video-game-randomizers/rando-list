@@ -1,8 +1,5 @@
-
-{% assign rando = include.rando %}
-
-{% assign updated = rando.info-updated | date: '%s' %}
-
+{%- assign rando = include.rando -%}
+{%- assign updated = rando.info-updated | date: '%s' -%}
 <li class="rando" id="{{ include.series_id }}-{{ rando.identifier }}">
     <h5><a href="{{ rando.url }}">{{ rando.identifier }}</a></h5>
 
@@ -11,19 +8,19 @@
     {% endfor %}
     </ul>
 
-    {% if rando.sub-series %}
+    {%- if rando.sub-series -%}
         <p>Sub-series: {{ rando.sub-series }}</p>
-    {% endif %}
-    {% if rando.obsolete %}
+    {%- endif -%}
+    {%- if rando.obsolete -%}
         <p>OBSOLETE</p>
-    {% endif %}
-    {% if rando.multiworld %}
+    {%- endif -%}
+    {%- if rando.multiworld -%}
         <p>Multiworld: {{ rando.multiworld }}</p>
-    {% endif %}
-    {% if rando.info-updated %}
+    {%- endif -%}
+    {%- if rando.info-updated -%}
         <p>Info updated: {{ rando.info-updated }}</p>
-    {% endif %}
-    {% if rando.comment %}
+    {%- endif -%}
+    {%- if rando.comment -%}
         <p>{{ rando.comment | markdownify }}</p>
-    {% endif %}
+    {%- endif -%}
 </li>
