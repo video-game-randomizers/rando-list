@@ -7,7 +7,11 @@ randomizers:
     identifier: Complete Randomizer / Random Startdeck Mod
     url: https://www.speedrun.com/yugiohfm/resources
     comment: Located under Patches
+    added-date: 2024-05-25
+    info-updated: 2024-05-25
 -   games:
     - Yu-Gi-Oh! The Duelists of the Roses
     identifier: GenericMadScientist's
     url: https://github.com/GenericMadScientist/DotR-Randomiser
+    added-date: 2024-05-25
+    info-updated: 2024-05-25

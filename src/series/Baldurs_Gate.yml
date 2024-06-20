@@ -10,6 +10,8 @@ randomizers:
     - 'Baldur''s Gate: Enhanced Edition Trilogy (mod)'
     identifier: Enemy Randomizer
     url: https://www.gibberlings3.net/files/file/1031-enemy-randomizer/
+    added-date: 2024-05-25
+    info-updated: 2024-05-25
 -   games:
     - 'Baldur''s Gate
     - Baldur''s Gate: Enhanced Edition
@@ -20,6 +22,8 @@ randomizers:
     - 'Baldur''s Gate: Enhanced Edition Trilogy (mod)'
     identifier: Item Randomiser
     url: https://www.gibberlings3.net/mods/items/item_rand/
+    added-date: 2024-05-25
+    info-updated: 2024-05-25
 -   games:
     - 'Baldur''s Gate
     - Baldur''s Gate: Enhanced Edition
@@ -32,11 +36,17 @@ randomizers:
     url: https://www.gibberlings3.net/mods/tweaks/scs/
     comment: 'Mod collection that can randomize the maze in Watcher''s Keep for
         Baldur''s Gate II'
+    added-date: 2024-05-25
+    info-updated: 2024-05-25
 -   games:
     - 'Baldur''s Gate II: Shadows of Amn'
     identifier: Improved Anvil
     url: http://forums.blackwyrmlair.net/index.php?showtopic=1739
+    added-date: 2024-05-25
+    info-updated: 2024-05-25
 -   games:
     - 'Baldur''s Gate II: Enhanced Edition'
     identifier: Improved Anvil Enhanced Edition
     url: http://forums.blackwyrmlair.net/index.php?showtopic=5326
+    added-date: 2024-05-25
+    info-updated: 2024-05-25

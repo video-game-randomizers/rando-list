@@ -6,6 +6,7 @@ import subprocess
 import datetime as datetime_module
 from datetime import date
 from datetime import datetime
+import re
 
 # https://json-schema.org/learn/getting-started-step-by-step#going-deeper-with-properties
 # https://cswr.github.io/JsonSchema/spec/introduction/
@@ -109,6 +110,14 @@ def validateSeriesConfig(path: Path):
     modified = get_modified_time(path)
     text = path.read_text()
     data = yaml.load(text, Loader=yaml.CLoader)
+
+    if re.search(r'[^a-zA-Z0-9_\-\.\(\)]', path.stem):
+        failures += 1
+        print('ERROR special characters in filename: ' + str(path.name))
+    if path.suffix != '.yml':
+        failures += 1
+        print('ERROR filename does not end with .yml: ' + str(path.name))
+    
     try:
         validate(data, series_schema(data, modified))
         for rando in data['randomizers']:
