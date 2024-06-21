@@ -22,7 +22,7 @@ MaybeString = {
         {"type": "null"}, 
 ]}
 
-def randomizer_schema(data, modified: datetime):
+def randomizer_schema(data):
     ret = {
         "type": "object",
         "properties": {
@@ -47,12 +47,10 @@ def randomizer_schema(data, modified: datetime):
             "info-updated": {}, # when we update our info, but we don't keep track of when the randomizers receive patches/new versions
             "opensource": {"type": "boolean"},
         },
-        "required": ["games", "identifier", "url" ],
+        "required": ["games", "identifier", "url", "info-updated", "added-date"],
         "additionalProperties": False,
     }
-    if modified >= datetime(2024, 6, 16):
-        ret['required'].extend(('info-updated', 'added-date'))
-    # other new requirements can be checked by the added-date and info-updated dates, and eventually we can drop the expensive call to get_modified_time
+    # new requirements can be checked by the added-date and info-updated dates
     updated = data.get('info-updated')
     if not updated:
         return ret
@@ -60,7 +58,7 @@ def randomizer_schema(data, modified: datetime):
         ret['required'].append('opensource')
     return ret
 
-def series_schema(data, modified: datetime):
+def series_schema(data):
     ret = {
         "type": "object",
         "properties": {
@@ -88,9 +86,10 @@ def validateDate(rando, prop):
     d = rando.get(prop)
     if not isinstance(d, date):
         raise ValidationError(prop + ' invalid date format: ' + repr(d))
-    today = datetime.now(datetime_module.UTC).date()
-    if today < d:
-        raise ValidationError(prop + ' date is in the future: ' + repr(d) + ", UTC today is: " + repr(today))
+    # we could check vs today, but it could get annoying with pull requests, ideally the date would be the date of merging
+    # today = datetime.now(datetime_module.UTC).date()
+    # if today < d:
+    #     raise ValidationError(prop + ' date is in the future: ' + repr(d) + ", UTC today is: " + repr(today))
     return d
 
 
@@ -105,9 +104,19 @@ def get_modified_time(path: Path):
     i = int(ret)
     return datetime.fromtimestamp(i)
 
+
+def validateRando(rando):
+    validate(rando, randomizer_schema(rando))
+    updated = validateDate(rando, 'info-updated')
+    added = validateDate(rando, 'added-date')
+    if updated and updated < added:
+        raise ValidationError('added-date ' + repr(added) + ' is newer than info-updated ' + repr(updated))
+
+
 def validateSeriesConfig(path: Path):
     failures = 0
-    modified = get_modified_time(path)
+    #modified = get_modified_time(path) # currently we don't need this expensive check
+    writeback = False
     text = path.read_text()
     data = yaml.load(text, Loader=yaml.CLoader)
 
@@ -119,22 +128,33 @@ def validateSeriesConfig(path: Path):
         print('ERROR filename does not end with .yml: ' + str(path.name))
     
     try:
-        validate(data, series_schema(data, modified))
-        for rando in data['randomizers']:
-            try:
-                validate(rando, randomizer_schema(rando, modified))
-                updated = validateDate(rando, 'info-updated')
-                added = validateDate(rando, 'added-date')
-                if updated and updated < added:
-                    raise ValidationError('added-date ' + repr(added) + ' is newer than info-updated ' + repr(updated))
-            except ValidationError as e:
-                failures += 1
-                print('\nIn Randomizer definition:', rando)
-                id = str(rando.get('game', ''))  + ' ' + str(rando.get('identifier', ''))
-                print('\nERROR in', path, ': randomizer definition', id, '-\n', e.path, e.message)
+        validate(data, series_schema(data))
     except ValidationError as e:
         failures += 1
         print('ERROR in', path, ': series definition -\n', e.path, e.message)
+    
+    for rando in data['randomizers']:
+        try:
+            validateRando(rando)
+        except ValidationError as e:
+            failures += 1
+            print('\nIn Randomizer definition:', rando)
+            id = str(rando.get('game', ''))  + ' ' + str(rando.get('identifier', ''))
+            print('\nERROR in', path, ': randomizer definition', id, '-\n', e.path, e.message)
+
+        # update rando data
+        if not rando.get('info-updated'):
+            writeback = True
+            rando['info-updated'] = date(2024, 5, 25)
+        if not rando.get('added-date'):
+            writeback = True
+            rando['added-date'] = date(2024, 5, 25)
+
+    if failures == 0 and writeback:
+        out = yaml.dump(data, sort_keys=False, indent=4)
+        path.write_text(out)
+        failures += 1 # make sure this fails the Github Actions test, because it won't commit back
+        print('ERROR: ', path, ' needed update, run schemaCheck.py locally and commit the changes')
     return failures
 
 
