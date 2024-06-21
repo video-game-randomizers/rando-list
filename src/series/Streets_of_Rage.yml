@@ -8,7 +8,11 @@ randomizers:
     identifier: SoR2 Level Editor
     url: https://www.romhacking.net/utilities/1634/
     comment: Level editor with bundled randomizer
+    info-updated: 2024-05-25
+    added-date: 2024-05-25
 -   games:
     - Streets of Rage 4
     identifier: Swapper
     url: https://sourceforge.net/projects/sor4-character-swapper/
+    info-updated: 2024-05-25
+    added-date: 2024-05-25

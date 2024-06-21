@@ -6,12 +6,18 @@ randomizers:
     - 'The Legend of Heroes: Trails of Cold Steel'
     identifier: nnguyen259's
     url: https://github.com/nnguyen259/ColdSteelRandomizer
+    info-updated: 2024-05-25
+    added-date: 2024-05-25
 -   games:
     - 'The Legend of Heroes: Trails of Cold Steel III'
     identifier: nnguyen259's
     url: https://github.com/nnguyen259/ColdSteel3Tools
     comment: Modding tool with bundled randomizer
+    info-updated: 2024-05-25
+    added-date: 2024-05-25
 -   games:
     - 'The Legend of Heroes: Trails into Reverie'
     identifier: nnguyen259's
     url: https://github.com/nnguyen259/ReverieRandomizer
+    info-updated: 2024-05-25
+    added-date: 2024-05-25

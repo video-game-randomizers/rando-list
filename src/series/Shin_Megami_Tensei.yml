@@ -6,11 +6,17 @@ randomizers:
     - Shin Megami Tensei
     identifier: spannerisms's
     url: https://github.com/spannerisms/smt1rando
+    info-updated: 2024-05-25
+    added-date: 2024-05-25
 -   games:
     - 'Shin Megami Tensei III: Nocturne'
     identifier: NMarkro's
     url: https://github.com/nmarkro/Nocturne-Randomizer
+    info-updated: 2024-05-25
+    added-date: 2024-05-25
 -   games:
     - 'Shin Megami Tensei: Strange Journey'
     identifier: Disaster Cycle
     url: https://github.com/abyssonym/disastercycle
+    info-updated: 2024-05-25
+    added-date: 2024-05-25

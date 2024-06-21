@@ -6,7 +6,11 @@ randomizers:
     - Darkest Dungeon
     identifier: ddrand
     url: https://cdn.discordapp.com/attachments/1140465134066741309/1147430562450116648/ddrand-v0.2.0-x86_64-windows-msvc.zip
+    info-updated: 2024-05-25
+    added-date: 2024-05-25
 -   games:
     - Darkest Dungeon
     identifier: TheUnlocked's
     url: https://github.com/TheUnlocked/DarkestDungeonRandomizer/releases
+    info-updated: 2024-05-25
+    added-date: 2024-05-25

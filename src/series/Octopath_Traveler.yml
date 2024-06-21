@@ -6,11 +6,17 @@ randomizers:
     - Octopath Traveler
     identifier: Boss Randomizer
     url: https://github.com/mastermind1919/OctopathBossRandomizer
+    info-updated: 2024-05-25
+    added-date: 2024-05-25
 -   games:
     - Octopath Traveler
     identifier: Job Randomizer
     url: https://github.com/MarvinXLII/OctopathTravelerJobRandomizer
+    info-updated: 2024-05-25
+    added-date: 2024-05-25
 -   games:
     - Octopath Traveler II
     identifier: MarvinXLII's
     url: https://github.com/MarvinXLII/OT2R
+    info-updated: 2024-05-25
+    added-date: 2024-05-25

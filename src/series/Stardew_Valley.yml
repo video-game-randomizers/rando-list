@@ -6,23 +6,33 @@ randomizers:
     - Stardew Valley
     identifier: Community Center Bundles Randomizer
     url: https://www.nexusmods.com/stardewvalley/mods/20425
+    info-updated: 2024-05-25
+    added-date: 2024-05-25
 -   games:
     - Stardew Valley
     identifier: More Random Edition
     url: https://github.com/chikakoo/stardew-valley-randomizer
     comment: Unofficial [compatibility fix for newer SMAPI versions](https://www.nexusmods.com/stardewvalley/mods/16921)
+    info-updated: 2024-05-25
+    added-date: 2024-05-25
 -   games:
     - Stardew Valley
     identifier: Queen of Sauce Randomizer
     url: https://www.nexusmods.com/stardewvalley/mods/7151
+    info-updated: 2024-05-25
+    added-date: 2024-05-25
 -   games:
     - Stardew Valley
     identifier: Tooshi's
     url: https://stardewvalley.curseforge.com/projects/stardew-valley-randomizer
     obsolete: true
     comment: '[Source code](https://github.com/cTooshi/stardew-valley-randomizer)'
+    info-updated: 2024-05-25
+    added-date: 2024-05-25
 -   games:
     - Stardew Valley
     identifier: Archipelago
     url: https://archipelago.gg/tutorial/#Stardew%20Valley
     multiworld: Archipelago
+    info-updated: 2024-05-25
+    added-date: 2024-05-25

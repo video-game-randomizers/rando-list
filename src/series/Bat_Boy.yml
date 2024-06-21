@@ -6,5 +6,7 @@ randomizers:
     - Bat Boy (Demo)
     identifier: Archipelago.BatBoy
     url: https://github.com/alwaysintreble/Archipelago.BatBoy
-    comment: 'Requires [Archipelago](https://archipelago.gg/)'
+    comment: Requires [Archipelago](https://archipelago.gg/)
     multiworld: Archipelago
+    info-updated: 2024-05-25
+    added-date: 2024-05-25

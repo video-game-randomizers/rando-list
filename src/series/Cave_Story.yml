@@ -8,13 +8,19 @@ randomizers:
     identifier: Randovania
     url: https://randovania.org/games/cave_story/
     multiworld: Randovania
+    info-updated: 2024-05-25
+    added-date: 2024-05-25
 -   games:
     - Cave Story
     - Cave Story+
     identifier: shru's
     url: https://shru.itch.io/cave-story-randomizer
     obsolete: true
+    info-updated: 2024-05-25
+    added-date: 2024-05-25
 -   games:
     - Cave Story
     identifier: Doukutsu Randamu
     url: https://trashboxbobylev.itch.io/doukutsu-randamu
+    info-updated: 2024-05-25
+    added-date: 2024-05-25

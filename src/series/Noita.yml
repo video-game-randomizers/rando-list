@@ -6,8 +6,12 @@ randomizers:
     - Noita
     identifier: Steam Workshop - Randomizers
     url: https://steamcommunity.com/workshop/browse/?appid=881100&searchtext=randomizer
+    info-updated: 2024-05-25
+    added-date: 2024-05-25
 -   games:
     - Noita
     identifier: Archipelago
     url: https://archipelago.gg/tutorial/#Noita
     multiworld: Archipelago
+    info-updated: 2024-05-25
+    added-date: 2024-05-25

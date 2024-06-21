@@ -6,8 +6,12 @@ randomizers:
     - Celeste
     identifier: rhelmot's
     url: https://github.com/rhelmot/CelesteRandomizer
+    info-updated: 2024-05-25
+    added-date: 2024-05-25
 -   games:
     - 'Celeste 64: Fragments of the Mountain'
     identifier: Archipelago
     url: https://archipelago.gg/games/Celeste%2064/info/en
     multiworld: Archipelago
+    info-updated: 2024-05-25
+    added-date: 2024-05-25

@@ -6,8 +6,12 @@ randomizers:
     - StarCraft II
     identifier: Balance Patch Randomizer
     url: https://github.com/Die4Ever/starcraft-2-randomizer
+    info-updated: 2024-05-25
+    added-date: 2024-05-25
 -   games:
     - StarCraft II
     identifier: Archipelago
     url: https://archipelago.gg/tutorial/#Starcraft%202
     multiworld: Archipelago
+    info-updated: 2024-05-25
+    added-date: 2024-05-25

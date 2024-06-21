@@ -10,47 +10,65 @@ randomizers:
     url: https://www.romhacking.net/utilities/1147/
     sub-series: Main
     obsolete: true
+    info-updated: 2024-05-25
+    added-date: 2024-05-25
 -   games:
     - Dragon Quest
     identifier: mcgrew's
     url: https://github.com/mcgrew/dwrandomizer
     sub-series: Main
+    info-updated: 2024-05-25
+    added-date: 2024-05-25
 -   games:
     - 'Dragon Quest II: Luminaries of the Legendary Line'
     identifier: gameboy9's
     url: https://github.com/gameboy9/DW2Randomizer
     sub-series: Main
+    info-updated: 2024-05-25
+    added-date: 2024-05-25
 -   games:
     - Dragon Quest I&II (Super NES)
     identifier: gameboy9's
     url: https://github.com/gameboy9/DQ12SFCRando
     sub-series: Main
+    info-updated: 2024-05-25
+    added-date: 2024-05-25
 -   games:
     - 'Dragon Quest III: The Seeds of Salvation'
     identifier: Endymionls's
     url: https://github.com/Endymionls/DW3Randomizer
     sub-series: Main
+    info-updated: 2024-05-25
+    added-date: 2024-05-25
 -   games:
     - 'Dragon Quest III: The Seeds of Salvation'
     identifier: gameboy9's
     url: https://github.com/gameboy9/DW3Randomizer
     sub-series: Main
     obsolete: true
+    info-updated: 2024-05-25
+    added-date: 2024-05-25
 -   games:
     - 'Dragon Quest III: The Seeds of Salvation (Super NES)'
     identifier: Heavenly Flight
     url: https://cleartonic.net/dq3hf/dq3hf.html
     sub-series: Main
+    info-updated: 2024-05-25
+    added-date: 2024-05-25
 -   games:
     - 'Dragon Quest IV: Chapters of the Chosen'
     identifier: RandoHacker
     url: https://github.com/gameboy9/DW4RandoHacker
     sub-series: Main
+    info-updated: 2024-05-25
+    added-date: 2024-05-25
 -   games:
     - 'Dragon Quest VIII: Journey of the Cursed King (3DS)'
     identifier: playinful's
     url: https://github.com/playinful/DQ8-Rando
     sub-series: Main
+    info-updated: 2024-05-25
+    added-date: 2024-05-25
 -   games:
     - 'Dragon Quest Monsters 2: Cobi''s Journey'
     - 'Dragon Quest Monsters 2: Tara''s Adventure'
@@ -58,9 +76,13 @@ randomizers:
     url: https://www.woodus.com/forums/index.php?/topic/36046-dragon-warrior-monsters-2-randomizer/
     sub-series: Monsters
     obsolete: true
+    info-updated: 2024-05-25
+    added-date: 2024-05-25
 -   games:
     - 'Dragon Quest Monsters 2: Cobi''s Journey'
     - 'Dragon Quest Monsters 2: Tara''s Adventure'
     identifier: TheCowness's
     url: https://cowness.net/DWM2R/
     sub-series: Monsters
+    info-updated: 2024-05-25
+    added-date: 2024-05-25

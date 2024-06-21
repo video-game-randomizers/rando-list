@@ -10,39 +10,53 @@ randomizers:
     identifier: Randomized Edition
     url: https://www.donkeykonghacks.net/
     sub-series: Classic
+    info-updated: 2024-05-25
+    added-date: 2024-05-25
 -   games:
     - Donkey Kong Country
     - 'Donkey Kong Country 2: Diddy''s Kong Quest'
     identifier: DKC Randomizer / DKC Entrance Rando / DKC2 Entrance Randomizer
     url: https://www.twitch.tv/rainbowsprinklez/about
     sub-series: Country
-    comment: 'Located under ROM Hacks - DKC Randomizer randomizes animal buddies
-        and enemies and requires an NA 1.0 ROM - Partial [source code](https://github.com/mike19283?tab=repositories)'
+    comment: Located under ROM Hacks - DKC Randomizer randomizes animal buddies and
+        enemies and requires an NA 1.0 ROM - Partial [source code](https://github.com/mike19283?tab=repositories)
+    info-updated: 2024-05-25
+    added-date: 2024-05-25
 -   games:
     - 'Donkey Kong Country 3: Dixie Kong''s Double Trouble'
     identifier: Pozzum's
     url: https://github.com/pozzum/DKC3Randomizer/releases
     sub-series: Country
+    info-updated: 2024-05-25
+    added-date: 2024-05-25
 -   games:
     - 'Donkey Kong Country 3: Dixie Kong''s Double Trouble'
     identifier: Archipelago
     url: https://archipelago.gg/games/Donkey%20Kong%20Country%203/info/en
     multiworld: Archipelago
+    info-updated: 2024-05-25
+    added-date: 2024-05-25
 -   games:
     - Donkey Kong 64
     identifier: 2dos's, 2021
     url: https://dk64randomizer.com/
     sub-series: Country
+    info-updated: 2024-05-25
+    added-date: 2024-05-25
 -   games:
     - Donkey Kong 64
     identifier: Loading Zone Randomizer
     url: https://drive.google.com/file/d/1H21m7tiKPqRYNRh2O2R-KRcMT6nuyUJZ/view
     sub-series: Country
     obsolete: true
-    comment: 'Requires special emulator [BizHawk](https://tasvideos.org/BizHawk)'
+    comment: Requires special emulator [BizHawk](https://tasvideos.org/BizHawk)
+    info-updated: 2024-05-25
+    added-date: 2024-05-25
 -   games:
     - Diddy Kong Racing
     identifier: acastelli's
     url: https://acastelli.com/dkr/hacks/
     sub-series: Racing
-    comment: 'Located under Randomizer'
+    comment: Located under Randomizer
+    info-updated: 2024-05-25
+    added-date: 2024-05-25

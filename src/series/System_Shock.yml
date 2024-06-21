@@ -6,13 +6,19 @@ randomizers:
     - System Shock (2023)
     identifier: Ironman
     url: https://www.nexusmods.com/systemshock2023/mods/55
+    info-updated: 2024-05-25
+    added-date: 2024-05-25
 -   games:
     - System Shock 2
     - Secmod (mod)
     identifier: Sarge945's
     url: https://www.systemshock.org/index.php?topic=12152.0
+    info-updated: 2024-05-25
+    added-date: 2024-05-25
 -   games:
     - System Shock 2
     identifier: Zygoptera's
     url: https://www.systemshock.org/index.php?topic=67.0
     obsolete: true
+    info-updated: 2024-05-25
+    added-date: 2024-05-25

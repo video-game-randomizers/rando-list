@@ -7,10 +7,14 @@ randomizers:
     identifier: FFAEE
     url: https://gamehackfan.github.io/ffaee/
     obsolete: true
-    comment: 'Game editor with bundled randomizer - OBSOLETE due to the superior
-        CPS2 version'
+    comment: Game editor with bundled randomizer - OBSOLETE due to the superior CPS2
+        version
+    info-updated: 2024-05-25
+    added-date: 2024-05-25
 -   games:
     - Final Fight AE CPS2 (Final Fight hack)
     identifier: FFAEE-C2
     url: https://gamehackfan.github.io/ffaee-c2/
-    comment: 'Game editor with bundled randomizer'
+    comment: Game editor with bundled randomizer
+    info-updated: 2024-05-25
+    added-date: 2024-05-25

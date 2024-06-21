@@ -6,14 +6,21 @@ randomizers:
     - Diablo II
     identifier: D2 Mod Maker
     url: https://github.com/tlentz/d2modmaker
-    comment: 'Modding tool with bundled randomizer'
+    comment: Modding tool with bundled randomizer
+    info-updated: 2024-05-25
+    added-date: 2024-05-25
 -   games:
     - Diablo II
     identifier: Sunbeam's
     url: https://www.mediafire.com/file/g8om1vq2rui2kxb/D2Randomizer_0.1.1.zip/file
-    comment: 'Support available on [Sunbeam''s Discord server](https://discord.com/invite/K9AeByXyMu), originally posted on [Sunbeam''s Twitter](https://twitter.com/SunbeamX11/status/1383417309201453058)'
+    comment: Support available on [Sunbeam's Discord server](https://discord.com/invite/K9AeByXyMu),
+        originally posted on [Sunbeam's Twitter](https://twitter.com/SunbeamX11/status/1383417309201453058)
+    info-updated: 2024-05-25
+    added-date: 2024-05-25
 -   games:
     - 'Diablo II: Resurrected'
     identifier: Mod generator
     url: https://github.com/mapron/d2modgen
-    comment: 'Modding tool with bundled randomizer'
+    comment: Modding tool with bundled randomizer
+    info-updated: 2024-05-25
+    added-date: 2024-05-25

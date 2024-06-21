@@ -3,18 +3,24 @@ comment: null
 sub-series: null
 randomizers:
 -   games:
-    - 'Borderlands 2'
+    - Borderlands 2
     - 'Borderlands: The Pre-Sequel'
     identifier: BLCMods
     url: https://github.com/BLCM/BLCMods
-    comment: 'Mod repository containing multiple randomizers'
+    comment: Mod repository containing multiple randomizers
+    info-updated: 2024-05-25
+    added-date: 2024-05-25
 -   games:
     - Borderlands 2
     identifier: shadowevil1996's Gun and Item Randomizer
     url: https://www.se7ensins.com/forums/threads/borderlands-2-gun-item-randomizer-mod.1269836/
     obsolete: true
+    info-updated: 2024-05-25
+    added-date: 2024-05-25
 -   games:
     - 'Borderlands: The Pre-Sequel'
     identifier: Turk's Gun Randomizer
     url: https://www.mediafire.com/file/gst4yd3gzuly36y/TPS+gun+randomizer.CT
     obsolete: true
+    info-updated: 2024-05-25
+    added-date: 2024-05-25

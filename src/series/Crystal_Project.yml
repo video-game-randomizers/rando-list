@@ -7,4 +7,7 @@ randomizers:
     identifier: LtSquigs's
     url: https://github.com/LtSquigs/crystal-project-randomizer
     obsolete: true
-    comment: 'Marked as obsolete since the author will no longer maintain it now that the main game contains a built-in one.'
+    comment: Marked as obsolete since the author will no longer maintain it now that
+        the main game contains a built-in one.
+    info-updated: 2024-05-25
+    added-date: 2024-05-25

@@ -6,7 +6,11 @@ randomizers:
     - SteamWorld Dig
     identifier: LiveSplit.SteamWorldDig.Randomizer
     url: https://github.com/clementgallet/LiveSplit.SteamWorldDig.Randomizer
+    info-updated: 2024-05-25
+    added-date: 2024-05-25
 -   games:
     - SteamWorld Dig 2
     identifier: SWD2Randomizer
     url: https://github.com/clementgallet/SWD2Randomizer
+    info-updated: 2024-05-25
+    added-date: 2024-05-25

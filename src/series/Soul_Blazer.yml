@@ -7,12 +7,18 @@ randomizers:
     identifier: RandoBlazer
     url: https://randoblazer.orphis.net/
     comment: Old [Windows binaries](https://github.com/LeHulk1/RandoBlazer/tree/master/Releases)
+    info-updated: 2024-05-25
+    added-date: 2024-05-25
 -   games:
     - Illusion of Gaia
     identifier: DontBaguMe's
     url: https://www.iogr.app
+    info-updated: 2024-05-25
+    added-date: 2024-05-25
 -   games:
     - Terranigma
     identifier: TerraFluky
     url: https://www.terranigma.be/index.php?title=TerraFluky
     comment: '[Discord server](https://discord.com/invite/NkdvaHp) for support'
+    info-updated: 2024-05-25
+    added-date: 2024-05-25

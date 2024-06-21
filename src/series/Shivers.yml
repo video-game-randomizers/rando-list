@@ -7,8 +7,12 @@ randomizers:
     identifier: GodlFire's
     url: https://www.speedrun.com/shivers/resources
     comment: Located under Tools - [Source code](https://github.com/GodlFire/Shivers-Randomizer-CSharp)
+    info-updated: 2024-05-25
+    added-date: 2024-05-25
 -   games:
     - Shivers
     identifier: Archipelago
     url: https://archipelago.gg/tutorial/#Shivers
     multiworld: Archipelago
+    info-updated: 2024-05-25
+    added-date: 2024-05-25

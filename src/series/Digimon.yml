@@ -6,17 +6,25 @@ randomizers:
     - Digimon World
     identifier: meekrhino's
     url: https://github.com/meekrhino/digimon_world_randomizer
+    info-updated: 2024-05-25
+    added-date: 2024-05-25
 -   games:
     - Digimon World 2
     identifier: GlorySeeker's
     url: https://discord.com/invite/rtFMVyZkbY
     comment: 'Discord account required - Located in the #tool-releases channel'
+    info-updated: 2024-05-25
+    added-date: 2024-05-25
 -   games:
     - Digimon World 3
     identifier: markisha64's
     url: https://www.romhacking.net/utilities/1788/
+    info-updated: 2024-05-25
+    added-date: 2024-05-25
 -   games:
     - 'Digimon Story Cyber Sleuth: Complete Edition'
     identifier: zeak6464's
     url: https://gamebanana.com/mods/369682
     comment: '[Source code](https://github.com/zeak6464/Digimon-Cyber-Sleuth-Mods)'
+    info-updated: 2024-05-25
+    added-date: 2024-05-25

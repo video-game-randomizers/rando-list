@@ -7,16 +7,24 @@ randomizers:
     identifier: Showcase
     url: https://github.com/The-MAZZTer/DarkForces
     comment: Modding tool with bundled randomizer
+    info-updated: 2024-05-25
+    added-date: 2024-05-25
 -   games:
     - 'Star Wars Jedi Knight: Jedi Academy'
     identifier: RandomJK
     url: https://github.com/ps1337/RandomJK
+    info-updated: 2024-05-25
+    added-date: 2024-05-25
 -   games:
     - 'Lego Star Wars: The Complete Saga'
     identifier: Viola's
     url: https://discord.com/invite/h5NKfmGWWm
     comment: 'Discord account required - Located in the #downloads channel'
+    info-updated: 2024-05-25
+    added-date: 2024-05-25
 -   games:
     - 'Star Wars Jedi: Fallen Order'
     identifier: Enemy Randomizer
     url: https://www.nexusmods.com/starwarsjedifallenorder/mods/209
+    info-updated: 2024-05-25
+    added-date: 2024-05-25

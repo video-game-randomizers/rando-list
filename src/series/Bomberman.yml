@@ -6,9 +6,13 @@ randomizers:
     - Bomberman Tournament
     identifier: fusecv's
     url: https://btrando.surge.sh/
+    info-updated: 2024-05-25
+    added-date: 2024-05-25
 -   games:
     - Bomberman Tournament
     identifier: HoDBT
     url: https://hodbt.surge.sh/
     multiworld: Other
     comment: 'Castlevania: Harmony of Dissonance / Bomberman Tournament multiworld'
+    info-updated: 2024-05-25
+    added-date: 2024-05-25

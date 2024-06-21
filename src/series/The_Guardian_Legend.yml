@@ -7,8 +7,12 @@ randomizers:
     identifier: fireball87's
     url: https://www.synchrocade.com/tgl
     comment: '[Source code](https://github.com/fireball87/GuardianLegendRando)'
+    info-updated: 2024-05-25
+    added-date: 2024-05-25
 -   games:
     - The Guardian Legend
     identifier: Micheil Skeens's
     url: https://micheilskeens.com/guardian-legend-randomizer.php
     obsolete: true
+    info-updated: 2024-05-25
+    added-date: 2024-05-25

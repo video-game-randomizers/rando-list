@@ -9,6 +9,8 @@ randomizers:
     identifier: CDRomatron's
     url: https://github.com/CDRomatron/CTTRRando
     sub-series: Racing
+    info-updated: 2024-05-25
+    added-date: 2024-05-25
 -   games:
     - Crash Nitro Kart
     - Crash Twinsanity
@@ -19,3 +21,5 @@ randomizers:
     - 'Crash Bandicoot: The Wrath of Cortex'
     identifier: Crate Mod Loader
     url: https://github.com/TheBetaM/CrateModLoader
+    info-updated: 2024-05-25
+    added-date: 2024-05-25

@@ -6,8 +6,12 @@ randomizers:
     - Zillion
     identifier: Zilliandomizer
     url: https://github.com/beauxq/zilliandomizer
+    info-updated: 2024-05-25
+    added-date: 2024-05-25
 -   games:
     - Zillion
     identifier: Archipelago
     url: https://archipelago.gg/tutorial/#Zillion
     multiworld: Archipelago
+    info-updated: 2024-05-25
+    added-date: 2024-05-25

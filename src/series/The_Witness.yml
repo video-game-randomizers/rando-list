@@ -6,12 +6,18 @@ randomizers:
     - The Witness
     identifier: jbzdarkid's
     url: https://github.com/jbzdarkid/witness-randomizer/releases
+    info-updated: 2024-05-25
+    added-date: 2024-05-25
 -   games:
     - The Witness
     identifier: Witness Random Puzzle Generator
     url: https://github.com/sigma144/witness-randomizer
+    info-updated: 2024-05-25
+    added-date: 2024-05-25
 -   games:
     - The Witness
     identifier: Archipelago
     url: https://archipelago.gg/tutorial/#The%20Witness
     multiworld: Archipelago
+    info-updated: 2024-05-25
+    added-date: 2024-05-25

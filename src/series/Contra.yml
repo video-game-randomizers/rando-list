@@ -7,7 +7,11 @@ randomizers:
     identifier: Azeryn's
     url: https://cdn.discordapp.com/attachments/1140465134066741309/1147430404438102057/ContraRandomizerSetup.exe
     comment: '[Documentation](https://sites.google.com/view/contrarandomizer/features)'
+    info-updated: 2024-05-25
+    added-date: 2024-05-25
 -   games:
     - Super C (NES)
     identifier: SpiderDave's
     url: https://spiderdave.me/nes/?c=70-Super-C-Randomizer
+    info-updated: 2024-05-25
+    added-date: 2024-05-25

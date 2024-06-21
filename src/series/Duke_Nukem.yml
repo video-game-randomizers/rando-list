@@ -7,7 +7,11 @@ randomizers:
     identifier: Map Order Randomizer
     url: https://forums.duke4.net/topic/7246-map-order-randomizer/
     obsolete: true
+    info-updated: 2024-05-25
+    added-date: 2024-05-25
 -   games:
     - Duke Nukem 3D
     identifier: Build Engine Randomizer
     url: https://github.com/Die4Ever/build-engine-randomizer
+    info-updated: 2024-05-25
+    added-date: 2024-05-25

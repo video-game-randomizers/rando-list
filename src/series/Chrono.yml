@@ -6,12 +6,18 @@ randomizers:
     - Chrono Trigger
     identifier: Eternal Nightmare
     url: https://github.com/abyssonym/eternalnightmare
+    info-updated: 2024-05-25
+    added-date: 2024-05-25
 -   games:
     - Chrono Trigger
     identifier: Jets of Time
     url: https://ctjot.com/
+    info-updated: 2024-05-25
+    added-date: 2024-05-25
 -   games:
     - Chrono Trigger
     identifier: Wings of Time
     url: https://github.com/Anskiy/wingsoftime
     obsolete: true
+    info-updated: 2024-05-25
+    added-date: 2024-05-25

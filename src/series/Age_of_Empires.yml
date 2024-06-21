@@ -7,7 +7,11 @@ randomizers:
     - 'Age of Empires II (2013) / Age of Empires II: Definitive Edition'
     identifier: HyperRandom
     url: https://aok.heavengames.com/cgi-bin/forums/display.cgi?action=ct&f=28,44641,,365
+    info-updated: 2024-05-25
+    added-date: 2024-05-25
 -   games:
     - 'Age of Mythology: Extended Edition'
     identifier: Steam Workshop - Map Scripts
     url: https://steamcommunity.com/workshop/browse/?appid=266840&requiredtags%5B%5D=Random+Map+Scripts
+    info-updated: 2024-05-25
+    added-date: 2024-05-25

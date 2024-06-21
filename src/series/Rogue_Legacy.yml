@@ -6,8 +6,12 @@ randomizers:
     - Rogue Legacy
     identifier: Phar's
     url: https://github.com/ThePhar/RogueLegacyRandomizer
+    info-updated: 2024-05-25
+    added-date: 2024-05-25
 -   games:
     - Rogue Legacy
     identifier: Archipelago
     url: https://archipelago.gg/tutorial/#Rogue%20Legacy
     multiworld: Archipelago
+    info-updated: 2024-05-25
+    added-date: 2024-05-25

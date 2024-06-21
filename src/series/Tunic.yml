@@ -7,12 +7,18 @@ randomizers:
     identifier: Item Randomizer
     url: https://github.com/Dr4g0nsoul/TunicRandomizer
     obsolete: true
+    info-updated: 2024-05-25
+    added-date: 2024-05-25
 -   games:
     - Tunic
     identifier: SilentDestroyer's
     url: https://github.com/silent-destroyer/tunic-randomizer
+    info-updated: 2024-05-25
+    added-date: 2024-05-25
 -   games:
     - Tunic
     identifier: Archipelago
     url: https://archipelago.gg/tutorial/#TUNIC
     multiworld: Archipelago
+    info-updated: 2024-05-25
+    added-date: 2024-05-25
