@@ -1,6 +1,15 @@
 name: Medabots
 comment: null
 sub-series: null
+games:
+    'Medabots: Metabee':
+        genres: []
+        platforms: []
+        release_year: null
+    'Medabots: Rokusho':
+        genres: []
+        platforms: []
+        release_year: null
 randomizers:
 -   games:
     - 'Medabots: Metabee'

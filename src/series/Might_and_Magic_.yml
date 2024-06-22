@@ -1,6 +1,15 @@
 name: 'Might and Magic '
 comment: null
 sub-series: null
+games:
+    'Might and Magic VI: The Mandate of Heaven':
+        genres: []
+        platforms: []
+        release_year: null
+    'Might and Magic VII: For Blood and Honor':
+        genres: []
+        platforms: []
+        release_year: null
 randomizers:
 -   games:
     - 'Might and Magic VI: The Mandate of Heaven'

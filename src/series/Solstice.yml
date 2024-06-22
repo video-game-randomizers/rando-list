@@ -1,6 +1,11 @@
 name: Solstice
 comment: null
 sub-series: null
+games:
+    Solstice:
+        genres: []
+        platforms: []
+        release_year: null
 randomizers:
 -   games:
     - Solstice

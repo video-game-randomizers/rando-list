@@ -1,6 +1,11 @@
 name: Tomodachi
 comment: null
 sub-series: null
+games:
+    Miitopia:
+        genres: []
+        platforms: []
+        release_year: null
 randomizers:
 -   games:
     - Miitopia

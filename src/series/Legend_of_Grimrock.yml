@@ -1,6 +1,15 @@
 name: Legend of Grimrock
 comment: null
 sub-series: null
+games:
+    Legend of Grimrock:
+        genres: []
+        platforms: []
+        release_year: null
+    Legend of Grimrock 2:
+        genres: []
+        platforms: []
+        release_year: null
 randomizers:
 -   games:
     - Legend of Grimrock

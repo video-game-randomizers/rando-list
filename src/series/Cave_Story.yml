@@ -1,6 +1,15 @@
 name: Cave Story
 comment: null
 sub-series: null
+games:
+    Cave Story:
+        genres: []
+        platforms: []
+        release_year: null
+    Cave Story+:
+        genres: []
+        platforms: []
+        release_year: null
 randomizers:
 -   games:
     - Cave Story

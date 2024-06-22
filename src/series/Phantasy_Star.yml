@@ -1,6 +1,15 @@
 name: Phantasy Star
 comment: null
 sub-series: null
+games:
+    Phantasy Star II:
+        genres: []
+        platforms: []
+        release_year: null
+    'Phantasy Star IV: The End of the Millennium':
+        genres: []
+        platforms: []
+        release_year: null
 randomizers:
 -   games:
     - Phantasy Star II

@@ -1,6 +1,11 @@
 name: Xeno
 comment: null
 sub-series: null
+games:
+    Xenoblade Chronicles 3:
+        genres: []
+        platforms: []
+        release_year: null
 randomizers:
 -   games:
     - Xenoblade Chronicles 3

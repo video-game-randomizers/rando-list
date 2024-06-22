@@ -1,6 +1,11 @@
 name: Goof Troop
 comment: null
 sub-series: null
+games:
+    Goof Troop:
+        genres: []
+        platforms: []
+        release_year: null
 randomizers:
 -   games:
     - Goof Troop

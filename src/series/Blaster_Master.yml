@@ -1,6 +1,11 @@
 name: Blaster Master
 comment: null
 sub-series: null
+games:
+    Blaster Master:
+        genres: []
+        platforms: []
+        release_year: null
 randomizers:
 -   games:
     - Blaster Master

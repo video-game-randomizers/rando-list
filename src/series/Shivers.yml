@@ -1,6 +1,11 @@
 name: Shivers
 comment: null
 sub-series: null
+games:
+    Shivers:
+        genres: []
+        platforms: []
+        release_year: null
 randomizers:
 -   games:
     - Shivers

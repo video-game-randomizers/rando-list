@@ -1,6 +1,11 @@
 name: Hebereke
 comment: null
 sub-series: null
+games:
+    Hebereke:
+        genres: []
+        platforms: []
+        release_year: null
 randomizers:
 -   games:
     - Hebereke

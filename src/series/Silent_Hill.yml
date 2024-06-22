@@ -1,6 +1,19 @@
 name: Silent Hill
 comment: null
 sub-series: null
+games:
+    Silent Hill 2:
+        genres: []
+        platforms: []
+        release_year: null
+    Silent Hill 3:
+        genres: []
+        platforms: []
+        release_year: null
+    'Silent Hill 4: The Room':
+        genres: []
+        platforms: []
+        release_year: null
 randomizers:
 -   games:
     - Silent Hill 2

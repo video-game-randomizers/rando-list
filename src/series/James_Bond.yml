@@ -1,6 +1,11 @@
 name: James Bond
 comment: null
 sub-series: null
+games:
+    GoldenEye 007:
+        genres: []
+        platforms: []
+        release_year: null
 randomizers:
 -   games:
     - GoldenEye 007

@@ -1,6 +1,11 @@
 name: DLC Quest
 comment: null
 sub-series: null
+games:
+    DLC Quest:
+        genres: []
+        platforms: []
+        release_year: null
 randomizers:
 -   games:
     - DLC Quest

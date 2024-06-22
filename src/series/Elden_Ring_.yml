@@ -1,6 +1,11 @@
 name: 'Elden Ring '
 comment: null
 sub-series: null
+games:
+    Elden Ring:
+        genres: []
+        platforms: []
+        release_year: null
 randomizers:
 -   games:
     - Elden Ring

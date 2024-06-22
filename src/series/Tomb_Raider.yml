@@ -1,6 +1,19 @@
 name: Tomb Raider
 comment: null
 sub-series: null
+games:
+    Tomb Raider:
+        genres: []
+        platforms: []
+        release_year: null
+    Tomb Raider II:
+        genres: []
+        platforms: []
+        release_year: null
+    Tomb Raider III:
+        genres: []
+        platforms: []
+        release_year: null
 randomizers:
 -   games:
     - Tomb Raider

@@ -1,6 +1,11 @@
 name: Ratchet & Clank
 comment: null
 sub-series: null
+games:
+    Ratchet & Clank Collection:
+        genres: []
+        platforms: []
+        release_year: null
 randomizers:
 -   games:
     - Ratchet & Clank Collection

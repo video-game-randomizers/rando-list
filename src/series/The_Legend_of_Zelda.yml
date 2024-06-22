@@ -3,6 +3,111 @@ comment: null
 sub-series:
 - 2D & 2D-like
 - 3D
+games:
+    'The Faces of Evil Remastered (Link: The Faces of Evil fan recreation)':
+        genres: []
+        platforms: []
+        release_year: null
+    The Legend of Zelda:
+        genres: []
+        platforms: []
+        release_year: null
+    'The Legend of Zelda: A Link Between Worlds':
+        genres: []
+        platforms: []
+        release_year: null
+    'The Legend of Zelda: A Link to the Past':
+        genres: []
+        platforms: []
+        release_year: null
+    'The Legend of Zelda: A Link to the Past/Four Swords':
+        genres: []
+        platforms: []
+        release_year: null
+    'The Legend of Zelda: Breath of the Wild (Switch)':
+        genres: []
+        platforms: []
+        release_year: null
+    'The Legend of Zelda: Breath of the Wild (Wii U)':
+        genres: []
+        platforms: []
+        release_year: null
+    'The Legend of Zelda: Link''s Awakening (Switch)':
+        genres: []
+        platforms: []
+        release_year: null
+    'The Legend of Zelda: Link''s Awakening DX':
+        genres: []
+        platforms: []
+        release_year: null
+    'The Legend of Zelda: Majora''s Mask':
+        genres: []
+        platforms: []
+        release_year: null
+    'The Legend of Zelda: Majora''s Mask 3D':
+        genres: []
+        platforms: []
+        release_year: null
+    'The Legend of Zelda: Ocarina of Time':
+        genres: []
+        platforms: []
+        release_year: null
+    'The Legend of Zelda: Ocarina of Time 3D':
+        genres: []
+        platforms: []
+        release_year: null
+    'The Legend of Zelda: Ocarina of Time Master Quest':
+        genres: []
+        platforms: []
+        release_year: null
+    'The Legend of Zelda: Oracle of Ages':
+        genres: []
+        platforms: []
+        release_year: null
+    'The Legend of Zelda: Oracle of Seasons':
+        genres: []
+        platforms: []
+        release_year: null
+    'The Legend of Zelda: Skyward Sword':
+        genres: []
+        platforms: []
+        release_year: null
+    'The Legend of Zelda: Skyward Sword HD':
+        genres: []
+        platforms: []
+        release_year: null
+    'The Legend of Zelda: Tears of the Kingdom':
+        genres: []
+        platforms: []
+        release_year: null
+    'The Legend of Zelda: The Minish Cap':
+        genres: []
+        platforms: []
+        release_year: null
+    'The Legend of Zelda: The Wind Waker':
+        genres: []
+        platforms: []
+        release_year: null
+    'The Legend of Zelda: The Wind Waker HD':
+        genres: []
+        platforms: []
+        release_year: null
+    'The Legend of Zelda: Twilight Princess':
+        genres: []
+        platforms: []
+        release_year: null
+    'The Legend of Zelda: Twilight Princess HD':
+        genres: []
+        platforms: []
+        release_year: null
+    'The Wand of Gamelon Remastered (Zelda: The Wand of Gamelon fan recreation':
+        genres: []
+        platforms: []
+        release_year: null
+    'Zelda II: The Adventure of Link':
+        genres: []
+        platforms: []
+        release_year: null
 randomizers:
 -   games:
     - The Legend of Zelda

@@ -1,6 +1,11 @@
 name: Bomberman
 comment: null
 sub-series: null
+games:
+    Bomberman Tournament:
+        genres: []
+        platforms: []
+        release_year: null
 randomizers:
 -   games:
     - Bomberman Tournament

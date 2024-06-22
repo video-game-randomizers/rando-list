@@ -1,6 +1,11 @@
 name: Darius
 comment: null
 sub-series: null
+games:
+    Darius Twin:
+        genres: []
+        platforms: []
+        release_year: null
 randomizers:
 -   games:
     - Darius Twin

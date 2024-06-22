@@ -1,6 +1,23 @@
 name: Star Wars
 comment: null
 sub-series: null
+games:
+    'Lego Star Wars: The Complete Saga':
+        genres: []
+        platforms: []
+        release_year: null
+    'Star Wars Jedi Knight: Jedi Academy':
+        genres: []
+        platforms: []
+        release_year: null
+    'Star Wars Jedi: Fallen Order':
+        genres: []
+        platforms: []
+        release_year: null
+    'Star Wars: Dark Forces':
+        genres: []
+        platforms: []
+        release_year: null
 randomizers:
 -   games:
     - 'Star Wars: Dark Forces'

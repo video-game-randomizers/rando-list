@@ -1,6 +1,11 @@
 name: Timespinner
 comment: null
 sub-series: null
+games:
+    Timespinner:
+        genres: []
+        platforms: []
+        release_year: null
 randomizers:
 -   games:
     - Timespinner

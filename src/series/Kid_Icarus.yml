@@ -1,6 +1,11 @@
 name: Kid Icarus
 comment: null
 sub-series: null
+games:
+    Kid Icarus:
+        genres: []
+        platforms: []
+        release_year: null
 randomizers:
 -   games:
     - Kid Icarus

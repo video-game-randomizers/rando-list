@@ -1,6 +1,11 @@
 name: Palworld
 comment: null
 sub-series: null
+games:
+    Palworld:
+        genres: []
+        platforms: []
+        release_year: null
 randomizers:
 -   games:
     - Palworld

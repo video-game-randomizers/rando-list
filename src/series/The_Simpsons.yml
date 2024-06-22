@@ -1,6 +1,11 @@
 name: The Simpsons
 comment: null
 sub-series: null
+games:
+    'The Simpsons: Hit & Run':
+        genres: []
+        platforms: []
+        release_year: null
 randomizers:
 -   games:
     - 'The Simpsons: Hit & Run'

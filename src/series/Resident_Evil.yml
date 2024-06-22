@@ -1,6 +1,47 @@
 name: Resident Evil
 comment: null
 sub-series: null
+games:
+    Resident Evil (MediaKite):
+        genres: []
+        platforms: []
+        release_year: null
+    Resident Evil 2 (2019):
+        genres: []
+        platforms: []
+        release_year: null
+    Resident Evil 2 (Sourcenext):
+        genres: []
+        platforms: []
+        release_year: null
+    Resident Evil 3 (2020):
+        genres: []
+        platforms: []
+        release_year: null
+    'Resident Evil 3: Nemesis':
+        genres: []
+        platforms: []
+        release_year: null
+    'Resident Evil 3: Nemesis (EA Taiwanese)':
+        genres: []
+        platforms: []
+        release_year: null
+    'Resident Evil 3: Nemesis (Sourcenext)':
+        genres: []
+        platforms: []
+        release_year: null
+    Resident Evil 4:
+        genres: []
+        platforms: []
+        release_year: null
+    Resident Evil 5:
+        genres: []
+        platforms: []
+        release_year: null
+    Resident Evil HD Remaster:
+        genres: []
+        platforms: []
+        release_year: null
 randomizers:
 -   games:
     - Resident Evil (MediaKite)

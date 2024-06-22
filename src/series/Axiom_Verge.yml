@@ -1,6 +1,11 @@
 name: Axiom Verge
 comment: null
 sub-series: null
+games:
+    Axiom Verge:
+        genres: []
+        platforms: []
+        release_year: null
 randomizers:
 -   games:
     - Axiom Verge

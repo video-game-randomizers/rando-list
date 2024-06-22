@@ -1,6 +1,11 @@
 name: Smash T.V.
 comment: null
 sub-series: null
+games:
+    Super Smash T.V.:
+        genres: []
+        platforms: []
+        release_year: null
 randomizers:
 -   games:
     - Super Smash T.V.

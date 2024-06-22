@@ -1,6 +1,11 @@
 name: Captain Comic
 comment: null
 sub-series: null
+games:
+    The Adventures of Captain Comic:
+        genres: []
+        platforms: []
+        release_year: null
 randomizers:
 -   games:
     - The Adventures of Captain Comic

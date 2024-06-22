@@ -1,6 +1,11 @@
 name: Zillion
 comment: null
 sub-series: null
+games:
+    Zillion:
+        genres: []
+        platforms: []
+        release_year: null
 randomizers:
 -   games:
     - Zillion

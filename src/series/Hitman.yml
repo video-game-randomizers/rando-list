@@ -1,6 +1,11 @@
 name: Hitman
 comment: null
 sub-series: null
+games:
+    Hitman World of Assassination:
+        genres: []
+        platforms: []
+        release_year: null
 randomizers:
 -   games:
     - Hitman World of Assassination

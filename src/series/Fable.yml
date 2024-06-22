@@ -1,6 +1,15 @@
 name: Fable
 comment: null
 sub-series: null
+games:
+    Fable - The Lost Chapters:
+        genres: []
+        platforms: []
+        release_year: null
+    Fable Anniversary:
+        genres: []
+        platforms: []
+        release_year: null
 randomizers:
 -   games:
     - Fable - The Lost Chapters

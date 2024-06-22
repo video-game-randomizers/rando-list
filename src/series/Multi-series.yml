@@ -4,6 +4,419 @@ sub-series:
 - Connected worlds
 - id Software engines
 - Other
+games:
+    A Short Hike:
+        genres: []
+        platforms: []
+        release_year: null
+    AM2R (Metroid fangame):
+        genres: []
+        platforms: []
+        release_year: null
+    Adventure:
+        genres: []
+        platforms: []
+        release_year: null
+    Blasphemous:
+        genres: []
+        platforms: []
+        release_year: null
+    Blood (1998):
+        genres: []
+        platforms: []
+        release_year: null
+    Bomberman Tournament:
+        genres: []
+        platforms: []
+        release_year: null
+    Breath of Fire:
+        genres: []
+        platforms: []
+        release_year: null
+    Castlevania (Nintendo 64):
+        genres: []
+        platforms: []
+        release_year: null
+    'Castlevania: Harmony of Dissonance':
+        genres: []
+        platforms: []
+        release_year: null
+    Cave Story:
+        genres: []
+        platforms: []
+        release_year: null
+    Cave Story+:
+        genres: []
+        platforms: []
+        release_year: null
+    'Celeste 64: Fragments of the Mountain':
+        genres: []
+        platforms: []
+        release_year: null
+    Chex Quest:
+        genres: []
+        platforms: []
+        release_year: null
+    Chex Quest 3 (fangame):
+        genres: []
+        platforms: []
+        release_year: null
+    Crash Bandicoot:
+        genres: []
+        platforms: []
+        release_year: null
+    'Crash Bandicoot 2: Cortex Strikes Back':
+        genres: []
+        platforms: []
+        release_year: null
+    'Crash Bandicoot: The Wrath of Cortex':
+        genres: []
+        platforms: []
+        release_year: null
+    'Crash Bandicoot: Warped':
+        genres: []
+        platforms: []
+        release_year: null
+    Crash Nitro Kart:
+        genres: []
+        platforms: []
+        release_year: null
+    Crash Tag Team Racing:
+        genres: []
+        platforms: []
+        release_year: null
+    Crash Twinsanity:
+        genres: []
+        platforms: []
+        release_year: null
+    DLC Quest:
+        genres: []
+        platforms: []
+        release_year: null
+    Dark Souls III:
+        genres: []
+        platforms: []
+        release_year: null
+    'Donkey Kong Country 3: Dixie Kong''s Double Trouble':
+        genres: []
+        platforms: []
+        release_year: null
+    Doom (Ultimate):
+        genres: []
+        platforms: []
+        release_year: null
+    Doom II:
+        genres: []
+        platforms: []
+        release_year: null
+    Duke Nukem 3D:
+        genres: []
+        platforms: []
+        release_year: null
+    Factorio:
+        genres: []
+        platforms: []
+        release_year: null
+    Final Doom:
+        genres: []
+        platforms: []
+        release_year: null
+    Final Fantasy:
+        genres: []
+        platforms: []
+        release_year: null
+    Final Fantasy Mystic Quest:
+        genres: []
+        platforms: []
+        release_year: null
+    Hacx:
+        genres: []
+        platforms: []
+        release_year: null
+    Haiku, the Robot:
+        genres: []
+        platforms: []
+        release_year: null
+    Harmony (fangame):
+        genres: []
+        platforms: []
+        release_year: null
+    Hebereke:
+        genres: []
+        platforms: []
+        release_year: null
+    Heretic:
+        genres: []
+        platforms: []
+        release_year: null
+    'Hexen: Beyond Heretic':
+        genres: []
+        platforms: []
+        release_year: null
+    Hollow Knight:
+        genres: []
+        platforms: []
+        release_year: null
+    Hylics 2:
+        genres: []
+        platforms: []
+        release_year: null
+    Ion Fury:
+        genres: []
+        platforms: []
+        release_year: null
+    Kingdom Hearts II Final Mix:
+        genres: []
+        platforms: []
+        release_year: null
+    Kirby's Dream Land 3:
+        genres: []
+        platforms: []
+        release_year: null
+    'Landstalker: The Treasures of King Nole':
+        genres: []
+        platforms: []
+        release_year: null
+    Lingo (Brenton Wildes):
+        genres: []
+        platforms: []
+        release_year: null
+    'Lufia II: Rise of the Sinistrals':
+        genres: []
+        platforms: []
+        release_year: null
+    Mega Man Battle Network 3 Blue:
+        genres: []
+        platforms: []
+        release_year: null
+    Mega Man X3:
+        genres: []
+        platforms: []
+        release_year: null
+    Meritous:
+        genres: []
+        platforms: []
+        release_year: null
+    Metroid:
+        genres: []
+        platforms: []
+        release_year: null
+    Metroid Dread:
+        genres: []
+        platforms: []
+        release_year: null
+    Metroid Prime:
+        genres: []
+        platforms: []
+        release_year: null
+    'Metroid Prime 2: Echoes':
+        genres: []
+        platforms: []
+        release_year: null
+    'Metroid: Samus Returns':
+        genres: []
+        platforms: []
+        release_year: null
+    'Minecraft: Java Edition':
+        genres: []
+        platforms: []
+        release_year: null
+    Muse Dash:
+        genres: []
+        platforms: []
+        release_year: null
+    Noita:
+        genres: []
+        platforms: []
+        release_year: null
+    Overcooked! 2:
+        genres: []
+        platforms: []
+        release_year: null
+    "Pok\xE9mon Blue Version (international)":
+        genres: []
+        platforms: []
+        release_year: null
+    "Pok\xE9mon Emerald Version":
+        genres: []
+        platforms: []
+        release_year: null
+    "Pok\xE9mon Red Version (international)":
+        genres: []
+        platforms: []
+        release_year: null
+    PowerSlave (PC 1996):
+        genres: []
+        platforms: []
+        release_year: null
+    Raft:
+        genres: []
+        platforms: []
+        release_year: null
+    'Rayman 3: Hoodlum Havoc':
+        genres: []
+        platforms: []
+        release_year: null
+    'Record of Lodoss War: Deedlit in Wonder Labyrinth':
+        genres: []
+        platforms: []
+        release_year: null
+    Risk of Rain 2:
+        genres: []
+        platforms: []
+        release_year: null
+    Rogue Legacy:
+        genres: []
+        platforms: []
+        release_year: null
+    'Scooby-Doo: Night of 100 Frights':
+        genres: []
+        platforms: []
+        release_year: null
+    Secret of Evermore:
+        genres: []
+        platforms: []
+        release_year: null
+    Shadow Warrior (1997):
+        genres: []
+        platforms: []
+        release_year: null
+    Shivers:
+        genres: []
+        platforms: []
+        release_year: null
+    Slay the Spire:
+        genres: []
+        platforms: []
+        release_year: null
+    Sonic Adventure 2:
+        genres: []
+        platforms: []
+        release_year: null
+    Spear of Destiny:
+        genres: []
+        platforms: []
+        release_year: null
+    'SpongeBob SquarePants: Battle for Bikini Bottom (GameCube / Xbox / PS2)':
+        genres: []
+        platforms: []
+        release_year: null
+    StarCraft II:
+        genres: []
+        platforms: []
+        release_year: null
+    Stardew Valley:
+        genres: []
+        platforms: []
+        release_year: null
+    Strife:
+        genres: []
+        platforms: []
+        release_year: null
+    Subnautica:
+        genres: []
+        platforms: []
+        release_year: null
+    Super 3D Noah's Ark:
+        genres: []
+        platforms: []
+        release_year: null
+    Super Mario 64:
+        genres: []
+        platforms: []
+        release_year: null
+    Super Mario World:
+        genres: []
+        platforms: []
+        release_year: null
+    Super Metroid:
+        genres: []
+        platforms: []
+        release_year: null
+    Terraria:
+        genres: []
+        platforms: []
+        release_year: null
+    The Legend of Zelda:
+        genres: []
+        platforms: []
+        release_year: null
+    'The Legend of Zelda: A Link to the Past':
+        genres: []
+        platforms: []
+        release_year: null
+    'The Legend of Zelda: Link''s Awakening DX':
+        genres: []
+        platforms: []
+        release_year: null
+    'The Legend of Zelda: Ocarina of Time':
+        genres: []
+        platforms: []
+        release_year: null
+    'The Legend of Zelda: Ocarina of Time Master Quest':
+        genres: []
+        platforms: []
+        release_year: null
+    The Messenger:
+        genres: []
+        platforms: []
+        release_year: null
+    The SpongeBob SquarePants Movie (GameCube / Xbox / PS2):
+        genres: []
+        platforms: []
+        release_year: null
+    The Witness:
+        genres: []
+        platforms: []
+        release_year: null
+    Timespinner:
+        genres: []
+        platforms: []
+        release_year: null
+    Touhou Luna Nights:
+        genres: []
+        platforms: []
+        release_year: null
+    Tunic:
+        genres: []
+        platforms: []
+        release_year: null
+    Undertale:
+        genres: []
+        platforms: []
+        release_year: null
+    VVVVVV:
+        genres: []
+        platforms: []
+        release_year: null
+    Wargroove:
+        genres: []
+        platforms: []
+        release_year: null
+    Willow (NES):
+        genres: []
+        platforms: []
+        release_year: null
+    Wolfenstein 3D:
+        genres: []
+        platforms: []
+        release_year: null
+    Yoshi's Island:
+        genres: []
+        platforms: []
+        release_year: null
+    Zero Project (Mega Man X3 hack):
+        genres: []
+        platforms: []
+        release_year: null
+    Zillion:
+        genres: []
+        platforms: []
+        release_year: null
+    'Zork: Grand Inquisitor':
+        genres: []
+        platforms: []
+        release_year: null
 randomizers:
 -   games:
     - 'The Legend of Zelda: A Link to the Past'
@@ -73,8 +486,8 @@ randomizers:
     added-date: 2024-05-25
     info-updated: 2024-05-25
 -   games:
-        - Hollow Knight
-        - Haiku, the Robot
+    - Hollow Knight
+    - Haiku, the Robot
     identifier: Shadu's Multiworld
     url: https://github.com/Shadudev/HollowKnight.MultiWorld
     multiworld: Shadu-Multiworld

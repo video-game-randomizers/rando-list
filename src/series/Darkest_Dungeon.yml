@@ -1,6 +1,11 @@
 name: Darkest Dungeon
 comment: null
 sub-series: null
+games:
+    Darkest Dungeon:
+        genres: []
+        platforms: []
+        release_year: null
 randomizers:
 -   games:
     - Darkest Dungeon

@@ -1,6 +1,11 @@
 name: Noita
 comment: null
 sub-series: null
+games:
+    Noita:
+        genres: []
+        platforms: []
+        release_year: null
 randomizers:
 -   games:
     - Noita

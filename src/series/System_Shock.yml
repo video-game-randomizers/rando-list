@@ -1,6 +1,19 @@
 name: System Shock
 comment: null
 sub-series: null
+games:
+    Secmod (mod):
+        genres: []
+        platforms: []
+        release_year: null
+    System Shock (2023):
+        genres: []
+        platforms: []
+        release_year: null
+    System Shock 2:
+        genres: []
+        platforms: []
+        release_year: null
 randomizers:
 -   games:
     - System Shock (2023)

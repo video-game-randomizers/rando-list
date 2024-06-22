@@ -1,6 +1,11 @@
 name: Blade of Darkness
 comment: null
 sub-series: null
+games:
+    Blade of Darkness:
+        genres: []
+        platforms: []
+        release_year: null
 randomizers:
 -   games:
     - Blade of Darkness

@@ -1,6 +1,11 @@
 name: Tyrian
 comment: null
 sub-series: null
+games:
+    OpenTyrian (Tyrian open source port):
+        genres: []
+        platforms: []
+        release_year: null
 randomizers:
 -   games:
     - OpenTyrian (Tyrian open source port)

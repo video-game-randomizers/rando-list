@@ -1,6 +1,11 @@
 name: Godzilla
 comment: null
 sub-series: null
+games:
+    'Godzilla: Monster of Monsters':
+        genres: []
+        platforms: []
+        release_year: null
 randomizers:
 -   games:
     - 'Godzilla: Monster of Monsters'

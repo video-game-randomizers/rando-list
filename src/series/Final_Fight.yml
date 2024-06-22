@@ -1,6 +1,15 @@
 name: Final Fight
 comment: null
 sub-series: null
+games:
+    Final Fight AE (Final Fight hack):
+        genres: []
+        platforms: []
+        release_year: null
+    Final Fight AE CPS2 (Final Fight hack):
+        genres: []
+        platforms: []
+        release_year: null
 randomizers:
 -   games:
     - Final Fight AE (Final Fight hack)

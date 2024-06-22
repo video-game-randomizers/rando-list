@@ -1,6 +1,11 @@
 name: Aerobiz
 comment: null
 sub-series: null
+games:
+    Aerobiz Supersonic:
+        genres: []
+        platforms: []
+        release_year: null
 randomizers:
 -   games:
     - Aerobiz Supersonic

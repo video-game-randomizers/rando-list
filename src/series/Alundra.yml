@@ -1,6 +1,11 @@
 name: Alundra
 comment: null
 sub-series: null
+games:
+    Alundra:
+        genres: []
+        platforms: []
+        release_year: null
 randomizers:
 -   games:
     - Alundra

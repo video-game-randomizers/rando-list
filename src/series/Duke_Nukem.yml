@@ -1,6 +1,11 @@
 name: Duke Nukem
 comment: null
 sub-series: null
+games:
+    Duke Nukem 3D:
+        genres: []
+        platforms: []
+        release_year: null
 randomizers:
 -   games:
     - Duke Nukem 3D

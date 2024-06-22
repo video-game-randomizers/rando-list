@@ -1,6 +1,11 @@
 name: Slay the Spire
 comment: null
 sub-series: null
+games:
+    Slay the Spire:
+        genres: []
+        platforms: []
+        release_year: null
 randomizers:
 -   games:
     - Slay the Spire

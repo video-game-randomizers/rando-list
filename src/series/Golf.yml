@@ -1,6 +1,15 @@
 name: Golf
 comment: null
 sub-series: null
+games:
+    Golf (NES):
+        genres: []
+        platforms: []
+        release_year: null
+    NES Open Tournament Golf:
+        genres: []
+        platforms: []
+        release_year: null
 randomizers:
 -   games:
     - Golf (NES)

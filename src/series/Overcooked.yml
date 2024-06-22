@@ -1,6 +1,11 @@
 name: Overcooked
 comment: null
 sub-series: null
+games:
+    Overcooked! 2:
+        genres: []
+        platforms: []
+        release_year: null
 randomizers:
 -   games:
     - Overcooked! 2

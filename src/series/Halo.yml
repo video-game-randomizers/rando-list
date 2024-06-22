@@ -1,6 +1,15 @@
 name: Halo
 comment: null
 sub-series: null
+games:
+    Halo 3 (The Master Chief Collection):
+        genres: []
+        platforms: []
+        release_year: null
+    'Halo: Combat Evolved Anniversary (The Master Chief Collection)':
+        genres: []
+        platforms: []
+        release_year: null
 randomizers:
 -   games:
     - 'Halo: Combat Evolved Anniversary (The Master Chief Collection)'

@@ -1,6 +1,11 @@
 name: Lingo (Brenton Wildes)
 comment: null
 sub-series: null
+games:
+    Lingo (Brenton Wildes):
+        genres: []
+        platforms: []
+        release_year: null
 randomizers:
 -   games:
     - Lingo (Brenton Wildes)

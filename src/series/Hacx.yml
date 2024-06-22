@@ -1,6 +1,11 @@
 name: Hacx
 comment: null
 sub-series: null
+games:
+    Hacx:
+        genres: []
+        platforms: []
+        release_year: null
 randomizers:
 -   games:
     - Hacx

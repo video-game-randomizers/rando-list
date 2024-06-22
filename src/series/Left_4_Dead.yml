@@ -1,6 +1,11 @@
 name: Left 4 Dead
 comment: null
 sub-series: null
+games:
+    Left 4 Dead 2:
+        genres: []
+        platforms: []
+        release_year: null
 randomizers:
 -   games:
     - Left 4 Dead 2

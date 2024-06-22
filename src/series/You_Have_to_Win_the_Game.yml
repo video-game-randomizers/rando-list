@@ -1,6 +1,11 @@
 name: You Have to Win the Game
 comment: null
 sub-series: null
+games:
+    You Have to Win the Game:
+        genres: []
+        platforms: []
+        release_year: null
 randomizers:
 -   games:
     - You Have to Win the Game

@@ -1,6 +1,15 @@
 name: Azure Dreams
 comment: null
 sub-series: null
+games:
+    Azure Dreams:
+        genres: []
+        platforms: []
+        release_year: null
+    Azure Dreams (Game Boy Color):
+        genres: []
+        platforms: []
+        release_year: null
 randomizers:
 -   games:
     - Azure Dreams

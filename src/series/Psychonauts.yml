@@ -1,6 +1,11 @@
 name: Psychonauts
 comment: null
 sub-series: null
+games:
+    Psychonauts:
+        genres: []
+        platforms: []
+        release_year: null
 randomizers:
 -   games:
     - Psychonauts

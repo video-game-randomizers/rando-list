@@ -1,6 +1,11 @@
 name: Wargroove
 comment: null
 sub-series: null
+games:
+    Wargroove:
+        genres: []
+        platforms: []
+        release_year: null
 randomizers:
 -   games:
     - Wargroove

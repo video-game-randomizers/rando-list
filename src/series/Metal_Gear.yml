@@ -1,6 +1,11 @@
 name: Metal Gear
 comment: null
 sub-series: null
+games:
+    Metal Gear:
+        genres: []
+        platforms: []
+        release_year: null
 randomizers:
 -   games:
     - Metal Gear

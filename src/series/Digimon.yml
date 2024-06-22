@@ -1,6 +1,23 @@
 name: Digimon
 comment: null
 sub-series: null
+games:
+    'Digimon Story Cyber Sleuth: Complete Edition':
+        genres: []
+        platforms: []
+        release_year: null
+    Digimon World:
+        genres: []
+        platforms: []
+        release_year: null
+    Digimon World 2:
+        genres: []
+        platforms: []
+        release_year: null
+    Digimon World 3:
+        genres: []
+        platforms: []
+        release_year: null
 randomizers:
 -   games:
     - Digimon World

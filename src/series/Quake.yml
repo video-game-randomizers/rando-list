@@ -1,6 +1,15 @@
 name: Quake
 comment: null
 sub-series: null
+games:
+    Quake:
+        genres: []
+        platforms: []
+        release_year: null
+    Quake II:
+        genres: []
+        platforms: []
+        release_year: null
 randomizers:
 -   games:
     - Quake

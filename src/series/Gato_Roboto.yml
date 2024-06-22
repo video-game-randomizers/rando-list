@@ -1,6 +1,11 @@
 name: Gato Roboto
 comment: null
 sub-series: null
+games:
+    Gato Roboto:
+        genres: []
+        platforms: []
+        release_year: null
 randomizers:
 -   games:
     - Gato Roboto

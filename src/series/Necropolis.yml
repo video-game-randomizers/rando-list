@@ -1,6 +1,11 @@
 name: Necropolis
 comment: null
 sub-series: null
+games:
+    Necropolis:
+        genres: []
+        platforms: []
+        release_year: null
 randomizers:
 -   games:
     - Necropolis

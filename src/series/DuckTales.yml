@@ -1,6 +1,11 @@
 name: DuckTales
 comment: null
 sub-series: null
+games:
+    DuckTales:
+        genres: []
+        platforms: []
+        release_year: null
 randomizers:
 -   games:
     - DuckTales

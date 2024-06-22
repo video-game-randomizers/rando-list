@@ -1,6 +1,11 @@
 name: Crystalis
 comment: null
 sub-series: null
+games:
+    Crystalis:
+        genres: []
+        platforms: []
+        release_year: null
 randomizers:
 -   games:
     - Crystalis

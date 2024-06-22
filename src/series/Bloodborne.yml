@@ -1,6 +1,11 @@
 name: Bloodborne
 comment: null
 sub-series: null
+games:
+    Bloodborne:
+        genres: []
+        platforms: []
+        release_year: null
 randomizers:
 -   games:
     - Bloodborne

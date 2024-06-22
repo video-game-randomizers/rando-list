@@ -1,6 +1,11 @@
 name: Subnautica
 comment: null
 sub-series: null
+games:
+    Subnautica:
+        genres: []
+        platforms: []
+        release_year: null
 randomizers:
 -   games:
     - Subnautica

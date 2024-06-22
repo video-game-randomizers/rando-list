@@ -1,6 +1,11 @@
 name: VVVVVV
 comment: null
 sub-series: null
+games:
+    VVVVVV:
+        genres: []
+        platforms: []
+        release_year: null
 randomizers:
 -   games:
     - VVVVVV

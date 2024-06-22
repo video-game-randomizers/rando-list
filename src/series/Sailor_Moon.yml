@@ -1,6 +1,11 @@
 name: Sailor Moon
 comment: null
 sub-series: null
+games:
+    Pretty Soldier Sailor Moon:
+        genres: []
+        platforms: []
+        release_year: null
 randomizers:
 -   games:
     - Pretty Soldier Sailor Moon

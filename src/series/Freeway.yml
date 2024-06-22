@@ -1,6 +1,11 @@
 name: Freeway
 comment: null
 sub-series: null
+games:
+    Freeway:
+        genres: []
+        platforms: []
+        release_year: null
 randomizers:
 -   games:
     - Freeway

@@ -1,6 +1,11 @@
 name: Lizard
 comment: null
 sub-series: null
+games:
+    Lizard:
+        genres: []
+        platforms: []
+        release_year: null
 randomizers:
 -   games:
     - Lizard

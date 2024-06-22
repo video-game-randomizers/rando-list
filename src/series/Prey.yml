@@ -1,6 +1,11 @@
 name: Prey
 comment: null
 sub-series: null
+games:
+    Prey (2017):
+        genres: []
+        platforms: []
+        release_year: null
 randomizers:
 -   games:
     - Prey (2017)

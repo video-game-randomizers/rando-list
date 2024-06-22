@@ -1,6 +1,39 @@
 name: Inazuma Eleven
 comment: null
 sub-series: null
+games:
+    3DS):
+        genres: []
+        platforms: []
+        release_year: null
+    Inazuma Eleven:
+        genres: []
+        platforms: []
+        release_year: null
+    'Inazuma Eleven 2: Blizzard':
+        genres: []
+        platforms: []
+        release_year: null
+    'Inazuma Eleven 2: FireStorm':
+        genres: []
+        platforms: []
+        release_year: null
+    'Inazuma Eleven 3: Team Ogre Attacks! (DS':
+        genres: []
+        platforms: []
+        release_year: null
+    'Inazuma Eleven GO Chrono Stones: Thunderflash':
+        genres: []
+        platforms: []
+        release_year: null
+    'Inazuma Eleven GO Chrono Stones: Wildfire':
+        genres: []
+        platforms: []
+        release_year: null
+    'Inazuma Eleven GO: Galaxy':
+        genres: []
+        platforms: []
+        release_year: null
 randomizers:
 -   games:
     - Inazuma Eleven

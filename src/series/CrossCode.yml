@@ -1,6 +1,11 @@
 name: CrossCode
 comment: null
 sub-series: null
+games:
+    CrossCode:
+        genres: []
+        platforms: []
+        release_year: null
 randomizers:
 -   games:
     - CrossCode

@@ -1,6 +1,11 @@
 name: Hylics
 comment: null
 sub-series: null
+games:
+    Hylics 2:
+        genres: []
+        platforms: []
+        release_year: null
 randomizers:
 -   games:
     - Hylics 2

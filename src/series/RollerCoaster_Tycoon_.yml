@@ -1,6 +1,11 @@
 name: 'RollerCoaster Tycoon '
 comment: null
 sub-series: null
+games:
+    OpenRCT2 (RollerCoaster Tycoon 2 fan recreation):
+        genres: []
+        platforms: []
+        release_year: null
 randomizers:
 -   games:
     - OpenRCT2 (RollerCoaster Tycoon 2 fan recreation)

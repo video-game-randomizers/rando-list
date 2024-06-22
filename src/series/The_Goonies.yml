@@ -1,6 +1,11 @@
 name: The Goonies
 comment: null
 sub-series: null
+games:
+    The Goonies II:
+        genres: []
+        platforms: []
+        release_year: null
 randomizers:
 -   games:
     - The Goonies II

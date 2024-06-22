@@ -1,6 +1,11 @@
 name: Bat Boy
 comment: null
 sub-series: null
+games:
+    Bat Boy (Demo):
+        genres: []
+        platforms: []
+        release_year: null
 randomizers:
 -   games:
     - Bat Boy (Demo)

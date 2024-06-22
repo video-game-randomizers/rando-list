@@ -1,6 +1,11 @@
 name: Demon's Souls
 comment: null
 sub-series: null
+games:
+    Demon's Souls:
+        genres: []
+        platforms: []
+        release_year: null
 randomizers:
 -   games:
     - Demon's Souls

@@ -1,6 +1,11 @@
 name: The Guardian Legend
 comment: null
 sub-series: null
+games:
+    The Guardian Legend:
+        genres: []
+        platforms: []
+        release_year: null
 randomizers:
 -   games:
     - The Guardian Legend

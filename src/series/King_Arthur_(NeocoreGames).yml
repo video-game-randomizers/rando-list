@@ -1,6 +1,11 @@
 name: King Arthur (NeocoreGames)
 comment: null
 sub-series: null
+games:
+    'King Arthur: Knight''s Tale':
+        genres: []
+        platforms: []
+        release_year: null
 randomizers:
 -   games:
     - 'King Arthur: Knight''s Tale'

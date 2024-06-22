@@ -1,6 +1,11 @@
 name: Snowboard Kids
 comment: null
 sub-series: null
+games:
+    Snowboard Kids:
+        genres: []
+        platforms: []
+        release_year: null
 randomizers:
 -   games:
     - Snowboard Kids

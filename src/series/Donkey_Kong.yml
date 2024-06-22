@@ -4,6 +4,31 @@ sub-series:
 - Classic
 - Country
 - Racing
+games:
+    Diddy Kong Racing:
+        genres: []
+        platforms: []
+        release_year: null
+    Donkey Kong:
+        genres: []
+        platforms: []
+        release_year: null
+    Donkey Kong 64:
+        genres: []
+        platforms: []
+        release_year: null
+    Donkey Kong Country:
+        genres: []
+        platforms: []
+        release_year: null
+    'Donkey Kong Country 2: Diddy''s Kong Quest':
+        genres: []
+        platforms: []
+        release_year: null
+    'Donkey Kong Country 3: Dixie Kong''s Double Trouble':
+        genres: []
+        platforms: []
+        release_year: null
 randomizers:
 -   games:
     - Donkey Kong

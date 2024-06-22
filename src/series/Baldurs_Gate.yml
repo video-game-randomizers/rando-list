@@ -1,11 +1,35 @@
 name: Baldur's Gate
 comment: null
 sub-series: null
+games:
+    'Baldur''s Gate - Baldur''s Gate: Enhanced Edition - Baldur''s Gate II: Shadows of Amn':
+        genres: []
+        platforms: []
+        release_year: null
+    'Baldur''s Gate II: Enhanced Edition':
+        genres: []
+        platforms: []
+        release_year: null
+    'Baldur''s Gate II: Shadows of Amn':
+        genres: []
+        platforms: []
+        release_year: null
+    Baldur's Gate Trilogy (mod):
+        genres: []
+        platforms: []
+        release_year: null
+    'Baldur''s Gate: Enhanced Edition Trilogy (mod)':
+        genres: []
+        platforms: []
+        release_year: null
+    EasyTutu (mod):
+        genres: []
+        platforms: []
+        release_year: null
 randomizers:
 -   games:
-    - 'Baldur''s Gate
-    - Baldur''s Gate: Enhanced Edition
-    - Baldur''s Gate II: Shadows of Amn'
+    - 'Baldur''s Gate - Baldur''s Gate: Enhanced Edition - Baldur''s Gate II: Shadows
+        of Amn'
     - 'Baldur''s Gate II: Enhanced Edition'
     - 'Baldur''s Gate: Enhanced Edition Trilogy (mod)'
     identifier: Enemy Randomizer
@@ -13,29 +37,27 @@ randomizers:
     added-date: 2024-05-25
     info-updated: 2024-05-25
 -   games:
-    - 'Baldur''s Gate
-    - Baldur''s Gate: Enhanced Edition
-    - Baldur''s Gate II: Shadows of Amn'
+    - 'Baldur''s Gate - Baldur''s Gate: Enhanced Edition - Baldur''s Gate II: Shadows
+        of Amn'
     - 'Baldur''s Gate II: Enhanced Edition'
-    - 'EasyTutu (mod)'
-    - 'Baldur''s Gate Trilogy (mod)'
+    - EasyTutu (mod)
+    - Baldur's Gate Trilogy (mod)
     - 'Baldur''s Gate: Enhanced Edition Trilogy (mod)'
     identifier: Item Randomiser
     url: https://www.gibberlings3.net/mods/items/item_rand/
     added-date: 2024-05-25
     info-updated: 2024-05-25
 -   games:
-    - 'Baldur''s Gate
-    - Baldur''s Gate: Enhanced Edition
-    - Baldur''s Gate II: Shadows of Amn'
+    - 'Baldur''s Gate - Baldur''s Gate: Enhanced Edition - Baldur''s Gate II: Shadows
+        of Amn'
     - 'Baldur''s Gate II: Enhanced Edition'
-    - 'EasyTutu (mod)'
-    - 'Baldur''s Gate Trilogy (mod)'
+    - EasyTutu (mod)
+    - Baldur's Gate Trilogy (mod)
     - 'Baldur''s Gate: Enhanced Edition Trilogy (mod)'
     identifier: Sword Coast Stratagems
     url: https://www.gibberlings3.net/mods/tweaks/scs/
-    comment: 'Mod collection that can randomize the maze in Watcher''s Keep for
-        Baldur''s Gate II'
+    comment: Mod collection that can randomize the maze in Watcher's Keep for Baldur's
+        Gate II
     added-date: 2024-05-25
     info-updated: 2024-05-25
 -   games:

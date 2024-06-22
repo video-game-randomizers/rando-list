@@ -1,6 +1,15 @@
 name: Pikmin
 comment: null
 sub-series: null
+games:
+    Pikmin:
+        genres: []
+        platforms: []
+        release_year: null
+    Pikmin 2:
+        genres: []
+        platforms: []
+        release_year: null
 randomizers:
 -   games:
     - Pikmin

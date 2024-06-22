@@ -1,6 +1,19 @@
 name: La-Mulana
 comment: null
 sub-series: null
+games:
+    La-Mulana (2011 remake):
+        genres: []
+        platforms: []
+        release_year: null
+    La-Mulana (The Maze of Galious fangame):
+        genres: []
+        platforms: []
+        release_year: null
+    La-Mulana 2:
+        genres: []
+        platforms: []
+        release_year: null
 randomizers:
 -   games:
     - La-Mulana (The Maze of Galious fangame)

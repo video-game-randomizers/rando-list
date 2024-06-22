@@ -1,6 +1,15 @@
 name: Total War
 comment: null
 sub-series: null
+games:
+    'Rome: Total War':
+        genres: []
+        platforms: []
+        release_year: null
+    'Total War: Rome Remastered':
+        genres: []
+        platforms: []
+        release_year: null
 randomizers:
 -   games:
     - 'Rome: Total War'

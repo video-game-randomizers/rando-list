@@ -4,6 +4,115 @@ sub-series:
 - Main
 - Tactics
 - Other
+games:
+    Brave New World (hack):
+        genres: []
+        platforms: []
+        release_year: null
+    Final Fantasy:
+        genres: []
+        platforms: []
+        release_year: null
+    Final Fantasy (PSP):
+        genres: []
+        platforms: []
+        release_year: null
+    Final Fantasy (pixel remaster):
+        genres: []
+        platforms: []
+        release_year: null
+    'Final Fantasy I & II: Dawn of Souls':
+        genres: []
+        platforms: []
+        release_year: null
+    Final Fantasy II:
+        genres: []
+        platforms: []
+        release_year: null
+    Final Fantasy III:
+        genres: []
+        platforms: []
+        release_year: null
+    Final Fantasy IV:
+        genres: []
+        platforms: []
+        release_year: null
+    Final Fantasy IV (pixel remaster):
+        genres: []
+        platforms: []
+        release_year: null
+    Final Fantasy IX:
+        genres: []
+        platforms: []
+        release_year: null
+    Final Fantasy Mystic Quest:
+        genres: []
+        platforms: []
+        release_year: null
+    Final Fantasy Tactics:
+        genres: []
+        platforms: []
+        release_year: null
+    Final Fantasy Tactics Advance:
+        genres: []
+        platforms: []
+        release_year: null
+    Final Fantasy V:
+        genres: []
+        platforms: []
+        release_year: null
+    Final Fantasy V (pixel remaster):
+        genres: []
+        platforms: []
+        release_year: null
+    Final Fantasy V Advance:
+        genres: []
+        platforms: []
+        release_year: null
+    Final Fantasy VI:
+        genres: []
+        platforms: []
+        release_year: null
+    Final Fantasy VI (pixel remaster):
+        genres: []
+        platforms: []
+        release_year: null
+    Final Fantasy VII:
+        genres: []
+        platforms: []
+        release_year: null
+    Final Fantasy VIII:
+        genres: []
+        platforms: []
+        release_year: null
+    Final Fantasy VIII Remastered:
+        genres: []
+        platforms: []
+        release_year: null
+    Final Fantasy X:
+        genres: []
+        platforms: []
+        release_year: null
+    Final Fantasy X/X-2 HD Remaster:
+        genres: []
+        platforms: []
+        release_year: null
+    Final Fantasy XII The Zodiac Age:
+        genres: []
+        platforms: []
+        release_year: null
+    Final Fantasy XIII (Steam):
+        genres: []
+        platforms: []
+        release_year: null
+    Final Fantasy XIII-2 (Steam):
+        genres: []
+        platforms: []
+        release_year: null
+    'Lightning Returns: Final Fantasy XIII (Steam)':
+        genres: []
+        platforms: []
+        release_year: null
 randomizers:
 -   games:
     - Final Fantasy
@@ -46,7 +155,7 @@ randomizers:
     identifier: Fast Food Tour Randomizer
     url: https://borokobo.web.fc2.com/#FF2
     sub-series: Main
-    comment: 'Located under FF2'
+    comment: Located under FF2
     added-date: 2024-05-25
     info-updated: 2024-05-25
 -   games:
@@ -77,7 +186,7 @@ randomizers:
     identifier: Nacho Yacopu's
     url: https://github.com/nachoyacopu/ff3-randomizer
     sub-series: Main
-    comment: 'If online version does not work, download the code and open `index.html`'
+    comment: If online version does not work, download the code and open `index.html`
     added-date: 2024-05-25
     info-updated: 2024-05-25
 -   games:
@@ -127,8 +236,8 @@ randomizers:
     identifier: Ancient Cave
     url: https://www.romhacking.net/hacks/957/
     sub-series: Main
-    comment: 'Original [English translation by Sky Render](https://www.mediafire.com/file/jjv80yb83ychmvt/ff5ace.zip/file)
-        - Revised [English translation by FlamePurge](https://www.romhacking.net/hacks/7228/)'
+    comment: Original [English translation by Sky Render](https://www.mediafire.com/file/jjv80yb83ychmvt/ff5ace.zip/file)
+        - Revised [English translation by FlamePurge](https://www.romhacking.net/hacks/7228/)
     added-date: 2024-05-25
     info-updated: 2024-05-25
 -   games:
@@ -150,7 +259,7 @@ randomizers:
     identifier: Whirlwind
     url: https://www.romhacking.net/translations/7324/
     sub-series: Main
-    comment: 'Random job each level up.  Seeding now supported.'
+    comment: Random job each level up.  Seeding now supported.
     added-date: 2024-06-15
     info-updated: 2024-06-15
 -   games:
@@ -173,9 +282,9 @@ randomizers:
     identifier: Spicy
     url: https://www.dropbox.com/s/jq1vdp650j0bf8d/ffvarandomizer.zip?dl=0
     sub-series: Main
-    comment: 'Randomizes job abilities - Mild output is normal randomization, while
+    comment: Randomizes job abilities - Mild output is normal randomization, while
         Extra Spicy output also randomizes job abilities independently between characters
-        - Drag & drop original USA ROM on `randomizer.exe` to randomize'
+        - Drag & drop original USA ROM on `randomizer.exe` to randomize
     added-date: 2024-05-25
     info-updated: 2024-05-25
 -   games:
@@ -221,9 +330,8 @@ randomizers:
     identifier: Dessyreqt's
     url: https://web.archive.org/web/20201109152941/https://archive.codeplex.com/?p=ff6randomizer
     sub-series: Main
-    comment: 'Extract `/releases/0/55609bb9-67b8-4ce4-8ff0-4673a618e35f` from the
-        archive and rename it to its original file name `FinalFantasy6Randomizer.exe`
-        to use'
+    comment: Extract `/releases/0/55609bb9-67b8-4ce4-8ff0-4673a618e35f` from the archive
+        and rename it to its original file name `FinalFantasy6Randomizer.exe` to use
     added-date: 2024-05-25
     info-updated: 2024-05-25
 -   games:
@@ -288,7 +396,7 @@ randomizers:
     identifier: FFXED
     url: https://forums.pcsx2.net/Thread-FFXED-Final-Fantasy-X-Save-Editor
     sub-series: Main
-    comment: 'Save editor that can randomize Sphere Grids'
+    comment: Save editor that can randomize Sphere Grids
     added-date: 2024-05-25
     info-updated: 2024-05-25
 -   games:
@@ -340,7 +448,8 @@ randomizers:
     identifier: Bartz24's, 2021
     url: https://github.com/Bartz24/FFModdingWPF/releases
     sub-series: Main
-    comment: 'Discord account required to download the required Nova Chrysalia mod manager'
+    comment: Discord account required to download the required Nova Chrysalia mod
+        manager
     added-date: 2024-05-25
     info-updated: 2024-05-25
 -   games:

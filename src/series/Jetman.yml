@@ -1,6 +1,11 @@
 name: Jetman
 comment: null
 sub-series: null
+games:
+    Solar Jetman:
+        genres: []
+        platforms: []
+        release_year: null
 randomizers:
 -   games:
     - Solar Jetman

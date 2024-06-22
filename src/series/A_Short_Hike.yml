@@ -1,6 +1,11 @@
 name: A Short Hike
 comment: null
 sub-series: null
+games:
+    A Short Hike:
+        genres: []
+        platforms: []
+        release_year: null
 randomizers:
 -   games:
     - A Short Hike

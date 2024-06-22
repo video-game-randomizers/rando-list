@@ -2,6 +2,15 @@ name: Wolfenstein
 comment: null
 sub-series:
 - id Software engines
+games:
+    Spear of Destiny:
+        genres: []
+        platforms: []
+        release_year: null
+    Wolfenstein 3D:
+        genres: []
+        platforms: []
+        release_year: null
 randomizers:
 -   games:
     - Wolfenstein 3D

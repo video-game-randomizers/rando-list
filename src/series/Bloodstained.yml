@@ -1,6 +1,11 @@
 name: Bloodstained
 comment: null
 sub-series: null
+games:
+    'Bloodstained: Ritual of the Night':
+        genres: []
+        platforms: []
+        release_year: null
 randomizers:
 -   games:
     - 'Bloodstained: Ritual of the Night'

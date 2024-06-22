@@ -1,6 +1,15 @@
 name: The World Ends with You
 comment: null
 sub-series: null
+games:
+    'NEO: The World Ends with You':
+        genres: []
+        platforms: []
+        release_year: null
+    The World Ends with You:
+        genres: []
+        platforms: []
+        release_year: null
 randomizers:
 -   games:
     - The World Ends with You

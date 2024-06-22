@@ -1,6 +1,15 @@
 name: Touhou
 comment: null
 sub-series: null
+games:
+    Gensokyo no Nazo (Atlantis no Nazo fangame):
+        genres: []
+        platforms: []
+        release_year: null
+    Touhou Luna Nights:
+        genres: []
+        platforms: []
+        release_year: null
 randomizers:
 -   games:
     - Gensokyo no Nazo (Atlantis no Nazo fangame)

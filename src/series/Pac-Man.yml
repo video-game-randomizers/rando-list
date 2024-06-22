@@ -1,6 +1,11 @@
 name: Pac-Man
 comment: null
 sub-series: null
+games:
+    Pac-Man World 2:
+        genres: []
+        platforms: []
+        release_year: null
 randomizers:
 -   games:
     - Pac-Man World 2

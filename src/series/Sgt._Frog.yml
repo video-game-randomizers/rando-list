@@ -1,6 +1,11 @@
 name: Sgt. Frog
 comment: null
 sub-series: null
+games:
+    'Keroro RPG: Kishi to Musha to Densetsu no Kaizoku':
+        genres: []
+        platforms: []
+        release_year: null
 randomizers:
 -   games:
     - 'Keroro RPG: Kishi to Musha to Densetsu no Kaizoku'

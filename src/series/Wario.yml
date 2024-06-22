@@ -1,6 +1,15 @@
 name: Wario
 comment: null
 sub-series: null
+games:
+    Wario Land 3:
+        genres: []
+        platforms: []
+        release_year: null
+    Wario Land 4:
+        genres: []
+        platforms: []
+        release_year: null
 randomizers:
 -   games:
     - Wario Land 3

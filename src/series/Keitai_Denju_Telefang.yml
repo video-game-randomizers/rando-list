@@ -1,6 +1,11 @@
 name: "Keitai Denj\u016B Telefang"
 comment: null
 sub-series: null
+games:
+    "Keitai Denj\u016B Telefang: Power Version":
+        genres: []
+        platforms: []
+        release_year: null
 randomizers:
 -   games:
     - "Keitai Denj\u016B Telefang: Power Version"

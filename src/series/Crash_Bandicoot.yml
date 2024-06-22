@@ -3,6 +3,35 @@ comment: null
 sub-series:
 - Main
 - Racing
+games:
+    Crash Bandicoot:
+        genres: []
+        platforms: []
+        release_year: null
+    'Crash Bandicoot 2: Cortex Strikes Back':
+        genres: []
+        platforms: []
+        release_year: null
+    'Crash Bandicoot: The Wrath of Cortex':
+        genres: []
+        platforms: []
+        release_year: null
+    'Crash Bandicoot: Warped':
+        genres: []
+        platforms: []
+        release_year: null
+    Crash Nitro Kart:
+        genres: []
+        platforms: []
+        release_year: null
+    Crash Tag Team Racing:
+        genres: []
+        platforms: []
+        release_year: null
+    Crash Twinsanity:
+        genres: []
+        platforms: []
+        release_year: null
 randomizers:
 -   games:
     - Crash Tag Team Racing

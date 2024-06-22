@@ -1,6 +1,11 @@
 name: Factorio
 comment: null
 sub-series: null
+games:
+    Factorio:
+        genres: []
+        platforms: []
+        release_year: null
 randomizers:
 -   games:
     - Factorio

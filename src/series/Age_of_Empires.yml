@@ -1,6 +1,19 @@
 name: Age of Empires
 comment: null
 sub-series: null
+games:
+    'Age of Empires II (2013) / Age of Empires II: Definitive Edition':
+        genres: []
+        platforms: []
+        release_year: null
+    'Age of Empires II: The Age of Kings':
+        genres: []
+        platforms: []
+        release_year: null
+    'Age of Mythology: Extended Edition':
+        genres: []
+        platforms: []
+        release_year: null
 randomizers:
 -   games:
     - 'Age of Empires II: The Age of Kings'

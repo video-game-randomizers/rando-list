@@ -1,6 +1,15 @@
 name: Unreal
 comment: null
 sub-series: null
+games:
+    Unreal Gold:
+        genres: []
+        platforms: []
+        release_year: null
+    Unreal Tournament:
+        genres: []
+        platforms: []
+        release_year: null
 randomizers:
 -   games:
     - Unreal Gold

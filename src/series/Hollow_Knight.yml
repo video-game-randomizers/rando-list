@@ -1,18 +1,26 @@
 name: Hollow Knight
-comment: |-
-    Use [Lumafly](https://themulhima.github.io/Lumafly/) for easy installation & updates.
+comment: 'Use [Lumafly](https://themulhima.github.io/Lumafly/) for easy installation
+    & updates.
 
-    Support is available on the [official Hollow Knight Discord server](https://discord.com/invite/hollowknight) in the #randomizer channel.
+
+    Support is available on the [official Hollow Knight Discord server](https://discord.com/invite/hollowknight)
+    in the #randomizer channel.'
 sub-series: null
+games:
+    Hollow Knight:
+        genres: []
+        platforms: []
+        release_year: null
 randomizers:
 -   games:
     - Hollow Knight
     identifier: Randomizer 4
     url: https://github.com/homothetyhk/RandomizerMod
-    comment: Find add-ons through Lumafly's `Advanced Search > Search by Dependencies & Integrations` with the term `Randomizer 4`.
+    comment: Find add-ons through Lumafly's `Advanced Search > Search by Dependencies
+        & Integrations` with the term `Randomizer 4`.
     added-date: 2024-05-25
     info-updated: 2024-05-29
--   games: 
+-   games:
     - Hollow Knight
     identifier: Multiworld
     url: https://github.com/Shadudev/HollowKnight.MultiWorld

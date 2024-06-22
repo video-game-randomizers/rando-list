@@ -1,6 +1,11 @@
 name: Raft
 comment: null
 sub-series: null
+games:
+    Raft:
+        genres: []
+        platforms: []
+        release_year: null
 randomizers:
 -   games:
     - Raft

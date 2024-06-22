@@ -1,6 +1,11 @@
 name: Zork
 comment: null
 sub-series: null
+games:
+    'Zork: Grand Inquisitor':
+        genres: []
+        platforms: []
+        release_year: null
 randomizers:
 -   games:
     - 'Zork: Grand Inquisitor'

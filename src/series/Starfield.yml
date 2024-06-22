@@ -1,6 +1,11 @@
 name: Starfield
 comment: null
 sub-series: null
+games:
+    Starfield:
+        genres: []
+        platforms: []
+        release_year: null
 randomizers:
 -   games:
     - Starfield

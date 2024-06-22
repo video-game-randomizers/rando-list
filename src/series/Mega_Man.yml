@@ -5,6 +5,91 @@ sub-series:
 - X
 - Battle Network
 - Unofficial
+games:
+    Mega Man:
+        genres: []
+        platforms: []
+        release_year: null
+    Mega Man 2:
+        genres: []
+        platforms: []
+        release_year: null
+    Mega Man 3:
+        genres: []
+        platforms: []
+        release_year: null
+    Mega Man 4:
+        genres: []
+        platforms: []
+        release_year: null
+    Mega Man 5:
+        genres: []
+        platforms: []
+        release_year: null
+    Mega Man 6:
+        genres: []
+        platforms: []
+        release_year: null
+    Mega Man 7:
+        genres: []
+        platforms: []
+        release_year: null
+    Mega Man Battle Chip Challenge (Game Boy Advance):
+        genres: []
+        platforms: []
+        release_year: null
+    Mega Man Battle Network (Legacy Collection):
+        genres: []
+        platforms: []
+        release_year: null
+    Mega Man Battle Network 2:
+        genres: []
+        platforms: []
+        release_year: null
+    Mega Man Battle Network 3 Blue:
+        genres: []
+        platforms: []
+        release_year: null
+    Mega Man Battle Network 3 White:
+        genres: []
+        platforms: []
+        release_year: null
+    Mega Man Battle Network 5 Team Colonel:
+        genres: []
+        platforms: []
+        release_year: null
+    Mega Man Battle Network 5 Team Protoman:
+        genres: []
+        platforms: []
+        release_year: null
+    Mega Man Battle Network 6 Cybeast Falzar:
+        genres: []
+        platforms: []
+        release_year: null
+    Mega Man Battle Network 6 Cybeast Gregar:
+        genres: []
+        platforms: []
+        release_year: null
+    Mega Man X3:
+        genres: []
+        platforms: []
+        release_year: null
+    Mega Man X6:
+        genres: []
+        platforms: []
+        release_year: null
+    'Mega Man: The Wily Wars':
+        genres: []
+        platforms: []
+        release_year: null
+    'Rockman 3: Winternight (Mega Man 3 hack)':
+        genres: []
+        platforms: []
+        release_year: null
+    Zero Project (Mega Man X3 hack):
+        genres: []
+        platforms: []
+        release_year: null
 randomizers:
 -   games:
     - Mega Man

@@ -1,6 +1,15 @@
 name: Adventure Island
 comment: null
 sub-series: null
+games:
+    Adventure Island II:
+        genres: []
+        platforms: []
+        release_year: null
+    Super Adventure Island II:
+        genres: []
+        platforms: []
+        release_year: null
 randomizers:
 -   games:
     - Adventure Island II

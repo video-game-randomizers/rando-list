@@ -1,6 +1,15 @@
 name: Need for Speed
 comment: null
 sub-series: null
+games:
+    Need for Speed Carbon:
+        genres: []
+        platforms: []
+        release_year: null
+    The Need for Speed:
+        genres: []
+        platforms: []
+        release_year: null
 randomizers:
 -   games:
     - The Need for Speed

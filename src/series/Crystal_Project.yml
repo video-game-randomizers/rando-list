@@ -1,6 +1,11 @@
 name: Crystal Project
 comment: null
 sub-series: null
+games:
+    Crystal Project:
+        genres: []
+        platforms: []
+        release_year: null
 randomizers:
 -   games:
     - Crystal Project

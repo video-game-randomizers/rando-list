@@ -3,6 +3,11 @@ comment: Old versions of Paradox Development Studio games are available on Steam
     betas. To unlock Crusader Kings II versions prior to 2.8.3.4, refer to [this official
     announcement](https://forum.paradoxplaza.com/forum/threads/changes-to-playing-previous-versions-of-pds-titles.1120883/).
 sub-series: null
+games:
+    Crusader Kings II:
+        genres: []
+        platforms: []
+        release_year: null
 randomizers:
 -   games:
     - Crusader Kings II

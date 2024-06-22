@@ -1,6 +1,11 @@
 name: Elemental
 comment: null
 sub-series: null
+games:
+    Fallen Enchantress:
+        genres: []
+        platforms: []
+        release_year: null
 randomizers:
 -   games:
     - Fallen Enchantress

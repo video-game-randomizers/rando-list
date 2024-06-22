@@ -1,6 +1,11 @@
 name: Joe & Mac
 comment: null
 sub-series: null
+games:
+    'Joe & Mac: Caveman Ninja (Super NES)':
+        genres: []
+        platforms: []
+        release_year: null
 randomizers:
 -   games:
     - 'Joe & Mac: Caveman Ninja (Super NES)'

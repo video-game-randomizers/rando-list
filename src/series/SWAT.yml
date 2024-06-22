@@ -1,6 +1,11 @@
 name: SWAT
 comment: null
 sub-series: null
+games:
+    SWAT 4:
+        genres: []
+        platforms: []
+        release_year: null
 randomizers:
 -   games:
     - SWAT 4

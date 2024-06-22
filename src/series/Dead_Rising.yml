@@ -1,6 +1,15 @@
 name: Dead Rising
 comment: null
 sub-series: null
+games:
+    Dead Rising:
+        genres: []
+        platforms: []
+        release_year: null
+    'Dead Rising 2: Off the Record':
+        genres: []
+        platforms: []
+        release_year: null
 randomizers:
 -   games:
     - Dead Rising

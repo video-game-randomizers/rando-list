@@ -1,6 +1,11 @@
 name: Risk of Rain
 comment: null
 sub-series: null
+games:
+    Risk of Rain 2:
+        genres: []
+        platforms: []
+        release_year: null
 randomizers:
 -   games:
     - Risk of Rain 2

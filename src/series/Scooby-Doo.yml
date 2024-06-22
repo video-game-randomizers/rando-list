@@ -1,6 +1,11 @@
 name: Scooby-Doo
 comment: null
 sub-series: null
+games:
+    'Scooby-Doo: Night of 100 Frights':
+        genres: []
+        platforms: []
+        release_year: null
 randomizers:
 -   games:
     - 'Scooby-Doo: Night of 100 Frights'

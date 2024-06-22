@@ -1,6 +1,15 @@
 name: Mana
 comment: null
 sub-series: null
+games:
+    Secret of Mana:
+        genres: []
+        platforms: []
+        release_year: null
+    Sin of Mana (Trials of Mana hack):
+        genres: []
+        platforms: []
+        release_year: null
 randomizers:
 -   games:
     - Secret of Mana

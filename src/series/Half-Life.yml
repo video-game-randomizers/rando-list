@@ -1,6 +1,15 @@
 name: Half-Life
 comment: null
 sub-series: null
+games:
+    Half-Life:
+        genres: []
+        platforms: []
+        release_year: null
+    Half-Life 2:
+        genres: []
+        platforms: []
+        release_year: null
 randomizers:
 -   games:
     - Half-Life

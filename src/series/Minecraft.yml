@@ -4,6 +4,11 @@ comment: '_Old versions of Minecraft: Java Edition are available on Mojang''s we
     Direct download links can be found on [MCVersions](https://mcversions.net/) for
     convenience._'
 sub-series: null
+games:
+    'Minecraft: Java Edition':
+        genres: []
+        platforms: []
+        release_year: null
 randomizers:
 -   games:
     - 'Minecraft: Java Edition'

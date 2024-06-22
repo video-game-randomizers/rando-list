@@ -1,6 +1,11 @@
 name: Haiku, the Robot
 comment: null
 sub-series: null
+games:
+    Haiku, the Robot:
+        genres: []
+        platforms: []
+        release_year: null
 randomizers:
 -   games:
     - Haiku, the Robot

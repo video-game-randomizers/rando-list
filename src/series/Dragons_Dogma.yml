@@ -1,6 +1,15 @@
 name: Dragon's Dogma
 comment: null
 sub-series: null
+games:
+    Dragon's Dogma 2:
+        genres: []
+        platforms: []
+        release_year: null
+    'Dragon''s Dogma: Dark Arisen':
+        genres: []
+        platforms: []
+        release_year: null
 randomizers:
 -   games:
     - 'Dragon''s Dogma: Dark Arisen'

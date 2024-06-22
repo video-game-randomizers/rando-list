@@ -1,6 +1,11 @@
 name: Ion Fury
 comment: null
 sub-series: null
+games:
+    Ion Fury:
+        genres: []
+        platforms: []
+        release_year: null
 randomizers:
 -   games:
     - Ion Fury

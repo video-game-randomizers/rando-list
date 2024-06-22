@@ -1,6 +1,11 @@
 name: S.T.A.L.K.E.R.
 comment: null
 sub-series: null
+games:
+    'S.T.A.L.K.E.R.: Shadow of Chernobyl':
+        genres: []
+        platforms: []
+        release_year: null
 randomizers:
 -   games:
     - 'S.T.A.L.K.E.R.: Shadow of Chernobyl'

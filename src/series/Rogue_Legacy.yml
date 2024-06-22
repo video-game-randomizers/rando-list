@@ -1,6 +1,11 @@
 name: Rogue Legacy
 comment: null
 sub-series: null
+games:
+    Rogue Legacy:
+        genres: []
+        platforms: []
+        release_year: null
 randomizers:
 -   games:
     - Rogue Legacy

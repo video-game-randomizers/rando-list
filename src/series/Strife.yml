@@ -2,6 +2,11 @@ name: Strife
 comment: null
 sub-series:
 - id Software engines
+games:
+    Strife:
+        genres: []
+        platforms: []
+        release_year: null
 randomizers:
 -   games:
     - Strife

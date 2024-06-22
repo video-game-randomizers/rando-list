@@ -1,6 +1,11 @@
 name: Chrono
 comment: null
 sub-series: null
+games:
+    Chrono Trigger:
+        genres: []
+        platforms: []
+        release_year: null
 randomizers:
 -   games:
     - Chrono Trigger

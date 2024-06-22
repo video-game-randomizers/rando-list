@@ -1,6 +1,19 @@
 name: Shining
 comment: null
 sub-series: null
+games:
+    Shining Force:
+        genres: []
+        platforms: []
+        release_year: null
+    Shining Force II:
+        genres: []
+        platforms: []
+        release_year: null
+    Shining Force III:
+        genres: []
+        platforms: []
+        release_year: null
 randomizers:
 -   games:
     - Shining Force

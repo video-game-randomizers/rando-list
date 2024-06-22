@@ -5,6 +5,139 @@ sub-series:
 - Prime
 - Super Metroid hacks
 - Fangames
+games:
+    AM2R:
+        genres: []
+        platforms: []
+        release_year: null
+    AM2R (Metroid fangame):
+        genres: []
+        platforms: []
+        release_year: null
+    Ascent:
+        genres: []
+        platforms: []
+        release_year: null
+    Cliffhanger Redux:
+        genres: []
+        platforms: []
+        release_year: null
+    Cryogenesis:
+        genres: []
+        platforms: []
+        release_year: null
+    Digital Cube:
+        genres: []
+        platforms: []
+        release_year: null
+    Eris:
+        genres: []
+        platforms: []
+        release_year: null
+    Escape II:
+        genres: []
+        platforms: []
+        release_year: null
+    Hyper Metroid:
+        genres: []
+        platforms: []
+        release_year: null
+    Metroid:
+        genres: []
+        platforms: []
+        release_year: null
+    Metroid Dread:
+        genres: []
+        platforms: []
+        release_year: null
+    Metroid Fusion:
+        genres: []
+        platforms: []
+        release_year: null
+    'Metroid II: Return of Samus':
+        genres: []
+        platforms: []
+        release_year: null
+    Metroid Prime:
+        genres: []
+        platforms: []
+        release_year: null
+    'Metroid Prime 2: Echoes':
+        genres: []
+        platforms: []
+        release_year: null
+    'Metroid Prime 3: Corruption':
+        genres: []
+        platforms: []
+        release_year: null
+    Metroid Prime Hunters:
+        genres: []
+        platforms: []
+        release_year: null
+    Metroid The Threat Never Ends:
+        genres: []
+        platforms: []
+        release_year: null
+    'Metroid: Samus Returns':
+        genres: []
+        platforms: []
+        release_year: null
+    'Metroid: The Blue Plague':
+        genres: []
+        platforms: []
+        release_year: null
+    'Metroid: Zero Mission':
+        genres: []
+        platforms: []
+        release_year: null
+    Nature:
+        genres: []
+        platforms: []
+        release_year: null
+    Oxide:
+        genres: []
+        platforms: []
+        release_year: null
+    Project Base:
+        genres: []
+        platforms: []
+        release_year: null
+    Recovery:
+        genres: []
+        platforms: []
+        release_year: null
+    Stardust:
+        genres: []
+        platforms: []
+        release_year: null
+    Subversion:
+        genres: []
+        platforms: []
+        release_year: null
+    Super Metroid:
+        genres: []
+        platforms: []
+        release_year: null
+    'Super Metroid: Golden Dawn':
+        genres: []
+        platforms: []
+        release_year: null
+    'Super Metroid: Redesign':
+        genres: []
+        platforms: []
+        release_year: null
+    Super Zero Mission:
+        genres: []
+        platforms: []
+        release_year: null
+    "V\_I\_T\_A\_L\_I\_T\_Y":
+        genres: []
+        platforms: []
+        release_year: null
+    Z-Factor:
+        genres: []
+        platforms: []
+        release_year: null
 randomizers:
 -   games:
     - Super Metroid

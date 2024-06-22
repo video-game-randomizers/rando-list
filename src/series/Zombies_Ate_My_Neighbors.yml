@@ -1,6 +1,11 @@
 name: Zombies Ate My Neighbors
 comment: null
 sub-series: null
+games:
+    Zombies Ate My Neighbors (Genesis):
+        genres: []
+        platforms: []
+        release_year: null
 randomizers:
 -   games:
     - Zombies Ate My Neighbors (Genesis)

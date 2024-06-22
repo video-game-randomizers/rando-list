@@ -1,6 +1,11 @@
 name: Advance Wars
 comment: null
 sub-series: null
+games:
+    'Advance Wars 2: Black Hole Rising':
+        genres: []
+        platforms: []
+        release_year: null
 randomizers:
 -   games:
     - 'Advance Wars 2: Black Hole Rising'

@@ -1,6 +1,11 @@
 name: Double Dragon
 comment: null
 sub-series: null
+games:
+    'Double Dragon II: The Revenge (NES)':
+        genres: []
+        platforms: []
+        release_year: null
 randomizers:
 -   games:
     - 'Double Dragon II: The Revenge (NES)'

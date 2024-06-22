@@ -1,6 +1,15 @@
 name: Super Smash Bros.
 comment: null
 sub-series: null
+games:
+    Super Smash Bros. Melee:
+        genres: []
+        platforms: []
+        release_year: null
+    Super Smash Bros. Ultimate:
+        genres: []
+        platforms: []
+        release_year: null
 randomizers:
 -   games:
     - Super Smash Bros. Melee

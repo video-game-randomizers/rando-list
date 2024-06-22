@@ -1,6 +1,11 @@
 name: Lunacid
 comment: null
 sub-series: null
+games:
+    Lunacid:
+        genres: []
+        platforms: []
+        release_year: null
 randomizers:
 -   games:
     - Lunacid

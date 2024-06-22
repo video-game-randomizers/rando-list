@@ -1,6 +1,23 @@
 name: Doom
 comment: null
 sub-series: null
+games:
+    Doom (Ultimate):
+        genres: []
+        platforms: []
+        release_year: null
+    Doom Eternal:
+        genres: []
+        platforms: []
+        release_year: null
+    Doom II:
+        genres: []
+        platforms: []
+        release_year: null
+    Final Doom:
+        genres: []
+        platforms: []
+        release_year: null
 randomizers:
 -   games:
     - Doom (Ultimate)

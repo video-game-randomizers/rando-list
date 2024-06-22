@@ -1,6 +1,11 @@
 name: Live A Live
 comment: null
 sub-series: null
+games:
+    Live A Live:
+        genres: []
+        platforms: []
+        release_year: null
 randomizers:
 -   games:
     - Live A Live

@@ -1,6 +1,11 @@
 name: Meritous
 comment: null
 sub-series: null
+games:
+    Meritous:
+        genres: []
+        platforms: []
+        release_year: null
 randomizers:
 -   games:
     - Meritous

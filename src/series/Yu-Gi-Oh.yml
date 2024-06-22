@@ -1,6 +1,15 @@
 name: Yu-Gi-Oh!
 comment: null
 sub-series: null
+games:
+    Yu-Gi-Oh! Forbidden Memories:
+        genres: []
+        platforms: []
+        release_year: null
+    Yu-Gi-Oh! The Duelists of the Roses:
+        genres: []
+        platforms: []
+        release_year: null
 randomizers:
 -   games:
     - Yu-Gi-Oh! Forbidden Memories

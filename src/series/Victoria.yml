@@ -2,6 +2,11 @@ name: Victoria
 comment: Old versions of Paradox Development Studio games are available on Steam as
     betas.
 sub-series: null
+games:
+    Victoria II:
+        genres: []
+        platforms: []
+        release_year: null
 randomizers:
 -   games:
     - Victoria II

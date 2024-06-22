@@ -1,6 +1,15 @@
 name: Borderlands
 comment: null
 sub-series: null
+games:
+    Borderlands 2:
+        genres: []
+        platforms: []
+        release_year: null
+    'Borderlands: The Pre-Sequel':
+        genres: []
+        platforms: []
+        release_year: null
 randomizers:
 -   games:
     - Borderlands 2

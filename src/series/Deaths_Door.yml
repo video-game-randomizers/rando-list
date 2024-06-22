@@ -1,4 +1,9 @@
 name: Death's Door
+games:
+    Death's Door:
+        genres: []
+        platforms: []
+        release_year: null
 randomizers:
 -   games:
     - Death's Door

@@ -1,6 +1,11 @@
 name: Quest
 comment: null
 sub-series: null
+games:
+    Quest 64:
+        genres: []
+        platforms: []
+        release_year: null
 randomizers:
 -   games:
     - Quest 64

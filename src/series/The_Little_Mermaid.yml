@@ -1,6 +1,11 @@
 name: The Little Mermaid
 comment: null
 sub-series: null
+games:
+    The Little Mermaid:
+        genres: []
+        platforms: []
+        release_year: null
 randomizers:
 -   games:
     - The Little Mermaid

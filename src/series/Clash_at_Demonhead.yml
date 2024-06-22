@@ -1,6 +1,11 @@
 name: Clash at Demonhead
 comment: null
 sub-series: null
+games:
+    Clash at Demonhead:
+        genres: []
+        platforms: []
+        release_year: null
 randomizers:
 -   games:
     - Clash at Demonhead

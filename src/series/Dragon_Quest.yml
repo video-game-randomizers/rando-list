@@ -3,6 +3,43 @@ comment: null
 sub-series:
 - Main
 - Monsters
+games:
+    Dragon Quest:
+        genres: []
+        platforms: []
+        release_year: null
+    Dragon Quest I&II (Super NES):
+        genres: []
+        platforms: []
+        release_year: null
+    'Dragon Quest II: Luminaries of the Legendary Line':
+        genres: []
+        platforms: []
+        release_year: null
+    'Dragon Quest III: The Seeds of Salvation':
+        genres: []
+        platforms: []
+        release_year: null
+    'Dragon Quest III: The Seeds of Salvation (Super NES)':
+        genres: []
+        platforms: []
+        release_year: null
+    'Dragon Quest IV: Chapters of the Chosen':
+        genres: []
+        platforms: []
+        release_year: null
+    'Dragon Quest Monsters 2: Cobi''s Journey':
+        genres: []
+        platforms: []
+        release_year: null
+    'Dragon Quest Monsters 2: Tara''s Adventure':
+        genres: []
+        platforms: []
+        release_year: null
+    'Dragon Quest VIII: Journey of the Cursed King (3DS)':
+        genres: []
+        platforms: []
+        release_year: null
 randomizers:
 -   games:
     - Dragon Quest

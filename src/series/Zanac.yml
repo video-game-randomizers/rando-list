@@ -1,6 +1,11 @@
 name: Zanac
 comment: null
 sub-series: null
+games:
+    Zanac:
+        genres: []
+        platforms: []
+        release_year: null
 randomizers:
 -   games:
     - Zanac

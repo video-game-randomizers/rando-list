@@ -1,6 +1,11 @@
 name: Dicey Dungeons
 comment: null
 sub-series: null
+games:
+    Dicey Dungeons:
+        genres: []
+        platforms: []
+        release_year: null
 randomizers:
 -   games:
     - Dicey Dungeons

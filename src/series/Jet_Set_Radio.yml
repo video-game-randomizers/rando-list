@@ -1,6 +1,11 @@
 name: Jet Set Radio
 comment: null
 sub-series: null
+games:
+    'JSRF: Jet Set Radio Future':
+        genres: []
+        platforms: []
+        release_year: null
 randomizers:
 -   games:
     - 'JSRF: Jet Set Radio Future'

@@ -1,6 +1,11 @@
 name: An Untitled Story
 comment: null
 sub-series: null
+games:
+    An Untitled Story:
+        genres: []
+        platforms: []
+        release_year: null
 randomizers:
 -   games:
     - An Untitled Story

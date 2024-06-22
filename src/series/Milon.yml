@@ -1,6 +1,11 @@
 name: Milon
 comment: null
 sub-series: null
+games:
+    Milon's Secret Castle:
+        genres: []
+        platforms: []
+        release_year: null
 randomizers:
 -   games:
     - Milon's Secret Castle

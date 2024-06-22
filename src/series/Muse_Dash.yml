@@ -1,6 +1,11 @@
 name: Muse Dash
 comment: null
 sub-series: null
+games:
+    Muse Dash:
+        genres: []
+        platforms: []
+        release_year: null
 randomizers:
 -   games:
     - Muse Dash

@@ -1,6 +1,11 @@
 name: Super Meat Boy
 comment: null
 sub-series: null
+games:
+    Super Meat Boy:
+        genres: []
+        platforms: []
+        release_year: null
 randomizers:
 -   games:
     - Super Meat Boy

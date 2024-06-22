@@ -1,6 +1,19 @@
 name: Breath of Fire
 comment: null
 sub-series: null
+games:
+    Breath of Fire:
+        genres: []
+        platforms: []
+        release_year: null
+    Breath of Fire II:
+        genres: []
+        platforms: []
+        release_year: null
+    Breath of Fire III:
+        genres: []
+        platforms: []
+        release_year: null
 randomizers:
 -   games:
     - Breath of Fire

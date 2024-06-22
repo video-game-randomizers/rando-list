@@ -1,6 +1,11 @@
 name: America's Army
 comment: null
 sub-series: null
+games:
+    America's Army:
+        genres: []
+        platforms: []
+        release_year: null
 randomizers:
 -   games:
     - America's Army

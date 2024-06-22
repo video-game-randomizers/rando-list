@@ -1,6 +1,11 @@
 name: Monster Party
 comment: null
 sub-series: null
+games:
+    Monster Party:
+        genres: []
+        platforms: []
+        release_year: null
 randomizers:
 -   games:
     - Monster Party

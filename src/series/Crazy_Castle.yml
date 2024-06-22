@@ -1,6 +1,11 @@
 name: Crazy Castle
 comment: null
 sub-series: null
+games:
+    The Bugs Bunny Crazy Castle:
+        genres: []
+        platforms: []
+        release_year: null
 randomizers:
 -   games:
     - The Bugs Bunny Crazy Castle

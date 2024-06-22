@@ -1,6 +1,11 @@
 name: Kururin
 comment: null
 sub-series: null
+games:
+    KuruKuru Kururin:
+        genres: []
+        platforms: []
+        release_year: null
 randomizers:
 -   games:
     - KuruKuru Kururin

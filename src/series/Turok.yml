@@ -1,6 +1,11 @@
 name: Turok
 comment: null
 sub-series: null
+games:
+    Turok (Nightdive Studios):
+        genres: []
+        platforms: []
+        release_year: null
 randomizers:
 -   games:
     - Turok (Nightdive Studios)

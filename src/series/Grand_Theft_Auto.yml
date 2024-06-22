@@ -1,6 +1,11 @@
 name: Grand Theft Auto
 comment: null
 sub-series: null
+games:
+    'Grand Theft Auto: San Andreas':
+        genres: []
+        platforms: []
+        release_year: null
 randomizers:
 -   games:
     - 'Grand Theft Auto: San Andreas'

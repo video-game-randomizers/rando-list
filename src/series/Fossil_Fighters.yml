@@ -1,6 +1,15 @@
 name: Fossil Fighters
 comment: null
 sub-series: null
+games:
+    Fossil Fighters:
+        genres: []
+        platforms: []
+        release_year: null
+    'Fossil Fighters: Champions':
+        genres: []
+        platforms: []
+        release_year: null
 randomizers:
 -   games:
     - Fossil Fighters

@@ -1,6 +1,11 @@
 name: Ogre
 comment: null
 sub-series: null
+games:
+    'Ogre Battle: The March of the Black Queen':
+        genres: []
+        platforms: []
+        release_year: null
 randomizers:
 -   games:
     - 'Ogre Battle: The March of the Black Queen'

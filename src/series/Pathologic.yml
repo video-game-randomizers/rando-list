@@ -1,6 +1,11 @@
 name: Pathologic
 comment: null
 sub-series: null
+games:
+    Pathologic 2:
+        genres: []
+        platforms: []
+        release_year: null
 randomizers:
 -   games:
     - Pathologic 2

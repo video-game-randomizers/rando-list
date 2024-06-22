@@ -1,6 +1,15 @@
 name: Contra
 comment: null
 sub-series: null
+games:
+    Contra (NES):
+        genres: []
+        platforms: []
+        release_year: null
+    Super C (NES):
+        genres: []
+        platforms: []
+        release_year: null
 randomizers:
 -   games:
     - Contra (NES)

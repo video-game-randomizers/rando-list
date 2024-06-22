@@ -1,6 +1,11 @@
 name: The Talos Principle
 comment: null
 sub-series: null
+games:
+    The Talos Principle:
+        genres: []
+        platforms: []
+        release_year: null
 randomizers:
 -   games:
     - The Talos Principle

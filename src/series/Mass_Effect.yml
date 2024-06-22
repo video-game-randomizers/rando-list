@@ -1,6 +1,15 @@
 name: Mass Effect
 comment: null
 sub-series: null
+games:
+    Mass Effect 2:
+        genres: []
+        platforms: []
+        release_year: null
+    Mass Effect 2 (Legendary Edition):
+        genres: []
+        platforms: []
+        release_year: null
 randomizers:
 -   games:
     - Mass Effect 2

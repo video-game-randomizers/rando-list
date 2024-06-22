@@ -1,6 +1,11 @@
 name: StarCraft
 comment: null
 sub-series: null
+games:
+    StarCraft II:
+        genres: []
+        platforms: []
+        release_year: null
 randomizers:
 -   games:
     - StarCraft II

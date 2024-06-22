@@ -1,6 +1,11 @@
 name: Scourge of War
 comment: null
 sub-series: null
+games:
+    'Scourge of War: Gettysburg':
+        genres: []
+        platforms: []
+        release_year: null
 randomizers:
 -   games:
     - 'Scourge of War: Gettysburg'

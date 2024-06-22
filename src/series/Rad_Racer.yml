@@ -1,6 +1,11 @@
 name: Rad Racer
 comment: null
 sub-series: null
+games:
+    Rad Racer:
+        genres: []
+        platforms: []
+        release_year: null
 randomizers:
 -   games:
     - Rad Racer

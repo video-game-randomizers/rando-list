@@ -1,6 +1,11 @@
 name: Chained Echoes
 comment: null
 sub-series: null
+games:
+    Chained Echoes:
+        genres: []
+        platforms: []
+        release_year: null
 randomizers:
 -   games:
     - Chained Echoes

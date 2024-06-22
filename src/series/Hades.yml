@@ -1,6 +1,11 @@
 name: Hades
 comment: null
 sub-series: null
+games:
+    Hades:
+        genres: []
+        platforms: []
+        release_year: null
 randomizers:
 -   games:
     - Hades

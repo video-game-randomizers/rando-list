@@ -1,6 +1,11 @@
 name: Homeworld
 comment: null
 sub-series: null
+games:
+    Homeworld 2:
+        genres: []
+        platforms: []
+        release_year: null
 randomizers:
 -   games:
     - Homeworld 2

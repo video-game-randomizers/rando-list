@@ -1,6 +1,11 @@
 name: Citadel
 comment: null
 sub-series: null
+games:
+    Citadel:
+        genres: []
+        platforms: []
+        release_year: null
 randomizers:
 -   games:
     - Citadel

@@ -1,6 +1,11 @@
 name: Ittle Dew
 comment: null
 sub-series: null
+games:
+    Ittle Dew 2+:
+        genres: []
+        platforms: []
+        release_year: null
 randomizers:
 -   games:
     - Ittle Dew 2+

@@ -1,6 +1,15 @@
 name: Diablo
 comment: null
 sub-series: null
+games:
+    Diablo II:
+        genres: []
+        platforms: []
+        release_year: null
+    'Diablo II: Resurrected':
+        genres: []
+        platforms: []
+        release_year: null
 randomizers:
 -   games:
     - Diablo II

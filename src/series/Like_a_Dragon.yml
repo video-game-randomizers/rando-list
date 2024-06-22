@@ -1,6 +1,15 @@
 name: Like a Dragon
 comment: null
 sub-series: null
+games:
+    'Like a Dragon: Infinite Wealth':
+        genres: []
+        platforms: []
+        release_year: null
+    'Yakuza: Like a Dragon':
+        genres: []
+        platforms: []
+        release_year: null
 randomizers:
 -   games:
     - 'Yakuza: Like a Dragon'

@@ -1,6 +1,11 @@
 name: Legacy of the Wizard
 comment: null
 sub-series: null
+games:
+    Legacy of the Wizard:
+        genres: []
+        platforms: []
+        release_year: null
 randomizers:
 -   games:
     - Legacy of the Wizard

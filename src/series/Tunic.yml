@@ -1,6 +1,11 @@
 name: Tunic
 comment: null
 sub-series: null
+games:
+    Tunic:
+        genres: []
+        platforms: []
+        release_year: null
 randomizers:
 -   games:
     - Tunic

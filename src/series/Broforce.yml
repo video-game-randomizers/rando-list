@@ -1,6 +1,11 @@
 name: Broforce
 comment: null
 sub-series: null
+games:
+    Broforce:
+        genres: []
+        platforms: []
+        release_year: null
 randomizers:
 -   games:
     - Broforce

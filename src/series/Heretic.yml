@@ -2,6 +2,15 @@ name: Heretic
 comment: null
 sub-series:
 - id Software engines
+games:
+    Heretic:
+        genres: []
+        platforms: []
+        release_year: null
+    'Hexen: Beyond Heretic':
+        genres: []
+        platforms: []
+        release_year: null
 randomizers:
 -   games:
     - Heretic

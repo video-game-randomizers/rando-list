@@ -1,6 +1,11 @@
 name: The Battle of Olympus
 comment: null
 sub-series: null
+games:
+    The Battle of Olympus:
+        genres: []
+        platforms: []
+        release_year: null
 randomizers:
 -   games:
     - The Battle of Olympus

@@ -1,6 +1,11 @@
 name: XCOM
 comment: null
 sub-series: null
+games:
+    'XCOM: Enemy Unknown':
+        genres: []
+        platforms: []
+        release_year: null
 randomizers:
 -   games:
     - 'XCOM: Enemy Unknown'

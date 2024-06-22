@@ -1,6 +1,11 @@
 name: Stardew Valley
 comment: null
 sub-series: null
+games:
+    Stardew Valley:
+        genres: []
+        platforms: []
+        release_year: null
 randomizers:
 -   games:
     - Stardew Valley

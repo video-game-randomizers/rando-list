@@ -1,6 +1,19 @@
 name: Soul Blazer
 comment: null
 sub-series: null
+games:
+    Illusion of Gaia:
+        genres: []
+        platforms: []
+        release_year: null
+    Soul Blazer:
+        genres: []
+        platforms: []
+        release_year: null
+    Terranigma:
+        genres: []
+        platforms: []
+        release_year: null
 randomizers:
 -   games:
     - Soul Blazer

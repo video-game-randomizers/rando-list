@@ -1,6 +1,11 @@
 name: Grandia
 comment: null
 sub-series: null
+games:
+    Grandia HD Remaster:
+        genres: []
+        platforms: []
+        release_year: null
 randomizers:
 -   games:
     - Grandia HD Remaster

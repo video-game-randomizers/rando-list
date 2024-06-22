@@ -1,6 +1,15 @@
 name: SteamWorld
 comment: null
 sub-series: null
+games:
+    SteamWorld Dig:
+        genres: []
+        platforms: []
+        release_year: null
+    SteamWorld Dig 2:
+        genres: []
+        platforms: []
+        release_year: null
 randomizers:
 -   games:
     - SteamWorld Dig

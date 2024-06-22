@@ -1,6 +1,11 @@
 name: Goemon
 comment: null
 sub-series: null
+games:
+    Mystical Ninja Starring Goemon:
+        genres: []
+        platforms: []
+        release_year: null
 randomizers:
 -   games:
     - Mystical Ninja Starring Goemon

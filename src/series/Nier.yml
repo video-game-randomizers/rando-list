@@ -1,6 +1,11 @@
 name: Nier
 comment: null
 sub-series: null
+games:
+    'Nier: Automata':
+        genres: []
+        platforms: []
+        release_year: null
 randomizers:
 -   games:
     - 'Nier: Automata'

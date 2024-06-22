@@ -1,6 +1,27 @@
 name: Civilization
 comment: null
 sub-series: null
+games:
+    C-evo (fangame):
+        genres: []
+        platforms: []
+        release_year: null
+    Civilization IV:
+        genres: []
+        platforms: []
+        release_year: null
+    'Civilization IV: Colonization':
+        genres: []
+        platforms: []
+        release_year: null
+    Civilization V:
+        genres: []
+        platforms: []
+        release_year: null
+    Civilization VI:
+        genres: []
+        platforms: []
+        release_year: null
 randomizers:
 -   games:
     - Civilization IV

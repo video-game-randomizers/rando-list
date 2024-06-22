@@ -1,6 +1,11 @@
 name: Game Dev Tycoon
 comment: null
 sub-series: null
+games:
+    Game Dev Tycoon:
+        genres: []
+        platforms: []
+        release_year: null
 randomizers:
 -   games:
     - Game Dev Tycoon

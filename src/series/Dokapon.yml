@@ -1,6 +1,11 @@
 name: Dokapon
 comment: null
 sub-series: null
+games:
+    Dokapon Kingdom:
+        genres: []
+        platforms: []
+        release_year: null
 randomizers:
 -   games:
     - Dokapon Kingdom

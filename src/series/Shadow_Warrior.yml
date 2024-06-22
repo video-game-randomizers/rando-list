@@ -1,6 +1,11 @@
 name: Shadow Warrior
 comment: null
 sub-series: null
+games:
+    Shadow Warrior (1997):
+        genres: []
+        platforms: []
+        release_year: null
 randomizers:
 -   games:
     - Shadow Warrior (1997)

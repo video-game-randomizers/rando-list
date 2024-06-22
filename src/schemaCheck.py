@@ -7,6 +7,7 @@ import datetime as datetime_module
 from datetime import date
 from datetime import datetime
 import re
+import traceback
 
 # https://json-schema.org/learn/getting-started-step-by-step#going-deeper-with-properties
 # https://cswr.github.io/JsonSchema/spec/introduction/
@@ -21,6 +22,54 @@ MaybeString = {
         },
         {"type": "null"}, 
 ]}
+
+genres = {
+    "type": "array",
+    "minItems": 0,
+    "items": {
+        "type": "string",
+        "enum": [
+            "Adventure", "RPG", "Platformer", "Shooter", "Strategy", "Puzzle",
+        ]
+    }
+}
+
+platforms = {
+    "type": "array",
+    "minItems": 0,
+    "items": {
+        "type": "string",
+        "enum": [
+            "PC",
+            "NES", "SNES", "N64", "GameCube", "Wii", "Wii U", "Switch",
+            "GameBoy", "GBA", "DS", "3DS",
+            "Master System", "Genesis", "Saturn", "Dreamcast",
+            "PS1", "PS2", "PS3", "PS4", "PS5",
+            "PSP", "Vita",
+            "Xbox", "Xbox 360", "Xbox One", "Xbox Series",
+            "Arcade", "MSX",
+        ]
+    }
+}
+
+games_schema = {
+    "type": "object",
+    "additionalProperties": {
+        "type": "object",
+        "properties": {
+            "genres": genres,
+            "platforms": platforms,
+            "release_year": {
+                "type": ["number", 'null'],
+                "minimum": 1900,
+                "maximum": datetime.now().year + 1
+            },
+            "sub-series": ValidString
+        },
+        "required": ["genres", "platforms", "release_year"],
+        "additionalProperties": False
+    }
+}
 
 def randomizer_schema(data):
     ret = {
@@ -56,6 +105,8 @@ def randomizer_schema(data):
         return ret
     if updated >= date(2024, 6, 19):
         ret['required'].append('opensource')
+    if updated >= date(2024, 7, 1):
+        ret['properties'].pop('sub-series') # deprecated, moved to games_schema
     return ret
 
 def series_schema(data):
@@ -67,6 +118,7 @@ def series_schema(data):
             "sub-series": {
                 "type": ["array", "null"],
             },
+            "games": games_schema,
             "randomizers": {
                 "type": "array",
                 "minItems": 1,
@@ -117,6 +169,7 @@ def validateSeriesConfig(path: Path):
     failures = 0
     #modified = get_modified_time(path) # currently we don't need this expensive check
     writeback = False
+    games = set()
     text = path.read_text()
     data = yaml.load(text, Loader=yaml.CLoader)
 
@@ -132,15 +185,21 @@ def validateSeriesConfig(path: Path):
     except ValidationError as e:
         failures += 1
         print('ERROR in', path, ': series definition -\n', e.path, e.message)
+        #raise # uncomment for bigger error messages
     
     for rando in data['randomizers']:
         try:
             validateRando(rando)
+            for game in rando.get('games', []):
+                if 'games' in data and game not in data['games']:
+                    raise ValidationError('game: ' + game + ' is not defined')
+                games.add(game)
         except ValidationError as e:
             failures += 1
             print('\nIn Randomizer definition:', rando)
             id = str(rando.get('game', ''))  + ' ' + str(rando.get('identifier', ''))
             print('\nERROR in', path, ': randomizer definition', id, '-\n', e.path, e.message)
+            #raise # uncomment for bigger error messages
 
         # update rando data
         if not rando.get('info-updated'):
@@ -149,6 +208,15 @@ def validateSeriesConfig(path: Path):
         if not rando.get('added-date'):
             writeback = True
             rando['added-date'] = date(2024, 5, 25)
+
+    if 'games' not in data:
+        newdata: dict = data.copy()
+        newdata.pop('randomizers')
+        games = {key: {'genres':[], 'platforms':[], 'release_year': None} for key in sorted(games)}
+        newdata['games'] = games
+        newdata['randomizers'] = data['randomizers']
+        data = newdata
+        writeback=True
 
     if failures == 0 and writeback:
         out = yaml.dump(data, sort_keys=False, indent=4)
@@ -169,7 +237,9 @@ def validateYamlFiles():
             failures += new_failures
         except Exception as e:
             failures += 1
+            print(traceback.format_exc())
             print('\nERROR in', file, '-\n', e)
+            #raise # uncomment for bigger error messages
 
     print('\n\n')
     assert success > 0

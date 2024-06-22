@@ -1,6 +1,11 @@
 name: Jade Cocoon
 comment: null
 sub-series: null
+games:
+    'Jade Cocoon: Story of the Tamamayu':
+        genres: []
+        platforms: []
+        release_year: null
 randomizers:
 -   games:
     - 'Jade Cocoon: Story of the Tamamayu'

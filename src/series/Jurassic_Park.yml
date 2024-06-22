@@ -1,6 +1,11 @@
 name: Jurassic Park
 comment: null
 sub-series: null
+games:
+    Jurassic Park (Super NES):
+        genres: []
+        platforms: []
+        release_year: null
 randomizers:
 -   games:
     - Jurassic Park (Super NES)

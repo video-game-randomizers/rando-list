@@ -1,6 +1,11 @@
 name: Environmental Station Alpha
 comment: null
 sub-series: null
+games:
+    Environmental Station Alpha:
+        genres: []
+        platforms: []
+        release_year: null
 randomizers:
 -   games:
     - Environmental Station Alpha

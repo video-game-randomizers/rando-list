@@ -1,6 +1,11 @@
 name: Plants vs. Zombies
 comment: null
 sub-series: null
+games:
+    PlantsVsZombies.NET (Plants vs. Zombies unofficial PC port):
+        genres: []
+        platforms: []
+        release_year: null
 randomizers:
 -   games:
     - PlantsVsZombies.NET (Plants vs. Zombies unofficial PC port)

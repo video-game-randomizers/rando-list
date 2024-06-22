@@ -1,6 +1,39 @@
 name: Kirby
 comment: null
 sub-series: null
+games:
+    Kirby & The Amazing Mirror:
+        genres: []
+        platforms: []
+        release_year: null
+    'Kirby 64: The Crystal Shards':
+        genres: []
+        platforms: []
+        release_year: null
+    Kirby Star Allies:
+        genres: []
+        platforms: []
+        release_year: null
+    Kirby Super Star:
+        genres: []
+        platforms: []
+        release_year: null
+    Kirby and the Forgotten Land:
+        genres: []
+        platforms: []
+        release_year: null
+    Kirby's Adventure:
+        genres: []
+        platforms: []
+        release_year: null
+    Kirby's Dream Land 3:
+        genres: []
+        platforms: []
+        release_year: null
+    'Kirby: Nightmare in Dream Land':
+        genres: []
+        platforms: []
+        release_year: null
 randomizers:
 -   games:
     - Kirby's Adventure

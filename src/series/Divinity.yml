@@ -1,6 +1,15 @@
 name: Divinity
 comment: null
 sub-series: null
+games:
+    'Divinity: Original Sin 2':
+        genres: []
+        platforms: []
+        release_year: null
+    'Divinity: Original Sin 2 - Definitive Edition':
+        genres: []
+        platforms: []
+        release_year: null
 randomizers:
 -   games:
     - 'Divinity: Original Sin 2'

@@ -1,6 +1,11 @@
 name: Front Mission
 comment: null
 sub-series: null
+games:
+    'Front Mission 5: Scars of the War':
+        genres: []
+        platforms: []
+        release_year: null
 randomizers:
 -   games:
     - 'Front Mission 5: Scars of the War'

@@ -1,6 +1,19 @@
 name: Shin Megami Tensei
 comment: null
 sub-series: null
+games:
+    Shin Megami Tensei:
+        genres: []
+        platforms: []
+        release_year: null
+    'Shin Megami Tensei III: Nocturne':
+        genres: []
+        platforms: []
+        release_year: null
+    'Shin Megami Tensei: Strange Journey':
+        genres: []
+        platforms: []
+        release_year: null
 randomizers:
 -   games:
     - Shin Megami Tensei

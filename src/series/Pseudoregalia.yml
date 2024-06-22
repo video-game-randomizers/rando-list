@@ -1,6 +1,11 @@
 name: Pseudoregalia
 comment: null
 sub-series: null
+games:
+    Pseudoregalia:
+        genres: []
+        platforms: []
+        release_year: null
 randomizers:
 -   games:
     - Pseudoregalia

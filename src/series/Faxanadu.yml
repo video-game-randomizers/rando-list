@@ -1,6 +1,11 @@
 name: Faxanadu
 comment: null
 sub-series: null
+games:
+    Faxanadu:
+        genres: []
+        platforms: []
+        release_year: null
 randomizers:
 -   games:
     - Faxanadu

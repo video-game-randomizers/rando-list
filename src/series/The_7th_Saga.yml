@@ -1,6 +1,11 @@
 name: The 7th Saga
 comment: null
 sub-series: null
+games:
+    The 7th Saga:
+        genres: []
+        platforms: []
+        release_year: null
 randomizers:
 -   games:
     - The 7th Saga

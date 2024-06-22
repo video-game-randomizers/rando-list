@@ -1,6 +1,11 @@
 name: Lies of P
 comment: null
 sub-series: null
+games:
+    Lies of P:
+        genres: []
+        platforms: []
+        release_year: null
 randomizers:
 -   games:
     - Lies of P

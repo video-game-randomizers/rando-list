@@ -1,6 +1,11 @@
 name: Tecmo Bowl
 comment: null
 sub-series: null
+games:
+    Tecmo Super Bowl:
+        genres: []
+        platforms: []
+        release_year: null
 randomizers:
 -   games:
     - Tecmo Super Bowl

@@ -1,6 +1,11 @@
 name: The Witness
 comment: null
 sub-series: null
+games:
+    The Witness:
+        genres: []
+        platforms: []
+        release_year: null
 randomizers:
 -   games:
     - The Witness

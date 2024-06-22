@@ -1,6 +1,11 @@
 name: State of Decay
 comment: null
 sub-series: null
+games:
+    State of Decay:
+        genres: []
+        platforms: []
+        release_year: null
 randomizers:
 -   games:
     - State of Decay

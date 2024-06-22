@@ -1,6 +1,11 @@
 name: Adventure
 comment: null
 sub-series: null
+games:
+    Adventure:
+        genres: []
+        platforms: []
+        release_year: null
 randomizers:
 -   games:
     - Adventure

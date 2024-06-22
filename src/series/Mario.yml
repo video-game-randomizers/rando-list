@@ -5,6 +5,83 @@ sub-series:
 - 3D platformers
 - Racing
 - RPGs
+games:
+    'Mario & Luigi: Superstar Saga':
+        genres: []
+        platforms: []
+        release_year: null
+    Mario Kart 64:
+        genres: []
+        platforms: []
+        release_year: null
+    New Super Mario Bros. Wii:
+        genres: []
+        platforms: []
+        release_year: null
+    Paper Mario:
+        genres: []
+        platforms: []
+        release_year: null
+    'Paper Mario: The Thousand-Year Door':
+        genres: []
+        platforms: []
+        release_year: null
+    Super Mario 3D World:
+        genres: []
+        platforms: []
+        release_year: null
+    Super Mario 64:
+        genres: []
+        platforms: []
+        release_year: null
+    Super Mario Bros.:
+        genres: []
+        platforms: []
+        release_year: null
+    Super Mario Bros. 2:
+        genres: []
+        platforms: []
+        release_year: null
+    Super Mario Bros. 3:
+        genres: []
+        platforms: []
+        release_year: null
+    Super Mario Bros. Wonder:
+        genres: []
+        platforms: []
+        release_year: null
+    Super Mario Galaxy:
+        genres: []
+        platforms: []
+        release_year: null
+    Super Mario Galaxy 2:
+        genres: []
+        platforms: []
+        release_year: null
+    Super Mario Land 2 DX (hack):
+        genres: []
+        platforms: []
+        release_year: null
+    'Super Mario Land 2: 6 Golden Coins':
+        genres: []
+        platforms: []
+        release_year: null
+    Super Mario RPG (Switch):
+        genres: []
+        platforms: []
+        release_year: null
+    'Super Mario RPG: Legend of the Seven Stars':
+        genres: []
+        platforms: []
+        release_year: null
+    Super Mario World:
+        genres: []
+        platforms: []
+        release_year: null
+    Super Paper Mario:
+        genres: []
+        platforms: []
+        release_year: null
 randomizers:
 -   games:
     - Super Mario Bros.

@@ -1,6 +1,11 @@
 name: Nioh
 comment: null
 sub-series: null
+games:
+    Nioh 2:
+        genres: []
+        platforms: []
+        release_year: null
 randomizers:
 -   games:
     - Nioh 2

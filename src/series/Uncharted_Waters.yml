@@ -1,6 +1,11 @@
 name: Uncharted Waters
 comment: null
 sub-series: null
+games:
+    'Uncharted Waters: New Horizons':
+        genres: []
+        platforms: []
+        release_year: null
 randomizers:
 -   games:
     - 'Uncharted Waters: New Horizons'

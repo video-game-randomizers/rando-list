@@ -1,6 +1,11 @@
 name: Rain World
 comment: null
 sub-series: null
+games:
+    Rain World:
+        genres: []
+        platforms: []
+        release_year: null
 randomizers:
 -   games:
     - Rain World

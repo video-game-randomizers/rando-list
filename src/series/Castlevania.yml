@@ -4,6 +4,55 @@ sub-series:
 - Classic
 - Metroidvania
 - 3D
+games:
+    Castlevania (Nintendo 64):
+        genres: []
+        platforms: []
+        release_year: null
+    'Castlevania II: Simon''s Quest':
+        genres: []
+        platforms: []
+        release_year: null
+    'Castlevania III: Dracula''s Curse':
+        genres: []
+        platforms: []
+        release_year: null
+    'Castlevania: Aria of Sorrow':
+        genres: []
+        platforms: []
+        release_year: null
+    'Castlevania: Circle of the Moon':
+        genres: []
+        platforms: []
+        release_year: null
+    'Castlevania: Dawn of Sorrow':
+        genres: []
+        platforms: []
+        release_year: null
+    'Castlevania: Harmony of Dissonance':
+        genres: []
+        platforms: []
+        release_year: null
+    'Castlevania: Order of Ecclesia':
+        genres: []
+        platforms: []
+        release_year: null
+    'Castlevania: Portrait of Ruin':
+        genres: []
+        platforms: []
+        release_year: null
+    'Castlevania: Symphony of the Night':
+        genres: []
+        platforms: []
+        release_year: null
+    'Castlevania: Symphony of the Night (PlayStation / Saturn)':
+        genres: []
+        platforms: []
+        release_year: null
+    Super Castlevania IV:
+        genres: []
+        platforms: []
+        release_year: null
 randomizers:
 -   games:
     - 'Castlevania II: Simon''s Quest'
@@ -56,10 +105,10 @@ randomizers:
     url: https://raw.githubusercontent.com/josephstevenspgh/SotN-Relic-Randomizer/master/relicrando.py
     sub-series: Metroidvania
     obsolete: true
-    comment: 'Requires [Python 2](https://www.python.org/downloads/) and [PS1 2352
+    comment: Requires [Python 2](https://www.python.org/downloads/) and [PS1 2352
         image EDC/ECC recalculator](https://www.romhacking.net/utilities/1264/) -
         Game data to patch should be named `Castlevania - Symphony of the Night (USA)
-        (Track 1).bin`'
+        (Track 1).bin`
     added-date: 2024-05-25
     info-updated: 2024-05-25
 -   games:

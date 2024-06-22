@@ -1,6 +1,11 @@
 name: Tetris
 comment: null
 sub-series: null
+games:
+    Tetris (NES Nintendo):
+        genres: []
+        platforms: []
+        release_year: null
 randomizers:
 -   games:
     - Tetris (NES Nintendo)

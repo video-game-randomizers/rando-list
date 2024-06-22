@@ -1,6 +1,11 @@
 name: Persona
 comment: null
 sub-series: null
+games:
+    Persona 5 Royal:
+        genres: []
+        platforms: []
+        release_year: null
 randomizers:
 -   games:
     - Persona 5 Royal

@@ -1,6 +1,11 @@
 name: Vagrant Story
 comment: null
 sub-series: null
+games:
+    Vagrant Story:
+        genres: []
+        platforms: []
+        release_year: null
 randomizers:
 -   games:
     - Vagrant Story

@@ -1,6 +1,11 @@
 name: Rayman
 comment: null
 sub-series: null
+games:
+    'Rayman 3: Hoodlum Havoc':
+        genres: []
+        platforms: []
+        release_year: null
 randomizers:
 -   games:
     - 'Rayman 3: Hoodlum Havoc'

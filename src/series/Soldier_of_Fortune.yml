@@ -1,6 +1,11 @@
 name: Soldier of Fortune
 comment: null
 sub-series: null
+games:
+    'Soldier of Fortune II: Double Helix - Gold Edition':
+        genres: []
+        platforms: []
+        release_year: null
 randomizers:
 -   games:
     - 'Soldier of Fortune II: Double Helix - Gold Edition'

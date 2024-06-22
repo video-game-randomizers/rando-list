@@ -1,6 +1,31 @@
 name: Kingdom Hearts
 comment: null
 sub-series: null
+games:
+    Critical Mix (Kingdom Hearts Final Mix mod):
+        genres: []
+        platforms: []
+        release_year: null
+    Kingdom Hearts Birth by Sleep Final Mix:
+        genres: []
+        platforms: []
+        release_year: null
+    Kingdom Hearts Final Mix:
+        genres: []
+        platforms: []
+        release_year: null
+    Kingdom Hearts II Final Mix:
+        genres: []
+        platforms: []
+        release_year: null
+    Kingdom Hearts III:
+        genres: []
+        platforms: []
+        release_year: null
+    'Kingdom Hearts: Chain of Memories':
+        genres: []
+        platforms: []
+        release_year: null
 randomizers:
 -   games:
     - Kingdom Hearts Final Mix

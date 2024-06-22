@@ -1,6 +1,15 @@
 name: Celeste
 comment: null
 sub-series: null
+games:
+    Celeste:
+        genres: []
+        platforms: []
+        release_year: null
+    'Celeste 64: Fragments of the Mountain':
+        genres: []
+        platforms: []
+        release_year: null
 randomizers:
 -   games:
     - Celeste

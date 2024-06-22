@@ -1,6 +1,15 @@
 name: Chex Quest
 comment: null
 sub-series: null
+games:
+    Chex Quest:
+        genres: []
+        platforms: []
+        release_year: null
+    Chex Quest 3 (fangame):
+        genres: []
+        platforms: []
+        release_year: null
 randomizers:
 -   games:
     - Chex Quest

@@ -1,6 +1,11 @@
 name: Kid Chameleon
 comment: null
 sub-series: null
+games:
+    Kid Chameleon:
+        genres: []
+        platforms: []
+        release_year: null
 randomizers:
 -   games:
     - Kid Chameleon

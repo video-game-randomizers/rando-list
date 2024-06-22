@@ -1,6 +1,11 @@
 name: Punch-Out!!
 comment: null
 sub-series: null
+games:
+    Mike Tyson's Punch-Out!!:
+        genres: []
+        platforms: []
+        release_year: null
 randomizers:
 -   games:
     - Mike Tyson's Punch-Out!!

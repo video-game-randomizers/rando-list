@@ -1,6 +1,11 @@
 name: Ultrakill
 comment: null
 sub-series: null
+games:
+    Ultrakill:
+        genres: []
+        platforms: []
+        release_year: null
 randomizers:
 -   games:
     - Ultrakill

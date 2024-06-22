@@ -1,6 +1,11 @@
 name: Banjo-Kazooie
 comment: null
 sub-series: null
+games:
+    Banjo-Kazooie:
+        genres: []
+        platforms: []
+        release_year: null
 randomizers:
 -   games:
     - Banjo-Kazooie

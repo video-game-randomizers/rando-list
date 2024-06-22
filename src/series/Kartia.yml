@@ -1,6 +1,11 @@
 name: Kartia
 comment: null
 sub-series: null
+games:
+    'Kartia: The Word of Fate':
+        genres: []
+        platforms: []
+        release_year: null
 randomizers:
 -   games:
     - 'Kartia: The Word of Fate'

@@ -1,6 +1,15 @@
 name: Golden Sun
 comment: null
 sub-series: null
+games:
+    Golden Sun:
+        genres: []
+        platforms: []
+        release_year: null
+    'Golden Sun: The Lost Age':
+        genres: []
+        platforms: []
+        release_year: null
 randomizers:
 -   games:
     - Golden Sun

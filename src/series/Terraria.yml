@@ -1,6 +1,11 @@
 name: Terraria
 comment: null
 sub-series: null
+games:
+    Terraria:
+        genres: []
+        platforms: []
+        release_year: null
 randomizers:
 -   games:
     - Terraria

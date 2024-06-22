@@ -1,6 +1,11 @@
 name: Spelunky
 comment: null
 sub-series: null
+games:
+    Spelunky 2:
+        genres: []
+        platforms: []
+        release_year: null
 randomizers:
 -   games:
     - Spelunky 2

@@ -1,6 +1,11 @@
 name: Chibi-Robo!
 comment: null
 sub-series: null
+games:
+    Chibi-Robo!:
+        genres: []
+        platforms: []
+        release_year: null
 randomizers:
 -   games:
     - Chibi-Robo!

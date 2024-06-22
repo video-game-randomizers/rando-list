@@ -1,6 +1,11 @@
 name: Alien
 comment: null
 sub-series: null
+games:
+    'Alien: Isolation':
+        genres: []
+        platforms: []
+        release_year: null
 randomizers:
 -   games:
     - 'Alien: Isolation'

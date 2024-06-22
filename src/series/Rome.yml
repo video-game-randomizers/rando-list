@@ -2,6 +2,11 @@ name: Rome
 comment: Old versions of Paradox Development Studio games are available on Steam as
     betas.
 sub-series: null
+games:
+    'Imperator: Rome':
+        genres: []
+        platforms: []
+        release_year: null
 randomizers:
 -   games:
     - 'Imperator: Rome'

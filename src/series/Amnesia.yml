@@ -1,6 +1,11 @@
 name: Amnesia
 comment: null
 sub-series: null
+games:
+    'Amnesia: The Bunker':
+        genres: []
+        platforms: []
+        release_year: null
 randomizers:
 -   games:
     - 'Amnesia: The Bunker'

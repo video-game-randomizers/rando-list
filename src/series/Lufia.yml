@@ -1,6 +1,11 @@
 name: Lufia
 comment: null
 sub-series: null
+games:
+    'Lufia II: Rise of the Sinistrals':
+        genres: []
+        platforms: []
+        release_year: null
 randomizers:
 -   games:
     - 'Lufia II: Rise of the Sinistrals'

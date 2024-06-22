@@ -1,6 +1,19 @@
 name: Undertale
 comment: null
 sub-series: null
+games:
+    Deltarune (Chapter 1&2):
+        genres: []
+        platforms: []
+        release_year: null
+    Deltarune (SURVEY_PROGRAM):
+        genres: []
+        platforms: []
+        release_year: null
+    Undertale:
+        genres: []
+        platforms: []
+        release_year: null
 randomizers:
 -   games:
     - Undertale

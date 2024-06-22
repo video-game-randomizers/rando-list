@@ -1,6 +1,11 @@
 name: Record of Lodoss War
 comment: null
 sub-series: null
+games:
+    'Record of Lodoss War: Deedlit in Wonder Labyrinth':
+        genres: []
+        platforms: []
+        release_year: null
 randomizers:
 -   games:
     - 'Record of Lodoss War: Deedlit in Wonder Labyrinth'

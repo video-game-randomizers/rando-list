@@ -1,6 +1,11 @@
 name: Titanfall
 comment: null
 sub-series: null
+games:
+    Titanfall 2:
+        genres: []
+        platforms: []
+        release_year: null
 randomizers:
 -   games:
     - Titanfall 2

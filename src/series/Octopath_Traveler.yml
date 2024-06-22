@@ -1,6 +1,15 @@
 name: Octopath Traveler
 comment: null
 sub-series: null
+games:
+    Octopath Traveler:
+        genres: []
+        platforms: []
+        release_year: null
+    Octopath Traveler II:
+        genres: []
+        platforms: []
+        release_year: null
 randomizers:
 -   games:
     - Octopath Traveler

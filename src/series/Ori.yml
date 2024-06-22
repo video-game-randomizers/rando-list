@@ -1,6 +1,15 @@
 name: Ori
 comment: null
 sub-series: null
+games:
+    'Ori and the Blind Forest: Definitive Edition':
+        genres: []
+        platforms: []
+        release_year: null
+    Ori and the Will of the Wisps:
+        genres: []
+        platforms: []
+        release_year: null
 randomizers:
 -   games:
     - 'Ori and the Blind Forest: Definitive Edition'

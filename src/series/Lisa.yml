@@ -1,6 +1,11 @@
 name: Lisa
 comment: null
 sub-series: null
+games:
+    'Lisa: The Pointless (fangame)':
+        genres: []
+        platforms: []
+        release_year: null
 randomizers:
 -   games:
     - 'Lisa: The Pointless (fangame)'

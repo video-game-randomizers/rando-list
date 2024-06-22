@@ -1,6 +1,31 @@
 name: Deus Ex
 comment: null
 sub-series: null
+games:
+    Deus Ex:
+        genres: []
+        platforms: []
+        release_year: null
+    GMDX (mod):
+        genres: []
+        platforms: []
+        release_year: null
+    HX (mod):
+        genres: []
+        platforms: []
+        release_year: null
+    Lay D Denton (mod):
+        genres: []
+        platforms: []
+        release_year: null
+    Revision (mod):
+        genres: []
+        platforms: []
+        release_year: null
+    Vanilla? Madder. (mod):
+        genres: []
+        platforms: []
+        release_year: null
 randomizers:
 -   games:
     - Deus Ex

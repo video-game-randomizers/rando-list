@@ -1,6 +1,19 @@
 name: EarthBound
 comment: null
 sub-series: null
+games:
+    EarthBound:
+        genres: []
+        platforms: []
+        release_year: null
+    EarthBound Beginnings:
+        genres: []
+        platforms: []
+        release_year: null
+    Mother 3:
+        genres: []
+        platforms: []
+        release_year: null
 randomizers:
 -   games:
     - EarthBound Beginnings

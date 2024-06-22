@@ -1,6 +1,19 @@
 name: The Legend of Heroes
 comment: null
 sub-series: null
+games:
+    'The Legend of Heroes: Trails into Reverie':
+        genres: []
+        platforms: []
+        release_year: null
+    'The Legend of Heroes: Trails of Cold Steel':
+        genres: []
+        platforms: []
+        release_year: null
+    'The Legend of Heroes: Trails of Cold Steel III':
+        genres: []
+        platforms: []
+        release_year: null
 randomizers:
 -   games:
     - 'The Legend of Heroes: Trails of Cold Steel'

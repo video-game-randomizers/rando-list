@@ -1,6 +1,11 @@
 name: Shogun Showdown
 comment: null
 sub-series: null
+games:
+    Shogun Showdown:
+        genres: []
+        platforms: []
+        release_year: null
 randomizers:
 -   games:
     - Shogun Showdown

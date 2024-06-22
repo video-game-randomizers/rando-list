@@ -1,6 +1,11 @@
 name: Project Wingman
 comment: null
 sub-series: null
+games:
+    Project Wingman:
+        genres: []
+        platforms: []
+        release_year: null
 randomizers:
 -   games:
     - Project Wingman

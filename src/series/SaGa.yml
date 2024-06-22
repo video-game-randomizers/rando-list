@@ -1,6 +1,19 @@
 name: SaGa
 comment: null
 sub-series: null
+games:
+    Final Fantasy Legend II:
+        genres: []
+        platforms: []
+        release_year: null
+    Final Fantasy Legend III:
+        genres: []
+        platforms: []
+        release_year: null
+    The Final Fantasy Legend:
+        genres: []
+        platforms: []
+        release_year: null
 randomizers:
 -   games:
     - The Final Fantasy Legend

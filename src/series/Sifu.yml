@@ -1,6 +1,11 @@
 name: Sifu
 comment: null
 sub-series: null
+games:
+    Sifu:
+        genres: []
+        platforms: []
+        release_year: null
 randomizers:
 -   games:
     - Sifu

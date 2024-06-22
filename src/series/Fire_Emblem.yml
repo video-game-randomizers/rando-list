@@ -1,6 +1,83 @@
 name: Fire Emblem
 comment: null
 sub-series: null
+games:
+    '(10) Fire Emblem: Radiant Dawn':
+        genres: []
+        platforms: []
+        release_year: null
+    '(11) Fire Emblem: Shadow Dragon':
+        genres: []
+        platforms: []
+        release_year: null
+    '(12) Fire Emblem: New Mystery of the Emblem':
+        genres: []
+        platforms: []
+        release_year: null
+    (13) Fire Emblem Awakening:
+        genres: []
+        platforms: []
+        release_year: null
+    (14) Fire Emblem Fates:
+        genres: []
+        platforms: []
+        release_year: null
+    '(16) Fire Emblem: Three Houses':
+        genres: []
+        platforms: []
+        release_year: null
+    (17) Fire Emblem Engage:
+        genres: []
+        platforms: []
+        release_year: null
+    '(4) Fire Emblem: Genealogy of the Holy War':
+        genres: []
+        platforms: []
+        release_year: null
+    '(4, 6-9) Fire Emblem: Genealogy of the Holy War':
+        genres: []
+        platforms: []
+        release_year: null
+    '(5) Fire Emblem: Thracia 776':
+        genres: []
+        platforms: []
+        release_year: null
+    '(6) Fire Emblem: The Binding Blade':
+        genres: []
+        platforms: []
+        release_year: null
+    '(6-8) Fire Emblem: The Binding Blade':
+        genres: []
+        platforms: []
+        release_year: null
+    '(7) Fire Emblem: The Blazing Blade':
+        genres: []
+        platforms: []
+        release_year: null
+    '(8) Fire Emblem: The Sacred Stones':
+        genres: []
+        platforms: []
+        release_year: null
+    '(9) Fire Emblem: Path of Radiance':
+        genres: []
+        platforms: []
+        release_year: null
+    'Fire Emblem: Path of Radiance':
+        genres: []
+        platforms: []
+        release_year: null
+    'Fire Emblem: The Binding Blade':
+        genres: []
+        platforms: []
+        release_year: null
+    'Fire Emblem: The Blazing Blade':
+        genres: []
+        platforms: []
+        release_year: null
+    'Fire Emblem: The Sacred Stones':
+        genres: []
+        platforms: []
+        release_year: null
 randomizers:
 -   games:
     - '(4, 6-9) Fire Emblem: Genealogy of the Holy War'

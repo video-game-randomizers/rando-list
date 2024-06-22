@@ -1,6 +1,15 @@
 name: Star Fox
 comment: null
 sub-series: null
+games:
+    Star Fox:
+        genres: []
+        platforms: []
+        release_year: null
+    Star Fox 64:
+        genres: []
+        platforms: []
+        release_year: null
 randomizers:
 -   games:
     - Star Fox

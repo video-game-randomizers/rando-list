@@ -1,6 +1,11 @@
 name: Custom Robo
 comment: null
 sub-series: null
+games:
+    Custom Robo:
+        genres: []
+        platforms: []
+        release_year: null
 randomizers:
 -   games:
     - Custom Robo

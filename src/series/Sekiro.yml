@@ -1,6 +1,11 @@
 name: Sekiro
 comment: null
 sub-series: null
+games:
+    'Sekiro: Shadows Die Twice':
+        genres: []
+        platforms: []
+        release_year: null
 randomizers:
 -   games:
     - 'Sekiro: Shadows Die Twice'

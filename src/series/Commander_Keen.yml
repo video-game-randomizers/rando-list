@@ -1,6 +1,11 @@
 name: Commander Keen
 comment: null
 sub-series: null
+games:
+    'Commander Keen: Invasion of the Vorticons (shareware)':
+        genres: []
+        platforms: []
+        release_year: null
 randomizers:
 -   games:
     - 'Commander Keen: Invasion of the Vorticons (shareware)'

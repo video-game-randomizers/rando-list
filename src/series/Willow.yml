@@ -1,6 +1,11 @@
 name: Willow
 comment: null
 sub-series: null
+games:
+    Willow (NES):
+        genres: []
+        platforms: []
+        release_year: null
 randomizers:
 -   games:
     - Willow (NES)

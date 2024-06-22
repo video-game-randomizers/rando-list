@@ -1,6 +1,11 @@
 name: Shadowrun
 comment: null
 sub-series: null
+games:
+    Shadowrun:
+        genres: []
+        platforms: []
+        release_year: null
 randomizers:
 -   games:
     - Shadowrun

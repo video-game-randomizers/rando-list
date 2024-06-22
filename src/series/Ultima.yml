@@ -1,6 +1,19 @@
 name: Ultima
 comment: null
 sub-series: null
+games:
+    'Ultima IV: Quest of the Avatar (NES)':
+        genres: []
+        platforms: []
+        release_year: null
+    'Ultima IV: Quest of the Avatar (PC)':
+        genres: []
+        platforms: []
+        release_year: null
+    'Ultima VI: The False Prophet (Super NES)':
+        genres: []
+        platforms: []
+        release_year: null
 randomizers:
 -   games:
     - 'Ultima IV: Quest of the Avatar (PC)'

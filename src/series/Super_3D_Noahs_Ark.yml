@@ -1,6 +1,12 @@
 name: Super 3D Noah's Ark
 comment: null
-sub-series: [id Software engines]
+sub-series:
+- id Software engines
+games:
+    Super 3D Noah's Ark:
+        genres: []
+        platforms: []
+        release_year: null
 randomizers:
 -   games:
     - Super 3D Noah's Ark

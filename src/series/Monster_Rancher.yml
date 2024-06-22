@@ -1,6 +1,11 @@
 name: Monster Rancher
 comment: null
 sub-series: null
+games:
+    Monster Rancher 2:
+        genres: []
+        platforms: []
+        release_year: null
 randomizers:
 -   games:
     - Monster Rancher 2

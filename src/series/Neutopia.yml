@@ -1,6 +1,11 @@
 name: Neutopia
 comment: null
 sub-series: null
+games:
+    Neutopia:
+        genres: []
+        platforms: []
+        release_year: null
 randomizers:
 -   games:
     - Neutopia

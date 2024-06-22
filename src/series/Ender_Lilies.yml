@@ -1,6 +1,11 @@
 name: Ender Lilies
 comment: null
 sub-series: null
+games:
+    'Ender Lilies: Quietus of the Knights':
+        genres: []
+        platforms: []
+        release_year: null
 randomizers:
 -   games:
     - 'Ender Lilies: Quietus of the Knights'

@@ -1,4 +1,9 @@
 name: Castle Crashers
+games:
+    Castle Crashers (Remastered):
+        genres: []
+        platforms: []
+        release_year: null
 randomizers:
 -   games:
     - Castle Crashers (Remastered)

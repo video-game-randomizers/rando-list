@@ -4,6 +4,47 @@ sub-series:
 - 2D
 - 3D
 - Unofficial
+games:
+    Shadow the Hedgehog:
+        genres: []
+        platforms: []
+        release_year: null
+    Sonic & Knuckles Collection:
+        genres: []
+        platforms: []
+        release_year: null
+    Sonic Adventure 2:
+        genres: []
+        platforms: []
+        release_year: null
+    Sonic Adventure DX:
+        genres: []
+        platforms: []
+        release_year: null
+    Sonic CD:
+        genres: []
+        platforms: []
+        release_year: null
+    Sonic Mania:
+        genres: []
+        platforms: []
+        release_year: null
+    Sonic Robo Blast 2 (fangame):
+        genres: []
+        platforms: []
+        release_year: null
+    Sonic the Hedgehog:
+        genres: []
+        platforms: []
+        release_year: null
+    Sonic the Hedgehog (2006):
+        genres: []
+        platforms: []
+        release_year: null
+    Sonic the Hedgehog (Master System):
+        genres: []
+        platforms: []
+        release_year: null
 randomizers:
 -   games:
     - Sonic the Hedgehog

@@ -1,6 +1,15 @@
 name: Fallout
 comment: null
 sub-series: null
+games:
+    Fallout 4:
+        genres: []
+        platforms: []
+        release_year: null
+    'Fallout: New Vegas':
+        genres: []
+        platforms: []
+        release_year: null
 randomizers:
 -   games:
     - 'Fallout: New Vegas'

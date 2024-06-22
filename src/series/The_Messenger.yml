@@ -1,6 +1,11 @@
 name: The Messenger
 comment: null
 sub-series: null
+games:
+    The Messenger:
+        genres: []
+        platforms: []
+        release_year: null
 randomizers:
 -   games:
     - The Messenger

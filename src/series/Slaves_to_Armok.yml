@@ -1,4 +1,9 @@
 name: 'Slaves to Armok: God of Blood'
+games:
+    Dwarf Fortress:
+        genres: []
+        platforms: []
+        release_year: null
 randomizers:
 -   games:
     - Dwarf Fortress

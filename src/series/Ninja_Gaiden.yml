@@ -1,6 +1,11 @@
 name: Ninja Gaiden
 comment: null
 sub-series: null
+games:
+    Ninja Gaiden (NES):
+        genres: []
+        platforms: []
+        release_year: null
 randomizers:
 -   games:
     - Ninja Gaiden (NES)

@@ -1,6 +1,11 @@
 name: Salt and Sanctuary
 comment: null
 sub-series: null
+games:
+    Salt and Sanctuary:
+        genres: []
+        platforms: []
+        release_year: null
 randomizers:
 -   games:
     - Salt and Sanctuary

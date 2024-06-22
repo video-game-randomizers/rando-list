@@ -1,6 +1,19 @@
 name: SpongeBob SquarePants
 comment: null
 sub-series: null
+games:
+    'SpongeBob SquarePants: Battle for Bikini Bottom (GameCube / Xbox / PS2)':
+        genres: []
+        platforms: []
+        release_year: null
+    'SpongeBob SquarePants: Battle for Bikini Bottom (GameCube)':
+        genres: []
+        platforms: []
+        release_year: null
+    The SpongeBob SquarePants Movie (GameCube / Xbox / PS2):
+        genres: []
+        platforms: []
+        release_year: null
 randomizers:
 -   games:
     - 'SpongeBob SquarePants: Battle for Bikini Bottom (GameCube)'

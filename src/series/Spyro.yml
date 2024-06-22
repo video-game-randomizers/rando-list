@@ -1,6 +1,15 @@
 name: Spyro
 comment: null
 sub-series: null
+games:
+    Spyro the Dragon:
+        genres: []
+        platforms: []
+        release_year: null
+    'Spyro: Year of the Dragon':
+        genres: []
+        platforms: []
+        release_year: null
 randomizers:
 -   games:
     - Spyro the Dragon

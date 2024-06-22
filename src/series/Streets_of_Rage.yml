@@ -1,6 +1,19 @@
 name: Streets of Rage
 comment: null
 sub-series: null
+games:
+    Streets of Rage 2:
+        genres: []
+        platforms: []
+        release_year: null
+    Streets of Rage 2 Syndicate Wars (hack):
+        genres: []
+        platforms: []
+        release_year: null
+    Streets of Rage 4:
+        genres: []
+        platforms: []
+        release_year: null
 randomizers:
 -   games:
     - Streets of Rage 2

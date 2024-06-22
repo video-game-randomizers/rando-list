@@ -1,6 +1,11 @@
 name: Zero Sievert
 comment: null
 sub-series: null
+games:
+    Zero Sievert:
+        genres: []
+        platforms: []
+        release_year: null
 randomizers:
 -   games:
     - Zero Sievert

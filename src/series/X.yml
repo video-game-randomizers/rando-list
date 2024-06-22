@@ -1,6 +1,15 @@
 name: X
 comment: null
 sub-series: null
+games:
+    'X2: The Threat':
+        genres: []
+        platforms: []
+        release_year: null
+    'X3: Terran Conflict':
+        genres: []
+        platforms: []
+        release_year: null
 randomizers:
 -   games:
     - 'X2: The Threat'

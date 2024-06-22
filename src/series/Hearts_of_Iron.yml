@@ -3,6 +3,11 @@ comment: _Old versions of Paradox Development Studio games are available on Stea
     as betas. To unlock Hearts of Iron IV versions prior to 1.5.4, refer to [this
     official announcement](https://forum.paradoxplaza.com/forum/threads/changes-to-playing-previous-versions-of-pds-titles.1120883/)._
 sub-series: null
+games:
+    Hearts of Iron IV:
+        genres: []
+        platforms: []
+        release_year: null
 randomizers:
 -   games:
     - Hearts of Iron IV

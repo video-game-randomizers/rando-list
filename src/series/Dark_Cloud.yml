@@ -1,6 +1,15 @@
 name: Dark Cloud
 comment: null
 sub-series: null
+games:
+    Dark Cloud:
+        genres: []
+        platforms: []
+        release_year: null
+    Dark Cloud 2:
+        genres: []
+        platforms: []
+        release_year: null
 randomizers:
 -   games:
     - Dark Cloud

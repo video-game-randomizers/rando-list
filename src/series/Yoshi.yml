@@ -1,6 +1,11 @@
 name: Yoshi
 comment: null
 sub-series: null
+games:
+    Yoshi's Island:
+        genres: []
+        platforms: []
+        release_year: null
 randomizers:
 -   games:
     - Yoshi's Island

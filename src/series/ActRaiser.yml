@@ -1,6 +1,11 @@
 name: ActRaiser
 comment: null
 sub-series: null
+games:
+    ActRaiser:
+        genres: []
+        platforms: []
+        release_year: null
 randomizers:
 -   games:
     - ActRaiser

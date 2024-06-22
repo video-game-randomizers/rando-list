@@ -3,6 +3,23 @@ comment: A game downgrade to the last version released before 2022-01-23 may be 
     for some of these randomizers. For Dark Souls III, this would be application v1.15
     with regulation v1.35.
 sub-series: null
+games:
+    'Dark Souls II: Scholar of the First Sin':
+        genres: []
+        platforms: []
+        release_year: null
+    Dark Souls III:
+        genres: []
+        platforms: []
+        release_year: null
+    'Dark Souls: Prepare to Die Edition':
+        genres: []
+        platforms: []
+        release_year: null
+    'Dark Souls: Remastered':
+        genres: []
+        platforms: []
+        release_year: null
 randomizers:
 -   games:
     - 'Dark Souls: Prepare to Die Edition'

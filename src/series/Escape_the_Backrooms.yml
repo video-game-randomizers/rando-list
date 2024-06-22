@@ -1,6 +1,11 @@
 name: Escape the Backrooms
 comment: null
 sub-series: null
+games:
+    Escape the Backrooms:
+        genres: []
+        platforms: []
+        release_year: null
 randomizers:
 -   games:
     - Escape the Backrooms

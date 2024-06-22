@@ -1,6 +1,11 @@
 name: Pizza Tower
 comment: null
 sub-series: null
+games:
+    Pizza Tower:
+        genres: []
+        platforms: []
+        release_year: null
 randomizers:
 -   games:
     - Pizza Tower

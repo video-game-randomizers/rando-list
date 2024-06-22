@@ -1,6 +1,11 @@
 name: PowerSlave
 comment: null
 sub-series: null
+games:
+    PowerSlave (PC 1996):
+        genres: []
+        platforms: []
+        release_year: null
 randomizers:
 -   games:
     - PowerSlave (PC 1996)

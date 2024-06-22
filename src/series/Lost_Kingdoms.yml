@@ -1,6 +1,11 @@
 name: Lost Kingdoms
 comment: null
 sub-series: null
+games:
+    Lost Kingdoms:
+        genres: []
+        platforms: []
+        release_year: null
 randomizers:
 -   games:
     - Lost Kingdoms

@@ -1,6 +1,11 @@
 name: Gratuitous Space Battles
 comment: null
 sub-series: null
+games:
+    Gratuitous Space Battles:
+        genres: []
+        platforms: []
+        release_year: null
 randomizers:
 -   games:
     - Gratuitous Space Battles

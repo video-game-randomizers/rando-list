@@ -1,6 +1,11 @@
 name: Rabi-Ribi
 comment: null
 sub-series: null
+games:
+    Rabi-Ribi:
+        genres: []
+        platforms: []
+        release_year: null
 randomizers:
 -   games:
     - Rabi-Ribi

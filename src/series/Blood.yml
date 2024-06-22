@@ -1,6 +1,11 @@
 name: Blood
 comment: null
 sub-series: null
+games:
+    Blood:
+        genres: []
+        platforms: []
+        release_year: null
 randomizers:
 -   games:
     - Blood

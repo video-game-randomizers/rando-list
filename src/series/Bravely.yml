@@ -1,6 +1,19 @@
 name: Bravely
 comment: null
 sub-series: null
+games:
+    Bravely Default:
+        genres: []
+        platforms: []
+        release_year: null
+    Bravely Default II:
+        genres: []
+        platforms: []
+        release_year: null
+    'Bravely Second: End Layer':
+        genres: []
+        platforms: []
+        release_year: null
 randomizers:
 -   games:
     - Bravely Default

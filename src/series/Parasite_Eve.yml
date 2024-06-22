@@ -1,6 +1,11 @@
 name: Parasite Eve
 comment: null
 sub-series: null
+games:
+    Parasite Eve II:
+        genres: []
+        platforms: []
+        release_year: null
 randomizers:
 -   games:
     - Parasite Eve II
