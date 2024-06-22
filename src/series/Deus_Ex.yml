@@ -3,28 +3,28 @@ comment: null
 sub-series: null
 games:
     Deus Ex:
-        genres: []
-        platforms: []
-        release_year: null
+        genres: [RPG, Shooter]
+        platforms: [PC]
+        release_year: 2000
     GMDX (mod):
-        genres: []
-        platforms: []
+        genres: [RPG, Shooter]
+        platforms: [PC]
         release_year: null
     HX (mod):
-        genres: []
-        platforms: []
+        genres: [RPG, Shooter]
+        platforms: [PC]
         release_year: null
     Lay D Denton (mod):
-        genres: []
-        platforms: []
+        genres: [RPG, Shooter]
+        platforms: [PC]
         release_year: null
     Revision (mod):
-        genres: []
-        platforms: []
+        genres: [RPG, Shooter]
+        platforms: [PC]
         release_year: null
     Vanilla? Madder. (mod):
-        genres: []
-        platforms: []
+        genres: [RPG, Shooter]
+        platforms: [PC]
         release_year: null
 randomizers:
 -   games:
