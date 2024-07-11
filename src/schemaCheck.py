@@ -105,8 +105,8 @@ def randomizer_schema(data):
         return ret
     if updated >= date(2024, 6, 19):
         ret['required'].append('opensource')
-    if updated >= date(2024, 7, 1):
-        ret['properties'].pop('sub-series') # deprecated, moved to games_schema
+    if updated >= date(2024, 8, 1):
+        ret['properties'].pop('sub-series') # deprecated, moving to games_schema, still need to fix html template to support both
     return ret
 
 def series_schema(data):

@@ -34,6 +34,7 @@ games:
         genres: []
         platforms: []
         release_year: null
+        sub-series: Core
     "(I) Pok\xE9mon Red Speedchoice (hack)":
         genres: []
         platforms: []
@@ -42,6 +43,7 @@ games:
         genres: []
         platforms: []
         release_year: null
+        sub-series: Core
     "(I) Pok\xE9mon Stadium":
         genres: []
         platforms: []
@@ -50,14 +52,17 @@ games:
         genres: []
         platforms: []
         release_year: null
+        sub-series: Core
     (I-V) Gens I to V all:
         genres: []
         platforms: []
         release_year: null
+        sub-series: Core
     (I-VII) Gens I to VI all:
         genres: []
         platforms: []
         release_year: null
+        sub-series: Core
     (II) Gen II secondary:
         genres: []
         platforms: []
@@ -218,6 +223,11 @@ games:
         genres: []
         platforms: []
         release_year: null
+    "Pok\xE9mon Ranger: Shadows of Almia":
+        genres: [RPG]
+        platforms: [DS, Wii U]
+        release_year: 2008
+        sub-series: Spin-offs
 randomizers:
 -   games:
     - (I-VII) Gens I to VI all
@@ -227,6 +237,14 @@ randomizers:
     sub-series: Core
     added-date: 2024-05-25
     info-updated: 2024-05-25
+-   games:
+    - (I-V) Gens I to V all
+    identifier: voliol's Universal Pokemon Randomizer ZX
+    url: https://github.com/voliol/universal-pokemon-randomizer
+    sub-series: Core
+    added-date: 2024-07-11
+    info-updated: 2024-07-11
+    opensource: true
 -   games:
     - (I-V) Gens I to V all
     identifier: Universal Pokemon Randomizer
@@ -636,3 +654,11 @@ randomizers:
     sub-series: Unofficial
     added-date: 2024-05-25
     info-updated: 2024-05-25
+-   games:
+    - "Pok\xE9mon Ranger: Shadows of Almia"
+    identifier: ronitsinha's
+    url: https://github.com/ronitsinha/almia-randomizer
+    sub-series: Spin-offs
+    added-date: 2024-07-11
+    info-updated: 2024-07-11
+    opensource: true
