@@ -16,7 +16,14 @@
 {%- endfor -%}
 
 {%- assign randos = randos | sort_natural: "info-updated" | reverse -%}
+{%- assign prev_updated = "" -%}
 
 {%- for rando in randos -%}
-    {%- include rando.html rando=rando parent_name="recents" standalone=true -%}
+    {%- if prev_updated != rando.info-updated -%}
+    {%- assign prev_updated = rando.info-updated -%}
+        <h3>Updated {{ prev_updated }}</h3>
+    {%- endif -%}
+    <ul class="recents-list">
+        {%- include rando.html rando=rando parent_name="recents" standalone=true -%}
+    </ul>
 {%- endfor -%}
