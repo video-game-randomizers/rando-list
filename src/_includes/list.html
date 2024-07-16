@@ -4,6 +4,10 @@
     {%- assign series_id=series[0] -%}
     {%- assign series_data=series[1] -%}
 
+    {%- if series_id == 'Multi-series' -%}
+        {%- continue -%}
+    {%- endif -%}
+
     {%- assign series_sorted = series_sorted | push: series_data -%}
 {%- endfor -%}
 
@@ -11,7 +15,7 @@
 
 
 {% for series in series_sorted %}
-    {% include series.html id="testid" series=series %}
+    {% include series.html series=series %}
 {% endfor %}
 
 {% assign series_id='Multi-series' %}
