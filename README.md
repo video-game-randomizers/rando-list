@@ -1,7 +1,7 @@
 # The BIG List of Video Game Randomizers
 
-- Home page: <https://www.debigare.com/randomizers/>
-- Work in progress new page: <https://video-game-randomizers.github.io/rando-list/>
+- New website: <https://video-game-randomizers.github.io/rando-list/>
+- Old website: <https://www.debigare.com/randomizers/>
 - Discord Community Server: <https://discord.com/invite/YREMzGQ3gd>
 
 ## About

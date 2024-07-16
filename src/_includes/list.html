@@ -1,13 +1,17 @@
+{%- assign series_sorted = "" | split: "" -%}
 
-{% for series in include.series %}
-    {% assign series_id=series[0] %}
-    {% assign series_data=series[1] %}
+{%- for series in include.series -%}
+    {%- assign series_id=series[0] -%}
+    {%- assign series_data=series[1] -%}
 
-    {% if series_id == 'Multi-series' %}
-        {% continue %}
-    {% endif %}
+    {%- assign series_sorted = series_sorted | push: series_data -%}
+{%- endfor -%}
 
-    {% include series.html id=series_id series=series_data %}
+{%- assign series_sorted = series_sorted | sort_natural: "name" -%}
+
+
+{% for series in series_sorted %}
+    {% include series.html id="testid" series=series %}
 {% endfor %}
 
 {% assign series_id='Multi-series' %}
