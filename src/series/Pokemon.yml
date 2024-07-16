@@ -1,29 +1,19 @@
 name: "Pok\xE9mon"
-comment: "Note that for readability, the core games in this series may be referred\
-    \ to one the following **Generation (Gen)** groupings instead of their full names:__Speedchoice\
-    \ hacks are available on the [Pokemon Crystal Randomizer Central Discord server](https://discord.com/invite/nT56DbT)\
-    \ in the #resources channel.\n- _**I**: Pok\xC3\xA9mon Red Version (international)\
-    \ / Pok\xC3\xA9mon Blue\\ \\ Version (international) as **primary**, Pok\xC3\xA9\
-    mon Yellow Version: Special\\ \\ Pikachu Edition as **secondary**_\n- _**II**:\
-    \ Pok\xC3\xA9mon Gold Version / Pok\xC3\xA9mon Silver Version as **primary**,\\\
-    \ \\ Pok\xC3\xA9mon Crystal Version as **secondary**_\n- _**III**: Pok\xC3\xA9\
-    mon Ruby Version / Pok\xC3\xA9mon Sapphire Version as\\ \\ **primary**, Pok\xC3\
-    \xA9mon Emerald Version as **secondary**, Pok\xC3\xA9mon FireRed\\ \\ Version\
-    \ / Pok\xC3\xA9mon LeafGreen Version as **remakes**_\n- _**IV**: Pok\xC3\xA9mon\
-    \ Diamond Version / Pok\xC3\xA9mon Pearl Version as\\ \\ **primary**, Pok\xC3\xA9\
-    mon Platinum Version as **secondary**, Pok\xC3\xA9mon HeartGold\\ \\ Version /\
-    \ Pok\xC3\xA9mon SoulSilver Version as **remakes**_\n- _**V**: Pok\xC3\xA9mon\
-    \ Black Version / Pok\xC3\xA9mon White Version as **primary**,\\ \\ Pok\xC3\xA9\
-    mon Black Version 2, Pok\xC3\xA9mon White Version 2 as **secondary**_\n- _**VI**:\
-    \ Pok\xC3\xA9mon X / Pok\xC3\xA9mon Y as **primary**, Pok\xC3\xA9mon Omega\\ \\\
-    \ Ruby / Pok\xC3\xA9mon Alpha Sapphire as **remakes**_\n- _**VII**: Pok\xC3\xA9\
-    mon Sun / Pok\xC3\xA9mon Moon as **primary**,\\ \\ Pok\xC3\xA9mon Ultra Sun /\
-    \ Pok\xC3\xA9mon Ultra Moon as **secondary**,\\ \\ Pok\xC3\xA9mon: Let's Go Pikachu!\
-    \ / Pok\xC3\xA9mon: Let's Go Eevee! as **remakes**_\n- _**VIII**: Pok\xC3\xA9\
-    mon Sword / Pok\xC3\xA9mon Shield as **primary**.\\ \\ Pok\xC3\xA9mon Legends:\
-    \ Arceus as **secondary**,\\ \\ Pok\xC3\xA9mon Brillant Diamond / Pok\xC3\xA9\
-    mon Shining Pearl as **remakes**_\n- _**IX**: Pok\xC3\xA9mon Scarlet / Pok\xC3\
-    \xA9mon Violet as **primary**_ "
+comment: |-
+    Note that for readability, the core games in this series may be referred
+    to one the following **Generation (Gen)** groupings instead of their full names. __Speedchoice
+    hacks are available on the [Pokemon Crystal Randomizer Central Discord server](https://discord.com/invite/nT56DbT)
+    in the #resources channel.__
+
+    - _**I**: Pokémon Red Version (international) / Pokémon Blue Version (international) as **primary**, Pokémon Yellow Version: Special Pikachu Edition as **secondary**_
+    - _**II**: Pokémon Gold Version / Pokémon Silver Version as **primary**, Pokémon Crystal Version as **secondary**_
+    - _**III**: Pokémon Ruby Version / Pokémon Sapphire Version as **primary**, Pokémon Emerald Version as **secondary**, Pokémon FireRed Version / Pokémon LeafGreen Version as **remakes**_
+    - _**IV**: Pokémon\ Diamond Version / Pokémon Pearl Version as **primary**, Pokémon Platinum Version as **secondary**, Pokémon HeartGold Version / Pokémon SoulSilver Version as **remakes**_
+    - _**V**: Pokémon Black Version / Pokémon White Version as **primary**, Pokémon Black Version 2, Pokémon White Version 2 as **secondary**_
+    - _**VI**: Pokémon X / Pokémon Y as **primary**, Pokémon Omega Ruby / Pokémon Alpha Sapphire as **remakes**_
+    - _**VII**: Pokémon Sun / Pokémon Moon as **primary**, Pokémon Ultra Sun / Pokémon Ultra Moon as **secondary**, Pokémon: Let's Go Pikachu! / Pokémon: Let's Go Eevee! as **remakes**_
+    - _**VIII**: Pokémon Sword / Pokémon Shield as **primary**. Pokémon Legends: Arceus as **secondary**, Pokémon Brillant Diamond / Pokémon Shining Pearl as **remakes**_
+    - _**IX**: Pokémon Scarlet / Pokémon Violet as **primary**_ 
 sub-series:
 - Core
 - Side
