@@ -18,5 +18,5 @@
 {%- assign randos = randos | sort_natural: "info-updated" | reverse -%}
 
 {%- for rando in randos -%}
-    {%- include rando.html rando=rando series_id="testid" -%}
+    {%- include rando.html rando=rando parent_name="recents" standalone=true -%}
 {%- endfor -%}

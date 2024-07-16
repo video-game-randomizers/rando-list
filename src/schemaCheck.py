@@ -217,6 +217,10 @@ def validateSeriesConfig(path: Path):
         newdata['randomizers'] = data['randomizers']
         data = newdata
         writeback=True
+    
+    for game in data['games']:
+        if game not in games:
+            raise ValidationError('game: ' + game + ' is not used')
 
     if failures == 0 and writeback:
         out = yaml.dump(data, sort_keys=False, indent=4)

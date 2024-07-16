@@ -14,10 +14,8 @@
 {%- assign series_sorted = series_sorted | sort_natural: "name" -%}
 
 
-{% for series in series_sorted %}
-    {% include series.html series=series %}
-{% endfor %}
+{%- for series in series_sorted -%}
+    {%- include series.html series=series -%}
+{%- endfor -%}
 
-{% assign series_id='Multi-series' %}
-{% assign series_data=site.data.Multi-series %}
-{% include series.html id=series_id series=series_data %}
+{%- include series.html series=site.data.Multi-series games_merged=true -%}

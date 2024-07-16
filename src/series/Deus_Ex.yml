@@ -6,36 +6,12 @@ games:
         genres: [RPG, Shooter]
         platforms: [PC]
         release_year: 2000
-    GMDX (mod):
-        genres: [RPG, Shooter]
-        platforms: [PC]
-        release_year: null
-    HX (mod):
-        genres: [RPG, Shooter]
-        platforms: [PC]
-        release_year: null
-    Lay D Denton (mod):
-        genres: [RPG, Shooter]
-        platforms: [PC]
-        release_year: null
-    Revision (mod):
-        genres: [RPG, Shooter]
-        platforms: [PC]
-        release_year: null
-    Vanilla? Madder. (mod):
-        genres: [RPG, Shooter]
-        platforms: [PC]
-        release_year: null
 randomizers:
 -   games:
     - Deus Ex
-    - Lay D Denton (mod)
-    - GMDX (mod)
-    - Revision (mod)
-    - HX (mod)
-    - Vanilla? Madder. (mod)
     identifier: Die4Ever's
     url: https://mods4ever.com/project/DXRando
+    comment: "Supports the regular vanilla game and also the mods: GMDX, HX, Lay D Denton, Revision, and Vanilla? Madder."
     opensource: true
     added-date: 2024-05-25
     info-updated: 2024-06-19

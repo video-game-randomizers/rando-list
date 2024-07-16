@@ -1,11 +1,13 @@
 {%- assign rando = include.rando -%}
-<li class="rando" id="{{ include.series_id }}-{{ rando.identifier }}">
+<li class="rando" id="{{ include.parent_name }}-{{ rando.identifier }}">
     <h5><a href="{{ rando.url }}">{{ rando.identifier }}</a></h5>
 
-    <ul>{% for game in rando.games %}
-        <li>{{ game }}</li>
-    {% endfor %}
-    </ul>
+    {%- if include.standalone -%}
+        <ul>{% for game in rando.games %}
+            <li>{{ game }}</li>
+        {% endfor %}
+        </ul>
+    {%- endif -%}
 
     {%- if rando.sub-series -%}
         <p>Sub-series: {{ rando.sub-series }}</p>
