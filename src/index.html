@@ -50,9 +50,8 @@
       <div class="collapse show" id="recentUpdateBody">
         <div class="card-body">
           <p class="text-muted">(We do not track when randomizers are updated, we only track when our info for them is updated.)</p>
-
-          {% include recents.html series=site.data %}
         </div>
+          {% include recents.html series=site.data %}
       </div>
     </div>
 
@@ -60,7 +59,7 @@
       <div class="card-header">
         <h2 id="all-randomizers"><a href="#all-randomizers">🔗</a> All Randomizers</h2>
       </div>
-      <div class="thebiglist card-body">
+      <div class="thebiglist">
         {% include list.html series=site.data %}
       </div>
     </div>
