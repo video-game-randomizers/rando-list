@@ -13,9 +13,12 @@
 
 {%- assign series_sorted = series_sorted | sort_natural: "name" -%}
 
-
+<ul class="list-group list-group-flush">
 {%- for series in series_sorted -%}
+    <li class="list-group-item">
     {%- include series.html series=series -%}
+    </li>
 {%- endfor -%}
+</ul>
 
 {%- include series.html series=site.data.Multi-series games_merged=true -%}
