@@ -21,7 +21,7 @@
     {%- for game in include.series.games -%}
         {%- assign games = games | push: game[0] -%}
     {%- endfor -%}
-    {%- assign games = games | sort_natural: "name" -%}
+    {%- assign games = games | sort_natural -%}
 
     {%- for game in games -%}
         {%- include game.html series=include.series game=game -%}
