@@ -29,7 +29,7 @@ genres = {
     "items": {
         "type": "string",
         "enum": [
-            "Adventure", "RPG", "Platformer", "Shooter", "Strategy", "Puzzle",
+            "Adventure", "RPG", "Platformer", "Shooter", "Strategy", "Puzzle", "Survival"
         ]
     }
 }

@@ -3,9 +3,9 @@ comment: null
 sub-series: null
 games:
     Palworld:
-        genres: []
-        platforms: []
-        release_year: null
+        genres: [RPG, Survival]
+        platforms: [PC]
+        release_year: 2024
 randomizers:
 -   games:
     - Palworld
@@ -13,3 +13,11 @@ randomizers:
     url: https://github.com/DavidEMorales/PalworldOverworldSpawnRandomizer
     info-updated: 2024-05-25
     added-date: 2024-05-25
+    opensource: true
+-   games:
+    - Palworld
+    identifier: ComplexRobot's
+    url: https://www.nexusmods.com/palworld/mods/1706
+    info-updated: 2024-07-21
+    added-date: 2024-07-21
+    opensource: true
