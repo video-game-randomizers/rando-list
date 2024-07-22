@@ -1,0 +1,12 @@
+name: "Feature Request"
+description: Request a new feature for the rando-list.
+title: "[Feature]: "
+labels: ["enhancement"]
+body:
+  - type: textarea
+    id: summary
+    attributes:
+      label: Summary
+      description: Explain the desired feature and the reason for wanting it.
+    validations:
+      required: true

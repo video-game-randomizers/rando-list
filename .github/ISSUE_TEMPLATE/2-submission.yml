@@ -1,0 +1,42 @@
+name: "Submit New Randomizer"
+description: Submit a new randomizer for inclusion into the rando-list.
+title: "[Submission]: "
+labels: ["submission"]
+body:
+  - type: input
+    id: url
+    attributes:
+      label: URL Link
+      description: Where can we find this randomizer
+      placeholder: https://github.com/1337coder/pong-nl-randomizer
+    validations:
+      required: true
+  - type: input
+    id: series
+    attributes:
+      label: Game Series
+      description: What series of games is this for? You can list multiple.
+      placeholder: Pong
+    validations:
+      required: true
+  - type: input
+    id: game
+    attributes:
+      label: Game(s)
+      description: What game is this for? You can list multiple.
+      placeholder: "Pong: The Next Level"
+    validations:
+      required: true
+  - type: textarea
+    id: summary
+    attributes:
+      label: Summary
+      description: Explain the new randomizer and its features so we can ensure it qualifies. Does it make any other randomizers obsolete? Which ones?
+    validations:
+      required: true
+  - type: checkboxes
+    attributes:
+      label: Open source?
+      description: Is this randomizer open source? Leave unchecked if you're not sure.
+      options:
+        - label: Open source

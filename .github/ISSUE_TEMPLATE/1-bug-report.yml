@@ -1,0 +1,12 @@
+name: "\U0001F41E Bug report"
+description: Report a bug for the rando-list.
+title: "[Bug]: "
+labels: ["bug"]
+body:
+  - type: textarea
+    id: summary
+    attributes:
+      label: Summary
+      description: Explain the bug and attach screenshots if possible.
+    validations:
+      required: true
