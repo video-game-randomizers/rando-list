@@ -233,7 +233,7 @@ def validateSeriesConfig(path: Path):
 def validateYamlFiles():
     failures = 0
     success = 0
-    for file in Path('series').glob('*'):
+    for file in Path('src/series').glob('*'):
         try:
             new_failures = validateSeriesConfig(file)
             if new_failures == 0:
