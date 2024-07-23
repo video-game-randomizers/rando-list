@@ -18,6 +18,9 @@ const setTheme = theme => {
 
     let opposite = (theme == 'dark') ? 'light' : 'dark';
     $("#themeSwitch").addClass('btn-' + opposite).removeClass('btn-' + theme);
+    let icon = (theme == 'dark') ? 'sun' : 'moon';
+    let oppositeIcon = (theme == 'dark') ? 'moon' : 'sun';
+    $("#themeSwitch > i").addClass('bi-' + icon).removeClass('bi-' + oppositeIcon)
 }
 
 window.addEventListener('DOMContentLoaded', () => {
