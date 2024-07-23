@@ -21,11 +21,14 @@
     {%- continue -%}
 {%- endif -%}
 
-<li><h4>{{ include.game }}
+{% unless include.notitle %}
+<h4>
+    {{ include.game }}
     {% if game_data.release_year %}
         ({{ game_data.release_year }})
     {%- endif -%}
-</h4></li>
+</h4>
+{% endunless %}
 <p>
     {%- if game_data.sub-series -%}
         {{ game_data.sub-series }}

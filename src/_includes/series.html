@@ -23,8 +23,13 @@
     {%- endfor -%}
     {%- assign games = games | sort_natural -%}
 
-    {%- for game in games -%}
-        {%- include game.html series=include.series game=game -%}
-    {%- endfor -%}
+    {% assign firstGame = games[0] %}
+    {%- if games.size == 1 and firstGame == include.series.name -%}
+        {%- include game.html series=include.series game=firstGame notitle=true -%}
+    {%- else -%}
+        {%- for game in games -%}
+            {%- include game.html series=include.series game=game -%}
+        {%- endfor -%}
+    {%- endif -%}
 {%- endif -%}
 </ul>
