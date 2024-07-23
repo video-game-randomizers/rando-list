@@ -14,14 +14,14 @@ const getPreferredTheme = () => {
 }
 
 const setTheme = theme => {
-    if (theme === 'auto') {
-    document.documentElement.setAttribute('data-bs-theme', (window.matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light'))
-    } else {
-    document.documentElement.setAttribute('data-bs-theme', theme)
-    }
-}
+    document.documentElement.setAttribute('data-bs-theme', theme);
 
-setTheme(getPreferredTheme())
+    let opposite = (theme == 'dark') ? 'light' : 'dark';
+    $("#themeSwitch").addClass('btn-' + opposite).removeClass('btn-' + theme);
+    let icon = (theme == 'dark') ? 'sun' : 'moon';
+    let oppositeIcon = (theme == 'dark') ? 'moon' : 'sun';
+    $("#themeSwitch > i").addClass('bi-' + icon).removeClass('bi-' + oppositeIcon)
+}
 
 window.addEventListener('DOMContentLoaded', () => {
     setTheme(getPreferredTheme())
@@ -29,12 +29,12 @@ window.addEventListener('DOMContentLoaded', () => {
 
 document.getElementById("themeSwitch").addEventListener("click", () => {
     if (document.documentElement.getAttribute('data-bs-theme') == 'dark') {
-    setTheme("light")
-    setStoredTheme("light")
+        setTheme("light")
+        setStoredTheme("light")
     }
     else {
-    setTheme("dark")
-    setStoredTheme("dark")
+        setTheme("dark")
+        setStoredTheme("dark")
     }
 });
 

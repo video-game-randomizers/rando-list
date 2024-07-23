@@ -1,0 +1,5 @@
+User-agent: *
+Disallow: /404
+
+Sitemap: https://randomizers.debigare.com/sitemap.xml
+Sitemap: https://video-game-randomizers.github.io/rando-list/

@@ -7,9 +7,11 @@ sub-series:
 - RPGs
 games:
     'Mario & Luigi: Superstar Saga':
-        genres: []
-        platforms: []
-        release_year: null
+        genres:
+            - RPG
+        platforms:
+            - GBA
+        release_year: 2003
     Mario Kart 64:
         genres: []
         platforms: []
@@ -302,3 +304,11 @@ randomizers:
     sub-series: RPGs
     added-date: 2024-05-25
     info-updated: 2024-05-25
+-   games:
+    - 'Mario & Luigi: Superstar Saga'
+    identifier: Archipelago
+    url: https://archipelago.gg/games/Mario%20&%20Luigi%20Superstar%20Saga/info/en
+    multiworld: Archipelago
+    info-updated: 2024-07-23
+    added-date: 2024-07-23
+    opensource: true
