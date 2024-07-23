@@ -1,0 +1,19 @@
+name: A Hat In Time
+comment: null
+sub-series: null
+games:
+    A Hat In Time:
+        genres:
+            - Platformer
+        platforms:
+            - PC
+        release_year: 2017
+randomizers:
+-   games:
+    - A Hat In Time
+    identifier: Archipelago
+    url: https://archipelago.gg/games/A%20Hat%20in%20Time/info/en
+    multiworld: Archipelago
+    info-updated: 2024-07-23
+    added-date: 2024-07-23
+    opensource: true

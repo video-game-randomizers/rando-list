@@ -5,6 +5,12 @@ sub-series:
 - id Software engines
 - Other
 games:
+    A Hat In Time:
+        genres:
+            - Platformer
+        platforms:
+            - PC
+        release_year: 2017
     A Short Hike:
         genres: []
         platforms: []
@@ -17,6 +23,11 @@ games:
         genres: []
         platforms: []
         release_year: null
+    Aquaria:
+        genres:
+            - Adventure
+        platforms: []
+        release_year: 2007
     Blasphemous:
         genres: []
         platforms: []
@@ -25,6 +36,13 @@ games:
         genres: []
         platforms: []
         release_year: null
+    Bomb Rush Cyberfunk:
+        genres:
+            - Adventure
+            - Platformer
+        platforms:
+            - PC
+        release_year: 2023
     Bomberman Tournament:
         genres: []
         platforms: []
@@ -185,6 +203,12 @@ games:
         genres: []
         platforms: []
         release_year: null
+    'Mario & Luigi: Superstar Saga':
+        genres:
+            - RPG
+        platforms:
+            - GBA
+        release_year: 2003
     Mega Man Battle Network 3 Blue:
         genres: []
         platforms: []
@@ -405,6 +429,11 @@ games:
         genres: []
         platforms: []
         release_year: null
+    'Yu-Gi-Oh! Ultimate Masters: WCT 2006':
+        genres: []
+        platforms:
+            - GBA
+        release_year: 2006
     Zero Project (Mega Man X3 hack):
         genres: []
         platforms: []
@@ -478,6 +507,11 @@ randomizers:
     - Castlevania (Nintendo 64)
     - A Short Hike
     - Yoshi's Island
+    - A Hat In Time
+    - Aquaria
+    - Bomb Rush Cyberfunk
+    - 'Mario & Luigi: Superstar Saga'
+    - 'Yu-Gi-Oh! Ultimate Masters: WCT 2006'
     identifier: Archipelago
     url: https://archipelago.gg/
     multiworld: Archipelago

@@ -10,6 +10,10 @@ games:
         genres: []
         platforms: []
         release_year: null
+    'Yu-Gi-Oh! Ultimate Masters: WCT 2006':
+        genres: []
+        platforms: []
+        release_year: null
 randomizers:
 -   games:
     - Yu-Gi-Oh! Forbidden Memories
@@ -24,3 +28,12 @@ randomizers:
     url: https://github.com/GenericMadScientist/DotR-Randomiser
     added-date: 2024-05-25
     info-updated: 2024-05-25
+-   games:
+    - 'Yu-Gi-Oh! Ultimate Masters: WCT 2006'
+    identifier: Archipelago
+    url: https://archipelago.gg/games/Yu-Gi-Oh!%202006/info/en
+    multiworld: Archipelago
+    info-updated: 2024-07-23
+    added-date: 2024-07-23
+    opensource: true
+    
