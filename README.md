@@ -12,7 +12,7 @@ The project has been continuously maintained by him based on countless contribut
 
 ## How to contribute
 
-You can request updates to the list either by submitting an issue with the [`Submit New Randomizer` template](https://github.com/video-game-randomizers/rando-list/issues/new/choose), or in the `#list-submissions` in the [Discord](https://discord.com/invite/YREMzGQ3gd).
+You can request updates to the list either by submitting an issue with the [`Submit New Randomizer` template](https://github.com/video-game-randomizers/rando-list/issues/new/choose), or in the `#list-submissions` channel in the [Discord](https://discord.com/invite/YREMzGQ3gd).
 
 Pull requests from the public are very welcome - if you wish to become a maintainer or need help contributing, please join the [Discord](https://discord.com/invite/YREMzGQ3gd) and see `#list-maintenance`.
 
