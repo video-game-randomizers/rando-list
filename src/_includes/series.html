@@ -8,9 +8,22 @@
 {% assign firstGame = nil %}
 {% if games.size == 1 %}
     {% assign firstGame = games[0] %}
+    {% comment %} Series with a different name to the sole game within will have their title appended {% endcomment %}
     {% if firstGame != seriesText %}
-        {% assign seriesText = firstGame | append: ' <span class="text-muted">(SERIES)</span>' | replace: "SERIES", seriesText %}
+        {% assign series_suffix = ' <span class="text-muted">(SERIES)</span>' | replace: "SERIES", seriesText %}
+    {%- else -%}
+        {% assign series_suffix = null %}
     {% endif %}
+
+    {% comment %} Add release date to game listed if present {% endcomment %}
+    {% assign game_data = include.series.games[firstGame] %}
+    {%- if game_data.release_year != null -%}
+        {%- assign release_year_suffix = ' <span class="text-muted fs-5">(RELEASE)</span>' | replace: "RELEASE", game_data.release_year -%}
+    {%- else -%}
+        {%- assign release_year_suffix = null -%}
+    {%- endif -%}
+
+    {%- assign seriesText = firstGame | append: release_year_suffix | append: series_suffix -%}
 {% endif %}
 
 <h3 id="{{ include.series.name }}"><a href="#{{ include.series.name }}">🔗</a> {{ seriesText }}</h3>
