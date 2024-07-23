@@ -24,10 +24,7 @@ jobs:
         uses: actions/checkout@v4.1.7
       - name: Setup Pages
         uses: actions/configure-pages@v5
-      - run: | 
-          cd src/
-          bundle install
-          cd ..
+      - run: bundle install --gemfile=src/Gemfile
       - name: Build with Jekyll
         uses: actions/jekyll-build-pages@v1.0.12
         with:
