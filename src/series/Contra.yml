@@ -1,26 +1,24 @@
 name: Contra
-comment: null
-sub-series: null
+comment: ''
+sub-series: []
 games:
     Contra (NES):
         genres: []
         platforms: []
-        release_year: null
     Super C (NES):
         genres: []
         platforms: []
-        release_year: null
 randomizers:
 -   games:
     - Contra (NES)
     identifier: Azeryn's
     url: https://cdn.discordapp.com/attachments/1140465134066741309/1147430404438102057/ContraRandomizerSetup.exe
     comment: '[Documentation](https://sites.google.com/view/contrarandomizer/features)'
-    info-updated: 2024-05-25
-    added-date: 2024-05-25
+    updated-date: 1900-01-01
+    added-date: 1900-01-01
 -   games:
     - Super C (NES)
     identifier: SpiderDave's
     url: https://spiderdave.me/nes/?c=70-Super-C-Randomizer
-    info-updated: 2024-05-25
-    added-date: 2024-05-25
+    updated-date: 1900-01-01
+    added-date: 1900-01-01

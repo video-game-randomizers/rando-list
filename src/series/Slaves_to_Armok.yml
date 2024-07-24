@@ -3,17 +3,17 @@ games:
     Dwarf Fortress:
         genres: []
         platforms: []
-        release_year: null
 randomizers:
 -   games:
     - Dwarf Fortress
     identifier: Random plant creation script
     url: https://dffd.bay12games.com/file.php?id=3752
-    info-updated: 2024-05-25
-    added-date: 2024-05-25
+    updated-date: 1900-01-01
+    added-date: 1900-01-01
 -   games:
     - Dwarf Fortress
     identifier: Random Raw Scripts
     url: http://www.bay12forums.com/smf/index.php?topic=91255.0
-    info-updated: 2024-05-25
-    added-date: 2024-05-25
+    updated-date: 1900-01-01
+    added-date: 1900-01-01
+sub-series: []

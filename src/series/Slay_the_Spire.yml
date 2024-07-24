@@ -1,16 +1,15 @@
 name: Slay the Spire
-comment: null
-sub-series: null
+comment: ''
+sub-series: []
 games:
     Slay the Spire:
         genres: []
         platforms: []
-        release_year: null
 randomizers:
 -   games:
     - Slay the Spire
     identifier: Archipelago
     url: https://archipelago.gg/tutorial/#Slay%20the%20Spire
     multiworld: Archipelago
-    info-updated: 2024-05-25
-    added-date: 2024-05-25
+    updated-date: 1900-01-01
+    added-date: 1900-01-01

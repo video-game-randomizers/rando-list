@@ -1,16 +1,15 @@
 name: Risk of Rain
-comment: null
-sub-series: null
+comment: ''
+sub-series: []
 games:
     Risk of Rain 2:
         genres: []
         platforms: []
-        release_year: null
 randomizers:
 -   games:
     - Risk of Rain 2
     identifier: Archipelago
     url: https://archipelago.gg/tutorial/#Risk%20of%20Rain%202
     multiworld: Archipelago
-    info-updated: 2024-05-25
-    added-date: 2024-05-25
+    updated-date: 1900-01-01
+    added-date: 1900-01-01

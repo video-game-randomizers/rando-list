@@ -1,16 +1,15 @@
 name: Xeno
-comment: null
-sub-series: null
+comment: ''
+sub-series: []
 games:
     Xenoblade Chronicles 3:
         genres: []
         platforms: []
-        release_year: null
 randomizers:
 -   games:
     - Xenoblade Chronicles 3
     identifier: Future Redeemed unlock kit balance editor
     url: https://github.com/RoccoDev/xc3fr-unlock-kit-balance
     comment: Randomizes Art Unlock Kit locations
-    info-updated: 2024-05-25
-    added-date: 2024-05-25
+    updated-date: 1900-01-01
+    added-date: 1900-01-01

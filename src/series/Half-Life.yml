@@ -1,26 +1,24 @@
 name: Half-Life
-comment: null
-sub-series: null
+comment: ''
+sub-series: []
 games:
     Half-Life:
         genres: []
         platforms: []
-        release_year: null
     Half-Life 2:
         genres: []
         platforms: []
-        release_year: null
 randomizers:
 -   games:
     - Half-Life
     identifier: Randmap
     url: https://web.archive.org/web/20190926074638/http://www.valvetime.net/threads/randmap-and-its-whereabouts.169050/
-    info-updated: 2024-05-25
-    added-date: 2024-05-25
+    updated-date: 1900-01-01
+    added-date: 1900-01-01
 -   games:
     - Half-Life 2
     identifier: Random Map Creator
     url: https://www.gamefront.com/games/half-life-2/file/half-life-2-random-map-creator
     comment: Game downgrade required
-    info-updated: 2024-05-25
-    added-date: 2024-05-25
+    updated-date: 1900-01-01
+    added-date: 1900-01-01

@@ -1,5 +1,5 @@
 name: The Legend of Zelda
-comment: null
+comment: ''
 sub-series:
 - 2D & 2D-like
 - 3D
@@ -7,132 +7,106 @@ games:
     'The Faces of Evil Remastered (Link: The Faces of Evil fan recreation)':
         genres: []
         platforms: []
-        release_year: null
         sub-series: 2D & 2D-like
     The Legend of Zelda:
         genres: []
         platforms: []
-        release_year: null
         sub-series: 2D & 2D-like
     'The Legend of Zelda: A Link Between Worlds':
         genres: []
         platforms: []
-        release_year: null
         sub-series: 2D & 2D-like
     'The Legend of Zelda: A Link to the Past':
         genres: []
         platforms: []
-        release_year: null
         sub-series: 2D & 2D-like
     'The Legend of Zelda: A Link to the Past/Four Swords':
         genres: []
         platforms: []
-        release_year: null
         sub-series: 2D & 2D-like
     'The Legend of Zelda: Breath of the Wild (Switch)':
         genres: []
         platforms: []
-        release_year: null
         sub-series: 3D
     'The Legend of Zelda: Breath of the Wild (Wii U)':
         genres: []
         platforms: []
-        release_year: null
         sub-series: 3D
     'The Legend of Zelda: Link''s Awakening (Switch)':
         genres: []
         platforms: []
-        release_year: null
         sub-series: 2D & 2D-like
     'The Legend of Zelda: Link''s Awakening DX':
         genres: []
         platforms: []
-        release_year: null
         sub-series: 2D & 2D-like
     'The Legend of Zelda: Majora''s Mask':
         genres: []
         platforms: []
-        release_year: null
         sub-series: 3D
     'The Legend of Zelda: Majora''s Mask 3D':
         genres: []
         platforms: []
-        release_year: null
         sub-series: 3D
     'The Legend of Zelda: Ocarina of Time':
         genres: []
         platforms: []
-        release_year: null
         sub-series: 3D
     'The Legend of Zelda: Ocarina of Time 3D':
         genres: []
         platforms: []
-        release_year: null
         sub-series: 3D
     'The Legend of Zelda: Ocarina of Time Master Quest':
         genres: []
         platforms: []
-        release_year: null
         sub-series: 3D
     'The Legend of Zelda: Oracle of Ages':
         genres: []
         platforms: []
-        release_year: null
         sub-series: 2D & 2D-like
     'The Legend of Zelda: Oracle of Seasons':
         genres: []
         platforms: []
-        release_year: null
         sub-series: 2D & 2D-like
     'The Legend of Zelda: Skyward Sword':
         genres: []
         platforms: []
-        release_year: null
         sub-series: 3D
     'The Legend of Zelda: Skyward Sword HD':
         genres: []
         platforms: []
-        release_year: null
         sub-series: 3D
     'The Legend of Zelda: Tears of the Kingdom':
         genres: []
         platforms: []
-        release_year: null
         sub-series: 3D
     'The Legend of Zelda: The Minish Cap':
         genres: []
         platforms: []
-        release_year: null
         sub-series: 2D & 2D-like
     'The Legend of Zelda: The Wind Waker':
         genres: []
         platforms: []
-        release_year: null
         sub-series: 3D
     'The Legend of Zelda: The Wind Waker HD':
         genres: []
         platforms: []
-        release_year: null
         sub-series: 3D
     'The Legend of Zelda: Twilight Princess':
         genres: []
         platforms: []
-        release_year: null
         sub-series: 3D
     'The Legend of Zelda: Twilight Princess HD':
         genres: []
         platforms: []
-        release_year: null
         sub-series: 3D
     'The Wand of Gamelon Remastered (Zelda: The Wand of Gamelon fan recreation':
         genres: []
         platforms: []
-        release_year: null
         sub-series: 2D & 2D-like
     'Zelda II: The Adventure of Link':
         genres: []
         platforms: []
-        release_year: null
         sub-series: 2D & 2D-like
 randomizers:
 -   games:
@@ -140,359 +114,358 @@ randomizers:
     identifier: Archipelago
     url: https://archipelago.gg/tutorial/#The%20Legend%20of%20Zelda
     multiworld: Archipelago
-    added-date: 2024-05-25
-    info-updated: 2024-05-25
+    updated-date: 1900-01-01
+    added-date: 1900-01-01
 -   games:
     - 'The Legend of Zelda: A Link to the Past'
     identifier: Archipelago
     url: https://archipelago.gg/tutorial/#A%20Link%20to%20the%20Past
     multiworld: Archipelago
-    added-date: 2024-05-25
-    info-updated: 2024-05-25
+    updated-date: 1900-01-01
+    added-date: 1900-01-01
 -   games:
     - 'The Legend of Zelda: Link''s Awakening DX'
     identifier: Archipelago
     url: https://archipelago.gg/tutorial/#Links%20Awakening%20DX
     multiworld: Archipelago
-    added-date: 2024-05-25
-    info-updated: 2024-05-25
+    updated-date: 1900-01-01
+    added-date: 1900-01-01
 -   games:
     - 'The Legend of Zelda: Ocarina of Time'
     - 'The Legend of Zelda: Ocarina of Time Master Quest'
     identifier: Archipelago
     url: https://archipelago.gg/tutorial/#Ocarina%20of%20Time
     multiworld: Archipelago
-    added-date: 2024-05-25
-    info-updated: 2024-05-25
+    updated-date: 1900-01-01
+    added-date: 1900-01-01
 -   games:
     - 'The Legend of Zelda: A Link to the Past'
     identifier: SMZ3 Cas' Randomizer
     url: https://github.com/Vivelin/SMZ3Randomizer
     multiworld: Other
-    added-date: 2024-05-25
-    info-updated: 2024-05-25
+    updated-date: 1900-01-01
+    added-date: 1900-01-01
 -   games:
     - 'The Legend of Zelda: A Link to the Past'
     identifier: Super Metroid and A Link to the Past Crossover Randomizer
     url: https://samus.link/
     multiworld: Other
-    added-date: 2024-05-25
-    info-updated: 2024-05-25
+    updated-date: 1900-01-01
+    added-date: 1900-01-01
 -   games:
     - The Legend of Zelda
     identifier: Z1M1
     url: https://z1m1.info/
     multiworld: Other
-    added-date: 2024-05-25
-    info-updated: 2024-05-25
+    updated-date: 1900-01-01
+    added-date: 1900-01-01
 -   games:
     - The Legend of Zelda
     identifier: Ancient Dungeon
     url: https://www.romhacking.net/hacks/7358/
-    added-date: 2024-05-25
-    info-updated: 2024-05-25
+    updated-date: 1900-01-01
+    added-date: 1900-01-01
 -   games:
     - The Legend of Zelda
     identifier: Fred Coughlin's
     url: https://sites.google.com/site/zeldarandomizer/
-    added-date: 2024-05-25
-    info-updated: 2024-05-25
+    updated-date: 1900-01-01
+    added-date: 1900-01-01
 -   games:
     - The Legend of Zelda
     identifier: Infinite Hyrule
     url: https://bitbucket.org/Garmichael/infinite-hyrule/src/master/
-    added-date: 2024-05-25
-    info-updated: 2024-05-25
+    updated-date: 1900-01-01
+    added-date: 1900-01-01
 -   games:
     - The Legend of Zelda
     identifier: Reloaded
     url: https://www.reloadedretro.com/games/zelda
-    added-date: 2024-05-25
-    info-updated: 2024-05-25
+    updated-date: 1900-01-01
+    added-date: 1900-01-01
 -   games:
     - The Legend of Zelda
     identifier: tetraly's
     url: https://github.com/tetraly/zelda-randomizer
-    added-date: 2024-05-25
-    info-updated: 2024-05-25
+    updated-date: 1900-01-01
+    added-date: 1900-01-01
 -   games:
     - 'Zelda II: The Adventure of Link'
     identifier: Digshake's
     url: https://bitbucket.org/digshake/z2randomizer/wiki/Home
     obsolete: true
-    added-date: 2024-05-25
-    info-updated: 2024-05-25
+    updated-date: 1900-01-01
+    added-date: 1900-01-01
 -   games:
     - 'Zelda II: The Adventure of Link'
     identifier: Ellendar's
     url: https://github.com/Ellendar/Z2Randomizer
-    added-date: 2024-05-25
-    info-updated: 2024-05-25
+    updated-date: 1900-01-01
+    added-date: 1900-01-01
 -   games:
     - 'The Legend of Zelda: A Link to the Past'
     identifier: Bonta0's Multiworld
     url: https://github.com/Bonta0/ALttPEntranceRandomizer/tree/multiworld_31
     obsolete: true
-    comment: Optional [Enemizer](https://github.com/Bonta0/Enemizer/releases) - Unofficial
-        [setup/instructions guide](https://docs.google.com/document/d/19FoqUkuyStMqhOq8uGiocskMo1KMjOW4nEeG81xrKoI/edit)
-    added-date: 2024-05-25
-    info-updated: 2024-05-25
+    comment: Optional [Enemizer](https://github.com/Bonta0/Enemizer/releases) - Unofficial [setup/instructions guide](https://docs.google.com/document/d/19FoqUkuyStMqhOq8uGiocskMo1KMjOW4nEeG81xrKoI/edit)
+    updated-date: 1900-01-01
+    added-date: 1900-01-01
 -   games:
     - 'The Legend of Zelda: A Link to the Past'
     identifier: Dessyreqt's
     url: https://dessyreqt.github.io/alttprandomizer/
     obsolete: true
-    added-date: 2024-05-25
-    info-updated: 2024-05-25
+    updated-date: 1900-01-01
+    added-date: 1900-01-01
 -   games:
     - 'The Legend of Zelda: A Link to the Past'
     identifier: Door Randomizer
     url: https://github.com/aerinon/ALttPDoorRandomizer
-    added-date: 2024-05-25
-    info-updated: 2024-05-25
+    updated-date: 1900-01-01
+    added-date: 1900-01-01
 -   games:
     - 'The Legend of Zelda: A Link to the Past'
     identifier: Enemizer
     url: https://github.com/Zarby89/Enemizer
     obsolete: true
-    added-date: 2024-05-25
-    info-updated: 2024-05-25
+    updated-date: 1900-01-01
+    added-date: 1900-01-01
 -   games:
     - 'The Legend of Zelda: A Link to the Past'
     identifier: Entrance Randomizer
     url: https://github.com/AmazingAmpharos/ALttPEntranceRandomizer
     obsolete: true
-    added-date: 2024-05-25
-    info-updated: 2024-05-25
+    updated-date: 1900-01-01
+    added-date: 1900-01-01
 -   games:
     - 'The Legend of Zelda: A Link to the Past'
     identifier: karafruit's
     url: https://alttpr.gwaa.kiwi/en
     comment: '[Source code](https://github.com/ardnaxelarak/alttp_vt_randomizer/tree/ow_shuffle)'
-    added-date: 2024-05-25
-    info-updated: 2024-05-25
+    updated-date: 1900-01-01
+    added-date: 1900-01-01
 -   games:
     - 'The Legend of Zelda: A Link to the Past'
     identifier: Overworld Randomizer
     url: https://github.com/codemann8/ALttPDoorRandomizer
-    added-date: 2024-05-25
-    info-updated: 2024-05-25
+    updated-date: 1900-01-01
+    added-date: 1900-01-01
 -   games:
     - 'The Legend of Zelda: A Link to the Past'
     identifier: Veetorp's
     url: https://alttpr.com/en
-    added-date: 2024-05-25
-    info-updated: 2024-05-25
+    updated-date: 1900-01-01
+    added-date: 1900-01-01
 -   games:
     - 'The Legend of Zelda: A Link to the Past/Four Swords'
     identifier: MichaelK__'s
     url: https://github.com/MichaelK-UnderscoreUnderscore/alttprandomizer_GBA/releases
-    added-date: 2024-05-25
-    info-updated: 2024-05-25
+    updated-date: 1900-01-01
+    added-date: 1900-01-01
 -   games:
     - 'The Legend of Zelda: Link''s Awakening DX'
     identifier: LADXR
     url: https://daid.github.io/LADXR/
-    added-date: 2024-05-25
-    info-updated: 2024-05-25
+    updated-date: 1900-01-01
+    added-date: 1900-01-01
 -   games:
     - 'The Legend of Zelda: Link''s Awakening DX'
     identifier: Z4Randomizer
     url: https://sites.google.com/view/z4randomizer
-    added-date: 2024-05-25
-    info-updated: 2024-05-25
+    updated-date: 1900-01-01
+    added-date: 1900-01-01
 -   games:
     - 'The Legend of Zelda: Link''s Awakening (Switch)'
     identifier: Glan9's
     url: https://github.com/la-switch/LAS-Randomizer
     obsolete: true
-    added-date: 2024-05-25
-    info-updated: 2024-05-25
+    updated-date: 1900-01-01
+    added-date: 1900-01-01
 -   games:
     - 'The Legend of Zelda: Link''s Awakening (Switch)'
     identifier: Owen-Splat's
     url: https://github.com/Owen-Splat/LAS-Randomizer
-    added-date: 2024-05-25
-    info-updated: 2024-05-25
+    updated-date: 1900-01-01
+    added-date: 1900-01-01
 -   games:
     - 'The Legend of Zelda: Oracle of Ages'
     - 'The Legend of Zelda: Oracle of Seasons'
     identifier: jangler's
     url: https://github.com/jangler/oracles-randomizer
-    added-date: 2024-05-25
-    info-updated: 2024-05-25
+    updated-date: 1900-01-01
+    added-date: 1900-01-01
 -   games:
     - 'The Legend of Zelda: The Minish Cap'
     identifier: Minish Maker's
     url: https://github.com/minishmaker/randomizer
-    added-date: 2024-05-25
-    info-updated: 2024-05-25
+    updated-date: 1900-01-01
+    added-date: 1900-01-01
 -   games:
     - 'The Legend of Zelda: A Link Between Worlds'
     identifier: Kevin Marsolais's
     url: https://gitlab.com/marsolk/albw-randomizer-cli
     obsolete: true
-    added-date: 2024-05-25
-    info-updated: 2024-05-25
+    updated-date: 1900-01-01
+    added-date: 1900-01-01
 -   games:
     - 'The Legend of Zelda: A Link Between Worlds'
     identifier: Rick Fay's
     url: https://github.com/rickfay/z17-randomizer
-    added-date: 2024-05-25
-    info-updated: 2024-05-25
+    updated-date: 1900-01-01
+    added-date: 1900-01-01
 -   games:
     - 'The Faces of Evil Remastered (Link: The Faces of Evil fan recreation)'
     - 'The Wand of Gamelon Remastered (Zelda: The Wand of Gamelon fan recreation'
     identifier: Dopply's
     url: https://archive.org/details/foer-wogr-randomizer-mod
-    added-date: 2024-05-25
-    info-updated: 2024-05-25
+    updated-date: 1900-01-01
+    added-date: 1900-01-01
 -   games:
     - 'The Legend of Zelda: Ocarina of Time'
     - 'The Legend of Zelda: Majora''s Mask'
     identifier: OoTMM
     url: https://ootmm.com/
     comment: '[Source code](https://github.com/OoTMM/core)'
-    added-date: 2024-05-25
-    info-updated: 2024-05-25
+    updated-date: 1900-01-01
+    added-date: 1900-01-01
 -   games:
     - 'The Legend of Zelda: Ocarina of Time'
     - 'The Legend of Zelda: Ocarina of Time Master Quest'
     identifier: AmazingAmpharos's
     url: https://github.com/AmazingAmpharos/OoT-Randomizer
     obsolete: true
-    added-date: 2024-05-25
-    info-updated: 2024-05-25
+    updated-date: 1900-01-01
+    added-date: 1900-01-01
 -   games:
     - 'The Legend of Zelda: Ocarina of Time'
     - 'The Legend of Zelda: Ocarina of Time Master Quest'
     identifier: TestRunner's
     url: https://ootrandomizer.com/
-    added-date: 2024-05-25
-    info-updated: 2024-05-25
+    updated-date: 1900-01-01
+    added-date: 1900-01-01
 -   games:
     - 'The Legend of Zelda: Ocarina of Time'
     identifier: Beta Quest
     url: https://www.mediafire.com/folder/8c5ez915mhfww/latest
-    added-date: 2024-05-25
-    info-updated: 2024-05-25
+    updated-date: 1900-01-01
+    added-date: 1900-01-01
 -   games:
     - 'The Legend of Zelda: Ocarina of Time'
     identifier: Ship of Harkinian
     url: https://github.com/HarbourMasters/Shipwright
     comment: Unofficial PC port with bundled randomizer
-    added-date: 2024-05-25
-    info-updated: 2024-05-25
+    updated-date: 1900-01-01
+    added-date: 1900-01-01
 -   games:
     - 'The Legend of Zelda: Ocarina of Time 3D'
     identifier: gamestabled's
     url: https://github.com/gamestabled/OoT3D_Randomizer
-    added-date: 2024-05-25
-    info-updated: 2024-05-25
+    updated-date: 1900-01-01
+    added-date: 1900-01-01
 -   games:
     - 'The Legend of Zelda: Majora''s Mask'
     identifier: Beta Quest
     url: https://www.zeldacodes.org/challenges/beta-quest
     comment: Requires a cheat engine supporting Gecko codes
-    added-date: 2024-05-25
-    info-updated: 2024-05-25
+    updated-date: 1900-01-01
+    added-date: 1900-01-01
 -   games:
     - 'The Legend of Zelda: Majora''s Mask'
     identifier: DeathBasket's, 2013
     url: https://pastebin.com/M0asDmXy
     comment: Randomizes items based on file name - Requires using non-casual techniques
-    added-date: 2024-05-25
-    info-updated: 2024-05-25
+    updated-date: 1900-01-01
+    added-date: 1900-01-01
 -   games:
     - 'The Legend of Zelda: Majora''s Mask'
     identifier: DeathBasket's, 2019
     url: https://www.youtube.com/watch?v=xIeNzcwWAtM
     obsolete: true
     comment: Located in video description - Requires using non-casual techniques
-    added-date: 2024-05-25
-    info-updated: 2024-05-25
+    updated-date: 1900-01-01
+    added-date: 1900-01-01
 -   games:
     - 'The Legend of Zelda: Majora''s Mask'
     identifier: ZoeyZolotova's
     url: https://github.com/ZoeyZolotova/mm-rando/releases
-    added-date: 2024-05-25
-    info-updated: 2024-05-25
+    updated-date: 1900-01-01
+    added-date: 1900-01-01
 -   games:
     - 'The Legend of Zelda: Majora''s Mask 3D'
     identifier: MM3D_Randomizer
     url: https://github.com/Z3DR/MM3D_Randomizer/releases
-    added-date: 2024-05-25
-    info-updated: 2024-05-25
+    updated-date: 1900-01-01
+    added-date: 1900-01-01
 -   games:
     - 'The Legend of Zelda: The Wind Waker'
     identifier: Beta Quest
     url: https://github.com/CryZe/WindWakerBetaQuest
-    added-date: 2024-05-25
-    info-updated: 2024-05-25
+    updated-date: 1900-01-01
+    added-date: 1900-01-01
 -   games:
     - 'The Legend of Zelda: The Wind Waker'
     identifier: LagoLunatic's
     url: https://github.com/LagoLunatic/wwrando
-    added-date: 2024-05-25
-    info-updated: 2024-05-25
+    updated-date: 1900-01-01
+    added-date: 1900-01-01
 -   games:
     - 'The Legend of Zelda: The Wind Waker HD'
     identifier: SuperDude88's
     url: https://github.com/SuperDude88/TWWHD-Randomizer
+    updated-date: 2024-06-17
     added-date: 2024-06-17
-    info-updated: 2024-06-17
 -   games:
     - 'The Legend of Zelda: Twilight Princess'
     identifier: AECX's
     url: https://tprandomizer.com/
-    added-date: 2024-05-25
-    info-updated: 2024-05-25
+    updated-date: 1900-01-01
+    added-date: 1900-01-01
 -   games:
     - 'The Legend of Zelda: Twilight Princess HD'
     identifier: Beta Quest
     url: https://www.youtube.com/watch?v=ql7qzX1mPIY
     comment: Located in video description - [Source code](https://github.com/zsrtp/TPHD-BetaQuest)
-    added-date: 2024-05-25
-    info-updated: 2024-05-25
+    updated-date: 1900-01-01
+    added-date: 1900-01-01
 -   games:
     - 'The Legend of Zelda: Skyward Sword'
     identifier: lepelog's
     url: https://github.com/ssrando/ssrando
-    added-date: 2024-05-25
-    info-updated: 2024-05-25
+    updated-date: 1900-01-01
+    added-date: 1900-01-01
 -   games:
     - 'The Legend of Zelda: Skyward Sword HD'
     identifier: mint-choc-chip-skyblade's
     url: https://github.com/mint-choc-chip-skyblade/sshd-rando
+    updated-date: 2024-06-15
     added-date: 2024-06-15
-    info-updated: 2024-06-15
 -   games:
     - 'The Legend of Zelda: Breath of the Wild (Wii U)'
     identifier: MelonSpeedruns's
     url: https://github.com/MelonSpeedruns/BotwRandomizer
-    added-date: 2024-05-25
-    info-updated: 2024-05-25
+    updated-date: 1900-01-01
+    added-date: 1900-01-01
 -   games:
     - 'The Legend of Zelda: Breath of the Wild (Wii U)'
     identifier: Randomized Leveled Chests
     url: https://gamebanana.com/mods/354911
-    added-date: 2024-05-25
-    info-updated: 2024-05-25
+    updated-date: 1900-01-01
+    added-date: 1900-01-01
 -   games:
     - 'The Legend of Zelda: Breath of the Wild (Wii U)'
     identifier: Waikuteru's
     url: https://gamebanana.com/mods/345664
-    added-date: 2024-05-25
-    info-updated: 2024-05-25
+    updated-date: 1900-01-01
+    added-date: 1900-01-01
 -   games:
     - 'The Legend of Zelda: Breath of the Wild (Switch)'
     identifier: Waikuteru's
     url: https://gamebanana.com/mods/345673
-    added-date: 2024-05-25
-    info-updated: 2024-05-25
+    updated-date: 1900-01-01
+    added-date: 1900-01-01
 -   games:
     - 'The Legend of Zelda: Tears of the Kingdom'
     identifier: MelonSpeedruns's
     url: https://github.com/MelonSpeedruns/TotkRandomizer
-    added-date: 2024-05-25
-    info-updated: 2024-05-25
+    updated-date: 1900-01-01
+    added-date: 1900-01-01

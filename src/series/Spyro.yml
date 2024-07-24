@@ -1,26 +1,24 @@
 name: Spyro
-comment: null
-sub-series: null
+comment: ''
+sub-series: []
 games:
     Spyro the Dragon:
         genres: []
         platforms: []
-        release_year: null
     'Spyro: Year of the Dragon':
         genres: []
         platforms: []
-        release_year: null
 randomizers:
 -   games:
     - Spyro the Dragon
     identifier: Requirement Randomizer
     url: https://www.youtube.com/watch?v=jYrPQZnwXSk&t=3s
     comment: Located in video description
-    info-updated: 2024-05-25
-    added-date: 2024-05-25
+    updated-date: 1900-01-01
+    added-date: 1900-01-01
 -   games:
     - 'Spyro: Year of the Dragon'
     identifier: hwd405's
     url: https://twitter.com/hwd405/status/1617036701980889088?cxt=HHwWgMC4pYSU7_AsAAAA
-    info-updated: 2024-05-25
-    added-date: 2024-05-25
+    updated-date: 1900-01-01
+    added-date: 1900-01-01

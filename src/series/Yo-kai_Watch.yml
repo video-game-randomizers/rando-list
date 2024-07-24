@@ -1,15 +1,14 @@
 name: Yo-kai Watch
-comment: null
-sub-series: null
+comment: ''
+sub-series: []
 games:
     Yo-kai Watch:
         genres: []
         platforms: []
-        release_year: null
 randomizers:
 -   games:
     - Yo-kai Watch
     identifier: YKWrandomizer
     url: https://github.com/Tiniifan/YKWrandomizer
-    info-updated: 2024-05-25
-    added-date: 2024-05-25
+    updated-date: 1900-01-01
+    added-date: 1900-01-01

@@ -1,27 +1,22 @@
 name: Advance Wars
-comment: null
-sub-series: null
+comment: ''
+sub-series: []
 games:
     'Advance Wars 2: Black Hole Rising':
         genres: []
         platforms: []
-        release_year: null
 randomizers:
 -   games:
     - 'Advance Wars 2: Black Hole Rising'
     identifier: Ephraim225's
     url: https://www.reddit.com/r/Advance_Wars/comments/k2kj5y/advance_wars_2_randomizer_program/
-    comment: null
-    multiworld: false
     obsolete: false
-    info-updated: 2024-05-25
-    added-date: 2024-05-25
+    updated-date: 1900-01-01
+    added-date: 1900-01-01
 -   games:
     - 'Advance Wars 2: Black Hole Rising'
     identifier: Self Randomizer
     url: https://feuniverse.us/t/aw2-self-randomizing-rom-complete/24788
-    comment: null
-    multiworld: false
     obsolete: false
-    info-updated: 2024-05-25
-    added-date: 2024-05-25
+    updated-date: 1900-01-01
+    added-date: 1900-01-01

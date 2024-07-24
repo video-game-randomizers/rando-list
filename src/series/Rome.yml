@@ -1,16 +1,14 @@
 name: Rome
-comment: Old versions of Paradox Development Studio games are available on Steam as
-    betas.
-sub-series: null
+comment: Old versions of Paradox Development Studio games are available on Steam as betas.
+sub-series: []
 games:
     'Imperator: Rome':
         genres: []
         platforms: []
-        release_year: null
 randomizers:
 -   games:
     - 'Imperator: Rome'
     identifier: Shattered World mod generator
     url: https://forum.paradoxplaza.com/forum/threads/tool-shattered-world-mod-generator.1191906/
-    info-updated: 2024-05-25
-    added-date: 2024-05-25
+    updated-date: 1900-01-01
+    added-date: 1900-01-01

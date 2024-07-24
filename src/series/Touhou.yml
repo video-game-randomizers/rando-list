@@ -1,25 +1,23 @@
 name: Touhou
-comment: null
-sub-series: null
+comment: ''
+sub-series: []
 games:
     Gensokyo no Nazo (Atlantis no Nazo fangame):
         genres: []
         platforms: []
-        release_year: null
     Touhou Luna Nights:
         genres: []
         platforms: []
-        release_year: null
 randomizers:
 -   games:
     - Gensokyo no Nazo (Atlantis no Nazo fangame)
     identifier: Ryason55's
     url: https://github.com/Ryason55/gnazo_randomizer
-    info-updated: 2024-05-25
-    added-date: 2024-05-25
+    updated-date: 1900-01-01
+    added-date: 1900-01-01
 -   games:
     - Touhou Luna Nights
     identifier: Ladybug Randomizer
     url: https://github.com/Lakifume/Ladybug-Randomizer
-    info-updated: 2024-05-25
-    added-date: 2024-05-25
+    updated-date: 1900-01-01
+    added-date: 1900-01-01

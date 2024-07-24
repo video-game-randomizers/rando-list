@@ -1,15 +1,14 @@
 name: 'RollerCoaster Tycoon '
-comment: null
-sub-series: null
+comment: ''
+sub-series: []
 games:
     OpenRCT2 (RollerCoaster Tycoon 2 fan recreation):
         genres: []
         platforms: []
-        release_year: null
 randomizers:
 -   games:
     - OpenRCT2 (RollerCoaster Tycoon 2 fan recreation)
     identifier: Die4Ever's
     url: https://github.com/Die4Ever/rollercoaster-tycoon-randomizer
-    info-updated: 2024-05-25
-    added-date: 2024-05-25
+    updated-date: 1900-01-01
+    added-date: 1900-01-01

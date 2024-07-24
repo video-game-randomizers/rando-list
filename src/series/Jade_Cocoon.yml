@@ -1,15 +1,14 @@
 name: Jade Cocoon
-comment: null
-sub-series: null
+comment: ''
+sub-series: []
 games:
     'Jade Cocoon: Story of the Tamamayu':
         genres: []
         platforms: []
-        release_year: null
 randomizers:
 -   games:
     - 'Jade Cocoon: Story of the Tamamayu'
     identifier: Meos's
     url: https://www.romhacking.net/utilities/1655/
-    info-updated: 2024-05-25
-    added-date: 2024-05-25
+    updated-date: 1900-01-01
+    added-date: 1900-01-01

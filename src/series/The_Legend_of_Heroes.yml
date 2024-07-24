@@ -1,36 +1,33 @@
 name: The Legend of Heroes
-comment: null
-sub-series: null
+comment: ''
+sub-series: []
 games:
     'The Legend of Heroes: Trails into Reverie':
         genres: []
         platforms: []
-        release_year: null
     'The Legend of Heroes: Trails of Cold Steel':
         genres: []
         platforms: []
-        release_year: null
     'The Legend of Heroes: Trails of Cold Steel III':
         genres: []
         platforms: []
-        release_year: null
 randomizers:
 -   games:
     - 'The Legend of Heroes: Trails of Cold Steel'
     identifier: nnguyen259's
     url: https://github.com/nnguyen259/ColdSteelRandomizer
-    info-updated: 2024-05-25
-    added-date: 2024-05-25
+    updated-date: 1900-01-01
+    added-date: 1900-01-01
 -   games:
     - 'The Legend of Heroes: Trails of Cold Steel III'
     identifier: nnguyen259's
     url: https://github.com/nnguyen259/ColdSteel3Tools
     comment: Modding tool with bundled randomizer
-    info-updated: 2024-05-25
-    added-date: 2024-05-25
+    updated-date: 1900-01-01
+    added-date: 1900-01-01
 -   games:
     - 'The Legend of Heroes: Trails into Reverie'
     identifier: nnguyen259's
     url: https://github.com/nnguyen259/ReverieRandomizer
-    info-updated: 2024-05-25
-    added-date: 2024-05-25
+    updated-date: 1900-01-01
+    added-date: 1900-01-01

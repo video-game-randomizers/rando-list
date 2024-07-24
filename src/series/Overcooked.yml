@@ -1,16 +1,15 @@
 name: Overcooked
-comment: null
-sub-series: null
+comment: ''
+sub-series: []
 games:
     Overcooked! 2:
         genres: []
         platforms: []
-        release_year: null
 randomizers:
 -   games:
     - Overcooked! 2
     identifier: Archipelago
     url: https://archipelago.gg/tutorial/#Overcooked!%202
     multiworld: Archipelago
-    info-updated: 2024-05-25
-    added-date: 2024-05-25
+    updated-date: 1900-01-01
+    added-date: 1900-01-01

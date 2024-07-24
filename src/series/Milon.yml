@@ -1,15 +1,14 @@
 name: Milon
-comment: null
-sub-series: null
+comment: ''
+sub-series: []
 games:
     Milon's Secret Castle:
         genres: []
         platforms: []
-        release_year: null
 randomizers:
 -   games:
     - Milon's Secret Castle
     identifier: Micheil Skeens's
     url: https://micheilskeens.com/milons-secret-castle-randomizer.php
-    info-updated: 2024-05-25
-    added-date: 2024-05-25
+    updated-date: 1900-01-01
+    added-date: 1900-01-01

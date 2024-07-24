@@ -1,25 +1,22 @@
 name: Victoria
-comment: Old versions of Paradox Development Studio games are available on Steam as
-    betas.
-sub-series: null
+comment: Old versions of Paradox Development Studio games are available on Steam as betas.
+sub-series: []
 games:
     Victoria II:
         genres: []
         platforms: []
-        release_year: null
 randomizers:
 -   games:
     - Victoria II
     identifier: FortTell's Random World Generator
     url: https://yadi.sk/d/b6jEkpbrBMexiw
-    comment: '[Original release forum post](https://forum.paradoxplaza.com/forum/threads/victoria-ii-random-world-generator.546055/page-35#post-26579083)
-        for Paradox Interactive account users'
-    info-updated: 2024-05-25
-    added-date: 2024-05-25
+    comment: '[Original release forum post](https://forum.paradoxplaza.com/forum/threads/victoria-ii-random-world-generator.546055/page-35#post-26579083) for Paradox Interactive account users'
+    updated-date: 1900-01-01
+    added-date: 1900-01-01
 -   games:
     - Victoria II
     identifier: Jefferson Pinheiro's Random World Generator
     url: https://web.archive.org/web/20210125171855/https://www.magiadosdoces.com/jeff/v2rwg.html
     obsolete: true
-    info-updated: 2024-05-25
-    added-date: 2024-05-25
+    updated-date: 1900-01-01
+    added-date: 1900-01-01

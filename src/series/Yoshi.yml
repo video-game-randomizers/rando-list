@@ -1,16 +1,15 @@
 name: Yoshi
-comment: null
-sub-series: null
+comment: ''
+sub-series: []
 games:
     Yoshi's Island:
         genres: []
         platforms: []
-        release_year: null
 randomizers:
 -   games:
     - Yoshi's Island
     identifier: Archipelago
     url: https://archipelago.gg/tutorial/#Yoshi's%20Island
     multiworld: Archipelago
-    info-updated: 2024-05-25
-    added-date: 2024-05-25
+    updated-date: 1900-01-01
+    added-date: 1900-01-01

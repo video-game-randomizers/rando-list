@@ -1,23 +1,22 @@
 name: Bomberman
-comment: null
-sub-series: null
+comment: ''
+sub-series: []
 games:
     Bomberman Tournament:
         genres: []
         platforms: []
-        release_year: null
 randomizers:
 -   games:
     - Bomberman Tournament
     identifier: fusecv's
     url: https://btrando.surge.sh/
-    info-updated: 2024-05-25
-    added-date: 2024-05-25
+    updated-date: 1900-01-01
+    added-date: 1900-01-01
 -   games:
     - Bomberman Tournament
     identifier: HoDBT
     url: https://hodbt.surge.sh/
     multiworld: Other
     comment: 'Castlevania: Harmony of Dissonance / Bomberman Tournament multiworld'
-    info-updated: 2024-05-25
-    added-date: 2024-05-25
+    updated-date: 1900-01-01
+    added-date: 1900-01-01

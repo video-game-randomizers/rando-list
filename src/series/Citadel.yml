@@ -1,15 +1,14 @@
 name: Citadel
-comment: null
-sub-series: null
+comment: ''
+sub-series: []
 games:
     Citadel:
         genres: []
         platforms: []
-        release_year: null
 randomizers:
 -   games:
     - Citadel
     identifier: Item Randomiser
     url: https://stardot.org.uk/forums/viewtopic.php?f=1&t=14318
-    info-updated: 2024-05-25
-    added-date: 2024-05-25
+    updated-date: 1900-01-01
+    added-date: 1900-01-01

@@ -1,5 +1,5 @@
 name: Donkey Kong
-comment: null
+comment: ''
 sub-series:
 - Classic
 - Country
@@ -8,80 +8,73 @@ games:
     Diddy Kong Racing:
         genres: []
         platforms: []
-        release_year: null
         sub-series: Racing
     Donkey Kong:
         genres: []
         platforms: []
-        release_year: null
         sub-series: Classic
     Donkey Kong 64:
         genres: []
         platforms: []
-        release_year: null
         sub-series: Country
     Donkey Kong Country:
         genres: []
         platforms: []
-        release_year: null
         sub-series: Country
     'Donkey Kong Country 2: Diddy''s Kong Quest':
         genres: []
         platforms: []
-        release_year: null
         sub-series: Country
     'Donkey Kong Country 3: Dixie Kong''s Double Trouble':
         genres: []
         platforms: []
-        release_year: null
         sub-series: Country
 randomizers:
 -   games:
     - Donkey Kong
     identifier: Randomized Edition
     url: https://www.donkeykonghacks.net/
-    info-updated: 2024-05-25
-    added-date: 2024-05-25
+    updated-date: 1900-01-01
+    added-date: 1900-01-01
 -   games:
     - Donkey Kong Country
     - 'Donkey Kong Country 2: Diddy''s Kong Quest'
     identifier: DKC Randomizer / DKC Entrance Rando / DKC2 Entrance Randomizer
     url: https://www.twitch.tv/rainbowsprinklez/about
-    comment: Located under ROM Hacks - DKC Randomizer randomizes animal buddies and
-        enemies and requires an NA 1.0 ROM - Partial [source code](https://github.com/mike19283?tab=repositories)
-    info-updated: 2024-05-25
-    added-date: 2024-05-25
+    comment: Located under ROM Hacks - DKC Randomizer randomizes animal buddies and enemies and requires an NA 1.0 ROM - Partial [source code](https://github.com/mike19283?tab=repositories)
+    updated-date: 1900-01-01
+    added-date: 1900-01-01
 -   games:
     - 'Donkey Kong Country 3: Dixie Kong''s Double Trouble'
     identifier: Pozzum's
     url: https://github.com/pozzum/DKC3Randomizer/releases
-    info-updated: 2024-05-25
-    added-date: 2024-05-25
+    updated-date: 1900-01-01
+    added-date: 1900-01-01
 -   games:
     - 'Donkey Kong Country 3: Dixie Kong''s Double Trouble'
     identifier: Archipelago
     url: https://archipelago.gg/games/Donkey%20Kong%20Country%203/info/en
     multiworld: Archipelago
-    info-updated: 2024-05-25
-    added-date: 2024-05-25
+    updated-date: 1900-01-01
+    added-date: 1900-01-01
 -   games:
     - Donkey Kong 64
     identifier: 2dos's, 2021
     url: https://dk64randomizer.com/
-    info-updated: 2024-05-25
-    added-date: 2024-05-25
+    updated-date: 1900-01-01
+    added-date: 1900-01-01
 -   games:
     - Donkey Kong 64
     identifier: Loading Zone Randomizer
     url: https://drive.google.com/file/d/1H21m7tiKPqRYNRh2O2R-KRcMT6nuyUJZ/view
     obsolete: true
     comment: Requires special emulator [BizHawk](https://tasvideos.org/BizHawk)
-    info-updated: 2024-05-25
-    added-date: 2024-05-25
+    updated-date: 1900-01-01
+    added-date: 1900-01-01
 -   games:
     - Diddy Kong Racing
     identifier: acastelli's
     url: https://acastelli.com/dkr/hacks/
     comment: Located under Randomizer
-    info-updated: 2024-05-25
-    added-date: 2024-05-25
+    updated-date: 1900-01-01
+    added-date: 1900-01-01

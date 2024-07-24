@@ -1,15 +1,14 @@
 name: Chibi-Robo!
-comment: null
-sub-series: null
+comment: ''
+sub-series: []
 games:
     Chibi-Robo!:
         genres: []
         platforms: []
-        release_year: null
 randomizers:
 -   games:
     - Chibi-Robo!
     identifier: JBDdev's
     url: https://github.com/JBDdev/Chibi-Robo-Randomizer
-    added-date: 2024-05-25
-    info-updated: 2024-05-25
+    updated-date: 1900-01-01
+    added-date: 1900-01-01

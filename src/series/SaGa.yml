@@ -1,42 +1,39 @@
 name: SaGa
-comment: null
-sub-series: null
+comment: ''
+sub-series: []
 games:
     Final Fantasy Legend II:
         genres: []
         platforms: []
-        release_year: null
     Final Fantasy Legend III:
         genres: []
         platforms: []
-        release_year: null
     The Final Fantasy Legend:
         genres: []
         platforms: []
-        release_year: null
 randomizers:
 -   games:
     - The Final Fantasy Legend
     identifier: Chaoseum
     url: https://towerreversed.neocities.org/projects
     comment: Located under ffl chaoseum
-    info-updated: 2024-05-25
-    added-date: 2024-05-25
+    updated-date: 1900-01-01
+    added-date: 1900-01-01
 -   games:
     - The Final Fantasy Legend
     identifier: eclipseyy's
     url: https://github.com/eclipseyy/FFLRandomizer
-    info-updated: 2024-05-25
-    added-date: 2024-05-25
+    updated-date: 1900-01-01
+    added-date: 1900-01-01
 -   games:
     - Final Fantasy Legend II
     identifier: Mighty Power
     url: https://github.com/abyssonym/mighty_power
-    info-updated: 2024-05-25
-    added-date: 2024-05-25
+    updated-date: 1900-01-01
+    added-date: 1900-01-01
 -   games:
     - Final Fantasy Legend III
     identifier: Lunacy
     url: https://www.romhacking.net/hacks/4351/
-    info-updated: 2024-05-25
-    added-date: 2024-05-25
+    updated-date: 1900-01-01
+    added-date: 1900-01-01

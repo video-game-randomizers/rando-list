@@ -1,15 +1,14 @@
 name: Punch-Out!!
-comment: null
-sub-series: null
+comment: ''
+sub-series: []
 games:
     Mike Tyson's Punch-Out!!:
         genres: []
         platforms: []
-        release_year: null
 randomizers:
 -   games:
     - Mike Tyson's Punch-Out!!
     identifier: authorblues's
     url: https://authorblues.github.io/mtporandomizer/
-    added-date: 2024-05-25
-    info-updated: 2024-05-25
+    updated-date: 1900-01-01
+    added-date: 1900-01-01

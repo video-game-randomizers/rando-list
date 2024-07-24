@@ -1,16 +1,15 @@
 name: Scooby-Doo
-comment: null
-sub-series: null
+comment: ''
+sub-series: []
 games:
     'Scooby-Doo: Night of 100 Frights':
         genres: []
         platforms: []
-        release_year: null
 randomizers:
 -   games:
     - 'Scooby-Doo: Night of 100 Frights'
     identifier: Industrial Park
     url: https://github.com/igorseabra4/IndustrialPark
     comment: Level editor with bundled randomizer - [User guide](https://heavyironmodding.org/wiki/Randomizer)
-    info-updated: 2024-05-25
-    added-date: 2024-05-25
+    updated-date: 1900-01-01
+    added-date: 1900-01-01

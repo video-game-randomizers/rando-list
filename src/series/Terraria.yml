@@ -1,36 +1,35 @@
 name: Terraria
-comment: null
-sub-series: null
+comment: ''
+sub-series: []
 games:
     Terraria:
         genres: []
         platforms: []
-        release_year: null
 randomizers:
 -   games:
     - Terraria
     identifier: Chest Randomizer
     url: http://artemis251.fobby.net/stuff/terrariaMusic.html
-    info-updated: 2024-05-25
-    added-date: 2024-05-25
+    updated-date: 1900-01-01
+    added-date: 1900-01-01
 -   games:
     - Terraria
     identifier: Flag Randomizer
     url: https://forums.terraria.org/index.php?threads/terraria-flag-randomizer.113407/
     comment: Requires [tModLoader](https://tmodloader.net/)
-    info-updated: 2024-05-25
-    added-date: 2024-05-25
+    updated-date: 1900-01-01
+    added-date: 1900-01-01
 -   games:
     - Terraria
     identifier: JamSnack's
     url: https://forums.terraria.org/index.php?threads/randomizer-challenge-mod.83163/
     comment: Requires [tModLoader](https://tmodloader.net/)
-    info-updated: 2024-05-25
-    added-date: 2024-05-25
+    updated-date: 1900-01-01
+    added-date: 1900-01-01
 -   games:
     - Terraria
     identifier: Archipelago
     url: https://archipelago.gg/tutorial/#Terraria
     multiworld: Archipelago
-    info-updated: 2024-05-25
-    added-date: 2024-05-25
+    updated-date: 1900-01-01
+    added-date: 1900-01-01

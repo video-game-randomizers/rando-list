@@ -1,32 +1,30 @@
 name: Unreal
-comment: null
-sub-series: null
+comment: ''
+sub-series: []
 games:
     Unreal Gold:
         genres: []
         platforms: []
-        release_year: null
     Unreal Tournament:
         genres: []
         platforms: []
-        release_year: null
 randomizers:
 -   games:
     - Unreal Gold
     identifier: Die4Ever's
     url: https://github.com/Die4Ever/unreal-randomizer
-    info-updated: 2024-05-25
-    added-date: 2024-05-25
+    updated-date: 1900-01-01
+    added-date: 1900-01-01
 -   games:
     - Unreal Tournament
     identifier: Map Randomizer
     url: https://www.gweb.me.uk/gweb/ut_mr.htm
     obsolete: true
-    info-updated: 2024-05-25
-    added-date: 2024-05-25
+    updated-date: 1900-01-01
+    added-date: 1900-01-01
 -   games:
     - Unreal Tournament
     identifier: XMaps
     url: https://www.gweb.me.uk/xmaps/index.html
-    info-updated: 2024-05-25
-    added-date: 2024-05-25
+    updated-date: 1900-01-01
+    added-date: 1900-01-01

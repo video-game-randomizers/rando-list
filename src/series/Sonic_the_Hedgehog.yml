@@ -1,5 +1,5 @@
 name: Sonic the Hedgehog
-comment: null
+comment: ''
 sub-series:
 - 2D
 - 3D
@@ -8,52 +8,42 @@ games:
     Shadow the Hedgehog:
         genres: []
         platforms: []
-        release_year: null
         sub-series: 3D
     Sonic & Knuckles Collection:
         genres: []
         platforms: []
-        release_year: null
         sub-series: 2D
     Sonic Adventure 2:
         genres: []
         platforms: []
-        release_year: null
         sub-series: 3D
     Sonic Adventure DX:
         genres: []
         platforms: []
-        release_year: null
         sub-series: 3D
     Sonic CD:
         genres: []
         platforms: []
-        release_year: null
         sub-series: 2D
     Sonic Mania:
         genres: []
         platforms: []
-        release_year: null
         sub-series: 2D
     Sonic Robo Blast 2 (fangame):
         genres: []
         platforms: []
-        release_year: null
         sub-series: Unofficial
     Sonic the Hedgehog:
         genres: []
         platforms: []
-        release_year: null
         sub-series: 2D
     Sonic the Hedgehog (2006):
         genres: []
         platforms: []
-        release_year: null
         sub-series: 3D
     Sonic the Hedgehog (Master System):
         genres: []
         platforms: []
-        release_year: null
         sub-series: 2D
 randomizers:
 -   games:
@@ -61,66 +51,66 @@ randomizers:
     identifier: Random Levels Project
     url: https://forums.sonicretro.org/index.php?threads/random-levels-project.36646/
     comment: Randomizes Green Hill Zone
-    info-updated: 2024-05-25
-    added-date: 2024-05-25
+    updated-date: 1900-01-01
+    added-date: 1900-01-01
 -   games:
     - Sonic the Hedgehog (Master System)
     identifier: ssjtroly's
     url: https://ssjtroly.github.io/sonic1-sms-randomizer/
-    info-updated: 2024-05-25
-    added-date: 2024-05-25
+    updated-date: 1900-01-01
+    added-date: 1900-01-01
 -   games:
     - Sonic CD
     identifier: MainMemory's
     url: https://gamebanana.com/mods/347942
-    info-updated: 2024-05-25
-    added-date: 2024-05-25
+    updated-date: 1900-01-01
+    added-date: 1900-01-01
 -   games:
     - Sonic & Knuckles Collection
     identifier: MainMemory's
     url: https://shc.zone/entries/expo2022/682
-    info-updated: 2024-05-25
-    added-date: 2024-05-25
+    updated-date: 1900-01-01
+    added-date: 1900-01-01
 -   games:
     - Sonic Mania
     identifier: junglechief87's
     url: https://github.com/junglechief87/Sonic-Mania-Randomizer-Custom-Game-Maker
-    info-updated: 2024-05-25
-    added-date: 2024-05-25
+    updated-date: 1900-01-01
+    added-date: 1900-01-01
 -   games:
     - Sonic Adventure DX
     identifier: Sora's
     url: https://github.com/Sora-yx/SADX-Randomizer
-    info-updated: 2024-05-25
-    added-date: 2024-05-25
+    updated-date: 1900-01-01
+    added-date: 1900-01-01
 -   games:
     - Sonic Adventure 2
     identifier: Ngolinvaux's
     url: https://github.com/Ngolinvaux/SA2Randomizer
-    info-updated: 2024-05-25
-    added-date: 2024-05-25
+    updated-date: 1900-01-01
+    added-date: 1900-01-01
 -   games:
     - Sonic Adventure 2
     identifier: Archipelago
     url: https://archipelago.gg/tutorial/#Sonic%20Adventure%202%20Battle
     multiworld: Archipelago
-    info-updated: 2024-05-25
-    added-date: 2024-05-25
+    updated-date: 1900-01-01
+    added-date: 1900-01-01
 -   games:
     - Shadow the Hedgehog
     identifier: MainMemory & dreamsyntax's
     url: https://github.com/ShadowTheHedgehogHacking/ShadowRando
-    info-updated: 2024-05-25
-    added-date: 2024-05-25
+    updated-date: 1900-01-01
+    added-date: 1900-01-01
 -   games:
     - Sonic the Hedgehog (2006)
     identifier: Randomiser Suite
     url: https://github.com/Knuxfan24/Sonic-06-Randomiser-Suite
-    info-updated: 2024-05-25
-    added-date: 2024-05-25
+    updated-date: 1900-01-01
+    added-date: 1900-01-01
 -   games:
     - Sonic Robo Blast 2 (fangame)
-    identifier: "SRB2Randomizer\u200B"
+    identifier: SRB2Randomizer​
     url: https://mb.srb2.org/threads/srb2randomizer.28983/
-    info-updated: 2024-05-25
-    added-date: 2024-05-25
+    updated-date: 1900-01-01
+    added-date: 1900-01-01

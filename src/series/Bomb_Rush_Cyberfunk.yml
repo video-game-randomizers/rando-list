@@ -1,20 +1,19 @@
 name: Bomb Rush Cyberfunk
-comment: null
-sub-series: null
+comment: ''
+sub-series: []
 games:
     Bomb Rush Cyberfunk:
         genres:
-            - Adventure
-            - Platformer
+        - Adventure
+        - Platformer
         platforms:
-            - PC
-        release_year: 2023
+        - PC
 randomizers:
 -   games:
     - Bomb Rush Cyberfunk
     identifier: Archipelago
     url: https://archipelago.gg/games/Bomb%20Rush%20Cyberfunk/info/en
     multiworld: Archipelago
-    info-updated: 2024-07-23
-    added-date: 2024-07-23
     opensource: true
+    updated-date: 2024-07-23
+    added-date: 2024-07-23

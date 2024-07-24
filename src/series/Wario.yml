@@ -1,25 +1,23 @@
 name: Wario
-comment: null
-sub-series: null
+comment: ''
+sub-series: []
 games:
     Wario Land 3:
         genres: []
         platforms: []
-        release_year: null
     Wario Land 4:
         genres: []
         platforms: []
-        release_year: null
 randomizers:
 -   games:
     - Wario Land 3
     identifier: AaronDobbe's
     url: https://github.com/AaronDobbe/wl3-randomizer
-    info-updated: 2024-05-25
-    added-date: 2024-05-25
+    updated-date: 1900-01-01
+    added-date: 1900-01-01
 -   games:
     - Wario Land 4
     identifier: IsaGoodFriend's
     url: https://github.com/IsaGoodFriend/WL4-Randomizer
-    info-updated: 2024-05-25
-    added-date: 2024-05-25
+    updated-date: 1900-01-01
+    added-date: 1900-01-01

@@ -1,15 +1,14 @@
 name: Kururin
-comment: null
-sub-series: null
+comment: ''
+sub-series: []
 games:
     KuruKuru Kururin:
         genres: []
         platforms: []
-        release_year: null
 randomizers:
 -   games:
     - KuruKuru Kururin
     identifier: KuruKuruKurandomizer
     url: https://github.com/GirambQuamb/KuruKuruKurandomizer
-    info-updated: 2024-05-25
-    added-date: 2024-05-25
+    updated-date: 1900-01-01
+    added-date: 1900-01-01

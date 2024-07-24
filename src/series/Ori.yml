@@ -1,27 +1,25 @@
 name: Ori
-comment: null
-sub-series: null
+comment: ''
+sub-series: []
 games:
     'Ori and the Blind Forest: Definitive Edition':
         genres: []
         platforms: []
-        release_year: null
     Ori and the Will of the Wisps:
         genres: []
         platforms: []
-        release_year: null
 randomizers:
 -   games:
     - 'Ori and the Blind Forest: Definitive Edition'
     identifier: sigmasin & Eiko's
     url: https://orirando.com/
     comment: '[Source code](https://github.com/sparkle-preference/OriDERandomizer)'
-    info-updated: 2024-05-25
-    added-date: 2024-05-25
+    updated-date: 1900-01-01
+    added-date: 1900-01-01
 -   games:
     - Ori and the Will of the Wisps
     identifier: Eiko's
     url: https://wotw.orirando.com/
     comment: '[Source code](https://github.com/ori-community)'
-    info-updated: 2024-05-25
-    added-date: 2024-05-25
+    updated-date: 1900-01-01
+    added-date: 1900-01-01

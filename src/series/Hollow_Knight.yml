@@ -1,37 +1,33 @@
 name: Hollow Knight
-comment: 'Use [Lumafly](https://themulhima.github.io/Lumafly/) for easy installation
-    & updates.
+comment: 'Use [Lumafly](https://themulhima.github.io/Lumafly/) for easy installation & updates.
 
 
-    Support is available on the [official Hollow Knight Discord server](https://discord.com/invite/hollowknight)
-    in the #randomizer channel.'
-sub-series: null
+    Support is available on the [official Hollow Knight Discord server](https://discord.com/invite/hollowknight) in the #randomizer channel.'
+sub-series: []
 games:
     Hollow Knight:
         genres: []
         platforms: []
-        release_year: null
 randomizers:
 -   games:
     - Hollow Knight
     identifier: Randomizer 4
     url: https://github.com/homothetyhk/RandomizerMod
-    comment: Find add-ons through Lumafly's `Advanced Search > Search by Dependencies
-        & Integrations` with the term `Randomizer 4`.
-    added-date: 2024-05-25
-    info-updated: 2024-05-29
+    comment: Find add-ons through Lumafly's `Advanced Search > Search by Dependencies & Integrations` with the term `Randomizer 4`.
+    updated-date: 2024-05-29
+    added-date: 1900-01-01
 -   games:
     - Hollow Knight
     identifier: Multiworld
     url: https://github.com/Shadudev/HollowKnight.MultiWorld
     multiworld: Shadu-Multiworld
     comment: Requires Randomizer 4. Also see Itemsync in the same repo or on Lumafly.
+    updated-date: 2024-05-29
     added-date: 2024-05-29
-    info-updated: 2024-05-29
 -   games:
     - Hollow Knight
     identifier: Archipelago
     url: https://archipelago.gg/tutorial/#Hollow%20Knight
     multiworld: Archipelago
-    added-date: 2024-05-25
-    info-updated: 2024-05-25
+    updated-date: 1900-01-01
+    added-date: 1900-01-01
