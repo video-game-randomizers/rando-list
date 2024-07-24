@@ -43,6 +43,10 @@
     {{ game_data.platforms | join: ", " }}
 </p>
 
+{%- if game_data.comment -%}
+    <p>{{ game_data.comment | markdownify }}</p>
+{%- endif -%}
+
 <ul class="game-list">
 
 {%- assign randos = randos | sort_natural: "identifier" -%}

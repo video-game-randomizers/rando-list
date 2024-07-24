@@ -64,7 +64,8 @@ games_schema = {
                 "minimum": 1900,
                 "maximum": datetime.now().year + 1
             },
-            "sub-series": ValidString
+            "sub-series": ValidString,
+            "comment": ValidString
         },
         "required": ["genres", "platforms", "release_year"],
         "additionalProperties": False
