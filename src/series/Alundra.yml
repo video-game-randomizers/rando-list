@@ -1,15 +1,14 @@
 name: Alundra
-comment: null
-sub-series: null
+comment: ''
+sub-series: []
 games:
     Alundra:
         genres: []
         platforms: []
-        release_year: null
 randomizers:
 -   games:
     - Alundra
     identifier: Dinopony's
     url: https://github.com/Dinopony/alundra-randomizer
-    info-updated: 2024-05-25
-    added-date: 2024-05-25
+    updated-date: 1900-01-01
+    added-date: 1900-01-01

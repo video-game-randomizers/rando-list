@@ -1,15 +1,14 @@
 name: Left 4 Dead
-comment: null
-sub-series: null
+comment: ''
+sub-series: []
 games:
     Left 4 Dead 2:
         genres: []
         platforms: []
-        release_year: null
 randomizers:
 -   games:
     - Left 4 Dead 2
     identifier: Map Generator
     url: https://ssl.hehoe.de/mcs/index.php?display=tools
-    info-updated: 2024-05-25
-    added-date: 2024-05-25
+    updated-date: 1900-01-01
+    added-date: 1900-01-01

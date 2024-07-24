@@ -1,39 +1,31 @@
 name: Inazuma Eleven
-comment: null
-sub-series: null
+comment: ''
+sub-series: []
 games:
     3DS):
         genres: []
         platforms: []
-        release_year: null
     Inazuma Eleven:
         genres: []
         platforms: []
-        release_year: null
     'Inazuma Eleven 2: Blizzard':
         genres: []
         platforms: []
-        release_year: null
     'Inazuma Eleven 2: FireStorm':
         genres: []
         platforms: []
-        release_year: null
     'Inazuma Eleven 3: Team Ogre Attacks! (DS':
         genres: []
         platforms: []
-        release_year: null
     'Inazuma Eleven GO Chrono Stones: Thunderflash':
         genres: []
         platforms: []
-        release_year: null
     'Inazuma Eleven GO Chrono Stones: Wildfire':
         genres: []
         platforms: []
-        release_year: null
     'Inazuma Eleven GO: Galaxy':
         genres: []
         platforms: []
-        release_year: null
 randomizers:
 -   games:
     - Inazuma Eleven
@@ -46,8 +38,8 @@ randomizers:
     comment: 'Support and potential future versions available on the [Victory Road
         Discord server](https://discord.com/invite/3wKp5ZxA9N) in the #ie-randomizer
         channel'
-    info-updated: 2024-05-25
-    added-date: 2024-05-25
+    updated-date: 1900-01-01
+    added-date: 1900-01-01
 -   games:
     - 'Inazuma Eleven GO Chrono Stones: Wildfire'
     - 'Inazuma Eleven GO Chrono Stones: Thunderflash'
@@ -56,11 +48,11 @@ randomizers:
     comment: 'Support and potential future versions available on the [Victory Road
         Discord server](https://discord.com/invite/3wKp5ZxA9N) in the #ie-randomizer
         channel'
-    info-updated: 2024-05-25
-    added-date: 2024-05-25
+    updated-date: 1900-01-01
+    added-date: 1900-01-01
 -   games:
     - 'Inazuma Eleven GO: Galaxy'
     identifier: Tinifan's
     url: https://github.com/Tiniifan/UltimateGalaxyRandomizer
-    info-updated: 2024-05-25
-    added-date: 2024-05-25
+    updated-date: 1900-01-01
+    added-date: 1900-01-01

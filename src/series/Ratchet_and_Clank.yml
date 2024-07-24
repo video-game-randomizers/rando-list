@@ -1,16 +1,15 @@
 name: Ratchet & Clank
-comment: null
-sub-series: null
+comment: ''
+sub-series: []
 games:
     Ratchet & Clank Collection:
         genres: []
         platforms: []
-        release_year: null
 randomizers:
 -   games:
     - Ratchet & Clank Collection
     identifier: bordplate's
     url: https://github.com/bordplate/rac1-randomizer
     comment: Randomizes Ratchet & Clank
-    added-date: 2024-05-25
-    info-updated: 2024-05-25
+    updated-date: 1900-01-01
+    added-date: 1900-01-01

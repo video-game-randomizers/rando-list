@@ -1,30 +1,27 @@
 name: Silent Hill
-comment: null
-sub-series: null
+comment: ''
+sub-series: []
 games:
     Silent Hill 2:
         genres: []
         platforms: []
-        release_year: null
     Silent Hill 3:
         genres: []
         platforms: []
-        release_year: null
     'Silent Hill 4: The Room':
         genres: []
         platforms: []
-        release_year: null
 randomizers:
 -   games:
     - Silent Hill 2
     - Silent Hill 3
     identifier: Jokie's
     url: https://github.com/JokieW/RandomHill
-    info-updated: 2024-05-25
-    added-date: 2024-05-25
+    updated-date: 1900-01-01
+    added-date: 1900-01-01
 -   games:
     - 'Silent Hill 4: The Room'
     identifier: Hunter Stanton's
     url: https://github.com/HunterStanton/SilentHill4Randomizer
-    info-updated: 2024-05-25
-    added-date: 2024-05-25
+    updated-date: 1900-01-01
+    added-date: 1900-01-01

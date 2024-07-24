@@ -1,27 +1,26 @@
 name: Lies of P
-comment: null
-sub-series: null
+comment: ''
+sub-series: []
 games:
     Lies of P:
         genres: []
         platforms: []
-        release_year: null
 randomizers:
 -   games:
     - Lies of P
     identifier: Item Randomizer
     url: https://www.nexusmods.com/liesofp/mods/117
-    info-updated: 2024-05-25
-    added-date: 2024-05-25
+    updated-date: 1900-01-01
+    added-date: 1900-01-01
 -   games:
     - Lies of P
     identifier: Shop Item Randomizer
     url: https://www.nexusmods.com/liesofp/mods/118
-    info-updated: 2024-05-25
-    added-date: 2024-05-25
+    updated-date: 1900-01-01
+    added-date: 1900-01-01
 -   games:
     - Lies of P
     identifier: Starting Weapon Randomizer
     url: https://www.nexusmods.com/liesofp/mods/119
-    info-updated: 2024-05-25
-    added-date: 2024-05-25
+    updated-date: 1900-01-01
+    added-date: 1900-01-01

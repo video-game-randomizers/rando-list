@@ -1,82 +1,80 @@
 name: Fallout
-comment: null
-sub-series: null
+comment: ''
+sub-series: []
 games:
     Fallout 4:
         genres: []
         platforms: []
-        release_year: null
     'Fallout: New Vegas':
         genres: []
         platforms: []
-        release_year: null
 randomizers:
 -   games:
     - 'Fallout: New Vegas'
     identifier: NVRNG
     url: https://www.nexusmods.com/newvegas/mods/70845
     comment: Unofficial [debug weapon nerf mod](https://www.nexusmods.com/newvegas/mods/71211)
-    info-updated: 2024-05-25
-    added-date: 2024-05-25
+    updated-date: 1900-01-01
+    added-date: 1900-01-01
 -   games:
     - 'Fallout: New Vegas'
     identifier: Skill Check Randomizer
     url: https://www.nexusmods.com/newvegas/mods/53420
     comment: Unofficial [patch for YUP mod](https://www.nexusmods.com/newvegas/mods/84349)
-    info-updated: 2024-05-25
-    added-date: 2024-05-25
+    updated-date: 1900-01-01
+    added-date: 1900-01-01
 -   games:
     - 'Fallout: New Vegas'
     identifier: World Randomizer
     url: https://www.nexusmods.com/newvegas/mods/74554
-    info-updated: 2024-05-25
-    added-date: 2024-05-25
+    updated-date: 1900-01-01
+    added-date: 1900-01-01
 -   games:
     - Fallout 4
     identifier: Bobblehead Randomizer
     url: https://www.nexusmods.com/fallout4/mods/58541
-    info-updated: 2024-05-25
-    added-date: 2024-05-25
+    updated-date: 1900-01-01
+    added-date: 1900-01-01
 -   games:
     - Fallout 4
     identifier: Crazy's Armor Overhaul and Randomizer
     url: https://www.nexusmods.com/fallout4/mods/69102
-    info-updated: 2024-05-25
-    added-date: 2024-05-25
+    updated-date: 1900-01-01
+    added-date: 1900-01-01
 -   games:
     - Fallout 4
     identifier: Crazy's Weapon Randomizer
     url: https://www.nexusmods.com/fallout4/mods/69248
-    info-updated: 2024-05-25
-    added-date: 2024-05-25
+    updated-date: 1900-01-01
+    added-date: 1900-01-01
 -   games:
     - Fallout 4
     identifier: Enemy Weapon Randomizer
     url: https://www.nexusmods.com/fallout4/mods/9528
-    info-updated: 2024-05-25
-    added-date: 2024-05-25
+    updated-date: 1900-01-01
+    added-date: 1900-01-01
 -   games:
     - Fallout 4
     identifier: Mechtechnal's
     url: https://www.nexusmods.com/fallout4/mods/21297
     comment: Only mitigates sequence breaking
-    info-updated: 2024-05-25
-    added-date: 2024-05-25
+    updated-date: 1900-01-01
+    added-date: 1900-01-01
 -   games:
     - Fallout 4
     identifier: Random Weapon Stats
     url: https://www.nexusmods.com/fallout4/mods/43223
-    info-updated: 2024-05-25
-    added-date: 2024-05-25
+    updated-date: 1900-01-01
+    added-date: 1900-01-01
 -   games:
     - Fallout 4
     identifier: Randomized Enemy Weapons
     url: https://www.nexusmods.com/fallout4/mods/40446
-    info-updated: 2024-05-25
-    added-date: 2024-05-25
+    updated-date: 1900-01-01
+    added-date: 1900-01-01
 -   games:
     - Fallout 4
     identifier: Weapon Quality Randomizer
     url: https://www.nexusmods.com/fallout4/mods/44946
-    info-updated: 2024-05-25
-    added-date: 2024-05-25
+    updated-date: 1900-01-01
+    added-date: 1900-01-01

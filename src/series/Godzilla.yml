@@ -1,15 +1,14 @@
 name: Godzilla
-comment: null
-sub-series: null
+comment: ''
+sub-series: []
 games:
     'Godzilla: Monster of Monsters':
         genres: []
         platforms: []
-        release_year: null
 randomizers:
 -   games:
     - 'Godzilla: Monster of Monsters'
     identifier: MaybeDatapod's
     url: https://github.com/MaybeDatapod/godzilla-randomizer
-    info-updated: 2024-05-25
-    added-date: 2024-05-25
+    updated-date: 1900-01-01
+    added-date: 1900-01-01

@@ -1,16 +1,15 @@
 name: Hebereke
-comment: null
-sub-series: null
+comment: ''
+sub-series: []
 games:
     Hebereke:
         genres: []
         platforms: []
-        release_year: null
 randomizers:
 -   games:
     - Hebereke
     identifier: Dan Jia Randomizers
     url: https://github.com/vinheim3/randomizers
     comment: Download code in local directory and open `index.html` to use
-    info-updated: 2024-05-25
-    added-date: 2024-05-25
+    updated-date: 1900-01-01
+    added-date: 1900-01-01

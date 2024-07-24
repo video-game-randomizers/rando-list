@@ -1,15 +1,13 @@
 name: X
-comment: null
-sub-series: null
+comment: ''
+sub-series: []
 games:
     'X2: The Threat':
         genres: []
         platforms: []
-        release_year: null
     'X3: Terran Conflict':
         genres: []
         platforms: []
-        release_year: null
 randomizers:
 -   games:
     - 'X2: The Threat'
@@ -17,18 +15,18 @@ randomizers:
     url: https://xehonk.de/projects/galaxyeditor.php
     obsolete: true
     comment: Includes random galaxy creator
-    info-updated: 2024-05-25
-    added-date: 2024-05-25
+    updated-date: 1900-01-01
+    added-date: 1900-01-01
 -   games:
     - 'X2: The Threat'
     identifier: XUniverseWizard
     url: https://sourceforge.net/projects/xuniversewizard/
     comment: Download of dependency requires Egosoft account
-    info-updated: 2024-05-25
-    added-date: 2024-05-25
+    updated-date: 1900-01-01
+    added-date: 1900-01-01
 -   games:
     - 'X3: Terran Conflict'
     identifier: AP Map Generator
     url: https://forum.egosoft.com/viewtopic.php?f=94&t=397700
-    info-updated: 2024-05-25
-    added-date: 2024-05-25
+    updated-date: 1900-01-01
+    added-date: 1900-01-01

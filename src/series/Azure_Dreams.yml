@@ -1,25 +1,23 @@
 name: Azure Dreams
-comment: null
-sub-series: null
+comment: ''
+sub-series: []
 games:
     Azure Dreams:
         genres: []
         platforms: []
-        release_year: null
     Azure Dreams (Game Boy Color):
         genres: []
         platforms: []
-        release_year: null
 randomizers:
 -   games:
     - Azure Dreams
     identifier: pro_grammar's
     url: https://adrando.com/
-    info-updated: 2024-05-25
-    added-date: 2024-05-25
+    updated-date: 1900-01-01
+    added-date: 1900-01-01
 -   games:
     - Azure Dreams (Game Boy Color)
     identifier: pro_grammar's
     url: https://adrando.com/gbc/
-    info-updated: 2024-05-25
-    added-date: 2024-05-25
+    updated-date: 1900-01-01
+    added-date: 1900-01-01

@@ -1,11 +1,10 @@
 name: Crystal Project
-comment: null
-sub-series: null
+comment: ''
+sub-series: []
 games:
     Crystal Project:
         genres: []
         platforms: []
-        release_year: null
 randomizers:
 -   games:
     - Crystal Project
@@ -14,5 +13,5 @@ randomizers:
     obsolete: true
     comment: Marked as obsolete since the author will no longer maintain it now that
         the main game contains a built-in one.
-    info-updated: 2024-05-25
-    added-date: 2024-05-25
+    updated-date: 1900-01-01
+    added-date: 1900-01-01

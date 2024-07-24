@@ -1,15 +1,14 @@
 name: The 7th Saga
-comment: null
-sub-series: null
+comment: ''
+sub-series: []
 games:
     The 7th Saga:
         genres: []
         platforms: []
-        release_year: null
 randomizers:
 -   games:
     - The 7th Saga
     identifier: gameboy9's
     url: https://github.com/gameboy9/7thSagaRando/releases
-    info-updated: 2024-05-25
-    added-date: 2024-05-25
+    updated-date: 1900-01-01
+    added-date: 1900-01-01

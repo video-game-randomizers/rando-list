@@ -3,11 +3,11 @@ games:
     Death's Door:
         genres: []
         platforms: []
-        release_year: null
 randomizers:
 -   games:
     - Death's Door
     identifier: dpinela's Item Randomizer
     url: https://github.com/dpinela/DeathsDoor.Randomizer
+    updated-date: 1900-01-01
     added-date: 2024-06-02
-    info-updated: 2024-06-02
+sub-series: []

@@ -1,11 +1,10 @@
 name: Nioh
-comment: null
-sub-series: null
+comment: ''
+sub-series: []
 games:
     Nioh 2:
         genres: []
         platforms: []
-        release_year: null
 randomizers:
 -   games:
     - Nioh 2
@@ -14,11 +13,11 @@ randomizers:
     obsolete: true
     comment: '[Documentation archive](https://web.archive.org/web/20220621010638/https://www.nexusmods.com/nioh2/mods/304)
         - Game downgrade to v1.28.6 required'
-    info-updated: 2024-05-25
-    added-date: 2024-05-25
+    updated-date: 1900-01-01
+    added-date: 1900-01-01
 -   games:
     - Nioh 2
     identifier: Enemy Randomizer, rphii's
     url: https://www.nexusmods.com/nioh2/mods/321
-    info-updated: 2024-05-25
-    added-date: 2024-05-25
+    updated-date: 1900-01-01
+    added-date: 1900-01-01

@@ -1,15 +1,14 @@
 name: Legacy of the Wizard
-comment: null
-sub-series: null
+comment: ''
+sub-series: []
 games:
     Legacy of the Wizard:
         genres: []
         platforms: []
-        release_year: null
 randomizers:
 -   games:
     - Legacy of the Wizard
     identifier: LadyStarbird's
     url: https://github.com/MrStarbird/LotW-Randomizer/releases
-    info-updated: 2024-05-25
-    added-date: 2024-05-25
+    updated-date: 1900-01-01
+    added-date: 1900-01-01

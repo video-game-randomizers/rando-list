@@ -1,21 +1,20 @@
 name: Monster Hunter
-comment: null
-sub-series: null
+comment: ''
+sub-series: []
 games:
     'Monster Hunter: World':
         genres: []
         platforms: []
-        release_year: null
 randomizers:
 -   games:
     - 'Monster Hunter: World'
     identifier: Kana Miyoshi's
     url: https://www.nexusmods.com/monsterhunterworld/mods/6124
-    info-updated: 2024-05-25
-    added-date: 2024-05-25
+    updated-date: 1900-01-01
+    added-date: 1900-01-01
 -   games:
     - 'Monster Hunter: World'
     identifier: Randomizer Quests
     url: https://www.nexusmods.com/monsterhunterworld/mods/5415
-    info-updated: 2024-05-25
-    added-date: 2024-05-25
+    updated-date: 1900-01-01
+    added-date: 1900-01-01

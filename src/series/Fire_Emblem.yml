@@ -1,59 +1,46 @@
 name: Fire Emblem
-comment: null
-sub-series: null
+comment: ''
+sub-series: []
 games:
     '(FE4) Fire Emblem: Genealogy of the Holy War':
         genres: []
         platforms: []
-        release_year: null
     '(FE5) Fire Emblem: Thracia 776':
         genres: []
         platforms: []
-        release_year: null
     '(FE6) Fire Emblem: The Binding Blade':
         genres: []
         platforms: []
-        release_year: null
     '(FE7) Fire Emblem: The Blazing Blade':
         genres: []
         platforms: []
-        release_year: null
     '(FE8) Fire Emblem: The Sacred Stones':
         genres: []
         platforms: []
-        release_year: null
     '(FE9) Fire Emblem: Path of Radiance':
         genres: []
         platforms: []
-        release_year: null
     '(FE10) Fire Emblem: Radiant Dawn':
         genres: []
         platforms: []
-        release_year: null
     '(FE11) Fire Emblem: Shadow Dragon':
         genres: []
         platforms: []
-        release_year: null
     '(FE12) Fire Emblem: New Mystery of the Emblem':
         genres: []
         platforms: []
-        release_year: null
-    '(FE13) Fire Emblem Awakening':
+    (FE13) Fire Emblem Awakening:
         genres: []
         platforms: []
-        release_year: null
-    '(FE14) Fire Emblem Fates':
+    (FE14) Fire Emblem Fates:
         genres: []
         platforms: []
-        release_year: null
     '(FE16) Fire Emblem: Three Houses':
         genres: []
         platforms: []
-        release_year: null
-    '(FE17) Fire Emblem Engage':
+    (FE17) Fire Emblem Engage:
         genres: []
         platforms: []
-        release_year: null
 randomizers:
 -   games:
     - '(FE4) Fire Emblem: Genealogy of the Holy War'
@@ -63,27 +50,27 @@ randomizers:
     - '(FE9) Fire Emblem: Path of Radiance'
     identifier: Yune
     url: https://github.com/lushen124/Universal-FE-Randomizer
-    info-updated: 2024-05-25
-    added-date: 2024-05-25
+    updated-date: 1900-01-01
+    added-date: 1900-01-01
 -   games:
     - '(FE4) Fire Emblem: Genealogy of the Holy War'
     identifier: jespoke's
     url: https://forums.serenesforest.net/index.php?/topic/80806-fire-emblem-4-randomizer/
     obsolete: true
-    info-updated: 2024-05-25
-    added-date: 2024-05-25
+    updated-date: 1900-01-01
+    added-date: 1900-01-01
 -   games:
     - '(FE5) Fire Emblem: Thracia 776'
     identifier: dD_ShockTrooper's
     url: https://github.com/dDShockTrooper/FE5-Randomiser-Releases
-    info-updated: 2024-05-25
-    added-date: 2024-05-25
+    updated-date: 1900-01-01
+    added-date: 1900-01-01
 -   games:
     - '(FE5) Fire Emblem: Thracia 776'
     identifier: Kalieum's
     url: https://feuniverse.us/t/fire-emblem-5-randomiser/13003
-    info-updated: 2024-05-25
-    added-date: 2024-05-25
+    updated-date: 1900-01-01
+    added-date: 1900-01-01
 -   games:
     - '(FE6) Fire Emblem: The Binding Blade'
     - '(FE7) Fire Emblem: The Blazing Blade'
@@ -92,8 +79,8 @@ randomizers:
     url: https://www.dropbox.com/s/3ev9r5qy6ag726l/Camtech%27s%20FE7%20Randomizer%20Py1.zip?dl=1
     obsolete: true
     comment: Original [release thread](https://forums.serenesforest.net/index.php?/topic/46886-ferandomizer-ver-py/)
-    info-updated: 2024-05-25
-    added-date: 2024-05-25
+    updated-date: 1900-01-01
+    added-date: 1900-01-01
 -   games:
     - '(FE6) Fire Emblem: The Binding Blade'
     - '(FE7) Fire Emblem: The Blazing Blade'
@@ -101,99 +88,99 @@ randomizers:
     identifier: Universal-GBA-FE-Randomizer-Windows
     url: https://github.com/lushen124/Universal-GBA-FE-Randomizer-Windows
     obsolete: true
-    info-updated: 2024-05-25
-    added-date: 2024-05-25
+    updated-date: 1900-01-01
+    added-date: 1900-01-01
 -   games:
     - '(FE6) Fire Emblem: The Binding Blade'
     identifier: Self Randomizer
     url: https://feuniverse.us/t/fe6-self-randomizing-rom-complete/24920
-    info-updated: 2024-05-25
-    added-date: 2024-05-25
+    updated-date: 1900-01-01
+    added-date: 1900-01-01
 -   games:
     - '(FE7) Fire Emblem: The Blazing Blade'
     identifier: Ephraim's
     url: https://web.archive.org/web/20211103175902/https://forums.serenesforest.net/index.php?/topic/46885-ephraim-and-kloks-fe7-randomizer/
     obsolete: true
     comment: Requires [Nintenlord's Event Assembler](https://forums.serenesforest.net/index.php?/topic/26913-nintenlords-hacking-utilities/)
-    info-updated: 2024-05-25
-    added-date: 2024-05-25
+    updated-date: 1900-01-01
+    added-date: 1900-01-01
 -   games:
     - '(FE7) Fire Emblem: The Blazing Blade'
     identifier: Self Randomizer
     url: https://feuniverse.us/t/fe7-self-randomizing-rom-complete/24719
-    info-updated: 2024-05-25
-    added-date: 2024-05-25
+    updated-date: 1900-01-01
+    added-date: 1900-01-01
 -   games:
     - '(FE8) Fire Emblem: The Sacred Stones'
     identifier: Illusory Dungeon
     url: https://feuniverse.us/t/fire-emblem-illusory-dungeon-a-fire-emblem-rogue-like-fe8/20754
-    info-updated: 2024-05-25
-    added-date: 2024-05-25
+    updated-date: 1900-01-01
+    added-date: 1900-01-01
 -   games:
     - '(FE8) Fire Emblem: The Sacred Stones'
     identifier: Self-Randomizing
     url: https://forums.serenesforest.net/index.php?/topic/81571-fe8-self-randomizing-rom-v13/
-    info-updated: 2024-05-25
-    added-date: 2024-05-25
+    updated-date: 1900-01-01
+    added-date: 1900-01-01
 -   games:
     - '(FE9) Fire Emblem: Path of Radiance'
     identifier: jespoke's
     url: https://feuniverse.us/t/fe9-character-editor-and-randomizer-v1-3-2/4979
-    info-updated: 2024-05-25
-    added-date: 2024-05-25
+    updated-date: 1900-01-01
+    added-date: 1900-01-01
 -   games:
     - '(FE10) Fire Emblem: Radiant Dawn'
     identifier: LordMewtwo's
     url: https://github.com/LordMewtwo73/fe10-randomizer
-    info-updated: 2024-05-25
-    added-date: 2024-05-25
+    updated-date: 1900-01-01
+    added-date: 1900-01-01
 -   games:
     - '(FE11) Fire Emblem: Shadow Dragon'
     identifier: JesRandomizer
     url: https://feuniverse.us/t/fe11-fe11-jesrandomizer-1-3/7253
-    info-updated: 2024-05-25
-    added-date: 2024-05-25
+    updated-date: 1900-01-01
+    added-date: 1900-01-01
 -   games:
     - '(FE12) Fire Emblem: New Mystery of the Emblem'
     identifier: Raddomizer
     url: https://github.com/eLTehh/Raddomizer
-    info-updated: 2024-05-25
-    added-date: 2024-05-25
+    updated-date: 1900-01-01
+    added-date: 1900-01-01
 -   games:
     - (FE13) Fire Emblem Awakening
     identifier: rambon99's
     url: https://github.com/rambon99/Fire-Emblem-Awakening-Randomizer
-    info-updated: 2024-05-25
-    added-date: 2024-05-25
+    updated-date: 1900-01-01
+    added-date: 1900-01-01
 -   games:
     - (FE14) Fire Emblem Fates
     identifier: thane98's
     url: https://gbatemp.net/threads/wip-fire-emblem-fates-randomizer.452268/
     comment: '[Source code](https://github.com/thane98/3DSFE-Randomizer)'
-    info-updated: 2024-05-25
-    added-date: 2024-05-25
+    updated-date: 1900-01-01
+    added-date: 1900-01-01
 -   games:
     - '(FE16) Fire Emblem: Three Houses'
     identifier: Blyvern's
     url: https://feuniverse.us/t/fire-emblem-three-houses-randomizer/6043
-    info-updated: 2024-05-25
-    added-date: 2024-05-25
+    updated-date: 1900-01-01
+    added-date: 1900-01-01
 -   games:
     - '(FE16) Fire Emblem: Three Houses'
     identifier: Randomizer Custom Build
     url: https://feuniverse.us/t/fire-emblem-three-houses-randomizer-custom-build/9774
-    info-updated: 2024-05-25
-    added-date: 2024-05-25
+    updated-date: 1900-01-01
+    added-date: 1900-01-01
 -   games:
     - (FE17) Fire Emblem Engage
     identifier: A Little \*Secret* Ingredient
     url: https://gamebanana.com/tools/13023
-    info-updated: 2024-05-25
-    added-date: 2024-05-25
+    updated-date: 1900-01-01
+    added-date: 1900-01-01
 -   games:
     - (FE17) Fire Emblem Engage
     identifier: LordMewtwo73's
     url: https://github.com/LordMewtwo73/feEngage-randomizer
     obsolete: true
-    info-updated: 2024-05-25
-    added-date: 2024-05-25
+    updated-date: 1900-01-01
+    added-date: 1900-01-01

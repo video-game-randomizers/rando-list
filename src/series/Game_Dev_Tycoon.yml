@@ -1,23 +1,22 @@
 name: Game Dev Tycoon
-comment: null
-sub-series: null
+comment: ''
+sub-series: []
 games:
     Game Dev Tycoon:
         genres: []
         platforms: []
-        release_year: null
 randomizers:
 -   games:
     - Game Dev Tycoon
     identifier: Platform Randomiser
     url: https://forum.greenheartgames.com/t/wip-platform-randomiser-alpha-0-0-5/9021
     comment: Also on [Steam Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=296802750)
-    info-updated: 2024-05-25
-    added-date: 2024-05-25
+    updated-date: 1900-01-01
+    added-date: 1900-01-01
 -   games:
     - Game Dev Tycoon
     identifier: TotalRandomiser
     url: https://forum.greenheartgames.com/t/rel-totalrandomiser-1-0-0/13359
     comment: Game downgrade required
-    info-updated: 2024-05-25
-    added-date: 2024-05-25
+    updated-date: 1900-01-01
+    added-date: 1900-01-01

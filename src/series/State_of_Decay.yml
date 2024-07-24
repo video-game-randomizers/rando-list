@@ -1,15 +1,14 @@
 name: State of Decay
-comment: null
-sub-series: null
+comment: ''
+sub-series: []
 games:
     State of Decay:
         genres: []
         platforms: []
-        release_year: null
 randomizers:
 -   games:
     - State of Decay
     identifier: Character Randomizer
     url: https://www.nexusmods.com/stateofdecay/mods/135
-    info-updated: 2024-05-25
-    added-date: 2024-05-25
+    updated-date: 1900-01-01
+    added-date: 1900-01-01

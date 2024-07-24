@@ -1,91 +1,85 @@
 name: Kingdom Hearts
-comment: null
-sub-series: null
+comment: ''
+sub-series: []
 games:
     Critical Mix (Kingdom Hearts Final Mix mod):
         genres: []
         platforms: []
-        release_year: null
     Kingdom Hearts Birth by Sleep Final Mix:
         genres: []
         platforms: []
-        release_year: null
     Kingdom Hearts Final Mix:
         genres: []
         platforms: []
-        release_year: null
     Kingdom Hearts II Final Mix:
         genres: []
         platforms: []
-        release_year: null
     Kingdom Hearts III:
         genres: []
         platforms: []
-        release_year: null
     'Kingdom Hearts: Chain of Memories':
         genres: []
         platforms: []
-        release_year: null
 randomizers:
 -   games:
     - Kingdom Hearts Final Mix
     identifier: KHPCSpeedrunTools
     url: https://github.com/Denhonator/KHPCSpeedrunTools
     comment: Mod collection with bundled randomizer
-    info-updated: 2024-05-25
-    added-date: 2024-05-25
+    updated-date: 1900-01-01
+    added-date: 1900-01-01
 -   games:
     - Critical Mix (Kingdom Hearts Final Mix mod)
     identifier: Xendra's
     url: https://www.nexusmods.com/kingdomheartsfinalmix/mods/96
     comment: Old [PS2 version](https://docs.google.com/document/d/1eUGd_Bdf2PtMWP8JjbdddNeLknfWiij2F0lLXlE0lWc/edit)
         which requires special emulator
-    info-updated: 2024-05-25
-    added-date: 2024-05-25
+    updated-date: 1900-01-01
+    added-date: 1900-01-01
 -   games:
     - 'Kingdom Hearts: Chain of Memories'
     identifier: gaithern's
     url: https://github.com/gaithern/Archipelago/releases
     comment: Requires [Archipelago](https://archipelago.gg/)
-    info-updated: 2024-05-25
-    added-date: 2024-05-25
+    updated-date: 1900-01-01
+    added-date: 1900-01-01
 -   games:
     - Kingdom Hearts II Final Mix
     identifier: Door Randomizer
     url: https://www.nexusmods.com/kingdomhearts2finalmix/mods/116
     comment: PS2 version requires special emulator - [Source code](https://github.com/MainMemory/KH2DoorRando)
-    info-updated: 2024-05-25
-    added-date: 2024-05-25
+    updated-date: 1900-01-01
+    added-date: 1900-01-01
 -   games:
     - Kingdom Hearts II Final Mix
     identifier: Tommadness & thundrio's
     url: https://tommadness.github.io/KH2Randomizer/
     comment: PS2 version requires special emulator
-    info-updated: 2024-05-25
-    added-date: 2024-05-25
+    updated-date: 1900-01-01
+    added-date: 1900-01-01
 -   games:
     - Kingdom Hearts II Final Mix
     identifier: Valaxor's
     url: https://randomizer.valaxor.com/#/seed
     obsolete: true
-    info-updated: 2024-05-25
-    added-date: 2024-05-25
+    updated-date: 1900-01-01
+    added-date: 1900-01-01
 -   games:
     - Kingdom Hearts II Final Mix
     identifier: Archipelago
     url: https://archipelago.gg/tutorial/#Kingdom%20Hearts%202
     multiworld: Archipelago
-    info-updated: 2024-05-25
-    added-date: 2024-05-25
+    updated-date: 1900-01-01
+    added-date: 1900-01-01
 -   games:
     - Kingdom Hearts Birth by Sleep Final Mix
     identifier: Keytotruth's
     url: https://github.com/Truthkey/Birth-by-Sleep-Randomizer
-    info-updated: 2024-05-25
-    added-date: 2024-05-25
+    updated-date: 1900-01-01
+    added-date: 1900-01-01
 -   games:
     - Kingdom Hearts III
     identifier: WaterKH's
     url: https://kh3-randomizer-2ivd7.ondigitalocean.app/
-    info-updated: 2024-05-25
-    added-date: 2024-05-25
+    updated-date: 1900-01-01
+    added-date: 1900-01-01

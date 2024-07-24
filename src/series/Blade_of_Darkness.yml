@@ -1,21 +1,20 @@
 name: Blade of Darkness
-comment: null
-sub-series: null
+comment: ''
+sub-series: []
 games:
     Blade of Darkness:
         genres: []
         platforms: []
-        release_year: null
 randomizers:
 -   games:
     - Blade of Darkness
     identifier: Gorentity Mod with Random Enemy Creator
     url: https://www.moddb.com/mods/gorentity-mod-2015
-    info-updated: 2024-05-25
-    added-date: 2024-05-25
+    updated-date: 1900-01-01
+    added-date: 1900-01-01
 -   games:
     - Blade of Darkness
     identifier: Metal Mod
     url: https://www.moddb.com/mods/metal-mod
-    info-updated: 2024-05-25
-    added-date: 2024-05-25
+    updated-date: 1900-01-01
+    added-date: 1900-01-01

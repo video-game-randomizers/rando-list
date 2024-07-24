@@ -1,16 +1,15 @@
 name: Jurassic Park
-comment: null
-sub-series: null
+comment: ''
+sub-series: []
 games:
     Jurassic Park (Super NES):
         genres: []
         platforms: []
-        release_year: null
 randomizers:
 -   games:
     - Jurassic Park (Super NES)
     identifier: Yoshifanatic1's
     url: https://www.youtube.com/watch?v=Rq20h5S-KGE
     comment: Located in video description
-    info-updated: 2024-05-25
-    added-date: 2024-05-25
+    updated-date: 1900-01-01
+    added-date: 1900-01-01

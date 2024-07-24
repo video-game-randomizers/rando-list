@@ -1,15 +1,14 @@
 name: Excitebike
-comment: null
-sub-series: null
+comment: ''
+sub-series: []
 games:
     Excitebike:
         genres: []
         platforms: []
-        release_year: null
 randomizers:
 -   games:
     - Excitebike
     identifier: gameboy9's
     url: https://github.com/gameboy9/ExciteBikeRando
-    info-updated: 2024-05-25
-    added-date: 2024-05-25
+    updated-date: 1900-01-01
+    added-date: 1900-01-01

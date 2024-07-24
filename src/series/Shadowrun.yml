@@ -1,15 +1,14 @@
 name: Shadowrun
-comment: null
-sub-series: null
+comment: ''
+sub-series: []
 games:
     Shadowrun:
         genres: []
         platforms: []
-        release_year: null
 randomizers:
 -   games:
     - Shadowrun
     identifier: Osteoclave's
     url: https://github.com/Osteoclave/shadowrun-randomizer
-    info-updated: 2024-05-25
-    added-date: 2024-05-25
+    updated-date: 1900-01-01
+    added-date: 1900-01-01

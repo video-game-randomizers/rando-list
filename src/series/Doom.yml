@@ -1,23 +1,19 @@
 name: Doom
-comment: null
-sub-series: null
+comment: ''
+sub-series: []
 games:
     Doom (Ultimate):
         genres: []
         platforms: []
-        release_year: null
     Doom Eternal:
         genres: []
         platforms: []
-        release_year: null
     Doom II:
         genres: []
         platforms: []
-        release_year: null
     Final Doom:
         genres: []
         platforms: []
-        release_year: null
 randomizers:
 -   games:
     - Doom (Ultimate)
@@ -26,32 +22,32 @@ randomizers:
     identifier: CustomDoom
     url: https://forum.zdoom.org/viewtopic.php?f=45&t=51446
     obsolete: true
-    info-updated: 2024-05-25
-    added-date: 2024-05-25
+    updated-date: 1900-01-01
+    added-date: 1900-01-01
 -   games:
     - Doom (Ultimate)
     - Doom II
     - Final Doom
     identifier: Universal Custom Doom
     url: https://forum.zdoom.org/viewtopic.php?f=43&t=64678
-    info-updated: 2024-05-25
-    added-date: 2024-05-25
+    updated-date: 1900-01-01
+    added-date: 1900-01-01
 -   games:
     - Doom (Ultimate)
     - Doom II
     - Final Doom
     identifier: Universal Entropy
     url: https://www.moddb.com/mods/universal-entropy
-    info-updated: 2024-05-25
-    added-date: 2024-05-25
+    updated-date: 1900-01-01
+    added-date: 1900-01-01
 -   games:
     - Doom (Ultimate)
     - Doom II
     - Final Doom
     identifier: OBSIDIAN
     url: https://obsidian-level-maker.github.io/index.html
-    info-updated: 2024-05-25
-    added-date: 2024-05-25
+    updated-date: 1900-01-01
+    added-date: 1900-01-01
 -   games:
     - Doom (Ultimate)
     - Doom II
@@ -64,8 +60,8 @@ randomizers:
         for [Brutal Doom (mod)](https://gitlab.com/CloudOfShame/BrutalOblige) - Version
         4.28 also supported [Hexen: Beyond Heretic / Quake / Quake II](https://sourceforge.net/projects/oblige/files/Oblige/4.28/)
         - Version 0.97 also had experimental support for [Wolfenstein 3D](https://sourceforge.net/projects/oblige/files/Oblige/0.97/)'
-    info-updated: 2024-05-25
-    added-date: 2024-05-25
+    updated-date: 1900-01-01
+    added-date: 1900-01-01
 -   games:
     - Doom (Ultimate)
     - Doom II
@@ -73,82 +69,82 @@ randomizers:
     identifier: ObHack
     url: https://samiam.org/obhack/
     obsolete: true
-    info-updated: 2024-05-25
-    added-date: 2024-05-25
+    updated-date: 1900-01-01
+    added-date: 1900-01-01
 -   games:
     - Doom (Ultimate)
     identifier: MOShuffle
     url: https://forum.zdoom.org/viewtopic.php?f=43&t=72760
-    info-updated: 2024-05-25
-    added-date: 2024-05-25
+    updated-date: 1900-01-01
+    added-date: 1900-01-01
 -   games:
     - Doom (Ultimate)
     - Doom II
     - Final Doom
     identifier: Vanilla Doom Plus
     url: https://www.doomworld.com/forum/topic/106432-vdp-monsterrandomizer-updated-august-12th/
-    info-updated: 2024-05-25
-    added-date: 2024-05-25
+    updated-date: 1900-01-01
+    added-date: 1900-01-01
 -   games:
     - Doom (Ultimate)
     - Doom II
     identifier: ORO-RANDOM-DOOM
     url: https://forum.zdoom.org/viewtopic.php?f=19&t=45378
     obsolete: true
-    info-updated: 2024-05-25
-    added-date: 2024-05-25
+    updated-date: 1900-01-01
+    added-date: 1900-01-01
 -   games:
     - Doom (Ultimate)
     - Doom II
     identifier: SLIGE
     url: https://web.archive.org/web/20040404021558/http://www.doomworld.com/slige/
     obsolete: true
-    info-updated: 2024-05-25
-    added-date: 2024-05-25
+    updated-date: 1900-01-01
+    added-date: 1900-01-01
 -   games:
     - Doom (Ultimate)
     - Doom II
     identifier: Vandomizer
     url: https://www.doomworld.com/forum/topic/112713-v104-vandomizer-a-vanilla-randomizer-for-gzdoom/
-    info-updated: 2024-05-25
-    added-date: 2024-05-25
+    updated-date: 1900-01-01
+    added-date: 1900-01-01
 -   games:
     - Doom (Ultimate)
     identifier: Archipelago
     url: https://archipelago.gg/games/DOOM%201993/info/en
     multiworld: Archipelago
-    info-updated: 2024-05-25
-    added-date: 2024-05-25
+    updated-date: 1900-01-01
+    added-date: 1900-01-01
 -   games:
     - Doom II
     identifier: Archipelago
     url: https://archipelago.gg/games/DOOM%20II/info/en
     multiworld: Archipelago
-    info-updated: 2024-05-25
-    added-date: 2024-05-25
+    updated-date: 1900-01-01
+    added-date: 1900-01-01
 -   games:
     - Doom II
     - Final Doom
     identifier: The Populator
     url: https://gitlab.com/andwj/populate
-    info-updated: 2024-05-25
-    added-date: 2024-05-25
+    updated-date: 1900-01-01
+    added-date: 1900-01-01
 -   games:
     - Doom II
     identifier: SLUMP
     url: https://samiam.org/obhack/old/slump/slump.html
     obsolete: true
-    info-updated: 2024-05-25
-    added-date: 2024-05-25
+    updated-date: 1900-01-01
+    added-date: 1900-01-01
 -   games:
     - Doom Eternal
     identifier: Enemy Randomizer
     url: https://www.nexusmods.com/doometernal/mods/170
-    info-updated: 2024-05-25
-    added-date: 2024-05-25
+    updated-date: 1900-01-01
+    added-date: 1900-01-01
 -   games:
     - Doom Eternal
     identifier: Horde Mode Randomizer
     url: https://www.nexusmods.com/doometernal/mods/924
-    info-updated: 2024-05-25
-    added-date: 2024-05-25
+    updated-date: 1900-01-01
+    added-date: 1900-01-01

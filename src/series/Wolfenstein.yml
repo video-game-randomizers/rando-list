@@ -1,17 +1,15 @@
 name: Wolfenstein
-comment: null
+comment: ''
 sub-series:
 - id Software engines
 games:
     Spear of Destiny:
         genres: []
         platforms: []
-        release_year: null
         sub-series: id Software engines
     Wolfenstein 3D:
         genres: []
         platforms: []
-        release_year: null
         sub-series: id Software engines
 randomizers:
 -   games:
@@ -19,13 +17,13 @@ randomizers:
     - Spear of Destiny
     identifier: OBSIDIAN
     url: https://obsidian-level-maker.github.io/index.html
-    info-updated: 2024-05-25
-    added-date: 2024-05-25
+    updated-date: 1900-01-01
+    added-date: 1900-01-01
 -   games:
     - Wolfenstein 3D
     identifier: OBLIGE
     url: https://oblige.sourceforge.net/
     obsolete: true
     comment: Version 0.97 had experimental support for [Wolfenstein 3D](https://sourceforge.net/projects/oblige/files/Oblige/0.97/)
-    info-updated: 2024-05-25
-    added-date: 2024-05-25
+    updated-date: 1900-01-01
+    added-date: 1900-01-01

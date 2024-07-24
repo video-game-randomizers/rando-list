@@ -1,46 +1,44 @@
 name: Golden Sun
-comment: null
-sub-series: null
+comment: ''
+sub-series: []
 games:
     Golden Sun:
         genres: []
         platforms: []
-        release_year: null
     'Golden Sun: The Lost Age':
         genres: []
         platforms: []
-        release_year: null
 randomizers:
 -   games:
     - Golden Sun
     identifier: MarvinXLII's
     url: https://web.archive.org/web/20210418021402/https://forum.goldensunhacking.net/index.php?action=downloads;sa=view;down=120
     obsolete: true
-    info-updated: 2024-05-25
-    added-date: 2024-05-25
+    updated-date: 1900-01-01
+    added-date: 1900-01-01
 -   games:
     - Golden Sun
     identifier: Valyssa's
     url: https://github.com/Valyssa/GS-Randomizer
-    info-updated: 2024-05-25
-    added-date: 2024-05-25
+    updated-date: 1900-01-01
+    added-date: 1900-01-01
 -   games:
     - Golden Sun
     identifier: MarvinXLII's
     url: https://web.archive.org/web/20210418021402/https://forum.goldensunhacking.net/index.php?action=downloads;sa=view;down=120
     obsolete: true
-    info-updated: 2024-05-25
-    added-date: 2024-05-25
+    updated-date: 1900-01-01
+    added-date: 1900-01-01
 -   games:
     - 'Golden Sun: The Lost Age'
     identifier: Karanum's
     url: https://gs2randomiser.com/
-    info-updated: 2024-05-25
-    added-date: 2024-05-25
+    updated-date: 1900-01-01
+    added-date: 1900-01-01
 -   games:
     - 'Golden Sun: The Lost Age'
     identifier: MarvinXLII's
     url: https://web.archive.org/web/20210401215000/http://forum.goldensunhacking.net/index.php?action=downloads;sa=view;down=122
     obsolete: true
-    info-updated: 2024-05-25
-    added-date: 2024-05-25
+    updated-date: 1900-01-01
+    added-date: 1900-01-01

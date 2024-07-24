@@ -1,15 +1,14 @@
 name: Ion Fury
-comment: null
-sub-series: null
+comment: ''
+sub-series: []
 games:
     Ion Fury:
         genres: []
         platforms: []
-        release_year: null
 randomizers:
 -   games:
     - Ion Fury
     identifier: Build Engine Randomizer
     url: https://github.com/Die4Ever/build-engine-randomizer
-    info-updated: 2024-05-25
-    added-date: 2024-05-25
+    updated-date: 1900-01-01
+    added-date: 1900-01-01

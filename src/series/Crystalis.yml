@@ -1,15 +1,14 @@
 name: Crystalis
-comment: null
-sub-series: null
+comment: ''
+sub-series: []
 games:
     Crystalis:
         genres: []
         platforms: []
-        release_year: null
 randomizers:
 -   games:
     - Crystalis
     identifier: steve_hacks's
     url: https://crystalisrandomizer.com/
-    info-updated: 2024-05-25
-    added-date: 2024-05-25
+    updated-date: 1900-01-01
+    added-date: 1900-01-01

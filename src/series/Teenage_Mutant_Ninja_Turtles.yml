@@ -1,21 +1,20 @@
 name: Teenage Mutant Ninja Turtles
-comment: null
-sub-series: null
+comment: ''
+sub-series: []
 games:
     Teenage Mutant Ninja Turtles (NES):
         genres: []
         platforms: []
-        release_year: null
 randomizers:
 -   games:
     - Teenage Mutant Ninja Turtles (NES)
     identifier: abyssonym's
     url: https://github.com/abyssonym/tmnt_rando
-    info-updated: 2024-05-25
-    added-date: 2024-05-25
+    updated-date: 1900-01-01
+    added-date: 1900-01-01
 -   games:
     - Teenage Mutant Ninja Turtles (NES)
     identifier: kavoc's
     url: https://www.kavoc.io/tmntR
-    info-updated: 2024-05-25
-    added-date: 2024-05-25
+    updated-date: 1900-01-01
+    added-date: 1900-01-01

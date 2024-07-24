@@ -1,5 +1,5 @@
 name: Mega Man
-comment: null
+comment: ''
 sub-series:
 - Classic
 - X
@@ -9,222 +9,197 @@ games:
     Mega Man:
         genres: []
         platforms: []
-        release_year: null
         sub-series: Classic
     Mega Man 2:
         genres: []
         platforms: []
-        release_year: null
         sub-series: Classic
     Mega Man 3:
         genres: []
         platforms: []
-        release_year: null
         sub-series: Classic
     Mega Man 4:
         genres: []
         platforms: []
-        release_year: null
         sub-series: Classic
     Mega Man 5:
         genres: []
         platforms: []
-        release_year: null
         sub-series: Classic
     Mega Man 6:
         genres: []
         platforms: []
-        release_year: null
         sub-series: Classic
     Mega Man 7:
         genres: []
         platforms: []
-        release_year: null
         sub-series: Classic
     Mega Man Battle Chip Challenge (Game Boy Advance):
         genres: []
         platforms: []
-        release_year: null
         sub-series: Battle Network
     Mega Man Battle Network (Legacy Collection):
         genres: []
         platforms: []
-        release_year: null
         sub-series: Battle Network
     Mega Man Battle Network 2:
         genres: []
         platforms: []
-        release_year: null
         sub-series: Battle Network
     Mega Man Battle Network 3 Blue:
         genres: []
         platforms: []
-        release_year: null
         sub-series: Battle Network
     Mega Man Battle Network 3 White:
         genres: []
         platforms: []
-        release_year: null
         sub-series: Battle Network
     Mega Man Battle Network 5 Team Colonel:
         genres: []
         platforms: []
-        release_year: null
         sub-series: Battle Network
     Mega Man Battle Network 5 Team Protoman:
         genres: []
         platforms: []
-        release_year: null
         sub-series: Battle Network
     Mega Man Battle Network 6 Cybeast Falzar:
         genres: []
         platforms: []
-        release_year: null
         sub-series: Battle Network
     Mega Man Battle Network 6 Cybeast Gregar:
         genres: []
         platforms: []
-        release_year: null
         sub-series: Battle Network
     Mega Man X3:
         genres: []
         platforms: []
-        release_year: null
         sub-series: X
     Mega Man X6:
         genres: []
         platforms: []
-        release_year: null
         sub-series: X
     'Mega Man: The Wily Wars':
         genres: []
         platforms: []
-        release_year: null
         sub-series: Classic
     'Rockman 3: Winternight (Mega Man 3 hack)':
         genres: []
         platforms: []
-        release_year: null
         sub-series: Unofficial
     Zero Project (Mega Man X3 hack):
         genres: []
         platforms: []
-        release_year: null
         sub-series: X
 randomizers:
 -   games:
     - Mega Man
     identifier: avvie & JoJoCrusade's
     url: https://github.com/avvie/MegamanRandomizer
-    info-updated: 2024-05-25
-    added-date: 2024-05-25
+    updated-date: 1900-01-01
+    added-date: 1900-01-01
 -   games:
     - Mega Man 2
     identifier: duckfist's
     url: https://github.com/duckfist/MM2Random
     obsolete: true
-    info-updated: 2024-05-25
-    added-date: 2024-05-25
+    updated-date: 1900-01-01
+    added-date: 1900-01-01
 -   games:
     - Mega Man 2
     identifier: Randomizer 2
     url: https://github.com/squid-man/MegaMan2Randomizer2
-    info-updated: 2024-05-25
-    added-date: 2024-05-25
+    updated-date: 1900-01-01
+    added-date: 1900-01-01
 -   games:
     - Mega Man 2
     identifier: Endless
     url: https://www.romhacking.net/hacks/2294/
-    info-updated: 2024-05-25
-    added-date: 2024-05-25
+    updated-date: 1900-01-01
+    added-date: 1900-01-01
 -   games:
     - Mega Man 3
     - Mega Man 4
     - Mega Man 5
     identifier: Endless
     url: https://www.himaq5.xyz/rock5easily/ips.html
-    comment: "Located under \u30CF\u30C3\u30AF as \u30ED\u30C3\u30AF\u30DE\u30F33\
-        \ \u30A8\u30F3\u30C9\u30EC\u30B9 for Mega Man 3, \u30ED\u30C3\u30AF\u30DE\u30F3\
-        4 \u30A8\u30F3\u30C9\u30EC\u30B9 for Mega Man 4 and \u30ED\u30C3\u30AF\u30DE\
-        \u30F35 \u30A8\u30F3\u30C9\u30EC\u30B9 for Mega Man 5"
-    info-updated: 2024-05-25
-    added-date: 2024-05-25
+    comment: Located under ハック as ロックマン3 エンドレス for Mega Man 3, ロックマン4 エンドレス for Mega
+        Man 4 and ロックマン5 エンドレス for Mega Man 5
+    updated-date: 1900-01-01
+    added-date: 1900-01-01
 -   games:
     - Mega Man 4
     identifier: NBoroKobo's
     url: https://borokobo.web.fc2.com/#Rock4
-    comment: "Randomizes enemies and items - Located under \u30ED\u30C3\u30AF\u30DE\
-        \u30F34 as \u30ED\u30C3\u30AF\u30DE\u30F34\u30E9\u30F3\u30C0\u30DE\u30A4\u30B6\
-        \u30FC"
-    info-updated: 2024-05-25
-    added-date: 2024-05-25
+    comment: Randomizes enemies and items - Located under ロックマン4 as ロックマン4ランダマイザー
+    updated-date: 1900-01-01
+    added-date: 1900-01-01
 -   games:
     - Mega Man 6
     identifier: Raidenthequick's Weapon Randomizer
     url: https://web.archive.org/web/20180819085015/http://bin.smwcentral.net/u/24848/mm6-weapon-randomizer-v0.1.zip
-    info-updated: 2024-05-25
-    added-date: 2024-05-25
+    updated-date: 1900-01-01
+    added-date: 1900-01-01
 -   games:
     - Mega Man 7
     identifier: Endless / Rainbow Session Randomizer
     url: https://borokobo.web.fc2.com/#Rock7
-    comment: "Located under \u30ED\u30C3\u30AF\u30DE\u30F37"
-    info-updated: 2024-05-25
-    added-date: 2024-05-25
+    comment: Located under ロックマン7
+    updated-date: 1900-01-01
+    added-date: 1900-01-01
 -   games:
     - 'Mega Man: The Wily Wars'
     identifier: MaximumLance's
     url: https://github.com/MaximumLance/Wily-Wars-Randomizer
-    info-updated: 2024-05-25
-    added-date: 2024-05-25
+    updated-date: 1900-01-01
+    added-date: 1900-01-01
 -   games:
     - Mega Man X3
     - Zero Project (Mega Man X3 hack)
     identifier: Dan Jia Randomizers
     url: https://github.com/vinheim3/randomizers
     multiworld: Other
-    info-updated: 2024-05-25
-    added-date: 2024-05-25
+    updated-date: 1900-01-01
+    added-date: 1900-01-01
 -   games:
     - Mega Man X6
     identifier: Tweaks Patcher
     url: https://www.romhacking.net/utilities/1414/
     comment: Modding tool with bundled randomizer
-    info-updated: 2024-05-25
-    added-date: 2024-05-25
+    updated-date: 1900-01-01
+    added-date: 1900-01-01
 -   games:
     - Mega Man Battle Network (Legacy Collection)
     identifier: Undernet-Trader
     url: https://github.com/NecroCorey/Undernet-Trader
-    info-updated: 2024-05-25
-    added-date: 2024-05-25
+    updated-date: 1900-01-01
+    added-date: 1900-01-01
 -   games:
     - Mega Man Battle Network 2
     identifier: Network Customizer
     url: https://devonfae.github.io/NETCUST2/
-    info-updated: 2024-05-25
-    added-date: 2024-05-25
+    updated-date: 1900-01-01
+    added-date: 1900-01-01
 -   games:
     - Mega Man Battle Network 3 White
     - Mega Man Battle Network 3 Blue
     identifier: X Kirby's
     url: http://ngplus.net/index.php?/files/file/37-mega-man-battle-network-3-randomizer/
-    info-updated: 2024-05-25
-    added-date: 2024-05-25
+    updated-date: 1900-01-01
+    added-date: 1900-01-01
 -   games:
     - Mega Man Battle Network 3 White
     identifier: samfin's
     url: https://github.com/samfin/mmbn3-random
     obsolete: true
-    info-updated: 2024-05-25
-    added-date: 2024-05-25
+    updated-date: 1900-01-01
+    added-date: 1900-01-01
 -   games:
     - Mega Man Battle Network 3 Blue
     identifier: Archipelago
     url: https://archipelago.gg/tutorial/#MegaMan%20Battle%20Network%203
     multiworld: Archipelago
-    info-updated: 2024-05-25
-    added-date: 2024-05-25
+    updated-date: 1900-01-01
+    added-date: 1900-01-01
 -   games:
     - Mega Man Battle Network 5 Team Protoman
     - Mega Man Battle Network 5 Team Colonel
@@ -232,17 +207,17 @@ randomizers:
     - Mega Man Battle Network 6 Cybeast Falzar
     identifier: Prof. 9's
     url: https://forums.therockmanexezone.com/mmbn-randomizer-t15216.html
-    info-updated: 2024-05-25
-    added-date: 2024-05-25
+    updated-date: 1900-01-01
+    added-date: 1900-01-01
 -   games:
     - Mega Man Battle Chip Challenge (Game Boy Advance)
     identifier: Sam Donow's
     url: https://melancholytree.com/mmbccr/
-    info-updated: 2024-05-25
-    added-date: 2024-05-25
+    updated-date: 1900-01-01
+    added-date: 1900-01-01
 -   games:
     - 'Rockman 3: Winternight (Mega Man 3 hack)'
     identifier: Endless Version
     url: https://www.romhacking.net/hacks/4106/
-    info-updated: 2024-05-25
-    added-date: 2024-05-25
+    updated-date: 1900-01-01
+    added-date: 1900-01-01

@@ -1,22 +1,21 @@
 name: Noita
-comment: null
-sub-series: null
+comment: ''
+sub-series: []
 games:
     Noita:
         genres: []
         platforms: []
-        release_year: null
 randomizers:
 -   games:
     - Noita
     identifier: Steam Workshop - Randomizers
     url: https://steamcommunity.com/workshop/browse/?appid=881100&searchtext=randomizer
-    info-updated: 2024-05-25
-    added-date: 2024-05-25
+    updated-date: 1900-01-01
+    added-date: 1900-01-01
 -   games:
     - Noita
     identifier: Archipelago
     url: https://archipelago.gg/tutorial/#Noita
     multiworld: Archipelago
-    info-updated: 2024-05-25
-    added-date: 2024-05-25
+    updated-date: 1900-01-01
+    added-date: 1900-01-01

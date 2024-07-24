@@ -3,37 +3,36 @@ comment: '_Old versions of Minecraft: Java Edition are available on Mojang''s we
     although note that such versions may contain critical security vulnerabilities.
     Direct download links can be found on [MCVersions](https://mcversions.net/) for
     convenience._'
-sub-series: null
+sub-series: []
 games:
     'Minecraft: Java Edition':
         genres: []
         platforms: []
-        release_year: null
 randomizers:
 -   games:
     - 'Minecraft: Java Edition'
     identifier: Fasguy's Minecraft Toolbox
     url: https://fasguy.net/minecraft_toolbox/info
-    info-updated: 2024-05-25
-    added-date: 2024-05-25
+    updated-date: 1900-01-01
+    added-date: 1900-01-01
 -   games:
     - 'Minecraft: Java Edition'
     identifier: Loot Table Randomizer
     url: https://www.youtube.com/watch?v=3JEXAZOrykQ
     obsolete: true
     comment: Located in video description - Requires [Python 3](https://www.python.org/downloads/)
-    info-updated: 2024-05-25
-    added-date: 2024-05-25
+    updated-date: 1900-01-01
+    added-date: 1900-01-01
 -   games:
     - 'Minecraft: Java Edition'
     identifier: MotzlMotzt's
     url: https://www.spigotmc.org/resources/randomizer-1-13-1-16-x.77069/
     obsolete: true
-    info-updated: 2024-05-25
-    added-date: 2024-05-25
+    updated-date: 1900-01-01
+    added-date: 1900-01-01
 -   games:
     - 'Minecraft: Java Edition'
     identifier: Archipelago
     url: https://archipelago.gg/tutorial/#Minecraft
-    info-updated: 2024-05-25
-    added-date: 2024-05-25
+    updated-date: 1900-01-01
+    added-date: 1900-01-01

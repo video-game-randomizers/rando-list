@@ -1,15 +1,14 @@
 name: Pac-Man
-comment: null
-sub-series: null
+comment: ''
+sub-series: []
 games:
     Pac-Man World 2:
         genres: []
         platforms: []
-        release_year: null
 randomizers:
 -   games:
     - Pac-Man World 2
     identifier: Montra's
     url: https://drive.google.com/drive/folders/1eeb04B-GefSSXOvT8Xyc3DyZaoZrdFWa
-    info-updated: 2024-05-25
-    added-date: 2024-05-25
+    updated-date: 1900-01-01
+    added-date: 1900-01-01

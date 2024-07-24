@@ -1,93 +1,85 @@
 name: Kirby
-comment: null
-sub-series: null
+comment: ''
+sub-series: []
 games:
     Kirby & The Amazing Mirror:
         genres: []
         platforms: []
-        release_year: null
     'Kirby 64: The Crystal Shards':
         genres: []
         platforms: []
-        release_year: null
     Kirby Star Allies:
         genres: []
         platforms: []
-        release_year: null
     Kirby Super Star:
         genres: []
         platforms: []
-        release_year: null
     Kirby and the Forgotten Land:
         genres: []
         platforms: []
-        release_year: null
     Kirby's Adventure:
         genres: []
         platforms: []
-        release_year: null
     Kirby's Dream Land 3:
         genres: []
         platforms: []
-        release_year: null
     'Kirby: Nightmare in Dream Land':
         genres: []
         platforms: []
-        release_year: null
 randomizers:
 -   games:
     - Kirby's Adventure
     identifier: Austin Bricker's
     url: https://github.com/Aquova/KA-Rando
-    info-updated: 2024-05-25
-    added-date: 2024-05-25
+    updated-date: 1900-01-01
+    added-date: 1900-01-01
 -   games:
     - 'Kirby: Nightmare in Dream Land'
     identifier: Austin Bricker's
     url: https://github.com/Aquova/KNDL-Rando
-    info-updated: 2024-05-25
-    added-date: 2024-05-25
+    updated-date: 1900-01-01
+    added-date: 1900-01-01
 -   games:
     - Kirby Super Star
     identifier: firubii's
     url: https://github.com/firubii/kss-randomizer
-    info-updated: 2024-05-25
-    added-date: 2024-05-25
+    updated-date: 1900-01-01
+    added-date: 1900-01-01
 -   games:
     - Kirby's Dream Land 3
     identifier: Archipelago
     url: https://archipelago.gg/tutorial/#Kirby's%20Dream%20Land%203
     multiworld: Archipelago
-    info-updated: 2024-05-25
-    added-date: 2024-05-25
+    updated-date: 1900-01-01
+    added-date: 1900-01-01
 -   games:
     - 'Kirby 64: The Crystal Shards'
     identifier: jesusyoshi54's
     url: https://www.youtube.com/watch?v=e8wVqrb0BUw
     comment: Located in video description
-    info-updated: 2024-05-25
-    added-date: 2024-05-25
+    updated-date: 1900-01-01
+    added-date: 1900-01-01
 -   games:
     - Kirby & The Amazing Mirror
     identifier: HeyImTG's
     url: https://github.com/HeyImTG/Amazing-Mirror-Randomizer
-    info-updated: 2024-05-25
-    added-date: 2024-05-25
+    updated-date: 1900-01-01
+    added-date: 1900-01-01
 -   games:
     - Kirby & The Amazing Mirror
     identifier: Mips96's
     url: https://github.com/Mips96/kamrandomizer
-    info-updated: 2024-05-25
-    added-date: 2024-05-25
+    updated-date: 1900-01-01
+    added-date: 1900-01-01
 -   games:
     - Kirby Star Allies
     identifier: firubii's
     url: https://github.com/firubii/StarAlliesRandomizer
-    info-updated: 2024-05-25
-    added-date: 2024-05-25
+    updated-date: 1900-01-01
+    added-date: 1900-01-01
 -   games:
     - Kirby and the Forgotten Land
     identifier: Toranix's
     url: https://gamebanana.com/mods/390471
-    info-updated: 2024-05-25
-    added-date: 2024-05-25
+    updated-date: 1900-01-01
+    added-date: 1900-01-01

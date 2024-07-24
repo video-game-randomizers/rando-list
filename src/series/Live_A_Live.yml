@@ -1,15 +1,14 @@
 name: Live A Live
-comment: null
-sub-series: null
+comment: ''
+sub-series: []
 games:
     Live A Live:
         genres: []
         platforms: []
-        release_year: null
 randomizers:
 -   games:
     - Live A Live
     identifier: PinkSwitch's
     url: https://github.com/PinkSwitch/Live-A-Live-Internal-Randomizer
-    info-updated: 2024-05-25
-    added-date: 2024-05-25
+    updated-date: 1900-01-01
+    added-date: 1900-01-01

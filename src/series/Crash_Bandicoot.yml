@@ -1,5 +1,5 @@
 name: Crash Bandicoot
-comment: null
+comment: ''
 sub-series:
 - Main
 - Racing
@@ -7,39 +7,32 @@ games:
     Crash Bandicoot:
         genres: []
         platforms: []
-        release_year: null
     'Crash Bandicoot 2: Cortex Strikes Back':
         genres: []
         platforms: []
-        release_year: null
     'Crash Bandicoot: The Wrath of Cortex':
         genres: []
         platforms: []
-        release_year: null
     'Crash Bandicoot: Warped':
         genres: []
         platforms: []
-        release_year: null
     Crash Nitro Kart:
         genres: []
         platforms: []
-        release_year: null
     Crash Tag Team Racing:
         genres: []
         platforms: []
-        release_year: null
         sub-series: Racing
     Crash Twinsanity:
         genres: []
         platforms: []
-        release_year: null
 randomizers:
 -   games:
     - Crash Tag Team Racing
     identifier: CDRomatron's
     url: https://github.com/CDRomatron/CTTRRando
-    info-updated: 2024-05-25
-    added-date: 2024-05-25
+    updated-date: 1900-01-01
+    added-date: 1900-01-01
 -   games:
     - Crash Nitro Kart
     - Crash Twinsanity
@@ -50,5 +43,5 @@ randomizers:
     - 'Crash Bandicoot: The Wrath of Cortex'
     identifier: Crate Mod Loader
     url: https://github.com/TheBetaM/CrateModLoader
-    info-updated: 2024-05-25
-    added-date: 2024-05-25
+    updated-date: 1900-01-01
+    added-date: 1900-01-01
