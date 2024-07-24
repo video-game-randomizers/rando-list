@@ -1,19 +1,9 @@
-name: "Pok\xE9mon"
+name: "Pokémon"
 comment: |-
     Note that for readability, the core games in this series may be referred
     to one the following **Generation (Gen)** groupings instead of their full names. __Speedchoice
     hacks are available on the [Pokemon Crystal Randomizer Central Discord server](https://discord.com/invite/nT56DbT)
     in the #resources channel.__
-
-    - _**I**: Pokémon Red Version (international) / Pokémon Blue Version (international) as **primary**, Pokémon Yellow Version: Special Pikachu Edition as **secondary**_
-    - _**II**: Pokémon Gold Version / Pokémon Silver Version as **primary**, Pokémon Crystal Version as **secondary**_
-    - _**III**: Pokémon Ruby Version / Pokémon Sapphire Version as **primary**, Pokémon Emerald Version as **secondary**, Pokémon FireRed Version / Pokémon LeafGreen Version as **remakes**_
-    - _**IV**: Pokémon\ Diamond Version / Pokémon Pearl Version as **primary**, Pokémon Platinum Version as **secondary**, Pokémon HeartGold Version / Pokémon SoulSilver Version as **remakes**_
-    - _**V**: Pokémon Black Version / Pokémon White Version as **primary**, Pokémon Black Version 2, Pokémon White Version 2 as **secondary**_
-    - _**VI**: Pokémon X / Pokémon Y as **primary**, Pokémon Omega Ruby / Pokémon Alpha Sapphire as **remakes**_
-    - _**VII**: Pokémon Sun / Pokémon Moon as **primary**, Pokémon Ultra Sun / Pokémon Ultra Moon as **secondary**, Pokémon: Let's Go Pikachu! / Pokémon: Let's Go Eevee! as **remakes**_
-    - _**VIII**: Pokémon Sword / Pokémon Shield as **primary**. Pokémon Legends: Arceus as **secondary**, Pokémon Brillant Diamond / Pokémon Shining Pearl as **remakes**_
-    - _**IX**: Pokémon Scarlet / Pokémon Violet as **primary**_ 
 sub-series:
 - Core
 - Side
@@ -25,17 +15,18 @@ games:
         platforms: []
         release_year: null
         sub-series: Core
-    "(I) Pok\xE9mon Red Speedchoice (hack)":
+        comment: Pokémon Red Version (international) / Pokémon Blue Version (international)
+    "(I) Pokémon Red Speedchoice (hack)":
         genres: []
         platforms: []
         release_year: null
         sub-series: Core
-    "(I) Pok\xE9mon Red Version (international)":
+    "(I) Pokémon Red Version (international)":
         genres: []
         platforms: []
         release_year: null
         sub-series: Core
-    "(I) Pok\xE9mon Stadium":
+    "(I) Pokémon Stadium":
         genres: []
         platforms: []
         release_year: null
@@ -45,27 +36,30 @@ games:
         platforms: []
         release_year: null
         sub-series: Core
+        comment: Red (international) / Blue (international), Yellow, Gold/Silver, Crystal, Ruby / Sapphire, Emerald, FireRed / LeafGreen
     (I-V) Gens I to V all:
         genres: []
         platforms: []
         release_year: null
         sub-series: Core
+        comment: Red (international) / Blue (international), Yellow, Gold/Silver, Crystal, Ruby / Sapphire, Emerald, FireRed / LeafGreen, Diamond / Pearl, Platinum, HeartGold / SoulSilver, Black and White, Black & White Version 2
     (I-VII) Gens I to VI all:
         genres: []
         platforms: []
         release_year: null
         sub-series: Core
-    (II) Gen II secondary:
+        comment: Red (international) / Blue (international), Yellow, Gold/Silver, Crystal, Ruby / Sapphire, Emerald, FireRed / LeafGreen, Diamond / Pearl, Platinum, HeartGold / SoulSilver, Black and White, Black & White Version 2, X / Y, Omega Ruby / Alpha Sapphire
+    (II) Pokémon Crystal Version:
         genres: []
         platforms: []
         release_year: null
         sub-series: Core
-    "(II) Pok\xE9mon Crystal Speedchoice (hack)":
+    "(II) Pokémon Crystal Speedchoice (hack)":
         genres: []
         platforms: []
         release_year: null
         sub-series: Core
-    "(II) Pok\xE9mon Stadium 2":
+    "(II) Pokémon Stadium 2":
         genres: []
         platforms: []
         release_year: null
@@ -75,187 +69,188 @@ games:
         platforms: []
         release_year: null
         sub-series: Core
+        comment: Gold/Silver, Crystal, Ruby / Sapphire, Emerald, FireRed / LeafGreen
     (III) Gen III all:
         genres: []
         platforms: []
         release_year: null
         sub-series: Core
-    (III) Gen III secondary:
+        comment: Pokémon Ruby Version / Pokémon Sapphire Version, Pokémon Emerald Version, Pokémon FireRed Version / Pokémon LeafGreen Version
+    (III) Pokémon Emerald:
         genres: []
         platforms: []
         release_year: null
         sub-series: Core
-    "(III) Pok\xE9mon Colosseum":
+    "(III) Pokémon Colosseum":
         genres: []
         platforms: []
         release_year: null
         sub-series: Side
-    "(III) Pok\xE9mon Emerald EX Speedchoice (hack)":
+    "(III) Pokémon Emerald EX Speedchoice (hack)":
         genres: []
         platforms: []
         release_year: null
         sub-series: Core
-    "(III) Pok\xE9mon Emerald Speedchoice (hack)":
+    "(III) Pokémon Emerald Speedchoice (hack)":
         genres: []
         platforms: []
         release_year: null
         sub-series: Core
-    "(III) Pok\xE9mon FireRed Speedchoice (hack)":
+    "(III) Pokémon FireRed Speedchoice (hack)":
         genres: []
         platforms: []
         release_year: null
         sub-series: Core
-    "(III) Pok\xE9mon FireRed Version":
+    "(III) Pokémon FireRed Version":
         genres: []
         platforms: []
         release_year: null
         sub-series: Core
-    (III-V) Gen III secondary & remakes:
+    (III) Gen III secondary & remakes:
         genres: []
         platforms: []
         release_year: null
         sub-series: Core
-    (IV) Gen IV secondary:
+        comment: Emerald, FireRed / LeafGreen
+    (IV) Pokémon Platinum:
         genres: []
         platforms: []
         release_year: null
         sub-series: Core
-    (IV-V) Gen IV remakes:
+    (IV) Gen IV remakes:
         genres: []
         platforms: []
         release_year: null
         sub-series: Core
+        comment: HeartGold / SoulSilver
     (IX) Gen IX primary:
         genres: []
         platforms: []
         release_year: null
         sub-series: Core
-    (VI-VII) Gen VI all:
+        comment: Scarlet / Violet
+    (VI) Gen VI all:
         genres: []
         platforms: []
         release_year: null
         sub-series: Core
-    (VII-VIII) Gen VII remakes:
+        comment: X / Y, Omega Ruby / Alpha Sapphire
+    (VII) Gen VII remakes:
         genres: []
         platforms: []
         release_year: null
         sub-series: Core
+        comment: Let's Go Pikachu! / Let's Go Eevee!
     (VIII) Gen VIII remakes:
         genres: []
         platforms: []
         release_year: null
         sub-series: Core
-    Gen IV secondary & remakes:
+        comment: Brillant Diamond / Shining Pearl
+    (IV) Gen IV secondary & remakes:
         genres: []
         platforms: []
         release_year: null
         sub-series: Core
-    Gen V secondary:
+        comment: Platinum Version, HeartGold / SoulSilver
+    (V) Black & White Version 2:
         genres: []
         platforms: []
         release_year: null
         sub-series: Core
-    Gen VII primary:
+    (VII) Gen VII primary & secondary:
         genres: []
         platforms: []
         release_year: null
         sub-series: Core
-    Gen VII primary & secondary:
+        comment: Sun / Moon, Ultra Sun / Ultra Moon
+    (VIII) Gen VIII primary:
         genres: []
         platforms: []
         release_year: null
         sub-series: Core
-    Gen VII secondary:
+        comment: Sword / Shield
+    "Pokémon Blue Version (international)":
         genres: []
         platforms: []
         release_year: null
         sub-series: Core
-    Gen VIII primary:
-        genres: []
-        platforms: []
-        release_year: null
-        sub-series: Core
-    "Pok\xE9mon Blue Version (international)":
-        genres: []
-        platforms: []
-        release_year: null
-        sub-series: Core
-    "Pok\xE9mon Conquest":
+    "Pokémon Conquest":
         genres: []
         platforms: []
         release_year: null
         sub-series: Spin-offs
-    "Pok\xE9mon Crystal Speedchoice (hack)":
+    "Pokémon Crystal Speedchoice (hack)":
         genres: []
         platforms: []
         release_year: null
         sub-series: Core
-    "Pok\xE9mon CrystalDust (hack)":
+    "Pokémon CrystalDust (hack)":
         genres: []
         platforms: []
         release_year: null
         sub-series: Core
-    "Pok\xE9mon Emerald EX Speedchoice (hack)":
+    "Pokémon Emerald EX Speedchoice (hack)":
         genres: []
         platforms: []
         release_year: null
         sub-series: Core
-    "Pok\xE9mon Emerald Speedchoice (hack)":
+    "Pokémon Emerald Speedchoice (hack)":
         genres: []
         platforms: []
         release_year: null
         sub-series: Core
-    "Pok\xE9mon Emerald Version":
+    "Pokémon Emerald Version":
         genres: []
         platforms: []
         release_year: null
         sub-series: Core
-    "Pok\xE9mon Gaia Version (Pok\xE9mon FireRed Version hack)":
+    "Pokémon Gaia Version (Pokémon FireRed Version hack)":
         genres: []
         platforms: []
         release_year: null
         sub-series: Unofficial
-    "Pok\xE9mon Mystery Dungeon: Explorers of Sky":
+    "Pokémon Mystery Dungeon: Explorers of Sky":
         genres: []
         platforms: []
         release_year: null
         sub-series: Spin-offs
-    "Pok\xE9mon Mystery Dungeon: Red Rescue Team":
+    "Pokémon Mystery Dungeon: Red Rescue Team":
         genres: []
         platforms: []
         release_year: null
         sub-series: Spin-offs
-    "Pok\xE9mon Red Speedchoice (hack)":
+    "Pokémon Red Speedchoice (hack)":
         genres: []
         platforms: []
         release_year: null
         sub-series: Core
-    "Pok\xE9mon Red Version (international)":
+    "Pokémon Red Version (international)":
         genres: []
         platforms: []
         release_year: null
         sub-series: Core
-    "Pok\xE9mon Rejuvenation (fangame)":
+    "Pokémon Rejuvenation (fangame)":
         genres: []
         platforms: []
         release_year: null
         sub-series: Unofficial
-    "Pok\xE9mon Trading Card Game":
+    "Pokémon Trading Card Game":
         genres: []
         platforms: []
         release_year: null
         sub-series: Spin-offs
-    "Pok\xE9mon White Version 2":
+    "Pokémon White Version 2":
         genres: []
         platforms: []
         release_year: null
         sub-series: Core
-    "Pok\xE9mon XD: Gale of Darkness":
+    "Pokémon XD: Gale of Darkness":
         genres: []
         platforms: []
         release_year: null
         sub-series: Side
-    "Pok\xE9mon Ranger: Shadows of Almia":
+    "Pokémon Ranger: Shadows of Almia":
         genres: [RPG]
         platforms: [DS, Wii U]
         release_year: 2008
@@ -263,7 +258,7 @@ games:
 randomizers:
 -   games:
     - (I-VII) Gens I to VI all
-    - Gen VII primary & secondary
+    - (VII) Gen VII primary & secondary
     identifier: Universal Pokemon Randomizer ZX
     url: https://github.com/Ajarmar/universal-pokemon-randomizer-zx
     added-date: 2024-05-25
@@ -278,30 +273,30 @@ randomizers:
 -   games:
     - (I-V) Gens I to V all
     identifier: Universal Pokemon Randomizer
-    url: https://pokehacks.dabomstew.com/randomizer/index.php
+    url: https://github.com/Dabomstew/universal-pokemon-randomizer
     obsolete: true
     added-date: 2024-05-25
     info-updated: 2024-05-25
 -   games:
     - (I-III) Gens I to III all
-    - "Pok\xE9mon Red Speedchoice (hack)"
-    - "Pok\xE9mon Crystal Speedchoice (hack)"
-    - "Pok\xE9mon Emerald Speedchoice (hack)"
-    - "Pok\xE9mon Emerald EX Speedchoice (hack)"
+    - "Pokémon Red Speedchoice (hack)"
+    - "Pokémon Crystal Speedchoice (hack)"
+    - "Pokémon Emerald Speedchoice (hack)"
+    - "Pokémon Emerald EX Speedchoice (hack)"
     identifier: Type Chart Randomizer
     url: https://github.com/NPO-197/PokemonTypeChartRandomizer
     added-date: 2024-05-25
     info-updated: 2024-05-25
 -   games:
-    - "Pok\xE9mon Emerald Version"
+    - "Pokémon Emerald Version"
     identifier: Archipelago
     url: https://archipelago.gg/tutorial/#Pokemon%20Emerald
     multiworld: Archipelago
     added-date: 2024-05-25
     info-updated: 2024-05-25
 -   games:
-    - "Pok\xE9mon Red Version (international)"
-    - "Pok\xE9mon Blue Version (international)"
+    - "Pokémon Red Version (international)"
+    - "Pokémon Blue Version (international)"
     identifier: Archipelago
     url: https://archipelago.gg/tutorial/#Pokemon%20Red%20and%20Blue
     multiworld: Archipelago
@@ -335,14 +330,14 @@ randomizers:
     added-date: 2024-05-25
     info-updated: 2024-05-25
 -   games:
-    - "(I) Pok\xE9mon Red Version (international)"
+    - "(I) Pokémon Red Version (international)"
     identifier: Sanqui's
     url: https://sanqui.net/randomizer/#pokered
     comment: '[Source code](https://github.com/Sanqui/online-randomizer)'
     added-date: 2024-05-25
     info-updated: 2024-05-25
 -   games:
-    - "(I) Pok\xE9mon Red Speedchoice (hack)"
+    - "(I) Pokémon Red Speedchoice (hack)"
     identifier: Official
     url: https://cdn.discordapp.com/attachments/356914936750014465/727678797947600926/rando-20200630-r1.1-c6.0-e1.1.4.zip
     comment: 'Support and potential future versions available on the [Pokemon Crystal
@@ -358,28 +353,28 @@ randomizers:
     added-date: 2024-05-25
     info-updated: 2024-05-25
 -   games:
-    - (II) Gen II secondary
-    - "Pok\xE9mon Crystal Speedchoice (hack)"
+    - (II) Pokémon Crystal Version
+    - "Pokémon Crystal Speedchoice (hack)"
     identifier: Map Randomizer
     url: https://github.com/choatix/pokemon-crystal-map-randomizer
     added-date: 2024-05-25
     info-updated: 2024-05-25
 -   games:
-    - (II) Gen II secondary
+    - (II) Pokémon Crystal Version
     identifier: Randofuser
     url: https://github.com/xCrystal/crystal-randofuser/releases
     added-date: 2024-05-25
     info-updated: 2024-05-25
 -   games:
-    - "(II) Pok\xE9mon Crystal Speedchoice (hack)"
+    - "(II) Pokémon Crystal Speedchoice (hack)"
     identifier: Item Randomizer
     url: https://github.com/choatix/Pokemon-Crystal-Item-Randomizer
     added-date: 2024-05-25
     info-updated: 2024-05-25
 -   games:
-    - (III-V) Gen III secondary & remakes
-    - Gen IV secondary & remakes
-    - "Pok\xE9mon White Version 2"
+    - (III) Gen III secondary & remakes
+    - (IV) Gen IV secondary & remakes
+    - "Pokémon White Version 2"
     identifier: Universal Warp Randomizer
     url: https://warprandomizer.com/
     comment: '[Source code](https://warprandomizer.com//randomizer_py.zip)'
@@ -392,30 +387,30 @@ randomizers:
     added-date: 2024-05-25
     info-updated: 2024-05-25
 -   games:
-    - "(III) Pok\xE9mon FireRed Version"
-    - "Pok\xE9mon CrystalDust (hack)"
-    - "Pok\xE9mon Emerald Version"
+    - "(III) Pokémon FireRed Version"
+    - "Pokémon CrystalDust (hack)"
+    - "Pokémon Emerald Version"
     identifier: GBAXG
     url: https://kittypboxx.github.io/GBAXG/
     comment: Requires special emulator
     added-date: 2024-05-25
     info-updated: 2024-05-25
 -   games:
-    - "(III) Pok\xE9mon FireRed Speedchoice (hack)"
+    - "(III) Pokémon FireRed Speedchoice (hack)"
     identifier: Official
     url: https://github.com/pikalaxalt/firered-speedchoice/releases
     comment: Included in hack release
     added-date: 2024-05-25
     info-updated: 2024-05-25
 -   games:
-    - (III) Gen III secondary
+    - (III) Pokémon Emerald
     identifier: Artemis251's
     url: http://artemis251.fobby.net/downloads/emerald/
     obsolete: true
     added-date: 2024-05-25
     info-updated: 2024-05-25
 -   games:
-    - (III) Gen III secondary
+    - (III) Pokémon Emerald
     identifier: pokeemerald warp randomizer
     url: https://github.com/shinyquagsire23/pokeemerald-warprandomizer
     obsolete: true
@@ -423,26 +418,26 @@ randomizers:
     added-date: 2024-05-25
     info-updated: 2024-05-25
 -   games:
-    - (III) Gen III secondary
-    identifier: "Pok\xE9mon Emerald Cross"
+    - (III) Pokémon Emerald
+    identifier: "Pokémon Emerald Cross"
     url: https://ko-fi.com/s/b0c17d6f9d
     added-date: 2024-05-25
     info-updated: 2024-05-25
 -   games:
-    - (III) Gen III secondary
+    - (III) Pokémon Emerald
     identifier: Pokemon Emerald Rogue
     url: https://www.pokecommunity.com/showthread.php?t=479406
     added-date: 2024-05-25
     info-updated: 2024-05-25
 -   games:
-    - "(III) Pok\xE9mon Emerald Speedchoice (hack)"
+    - "(III) Pokémon Emerald Speedchoice (hack)"
     identifier: Official
     url: https://github.com/RevoSucks/pokeemerald-speedchoice/releases
     comment: Included in hack release
     added-date: 2024-05-25
     info-updated: 2024-05-25
 -   games:
-    - "(III) Pok\xE9mon Emerald EX Speedchoice (hack)"
+    - "(III) Pokémon Emerald EX Speedchoice (hack)"
     identifier: Map Rando
     url: https://kittypboxx.github.io/Emerald-Ex-Map-Rando/dist/RomMaker/
     comment: Source code [part 1](https://github.com/KittyPBoxx/Emerald-Ex-Map-Rando),
@@ -450,37 +445,36 @@ randomizers:
     added-date: 2024-05-25
     info-updated: 2024-05-25
 -   games:
-    - "(III) Pok\xE9mon Emerald EX Speedchoice (hack)"
+    - "(III) Pokémon Emerald EX Speedchoice (hack)"
     identifier: Official
     url: https://github.com/RevoSucks/pokeemerald-ex-speedchoice/releases
     comment: Included in hack release
     added-date: 2024-05-25
     info-updated: 2024-05-25
 -   games:
-    - (IV-V) Gen IV remakes
-    - Gen V secondary
+    - (IV) Gen IV remakes
+    - (V) Black & White Version 2
     identifier: Map Randomizer
     url: https://github.com/adrienntindall/hgss-map-randomizer/releases
     added-date: 2024-05-25
     info-updated: 2024-05-25
 -   games:
-    - (IV) Gen IV secondary
+    - (IV) Pokémon Platinum
     identifier: Entrance Randomizer
     url: https://github.com/SilverstarStream/pokemon-entrance-randomizer
     added-date: 2024-05-25
     info-updated: 2024-05-25
 -   games:
-    - (VI-VII) Gen VI all
-    - Gen VII primary
-    - Gen VII secondary
+    - (VI) Gen VI all
+    - (VII) Gen VII primary & secondary
     identifier: pk3DS
     url: https://projectpokemon.org/home/forums/topic/34377-pk3ds-xyoras-rom-editor-amp-randomizer/
     obsolete: true
     added-date: 2024-05-25
     info-updated: 2024-05-25
 -   games:
-    - (VII-VIII) Gen VII remakes
-    - Gen VIII primary
+    - (VII) Gen VII remakes
+    - (VIII) Gen VIII primary
     identifier: pkNX
     url: https://projectpokemon.org/home/forums/topic/48647-pknx-nintendo-switch-rom-editor-randomizer/
     added-date: 2024-05-25
@@ -527,33 +521,33 @@ randomizers:
     added-date: 2024-05-25
     info-updated: 2024-05-25
 -   games:
-    - "(I) Pok\xE9mon Stadium"
+    - "(I) Pokémon Stadium"
     identifier: Randomizer and Editor
     url: https://www.speedrun.com/pkmnstadium/thread/8ias0
     added-date: 2024-05-25
     info-updated: 2024-05-25
 -   games:
-    - "(II) Pok\xE9mon Stadium 2"
+    - "(II) Pokémon Stadium 2"
     identifier: RainbowSprinklez's
     url: https://github.com/mike19283/Pokemon-Stadium-2-Randomizer
     added-date: 2024-05-25
     info-updated: 2024-05-25
 -   games:
-    - "(II) Pok\xE9mon Stadium 2"
+    - "(II) Pokémon Stadium 2"
     identifier: Rental Moveset Randomizer
     url: https://www.speedrun.com/pkmnstadium2/thread/9febd
     added-date: 2024-05-25
     info-updated: 2024-05-25
 -   games:
-    - "(III) Pok\xE9mon Colosseum"
-    - "Pok\xE9mon XD: Gale of Darkness"
+    - "(III) Pokémon Colosseum"
+    - "Pokémon XD: Gale of Darkness"
     identifier: Pokemon NGC Rando
     url: https://github.com/rotobash/pokemon-ngc-rando
     added-date: 2024-05-25
     info-updated: 2024-05-25
 -   games:
-    - "(III) Pok\xE9mon Colosseum"
-    - "Pok\xE9mon XD: Gale of Darkness"
+    - "(III) Pokémon Colosseum"
+    - "Pokémon XD: Gale of Darkness"
     identifier: Reclaimer Shawn's
     url: https://www.youtube.com/watch?time_continue=10&v=zXOvLc1Zk9U
     obsolete: true
@@ -562,8 +556,8 @@ randomizers:
     added-date: 2024-05-25
     info-updated: 2024-05-25
 -   games:
-    - "(III) Pok\xE9mon Colosseum"
-    - "Pok\xE9mon XD: Gale of Darkness"
+    - "(III) Pokémon Colosseum"
+    - "Pokémon XD: Gale of Darkness"
     identifier: Gale of Darkness Tool + Colosseum Tool
     url: https://projectpokemon.org/home/files/file/2463-gale-of-darkness-tool-osx-colosseum-tool/
     obsolete: true
@@ -571,70 +565,70 @@ randomizers:
     added-date: 2024-05-25
     info-updated: 2024-05-25
 -   games:
-    - "Pok\xE9mon Trading Card Game"
+    - "Pokémon Trading Card Game"
     identifier: Aroymart's
     url: https://github.com/anmart/UniversalCardGameRandomizer/releases
     added-date: 2024-05-25
     info-updated: 2024-05-25
 -   games:
-    - "Pok\xE9mon Trading Card Game"
+    - "Pokémon Trading Card Game"
     identifier: Sanqui's
     url: https://sanqui.net/randomizer/#poketcg
     comment: '[Source code](https://github.com/Sanqui/online-randomizer)'
     added-date: 2024-05-25
     info-updated: 2024-05-25
 -   games:
-    - "Pok\xE9mon Trading Card Game"
+    - "Pokémon Trading Card Game"
     identifier: pokepress's
     url: https://github.com/pokepress/TCGRandomizer
     added-date: 2024-05-25
     info-updated: 2024-05-25
 -   games:
-    - "Pok\xE9mon Trading Card Game"
+    - "Pokémon Trading Card Game"
     identifier: xCrystal's
     url: https://github.com/xCrystal/TCGRandomizer
     obsolete: true
     added-date: 2024-05-25
     info-updated: 2024-05-25
 -   games:
-    - "Pok\xE9mon Mystery Dungeon: Red Rescue Team"
+    - "Pokémon Mystery Dungeon: Red Rescue Team"
     identifier: Suguivy's
     url: https://github.com/Suguivy/pmdrc-randomizer
     added-date: 2024-05-25
     info-updated: 2024-05-25
 -   games:
-    - "Pok\xE9mon Mystery Dungeon: Explorers of Sky"
+    - "Pokémon Mystery Dungeon: Explorers of Sky"
     identifier: mdrngzer
     url: https://github.com/Aissurteivos/mdrngzer/releases
     added-date: 2024-05-25
     info-updated: 2024-05-25
 -   games:
-    - "Pok\xE9mon Mystery Dungeon: Explorers of Sky"
+    - "Pokémon Mystery Dungeon: Explorers of Sky"
     identifier: SkyTemple Randomizer
     url: https://projectpokemon.org/home/files/file/4235-skytemple-randomizer/
     added-date: 2024-05-25
     info-updated: 2024-05-25
 -   games:
-    - "Pok\xE9mon Conquest"
+    - "Pokémon Conquest"
     identifier: RanseiLink
     url: https://github.com/Deijin27/RanseiLink
     comment: Game editor with bundled randomizer
     added-date: 2024-05-25
     info-updated: 2024-05-25
 -   games:
-    - "Pok\xE9mon Gaia Version (Pok\xE9mon FireRed Version hack)"
-    identifier: "Universal Pok\xE9mon Randomizer - Pok\xE9mon Gaia Fork"
+    - "Pokémon Gaia Version (Pokémon FireRed Version hack)"
+    identifier: "Universal Pokémon Randomizer - Pokémon Gaia Fork"
     url: https://github.com/sphericalice/universal-pokemon-randomizer
     added-date: 2024-05-25
     info-updated: 2024-05-25
 -   games:
-    - "Pok\xE9mon Rejuvenation (fangame)"
+    - "Pokémon Rejuvenation (fangame)"
     identifier: Challenge Pack
     url: https://www.rebornevo.com/forums/topic/51568-rejuvenation-v12-challenge-pack/
     added-date: 2024-05-25
     info-updated: 2024-05-25
 -   games:
-    - "Pok\xE9mon Ranger: Shadows of Almia"
+    - "Pokémon Ranger: Shadows of Almia"
     identifier: ronitsinha's
     url: https://github.com/ronitsinha/almia-randomizer
     added-date: 2024-07-11
