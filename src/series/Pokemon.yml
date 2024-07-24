@@ -158,24 +158,12 @@ games:
         platforms: []
         release_year: null
         sub-series: Core
-    (VII) Gen VII primary:
-        genres: []
-        platforms: []
-        release_year: null
-        sub-series: Core
-        comment: Sun / Moon
     (VII) Gen VII primary & secondary:
         genres: []
         platforms: []
         release_year: null
         sub-series: Core
         comment: Sun / Moon, Ultra Sun / Ultra Moon
-    (VII) Gen VII secondary:
-        genres: []
-        platforms: []
-        release_year: null
-        sub-series: Core
-        comment: Ultra Sun / Ultra Moon
     (VIII) Gen VIII primary:
         genres: []
         platforms: []
