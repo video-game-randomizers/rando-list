@@ -28,6 +28,7 @@ games:
         genres: []
         platforms: []
         release_year: null
+        sub-series: Racing
     Crash Twinsanity:
         genres: []
         platforms: []
@@ -37,7 +38,6 @@ randomizers:
     - Crash Tag Team Racing
     identifier: CDRomatron's
     url: https://github.com/CDRomatron/CTTRRando
-    sub-series: Racing
     info-updated: 2024-05-25
     added-date: 2024-05-25
 -   games:

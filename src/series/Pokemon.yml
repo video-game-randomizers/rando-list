@@ -29,6 +29,7 @@ games:
         genres: []
         platforms: []
         release_year: null
+        sub-series: Core
     "(I) Pok\xE9mon Red Version (international)":
         genres: []
         platforms: []
@@ -38,6 +39,7 @@ games:
         genres: []
         platforms: []
         release_year: null
+        sub-series: Side
     (I-III) Gens I to III all:
         genres: []
         platforms: []
@@ -57,162 +59,202 @@ games:
         genres: []
         platforms: []
         release_year: null
+        sub-series: Core
     "(II) Pok\xE9mon Crystal Speedchoice (hack)":
         genres: []
         platforms: []
         release_year: null
+        sub-series: Core
     "(II) Pok\xE9mon Stadium 2":
         genres: []
         platforms: []
         release_year: null
+        sub-series: Side
     (II-III) Gens II to III all:
         genres: []
         platforms: []
         release_year: null
+        sub-series: Core
     (III) Gen III all:
         genres: []
         platforms: []
         release_year: null
+        sub-series: Core
     (III) Gen III secondary:
         genres: []
         platforms: []
         release_year: null
+        sub-series: Core
     "(III) Pok\xE9mon Colosseum":
         genres: []
         platforms: []
         release_year: null
+        sub-series: Side
     "(III) Pok\xE9mon Emerald EX Speedchoice (hack)":
         genres: []
         platforms: []
         release_year: null
+        sub-series: Core
     "(III) Pok\xE9mon Emerald Speedchoice (hack)":
         genres: []
         platforms: []
         release_year: null
+        sub-series: Core
     "(III) Pok\xE9mon FireRed Speedchoice (hack)":
         genres: []
         platforms: []
         release_year: null
+        sub-series: Core
     "(III) Pok\xE9mon FireRed Version":
         genres: []
         platforms: []
         release_year: null
+        sub-series: Core
     (III-V) Gen III secondary & remakes:
         genres: []
         platforms: []
         release_year: null
+        sub-series: Core
     (IV) Gen IV secondary:
         genres: []
         platforms: []
         release_year: null
+        sub-series: Core
     (IV-V) Gen IV remakes:
         genres: []
         platforms: []
         release_year: null
+        sub-series: Core
     (IX) Gen IX primary:
         genres: []
         platforms: []
         release_year: null
+        sub-series: Core
     (VI-VII) Gen VI all:
         genres: []
         platforms: []
         release_year: null
+        sub-series: Core
     (VII-VIII) Gen VII remakes:
         genres: []
         platforms: []
         release_year: null
+        sub-series: Core
     (VIII) Gen VIII remakes:
         genres: []
         platforms: []
         release_year: null
+        sub-series: Core
     Gen IV secondary & remakes:
         genres: []
         platforms: []
         release_year: null
+        sub-series: Core
     Gen V secondary:
         genres: []
         platforms: []
         release_year: null
+        sub-series: Core
     Gen VII primary:
         genres: []
         platforms: []
         release_year: null
+        sub-series: Core
     Gen VII primary & secondary:
         genres: []
         platforms: []
         release_year: null
+        sub-series: Core
     Gen VII secondary:
         genres: []
         platforms: []
         release_year: null
+        sub-series: Core
     Gen VIII primary:
         genres: []
         platforms: []
         release_year: null
+        sub-series: Core
     "Pok\xE9mon Blue Version (international)":
         genres: []
         platforms: []
         release_year: null
+        sub-series: Core
     "Pok\xE9mon Conquest":
         genres: []
         platforms: []
         release_year: null
+        sub-series: Spin-offs
     "Pok\xE9mon Crystal Speedchoice (hack)":
         genres: []
         platforms: []
         release_year: null
+        sub-series: Core
     "Pok\xE9mon CrystalDust (hack)":
         genres: []
         platforms: []
         release_year: null
+        sub-series: Core
     "Pok\xE9mon Emerald EX Speedchoice (hack)":
         genres: []
         platforms: []
         release_year: null
+        sub-series: Core
     "Pok\xE9mon Emerald Speedchoice (hack)":
         genres: []
         platforms: []
         release_year: null
+        sub-series: Core
     "Pok\xE9mon Emerald Version":
         genres: []
         platforms: []
         release_year: null
+        sub-series: Core
     "Pok\xE9mon Gaia Version (Pok\xE9mon FireRed Version hack)":
         genres: []
         platforms: []
         release_year: null
+        sub-series: Unofficial
     "Pok\xE9mon Mystery Dungeon: Explorers of Sky":
         genres: []
         platforms: []
         release_year: null
+        sub-series: Spin-offs
     "Pok\xE9mon Mystery Dungeon: Red Rescue Team":
         genres: []
         platforms: []
         release_year: null
+        sub-series: Spin-offs
     "Pok\xE9mon Red Speedchoice (hack)":
         genres: []
         platforms: []
         release_year: null
+        sub-series: Core
     "Pok\xE9mon Red Version (international)":
         genres: []
         platforms: []
         release_year: null
+        sub-series: Core
     "Pok\xE9mon Rejuvenation (fangame)":
         genres: []
         platforms: []
         release_year: null
+        sub-series: Unofficial
     "Pok\xE9mon Trading Card Game":
         genres: []
         platforms: []
         release_year: null
+        sub-series: Spin-offs
     "Pok\xE9mon White Version 2":
         genres: []
         platforms: []
         release_year: null
+        sub-series: Core
     "Pok\xE9mon XD: Gale of Darkness":
         genres: []
         platforms: []
         release_year: null
+        sub-series: Side
     "Pok\xE9mon Ranger: Shadows of Almia":
         genres: [RPG]
         platforms: [DS, Wii U]
@@ -224,14 +266,12 @@ randomizers:
     - Gen VII primary & secondary
     identifier: Universal Pokemon Randomizer ZX
     url: https://github.com/Ajarmar/universal-pokemon-randomizer-zx
-    sub-series: Core
     added-date: 2024-05-25
     info-updated: 2024-05-25
 -   games:
     - (I-V) Gens I to V all
     identifier: voliol's Universal Pokemon Randomizer ZX
     url: https://github.com/voliol/universal-pokemon-randomizer
-    sub-series: Core
     added-date: 2024-07-11
     info-updated: 2024-07-11
     opensource: true
@@ -239,7 +279,6 @@ randomizers:
     - (I-V) Gens I to V all
     identifier: Universal Pokemon Randomizer
     url: https://pokehacks.dabomstew.com/randomizer/index.php
-    sub-series: Core
     obsolete: true
     added-date: 2024-05-25
     info-updated: 2024-05-25
@@ -251,7 +290,6 @@ randomizers:
     - "Pok\xE9mon Emerald EX Speedchoice (hack)"
     identifier: Type Chart Randomizer
     url: https://github.com/NPO-197/PokemonTypeChartRandomizer
-    sub-series: Core
     added-date: 2024-05-25
     info-updated: 2024-05-25
 -   games:
@@ -259,7 +297,6 @@ randomizers:
     identifier: Archipelago
     url: https://archipelago.gg/tutorial/#Pokemon%20Emerald
     multiworld: Archipelago
-    sub-series: Core
     added-date: 2024-05-25
     info-updated: 2024-05-25
 -   games:
@@ -268,14 +305,12 @@ randomizers:
     identifier: Archipelago
     url: https://archipelago.gg/tutorial/#Pokemon%20Red%20and%20Blue
     multiworld: Archipelago
-    sub-series: Core
     added-date: 2024-05-25
     info-updated: 2024-05-25
 -   games:
     - (I) Gen I primary
     identifier: Artemis251's
     url: http://artemis251.fobby.net/downloads/redblue/
-    sub-series: Core
     obsolete: true
     added-date: 2024-05-25
     info-updated: 2024-05-25
@@ -283,14 +318,12 @@ randomizers:
     - (I) Gen I primary
     identifier: Key Item Randomizer
     url: https://stump.io/itemrando/
-    sub-series: Core
     added-date: 2024-05-25
     info-updated: 2024-05-25
 -   games:
     - (I) Gen I primary
     identifier: RAMdomizer
     url: https://github.com/NPO-197/PokemonRedBlue-RAMdomizer
-    sub-series: Core
     obsolete: true
     added-date: 2024-05-25
     info-updated: 2024-05-25
@@ -298,7 +331,6 @@ randomizers:
     - (I) Gen I primary
     identifier: Ubuntaur's
     url: https://code.google.com/archive/p/red-blue-randomizer/
-    sub-series: Core
     obsolete: true
     added-date: 2024-05-25
     info-updated: 2024-05-25
@@ -306,7 +338,6 @@ randomizers:
     - "(I) Pok\xE9mon Red Version (international)"
     identifier: Sanqui's
     url: https://sanqui.net/randomizer/#pokered
-    sub-series: Core
     comment: '[Source code](https://github.com/Sanqui/online-randomizer)'
     added-date: 2024-05-25
     info-updated: 2024-05-25
@@ -314,7 +345,6 @@ randomizers:
     - "(I) Pok\xE9mon Red Speedchoice (hack)"
     identifier: Official
     url: https://cdn.discordapp.com/attachments/356914936750014465/727678797947600926/rando-20200630-r1.1-c6.0-e1.1.4.zip
-    sub-series: Core
     comment: 'Support and potential future versions available on the [Pokemon Crystal
         Randomizer Central Discord server](https://discord.com/invite/nT56DbT) in
         the #resources channel - [Source code](https://github.com/Dabomstew/UPR-Speedchoice)'
@@ -324,7 +354,6 @@ randomizers:
     - (II-III) Gens II to III all
     identifier: pateandrew's
     url: https://code.google.com/archive/p/pokemon-randomiser/
-    sub-series: Core
     obsolete: true
     added-date: 2024-05-25
     info-updated: 2024-05-25
@@ -333,21 +362,18 @@ randomizers:
     - "Pok\xE9mon Crystal Speedchoice (hack)"
     identifier: Map Randomizer
     url: https://github.com/choatix/pokemon-crystal-map-randomizer
-    sub-series: Core
     added-date: 2024-05-25
     info-updated: 2024-05-25
 -   games:
     - (II) Gen II secondary
     identifier: Randofuser
     url: https://github.com/xCrystal/crystal-randofuser/releases
-    sub-series: Core
     added-date: 2024-05-25
     info-updated: 2024-05-25
 -   games:
     - "(II) Pok\xE9mon Crystal Speedchoice (hack)"
     identifier: Item Randomizer
     url: https://github.com/choatix/Pokemon-Crystal-Item-Randomizer
-    sub-series: Core
     added-date: 2024-05-25
     info-updated: 2024-05-25
 -   games:
@@ -356,7 +382,6 @@ randomizers:
     - "Pok\xE9mon White Version 2"
     identifier: Universal Warp Randomizer
     url: https://warprandomizer.com/
-    sub-series: Core
     comment: '[Source code](https://warprandomizer.com//randomizer_py.zip)'
     added-date: 2024-05-25
     info-updated: 2024-05-25
@@ -364,7 +389,6 @@ randomizers:
     - (III) Gen III all
     identifier: Reasonable Randomizer
     url: https://code.google.com/archive/p/pokemon-reasonable-randomizer/
-    sub-series: Core
     added-date: 2024-05-25
     info-updated: 2024-05-25
 -   games:
@@ -373,7 +397,6 @@ randomizers:
     - "Pok\xE9mon Emerald Version"
     identifier: GBAXG
     url: https://kittypboxx.github.io/GBAXG/
-    sub-series: Core
     comment: Requires special emulator
     added-date: 2024-05-25
     info-updated: 2024-05-25
@@ -381,7 +404,6 @@ randomizers:
     - "(III) Pok\xE9mon FireRed Speedchoice (hack)"
     identifier: Official
     url: https://github.com/pikalaxalt/firered-speedchoice/releases
-    sub-series: Core
     comment: Included in hack release
     added-date: 2024-05-25
     info-updated: 2024-05-25
@@ -389,7 +411,6 @@ randomizers:
     - (III) Gen III secondary
     identifier: Artemis251's
     url: http://artemis251.fobby.net/downloads/emerald/
-    sub-series: Core
     obsolete: true
     added-date: 2024-05-25
     info-updated: 2024-05-25
@@ -397,7 +418,6 @@ randomizers:
     - (III) Gen III secondary
     identifier: pokeemerald warp randomizer
     url: https://github.com/shinyquagsire23/pokeemerald-warprandomizer
-    sub-series: Core
     obsolete: true
     comment: Requires decompiled version of original game
     added-date: 2024-05-25
@@ -406,21 +426,18 @@ randomizers:
     - (III) Gen III secondary
     identifier: "Pok\xE9mon Emerald Cross"
     url: https://ko-fi.com/s/b0c17d6f9d
-    sub-series: Core
     added-date: 2024-05-25
     info-updated: 2024-05-25
 -   games:
     - (III) Gen III secondary
     identifier: Pokemon Emerald Rogue
     url: https://www.pokecommunity.com/showthread.php?t=479406
-    sub-series: Core
     added-date: 2024-05-25
     info-updated: 2024-05-25
 -   games:
     - "(III) Pok\xE9mon Emerald Speedchoice (hack)"
     identifier: Official
     url: https://github.com/RevoSucks/pokeemerald-speedchoice/releases
-    sub-series: Core
     comment: Included in hack release
     added-date: 2024-05-25
     info-updated: 2024-05-25
@@ -428,7 +445,6 @@ randomizers:
     - "(III) Pok\xE9mon Emerald EX Speedchoice (hack)"
     identifier: Map Rando
     url: https://kittypboxx.github.io/Emerald-Ex-Map-Rando/dist/RomMaker/
-    sub-series: Core
     comment: Source code [part 1](https://github.com/KittyPBoxx/Emerald-Ex-Map-Rando),
         [part 2](https://github.com/KittyPBoxx/Emerald-Ex-Map-Rando)
     added-date: 2024-05-25
@@ -437,7 +453,6 @@ randomizers:
     - "(III) Pok\xE9mon Emerald EX Speedchoice (hack)"
     identifier: Official
     url: https://github.com/RevoSucks/pokeemerald-ex-speedchoice/releases
-    sub-series: Core
     comment: Included in hack release
     added-date: 2024-05-25
     info-updated: 2024-05-25
@@ -446,14 +461,12 @@ randomizers:
     - Gen V secondary
     identifier: Map Randomizer
     url: https://github.com/adrienntindall/hgss-map-randomizer/releases
-    sub-series: Core
     added-date: 2024-05-25
     info-updated: 2024-05-25
 -   games:
     - (IV) Gen IV secondary
     identifier: Entrance Randomizer
     url: https://github.com/SilverstarStream/pokemon-entrance-randomizer
-    sub-series: Core
     added-date: 2024-05-25
     info-updated: 2024-05-25
 -   games:
@@ -462,7 +475,6 @@ randomizers:
     - Gen VII secondary
     identifier: pk3DS
     url: https://projectpokemon.org/home/forums/topic/34377-pk3ds-xyoras-rom-editor-amp-randomizer/
-    sub-series: Core
     obsolete: true
     added-date: 2024-05-25
     info-updated: 2024-05-25
@@ -471,14 +483,12 @@ randomizers:
     - Gen VIII primary
     identifier: pkNX
     url: https://projectpokemon.org/home/forums/topic/48647-pknx-nintendo-switch-rom-editor-randomizer/
-    sub-series: Core
     added-date: 2024-05-25
     info-updated: 2024-05-25
 -   games:
     - (VIII) Gen VIII remakes
     identifier: Imposter's Ordeal
     url: https://gamebanana.com/tools/8385
-    sub-series: Core
     comment: Modding tool with bundled randomizer
     added-date: 2024-05-25
     info-updated: 2024-05-25
@@ -486,7 +496,6 @@ randomizers:
     - (VIII) Gen VIII remakes
     identifier: SanGawku's
     url: https://gamebanana.com/tools/7848
-    sub-series: Core
     obsolete: true
     added-date: 2024-05-25
     info-updated: 2024-05-25
@@ -494,14 +503,12 @@ randomizers:
     - (IX) Gen IX primary
     identifier: Gonzalo's
     url: https://github.com/Gonzalooo/Scarlet-and-Violet-Randomizer
-    sub-series: Core
     added-date: 2024-05-25
     info-updated: 2024-05-25
 -   games:
     - (IX) Gen IX primary
     identifier: sora10pls's
     url: https://gist.github.com/sora10pls/07d69600241f3a47959b802560ab8900?permalink_comment_id=5057231#gistcomment-5057231
-    sub-series: Core
     comment: Announcement Tweet https://x.com/mattyoukhana_/status/1790503673367257582
     info-updated: 2024-06-02
     added-date: 2024-06-02
@@ -509,7 +516,6 @@ randomizers:
     - (IX) Gen IX primary
     identifier: XLuma's
     url: https://github.com/XLuma/SV-Randomizer
-    sub-series: Core
     obsolete: true
     added-date: 2024-05-25
     info-updated: 2024-05-25
@@ -517,7 +523,6 @@ randomizers:
     - (IX) Gen IX primary
     identifier: ZadenOwer's
     url: https://gamebanana.com/tools/11402
-    sub-series: Core
     obsolete: true
     added-date: 2024-05-25
     info-updated: 2024-05-25
@@ -525,21 +530,18 @@ randomizers:
     - "(I) Pok\xE9mon Stadium"
     identifier: Randomizer and Editor
     url: https://www.speedrun.com/pkmnstadium/thread/8ias0
-    sub-series: Side
     added-date: 2024-05-25
     info-updated: 2024-05-25
 -   games:
     - "(II) Pok\xE9mon Stadium 2"
     identifier: RainbowSprinklez's
     url: https://github.com/mike19283/Pokemon-Stadium-2-Randomizer
-    sub-series: Side
     added-date: 2024-05-25
     info-updated: 2024-05-25
 -   games:
     - "(II) Pok\xE9mon Stadium 2"
     identifier: Rental Moveset Randomizer
     url: https://www.speedrun.com/pkmnstadium2/thread/9febd
-    sub-series: Side
     added-date: 2024-05-25
     info-updated: 2024-05-25
 -   games:
@@ -547,7 +549,6 @@ randomizers:
     - "Pok\xE9mon XD: Gale of Darkness"
     identifier: Pokemon NGC Rando
     url: https://github.com/rotobash/pokemon-ngc-rando
-    sub-series: Side
     added-date: 2024-05-25
     info-updated: 2024-05-25
 -   games:
@@ -555,7 +556,6 @@ randomizers:
     - "Pok\xE9mon XD: Gale of Darkness"
     identifier: Reclaimer Shawn's
     url: https://www.youtube.com/watch?time_continue=10&v=zXOvLc1Zk9U
-    sub-series: Side
     obsolete: true
     comment: Located in video description - Requires special emulator [Dolphin 5.0
         Windows x64 stable version](https://dolphin-emu.org/download/)
@@ -566,7 +566,6 @@ randomizers:
     - "Pok\xE9mon XD: Gale of Darkness"
     identifier: Gale of Darkness Tool + Colosseum Tool
     url: https://projectpokemon.org/home/files/file/2463-gale-of-darkness-tool-osx-colosseum-tool/
-    sub-series: Side
     obsolete: true
     comment: '[Source code](https://github.com/PekanMmd/Pokemon-XD-Code)'
     added-date: 2024-05-25
@@ -575,14 +574,12 @@ randomizers:
     - "Pok\xE9mon Trading Card Game"
     identifier: Aroymart's
     url: https://github.com/anmart/UniversalCardGameRandomizer/releases
-    sub-series: Spin-offs
     added-date: 2024-05-25
     info-updated: 2024-05-25
 -   games:
     - "Pok\xE9mon Trading Card Game"
     identifier: Sanqui's
     url: https://sanqui.net/randomizer/#poketcg
-    sub-series: Spin-offs
     comment: '[Source code](https://github.com/Sanqui/online-randomizer)'
     added-date: 2024-05-25
     info-updated: 2024-05-25
@@ -590,14 +587,12 @@ randomizers:
     - "Pok\xE9mon Trading Card Game"
     identifier: pokepress's
     url: https://github.com/pokepress/TCGRandomizer
-    sub-series: Spin-offs
     added-date: 2024-05-25
     info-updated: 2024-05-25
 -   games:
     - "Pok\xE9mon Trading Card Game"
     identifier: xCrystal's
     url: https://github.com/xCrystal/TCGRandomizer
-    sub-series: Spin-offs
     obsolete: true
     added-date: 2024-05-25
     info-updated: 2024-05-25
@@ -605,28 +600,24 @@ randomizers:
     - "Pok\xE9mon Mystery Dungeon: Red Rescue Team"
     identifier: Suguivy's
     url: https://github.com/Suguivy/pmdrc-randomizer
-    sub-series: Spin-offs
     added-date: 2024-05-25
     info-updated: 2024-05-25
 -   games:
     - "Pok\xE9mon Mystery Dungeon: Explorers of Sky"
     identifier: mdrngzer
     url: https://github.com/Aissurteivos/mdrngzer/releases
-    sub-series: Spin-offs
     added-date: 2024-05-25
     info-updated: 2024-05-25
 -   games:
     - "Pok\xE9mon Mystery Dungeon: Explorers of Sky"
     identifier: SkyTemple Randomizer
     url: https://projectpokemon.org/home/files/file/4235-skytemple-randomizer/
-    sub-series: Spin-offs
     added-date: 2024-05-25
     info-updated: 2024-05-25
 -   games:
     - "Pok\xE9mon Conquest"
     identifier: RanseiLink
     url: https://github.com/Deijin27/RanseiLink
-    sub-series: Spin-offs
     comment: Game editor with bundled randomizer
     added-date: 2024-05-25
     info-updated: 2024-05-25
@@ -634,21 +625,18 @@ randomizers:
     - "Pok\xE9mon Gaia Version (Pok\xE9mon FireRed Version hack)"
     identifier: "Universal Pok\xE9mon Randomizer - Pok\xE9mon Gaia Fork"
     url: https://github.com/sphericalice/universal-pokemon-randomizer
-    sub-series: Unofficial
     added-date: 2024-05-25
     info-updated: 2024-05-25
 -   games:
     - "Pok\xE9mon Rejuvenation (fangame)"
     identifier: Challenge Pack
     url: https://www.rebornevo.com/forums/topic/51568-rejuvenation-v12-challenge-pack/
-    sub-series: Unofficial
     added-date: 2024-05-25
     info-updated: 2024-05-25
 -   games:
     - "Pok\xE9mon Ranger: Shadows of Almia"
     identifier: ronitsinha's
     url: https://github.com/ronitsinha/almia-randomizer
-    sub-series: Spin-offs
     added-date: 2024-07-11
     info-updated: 2024-07-11
     opensource: true

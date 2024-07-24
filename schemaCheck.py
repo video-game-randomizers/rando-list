@@ -102,8 +102,6 @@ def randomizer_schema(data):
     updated = data.get('info-updated')
     if updated < date(2024, 6, 19):
         ret['required'].remove('opensource')
-    if updated < date(2024, 8, 1):
-        ret['properties']['sub-series'] = ValidString # deprecated, moving to games_schema
     return ret
 
 def series_schema(data):
@@ -123,7 +121,7 @@ def series_schema(data):
             },
         },
 
-        "required": ["name", "randomizers"],
+        "required": ["name", "games", "randomizers"],
         "additionalProperties": False,
     }
     return ret
@@ -188,9 +186,14 @@ def validateSeriesConfig(path: Path):
         try:
             validateRando(rando)
             for game in rando.get('games', []):
-                if 'games' in data and game not in data['games']:
+                if game not in data['games']:
                     raise ValidationError('game: ' + game + ' is not defined')
                 games.add(game)
+                # if 'sub-series' in rando and 'sub-series' not in data['games'][game]:
+                #     data['games'][game]['sub-series'] = rando['sub-series']
+                #     writeback=True
+            # if 'sub-series' in rando:
+            #     rando.pop('sub-series')
         except ValidationError as e:
             failures += 1
             print('\nIn Randomizer definition:', rando)
@@ -206,14 +209,14 @@ def validateSeriesConfig(path: Path):
             writeback = True
             rando['added-date'] = date(2024, 5, 25)
 
-    if 'games' not in data:
-        newdata: dict = data.copy()
-        newdata.pop('randomizers')
-        games = {key: {'genres':[], 'platforms':[], 'release_year': None} for key in sorted(games)}
-        newdata['games'] = games
-        newdata['randomizers'] = data['randomizers']
-        data = newdata
-        writeback=True
+    # if 'games' not in data:
+    #     newdata: dict = data.copy()
+    #     newdata.pop('randomizers')
+    #     games = {key: {'genres':[], 'platforms':[], 'release_year': None} for key in sorted(games)}
+    #     newdata['games'] = games
+    #     newdata['randomizers'] = data['randomizers']
+    #     data = newdata
+    #     writeback=True
     
     for game in data['games']:
         if game not in games:

@@ -1,7 +1,6 @@
 name: Heretic
 comment: null
-sub-series:
-- id Software engines
+sub-series: null
 games:
     Heretic:
         genres: []
@@ -17,7 +16,6 @@ randomizers:
     - 'Hexen: Beyond Heretic'
     identifier: CustomDoom
     url: https://forum.zdoom.org/viewtopic.php?f=45&t=51446
-    sub-series: id Software engines
     obsolete: true
     info-updated: 2024-05-25
     added-date: 2024-05-25
@@ -26,7 +24,6 @@ randomizers:
     - 'Hexen: Beyond Heretic'
     identifier: Universal Custom Doom
     url: https://forum.zdoom.org/viewtopic.php?f=43&t=64678
-    sub-series: id Software engines
     info-updated: 2024-05-25
     added-date: 2024-05-25
 -   games:
@@ -34,7 +31,6 @@ randomizers:
     - 'Hexen: Beyond Heretic'
     identifier: Universal Entropy
     url: https://www.moddb.com/mods/universal-entropy
-    sub-series: id Software engines
     info-updated: 2024-05-25
     added-date: 2024-05-25
 -   games:
@@ -42,14 +38,12 @@ randomizers:
     - 'Hexen: Beyond Heretic'
     identifier: OBSIDIAN
     url: https://obsidian-level-maker.github.io/index.html
-    sub-series: id Software engines
     info-updated: 2024-05-25
     added-date: 2024-05-25
 -   games:
     - Heretic
     identifier: OBLIGE
     url: https://oblige.sourceforge.net/
-    sub-series: id Software engines
     obsolete: true
     comment: 'Unofficial [64-bit executable](https://forum.zdoom.org/viewtopic.php?f=44&t=64879)
         - Extensive add-on [ObAddon](https://github.com/caligari87/ObAddon/) - Add-on
@@ -62,7 +56,6 @@ randomizers:
     - Heretic
     identifier: ObHack
     url: https://samiam.org/obhack/
-    sub-series: id Software engines
     obsolete: true
     info-updated: 2024-05-25
     added-date: 2024-05-25
@@ -70,7 +63,6 @@ randomizers:
     - Heretic
     identifier: MOShuffle
     url: https://forum.zdoom.org/viewtopic.php?f=43&t=72760
-    sub-series: id Software engines
     info-updated: 2024-05-25
     added-date: 2024-05-25
 -   games:

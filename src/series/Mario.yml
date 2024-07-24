@@ -8,123 +8,136 @@ sub-series:
 games:
     'Mario & Luigi: Superstar Saga':
         genres:
-            - RPG
+        - RPG
         platforms:
-            - GBA
+        - GBA
         release_year: 2003
+        sub-series: RPGs
     Mario Kart 64:
         genres: []
         platforms: []
         release_year: null
+        sub-series: Racing
     New Super Mario Bros. Wii:
         genres: []
         platforms: []
         release_year: null
+        sub-series: 2D & 2D-like platformers
     Paper Mario:
         genres: []
         platforms: []
         release_year: null
+        sub-series: RPGs
     'Paper Mario: The Thousand-Year Door':
         genres: []
         platforms: []
         release_year: null
+        sub-series: RPGs
     Super Mario 3D World:
         genres: []
         platforms: []
         release_year: null
+        sub-series: 3D platformers
     Super Mario 64:
         genres: []
         platforms: []
         release_year: null
+        sub-series: 3D platformers
     Super Mario Bros.:
         genres: []
         platforms: []
         release_year: null
+        sub-series: 2D & 2D-like platformers
     Super Mario Bros. 2:
         genres: []
         platforms: []
         release_year: null
+        sub-series: 2D & 2D-like platformers
     Super Mario Bros. 3:
         genres: []
         platforms: []
         release_year: null
+        sub-series: 2D & 2D-like platformers
     Super Mario Bros. Wonder:
         genres: []
         platforms: []
         release_year: null
+        sub-series: 2D & 2D-like platformers
     Super Mario Galaxy:
         genres: []
         platforms: []
         release_year: null
+        sub-series: 3D platformers
     Super Mario Galaxy 2:
         genres: []
         platforms: []
         release_year: null
+        sub-series: 3D platformers
     Super Mario Land 2 DX (hack):
         genres: []
         platforms: []
         release_year: null
+        sub-series: 2D & 2D-like platformers
     'Super Mario Land 2: 6 Golden Coins':
         genres: []
         platforms: []
         release_year: null
+        sub-series: 2D & 2D-like platformers
     Super Mario RPG (Switch):
         genres: []
         platforms: []
         release_year: null
+        sub-series: RPGs
     'Super Mario RPG: Legend of the Seven Stars':
         genres: []
         platforms: []
         release_year: null
+        sub-series: RPGs
     Super Mario World:
         genres: []
         platforms: []
         release_year: null
+        sub-series: 2D & 2D-like platformers
     Super Paper Mario:
         genres: []
         platforms: []
         release_year: null
+        sub-series: RPGs
 randomizers:
 -   games:
     - Super Mario Bros.
     identifier: Level-Headed
     url: https://github.com/Coolcord/Level-Headed
-    sub-series: 2D & 2D-like platformers
     added-date: 2024-05-25
     info-updated: 2024-05-25
 -   games:
     - Super Mario Bros. 2
     identifier: Door Randomizer
     url: https://github.com/pepperpow/smb2-door-randomizer
-    sub-series: 2D & 2D-like platformers
     added-date: 2024-05-25
     info-updated: 2024-05-25
 -   games:
     - Super Mario Bros. 2
     identifier: MaCobra52's
     url: https://github.com/macobra52/SMB2-Randomizer
-    sub-series: 2D & 2D-like platformers
     added-date: 2024-05-25
     info-updated: 2024-05-25
 -   games:
     - Super Mario Bros. 2
     identifier: tetraly's
     url: https://github.com/tetraly/smb2r
-    sub-series: 2D & 2D-like platformers
     added-date: 2024-05-25
     info-updated: 2024-05-25
 -   games:
     - Super Mario Bros. 3
     identifier: Fred Coughlin's
     url: https://sites.google.com/site/smb3randomizer/home
-    sub-series: 2D & 2D-like platformers
     added-date: 2024-05-25
     info-updated: 2024-05-25
 -   games:
     - Super Mario Bros. 3
     identifier: Route Randomizer
     url: https://github.com/CujoIHSV/SMB3RR/releases
-    sub-series: 2D & 2D-like platformers
     obsolete: true
     added-date: 2024-05-25
     info-updated: 2024-05-25
@@ -132,7 +145,6 @@ randomizers:
     - Super Mario Bros. 3
     identifier: ssjtroly's
     url: https://ssjtroly.github.io/smb3-nes-web-randomizer/
-    sub-series: 2D & 2D-like platformers
     added-date: 2024-05-25
     info-updated: 2024-05-25
 -   games:
@@ -146,7 +158,6 @@ randomizers:
     - Super Mario World
     identifier: authorblues's
     url: https://authorblues.github.io/smwrandomizer/
-    sub-series: 2D & 2D-like platformers
     added-date: 2024-05-25
     info-updated: 2024-05-25
 -   games:
@@ -154,42 +165,36 @@ randomizers:
     - Super Mario Land 2 DX (hack)
     identifier: dadinfinitum's
     url: https://sml2r.download/
-    sub-series: 2D & 2D-like platformers
     added-date: 2024-05-25
     info-updated: 2024-05-25
 -   games:
     - New Super Mario Bros. Wii
     identifier: HBroHei's
     url: https://hbrohei.github.io/NSMRWii/
-    sub-series: 2D & 2D-like platformers
     added-date: 2024-05-25
     info-updated: 2024-05-25
 -   games:
     - Super Mario Bros. Wonder
     identifier: MH13's
     url: https://github.com/MH13-YT/SMBW-Randomizer
-    sub-series: 2D & 2D-like platformers
     added-date: 2024-05-25
     info-updated: 2024-05-25
 -   games:
     - Super Mario 64
     identifier: aGlitch's
     url: https://github.com/aGlitch/Mario-64-Randomizer
-    sub-series: 3D platformers
     added-date: 2024-05-25
     info-updated: 2024-05-25
 -   games:
     - Super Mario 64
     identifier: Andre Meyer's
     url: https://github.com/andrelikesdogs/sm64-randomizer
-    sub-series: 3D platformers
     added-date: 2024-05-25
     info-updated: 2024-05-25
 -   games:
     - Super Mario 64
     identifier: Arthurtilly's
     url: https://romhacking.com/hack/sm64-randomizer
-    sub-series: 3D platformers
     added-date: 2024-05-25
     info-updated: 2024-05-25
 -   games:
@@ -204,7 +209,6 @@ randomizers:
     - Super Mario Galaxy 2
     identifier: thegreatwaluigi's
     url: https://www.youtube.com/watch?v=4xXHTxTe9i8
-    sub-series: 3D platformers
     comment: Located in video description
     added-date: 2024-05-25
     info-updated: 2024-05-25
@@ -212,7 +216,6 @@ randomizers:
     - Super Mario 3D World
     identifier: FullmetalHobbit's
     url: https://github.com/gtiersma/Spotlight-Randomizer
-    sub-series: 3D platformers
     comment: Also at <https://gamebanana.com/tools/10631>
     added-date: 2024-06-16
     info-updated: 2024-06-16
@@ -220,14 +223,12 @@ randomizers:
     - Mario Kart 64
     identifier: Seohaine's
     url: https://www.romhacking.net/hacks/6409/
-    sub-series: Racing
     added-date: 2024-05-25
     info-updated: 2024-05-25
 -   games:
     - 'Super Mario RPG: Legend of the Seven Stars'
     identifier: Gentle Beauty and Raw Power
     url: https://github.com/abyssonym/smrpg_gbarp
-    sub-series: RPGs
     obsolete: true
     added-date: 2024-05-25
     info-updated: 2024-05-25
@@ -235,21 +236,18 @@ randomizers:
     - 'Super Mario RPG: Legend of the Seven Stars'
     identifier: Open World
     url: https://randomizer.smrpgspeedruns.com/
-    sub-series: RPGs
     added-date: 2024-05-25
     info-updated: 2024-05-25
 -   games:
     - Super Mario RPG (Switch)
     identifier: ObsidianMaker's
     url: https://github.com/ObsidianMakerDevelopment/super-mario-rpg-switch-randomizer
-    sub-series: RPGs
     added-date: 2024-05-25
     info-updated: 2024-05-25
 -   games:
     - Paper Mario
     identifier: Black Pit
     url: https://www.youtube.com/watch?v=MWrXdQ_IiJw
-    sub-series: RPGs
     comment: Located in video description
     added-date: 2024-05-25
     info-updated: 2024-05-25
@@ -257,28 +255,24 @@ randomizers:
     - Paper Mario
     identifier: Icebound777, Clover and Pronyo's
     url: https://pm64randomizer.com/
-    sub-series: RPGs
     added-date: 2024-05-25
     info-updated: 2024-05-25
 -   games:
     - 'Paper Mario: The Thousand-Year Door'
     identifier: Infinite Pit
     url: https://github.com/jdaster64/ttyd-infinite-pit
-    sub-series: RPGs
     added-date: 2024-05-25
     info-updated: 2024-05-25
 -   games:
     - 'Paper Mario: The Thousand-Year Door'
     identifier: Shufflizer
     url: https://github.com/jdaster64/shufflizer
-    sub-series: RPGs
     added-date: 2024-05-25
     info-updated: 2024-05-25
 -   games:
     - 'Paper Mario: The Thousand-Year Door'
     identifier: Zephiles's Enemy HP and Item Drops Randomizers
     url: https://www.dropbox.com/s/twt9121mhzti9w3/Misc_Randomizers.zip?dl=0
-    sub-series: RPGs
     comment: Requires a cheat engine supporting Gecko codes
     added-date: 2024-05-25
     info-updated: 2024-05-25
@@ -286,7 +280,6 @@ randomizers:
     - 'Paper Mario: The Thousand-Year Door'
     identifier: Zephiles's Item and Loading Zones Randomizers
     url: https://www.speedrun.com/ttyd/resources
-    sub-series: RPGs
     comment: Located under Tools as Miscellaneous Cheat Codes
     added-date: 2024-05-25
     info-updated: 2024-05-25
@@ -294,14 +287,12 @@ randomizers:
     - Super Paper Mario
     identifier: Level Editor and Randomizer
     url: https://github.com/skawo/Super-Paper-Mario-Level-Editor-Randomizer
-    sub-series: RPGs
     added-date: 2024-05-25
     info-updated: 2024-05-25
 -   games:
     - 'Mario & Luigi: Superstar Saga'
     identifier: jamesbrq's
     url: https://github.com/jamesbrq/MLSSRandomizer
-    sub-series: RPGs
     added-date: 2024-05-25
     info-updated: 2024-05-25
 -   games:

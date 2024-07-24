@@ -10,6 +10,7 @@ games:
         genres: []
         platforms: []
         release_year: null
+        sub-series: Fangames
     AM2R (Metroid fangame):
         genres: []
         platforms: []
@@ -18,34 +19,42 @@ games:
         genres: []
         platforms: []
         release_year: null
+        sub-series: Super Metroid hacks
     Cliffhanger Redux:
         genres: []
         platforms: []
         release_year: null
+        sub-series: Super Metroid hacks
     Cryogenesis:
         genres: []
         platforms: []
         release_year: null
+        sub-series: Super Metroid hacks
     Digital Cube:
         genres: []
         platforms: []
         release_year: null
+        sub-series: Super Metroid hacks
     Eris:
         genres: []
         platforms: []
         release_year: null
+        sub-series: Super Metroid hacks
     Escape II:
         genres: []
         platforms: []
         release_year: null
+        sub-series: Super Metroid hacks
     Hyper Metroid:
         genres: []
         platforms: []
         release_year: null
+        sub-series: Super Metroid hacks
     Metroid:
         genres: []
         platforms: []
         release_year: null
+        sub-series: Main
     Metroid Dread:
         genres: []
         platforms: []
@@ -54,14 +63,17 @@ games:
         genres: []
         platforms: []
         release_year: null
+        sub-series: Main
     'Metroid II: Return of Samus':
         genres: []
         platforms: []
         release_year: null
+        sub-series: Main
     Metroid Prime:
         genres: []
         platforms: []
         release_year: null
+        sub-series: Prime
     'Metroid Prime 2: Echoes':
         genres: []
         platforms: []
@@ -70,14 +82,17 @@ games:
         genres: []
         platforms: []
         release_year: null
+        sub-series: Prime
     Metroid Prime Hunters:
         genres: []
         platforms: []
         release_year: null
+        sub-series: Prime
     Metroid The Threat Never Ends:
         genres: []
         platforms: []
         release_year: null
+        sub-series: Fangames
     'Metroid: Samus Returns':
         genres: []
         platforms: []
@@ -86,65 +101,78 @@ games:
         genres: []
         platforms: []
         release_year: null
+        sub-series: Super Metroid hacks
     'Metroid: Zero Mission':
         genres: []
         platforms: []
         release_year: null
+        sub-series: Main
     Nature:
         genres: []
         platforms: []
         release_year: null
+        sub-series: Super Metroid hacks
     Oxide:
         genres: []
         platforms: []
         release_year: null
+        sub-series: Super Metroid hacks
     Project Base:
         genres: []
         platforms: []
         release_year: null
+        sub-series: Super Metroid hacks
     Recovery:
         genres: []
         platforms: []
         release_year: null
+        sub-series: Super Metroid hacks
     Stardust:
         genres: []
         platforms: []
         release_year: null
+        sub-series: Super Metroid hacks
     Subversion:
         genres: []
         platforms: []
         release_year: null
+        sub-series: Super Metroid hacks
     Super Metroid:
         genres: []
         platforms: []
         release_year: null
+        sub-series: Main
     'Super Metroid: Golden Dawn':
         genres: []
         platforms: []
         release_year: null
+        sub-series: Super Metroid hacks
     'Super Metroid: Redesign':
         genres: []
         platforms: []
         release_year: null
+        sub-series: Super Metroid hacks
     Super Zero Mission:
         genres: []
         platforms: []
         release_year: null
+        sub-series: Super Metroid hacks
     "V\_I\_T\_A\_L\_I\_T\_Y":
         genres: []
         platforms: []
         release_year: null
+        sub-series: Super Metroid hacks
     Z-Factor:
         genres: []
         platforms: []
         release_year: null
+        sub-series: Super Metroid hacks
 randomizers:
 -   games:
     - Super Metroid
     identifier: Archipelago
     url: https://archipelago.gg/tutorial/#Super%20Metroid
     multiworld: Archipelago
-    sub-series: Main
     info-updated: 2024-05-25
     added-date: 2024-05-25
 -   games:
@@ -152,7 +180,6 @@ randomizers:
     identifier: SMZ3 Cas' Randomizer
     url: https://github.com/Vivelin/SMZ3Randomizer
     multiworld: Other
-    sub-series: Main
     info-updated: 2024-05-25
     added-date: 2024-05-25
 -   games:
@@ -160,7 +187,6 @@ randomizers:
     identifier: Super Metroid and A Link to the Past Crossover Randomizer
     url: https://samus.link/
     multiworld: Other
-    sub-series: Main
     comment: Super Metroid and A Link to the Past
     info-updated: 2024-05-25
     added-date: 2024-05-25
@@ -180,28 +206,24 @@ randomizers:
     identifier: Z1M1
     url: https://z1m1.info/
     multiworld: Other
-    sub-series: Main
     info-updated: 2024-05-25
     added-date: 2024-05-25
 -   games:
     - Metroid
     identifier: Metrandomizer
     url: https://www.romhacking.net/utilities/1437/
-    sub-series: Main
     info-updated: 2024-05-25
     added-date: 2024-05-25
 -   games:
     - Metroid
     identifier: Nestroid Randomizer
     url: https://www.romhacking.net/utilities/1257/
-    sub-series: Main
     info-updated: 2024-05-25
     added-date: 2024-05-25
 -   games:
     - Metroid
     identifier: Netsrotti's
     url: https://www.romhacking.net/utilities/1250/
-    sub-series: Main
     obsolete: true
     info-updated: 2024-05-25
     added-date: 2024-05-25
@@ -209,7 +231,6 @@ randomizers:
     - Metroid
     identifier: Planets
     url: https://forum.metroidconstruction.com/index.php/topic,4952.0.html
-    sub-series: Main
     comment: Fan recreation with bundled randomizer
     info-updated: 2024-05-25
     added-date: 2024-05-25
@@ -217,42 +238,36 @@ randomizers:
     - 'Metroid: Zero Mission'
     identifier: biospark's
     url: https://forum.metroidconstruction.com/index.php/topic,4559.0.html
-    sub-series: Main
     info-updated: 2024-05-25
     added-date: 2024-05-25
 -   games:
     - 'Metroid: Zero Mission'
     identifier: Quantum Deluxe Boogaloo
     url: https://forum.metroidconstruction.com/index.php/topic,2765.0.html
-    sub-series: Main
     info-updated: 2024-05-25
     added-date: 2024-05-25
 -   games:
     - 'Metroid II: Return of Samus'
     identifier: liamnajor's
     url: https://liamnajor.github.io/Metroid-2-Randomizer/
-    sub-series: Main
     info-updated: 2024-05-25
     added-date: 2024-05-25
 -   games:
     - Super Metroid
     identifier: Arcade
     url: https://metroidconstruction.com/hack.php?id=357
-    sub-series: Main
     info-updated: 2024-05-25
     added-date: 2024-05-25
 -   games:
     - Super Metroid
     identifier: DASH
     url: https://www.dashrando.net/
-    sub-series: Main
     info-updated: 2024-05-25
     added-date: 2024-05-25
 -   games:
     - Super Metroid
     identifier: Dessyreqt's
     url: https://github.com/Dessyreqt/smrandomizer
-    sub-series: Main
     obsolete: true
     info-updated: 2024-05-25
     added-date: 2024-05-25
@@ -260,7 +275,6 @@ randomizers:
     - Super Metroid
     identifier: Door Randomizer
     url: https://web.archive.org/web/20201113040706/https://archive.codeplex.com/?p=smdoor
-    sub-series: Main
     comment: Extract `/releases/1/a60245ee-c346-4473-9cc9-2f19ae1e1095` from the archive
         and rename it to its original file name `SuperMetroidDoor0.3a.rar` to use
     info-updated: 2024-05-25
@@ -269,7 +283,6 @@ randomizers:
     - Super Metroid
     identifier: Item Randomizer
     url: https://itemrando.supermetroid.run/
-    sub-series: Main
     obsolete: true
     info-updated: 2024-05-25
     added-date: 2024-05-25
@@ -277,28 +290,24 @@ randomizers:
     - Super Metroid
     identifier: Item Randomizer Multiworld
     url: https://sm.samus.link/
-    sub-series: Main
     info-updated: 2024-05-25
     added-date: 2024-05-25
 -   games:
     - Super Metroid
     identifier: Map Rando
     url: https://maprando.com/
-    sub-series: Main
     info-updated: 2024-05-25
     added-date: 2024-05-25
 -   games:
     - Super Metroid
     identifier: Route Randomizer
     url: https://metroidconstruction.com/resource.php?id=102
-    sub-series: Main
     info-updated: 2024-05-25
     added-date: 2024-05-25
 -   games:
     - Super Metroid
     identifier: VARIA
     url: https://randommetroidsolver.pythonanywhere.com/
-    sub-series: Main
     comment: Conversion tool to [randomize Rotation (Super Metroid hack)](https://strotlog.github.io/randoxrotation/)
     info-updated: 2024-05-25
     added-date: 2024-05-25
@@ -306,21 +315,18 @@ randomizers:
     - Super Metroid
     identifier: World Randomizer
     url: https://worldrandomizer.com/
-    sub-series: Main
     info-updated: 2024-05-25
     added-date: 2024-05-25
 -   games:
     - Metroid Fusion
     identifier: MFOR
     url: https://forum.metroidconstruction.com/index.php?topic=5376.0
-    sub-series: Main
     info-updated: 2024-05-25
     added-date: 2024-05-25
 -   games:
     - Metroid Prime
     identifier: BashPrime's
     url: https://github.com/BashPrime/metroid-prime-randomizer
-    sub-series: Prime
     obsolete: true
     info-updated: 2024-05-25
     added-date: 2024-05-25
@@ -328,7 +334,6 @@ randomizers:
     - Metroid Prime
     identifier: Metroid Prime Seed Generator
     url: https://github.com/EthanArmbrust/new-prime-seed-generator
-    sub-series: Prime
     obsolete: true
     comment: Requires [Claris's Randomizer v3.2](https://www.dropbox.com/s/s9nomgf5few8kyv/Randomizer.zip?dl=0)
         which may generate unwinnable games by itself
@@ -338,7 +343,6 @@ randomizers:
     - 'Metroid Prime 3: Corruption'
     identifier: gollop's
     url: https://discord.com/invite/WWGcay6
-    sub-series: Prime
     comment: 'Discord account required - Located in the #corruption-general channel'
     info-updated: 2024-05-25
     added-date: 2024-05-25
@@ -346,21 +350,18 @@ randomizers:
     - Metroid Prime Hunters
     identifier: toiletman74's
     url: https://github.com/toiletman74/MPHrandomizer
-    sub-series: Prime
     info-updated: 2024-05-25
     added-date: 2024-05-25
 -   games:
     - Hyper Metroid
     identifier: Item Randomizer
     url: https://github.com/Galamoz/HyperMetroidRandomizer
-    sub-series: Super Metroid hacks
     info-updated: 2024-05-25
     added-date: 2024-05-25
 -   games:
     - Project Base
     identifier: Item Randomizer
     url: https://github.com/Galamoz/ProjectBaseRandomizer
-    sub-series: Super Metroid hacks
     info-updated: 2024-05-25
     added-date: 2024-05-25
 -   games:
@@ -382,7 +383,6 @@ randomizers:
     - 'Super Metroid: Golden Dawn'
     identifier: ironrusty's
     url: https://randorandy.github.io/
-    sub-series: Super Metroid hacks
     comment: '[Source code for the Subversion randomizer](https://github.com/SubversionRando/SubversionRando)
         - [Source code for the other randomizers](https://github.com/randorandy?tab=repositories)'
     info-updated: 2024-05-25
@@ -391,14 +391,12 @@ randomizers:
     - Z-Factor
     identifier: Item Randomizer
     url: https://github.com/Galamoz/Z-Factor-ItemRandomizer
-    sub-series: Super Metroid hacks
     info-updated: 2024-05-25
     added-date: 2024-05-25
 -   games:
     - AM2R
     identifier: Community Updates
     url: https://www.reddit.com/r/AM2R/
-    sub-series: Fangames
     comment: Fan updates with randomizer in pinned post - Unlock Random Game+ by either
         beating the game under 4 hours on Normal or Hard difficulty, or by entering
         cheat code \[UP]\[UP]\[DOWN]\[DOWN]\[LEFT]\[RIGHT]\[LEFT]\[RIGHT]\[ACCEPT]\[BACK]
@@ -409,6 +407,5 @@ randomizers:
     - Metroid The Threat Never Ends
     identifier: DodoBirby's
     url: https://github.com/DodoBirby/MTTNE-Randomiser
-    sub-series: Fangames
     info-updated: 2024-05-25
     added-date: 2024-05-25
