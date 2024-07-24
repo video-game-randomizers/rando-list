@@ -88,7 +88,6 @@ def randomizer_schema(data):
                 "default": None
             },
             "obsolete": {"type": "boolean"},
-            "sub-series": ValidString,
             "discord": ValidString,
             "community": ValidString,
             "contact": ValidString,
@@ -96,17 +95,15 @@ def randomizer_schema(data):
             "info-updated": {}, # when we update our info, but we don't keep track of when the randomizers receive patches/new versions
             "opensource": {"type": "boolean"},
         },
-        "required": ["games", "identifier", "url", "info-updated", "added-date"],
+        "required": ["games", "identifier", "url", "info-updated", "added-date", "opensource"],
         "additionalProperties": False,
     }
-    # new requirements can be checked by the added-date and info-updated dates
+    # new requirements can be removed if the info-updated is too old
     updated = data.get('info-updated')
-    if not updated:
-        return ret
-    if updated >= date(2024, 6, 19):
-        ret['required'].append('opensource')
-    if updated >= date(2024, 8, 1):
-        ret['properties'].pop('sub-series') # deprecated, moving to games_schema, still need to fix html template to support both
+    if updated < date(2024, 6, 19):
+        ret['required'].remove('opensource')
+    if updated < date(2024, 8, 1):
+        ret['properties']['sub-series'] = ValidString # deprecated, moving to games_schema
     return ret
 
 def series_schema(data):
