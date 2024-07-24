@@ -7,22 +7,22 @@
     {%- assign series_data=series[1] -%}
 
     {%- for rando in series_data.randomizers -%}
-        {%- assign updated = rando.info-updated | date: '%s' -%}
-        {%- if rando.info-updated == null or updated < old -%}
+        {%- assign updated = rando.updated-date | date: '%s' -%}
+        {%- if rando.updated-date == null or updated < old -%}
             {%- continue -%}
         {%- endif -%}
         {%- assign randos = randos | push: rando -%}
     {%- endfor -%}
 {%- endfor -%}
 
-{%- assign randos = randos | sort_natural: "info-updated" | reverse -%}
+{%- assign randos = randos | sort_natural: "updated-date" | reverse -%}
 {%- assign prev_updated = "" -%}
 
 <ul class="recents-list list-group list-group-flush">
 {%- for rando in randos -%}
     <li class="list-group-item">
-    {%- if prev_updated != rando.info-updated -%}
-    {%- assign prev_updated = rando.info-updated -%}
+    {%- if prev_updated != rando.updated-date -%}
+    {%- assign prev_updated = rando.updated-date -%}
         <h3>Updated {{ prev_updated }}</h3>
     {%- endif -%}
     
