@@ -15,58 +15,59 @@
     },
     "sub-series": {
       "description": "IDs belonging to distinct subsets of the games in the series.",
-      "type": "string"
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
     },
     "games": {
       "description": "Games belonging to this series",
-      "type": "array",
-      "items": {
-        "type": "object",
-        "patternProperties": {
-          ".": {
-            "type": "object",
-            "properties": {
-              "genres": {
-                "type": "array",
-                "items": {
-                  "type": "string",
-                  "enum": ["Adventure", "RPG", "Platformer", "Shooter", "Strategy", "Puzzle", "Survival"]
-                }
-              },
-              "platforms": {
-                "type": "array",
-                "items": {
-                    "type": "string",
-                    "enum": [
-                      "PC",
-                      "NES", "SNES", "N64", "GameCube", "Wii", "Wii U", "Switch",
-                      "GameBoy", "GBA", "DS", "3DS",
-                      "Master System", "Genesis", "Saturn", "Dreamcast",
-                      "PS1", "PS2", "PS3", "PS4", "PS5",
-                      "PSP", "Vita",
-                      "Xbox", "Xbox 360", "Xbox One", "Xbox Series",
-                      "Arcade", "MSX"
-                    ]
-                }
-              },
-              "release-date": {
+      "type": "object",
+      "patternProperties": {
+        ".": {
+          "type": "object",
+          "description": "Game",
+          "properties": {
+            "genres": {
+              "type": "array",
+              "items": {
                 "type": "string",
-                "format": "date"
-              },
-              "sub-series": {
-                "type": "string",
-                "description": "Key described in Series"
-              },
-              "comment": {
-                "type": "string",
-                "description": "An optional game description formatted with Markdown"
+                "enum": ["Adventure", "RPG", "Platformer", "Shooter", "Strategy", "Puzzle", "Survival"]
               }
             },
-            "required": [
-              "genres",
-              "platforms"
-            ]
-          }
+            "platforms": {
+              "type": "array",
+              "items": {
+                  "type": "string",
+                  "enum": [
+                    "PC",
+                    "NES", "SNES", "N64", "GameCube", "Wii", "Wii U", "Switch",
+                    "GameBoy", "GBA", "DS", "3DS",
+                    "Master System", "Genesis", "Saturn", "Dreamcast",
+                    "PS1", "PS2", "PS3", "PS4", "PS5",
+                    "PSP", "Vita",
+                    "Xbox", "Xbox 360", "Xbox One", "Xbox Series",
+                    "Arcade", "MSX"
+                  ]
+              }
+            },
+            "release-date": {
+              "type": "string",
+              "format": "date"
+            },
+            "sub-series": {
+              "type": "string",
+              "description": "Key described in Series"
+            },
+            "comment": {
+              "type": "string",
+              "description": "An optional game description formatted with Markdown"
+            }
+          },
+          "required": [
+            "genres",
+            "platforms"
+          ]
         }
       }
     },
