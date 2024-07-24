@@ -1,10 +1,11 @@
 name: Bat Boy
-comment: ''
-sub-series: []
+comment: null
+sub-series: null
 games:
     Bat Boy (Demo):
         genres: []
         platforms: []
+        release_year: null
 randomizers:
 -   games:
     - Bat Boy (Demo)
@@ -12,5 +13,5 @@ randomizers:
     url: https://github.com/alwaysintreble/Archipelago.BatBoy
     comment: Requires [Archipelago](https://archipelago.gg/)
     multiworld: Archipelago
-    updated-date: 1900-01-01
-    added-date: 1900-01-01
+    info-updated: 2024-05-25
+    added-date: 2024-05-25

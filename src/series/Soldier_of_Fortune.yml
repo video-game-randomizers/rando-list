@@ -1,14 +1,15 @@
 name: Soldier of Fortune
-comment: ''
-sub-series: []
+comment: null
+sub-series: null
 games:
     'Soldier of Fortune II: Double Helix - Gold Edition':
         genres: []
         platforms: []
+        release_year: null
 randomizers:
 -   games:
     - 'Soldier of Fortune II: Double Helix - Gold Edition'
     identifier: RMG Expansion and SP Tweaks Mod
     url: https://www.moddb.com/mods/sof2-rmg-expansion-and-sp-tweaks-mod
-    updated-date: 1900-01-01
-    added-date: 1900-01-01
+    info-updated: 2024-05-25
+    added-date: 2024-05-25

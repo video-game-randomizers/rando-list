@@ -1,14 +1,15 @@
 name: Homeworld
-comment: ''
-sub-series: []
+comment: null
+sub-series: null
 games:
     Homeworld 2:
         genres: []
         platforms: []
+        release_year: null
 randomizers:
 -   games:
     - Homeworld 2
     identifier: Capturable Fleets Mod
     url: https://www.moddb.com/mods/capturable-fleets-mod
-    updated-date: 1900-01-01
-    added-date: 1900-01-01
+    info-updated: 2024-05-25
+    added-date: 2024-05-25

@@ -1,14 +1,15 @@
 name: The Little Mermaid
-comment: ''
-sub-series: []
+comment: null
+sub-series: null
 games:
     The Little Mermaid:
         genres: []
         platforms: []
+        release_year: null
 randomizers:
 -   games:
     - The Little Mermaid
     identifier: Micheil Skeens's
     url: https://micheilskeens.com/little-mermaid-randomizer.php
-    updated-date: 1900-01-01
-    added-date: 1900-01-01
+    info-updated: 2024-05-25
+    added-date: 2024-05-25

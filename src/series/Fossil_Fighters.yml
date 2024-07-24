@@ -1,23 +1,25 @@
 name: Fossil Fighters
-comment: ''
-sub-series: []
+comment: null
+sub-series: null
 games:
     Fossil Fighters:
         genres: []
         platforms: []
+        release_year: null
     'Fossil Fighters: Champions':
         genres: []
         platforms: []
+        release_year: null
 randomizers:
 -   games:
     - Fossil Fighters
     identifier: opiter09's
     url: https://github.com/opiter09/Fossil-Fighters-Randomizer
-    updated-date: 1900-01-01
-    added-date: 1900-01-01
+    info-updated: 2024-05-25
+    added-date: 2024-05-25
 -   games:
     - 'Fossil Fighters: Champions'
     identifier: opiter09's
     url: https://github.com/opiter09/Fossil-Fighters-Champions-Randomizer
-    updated-date: 1900-01-01
-    added-date: 1900-01-01
+    info-updated: 2024-05-25
+    added-date: 2024-05-25

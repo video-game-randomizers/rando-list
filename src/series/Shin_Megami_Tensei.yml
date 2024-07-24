@@ -1,32 +1,35 @@
 name: Shin Megami Tensei
-comment: ''
-sub-series: []
+comment: null
+sub-series: null
 games:
     Shin Megami Tensei:
         genres: []
         platforms: []
+        release_year: null
     'Shin Megami Tensei III: Nocturne':
         genres: []
         platforms: []
+        release_year: null
     'Shin Megami Tensei: Strange Journey':
         genres: []
         platforms: []
+        release_year: null
 randomizers:
 -   games:
     - Shin Megami Tensei
     identifier: spannerisms's
     url: https://github.com/spannerisms/smt1rando
-    updated-date: 1900-01-01
-    added-date: 1900-01-01
+    info-updated: 2024-05-25
+    added-date: 2024-05-25
 -   games:
     - 'Shin Megami Tensei III: Nocturne'
     identifier: NMarkro's
     url: https://github.com/nmarkro/Nocturne-Randomizer
-    updated-date: 1900-01-01
-    added-date: 1900-01-01
+    info-updated: 2024-05-25
+    added-date: 2024-05-25
 -   games:
     - 'Shin Megami Tensei: Strange Journey'
     identifier: Disaster Cycle
     url: https://github.com/abyssonym/disastercycle
-    updated-date: 1900-01-01
-    added-date: 1900-01-01
+    info-updated: 2024-05-25
+    added-date: 2024-05-25

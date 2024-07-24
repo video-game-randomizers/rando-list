@@ -1,14 +1,15 @@
 name: Ogre
-comment: ''
-sub-series: []
+comment: null
+sub-series: null
 games:
     'Ogre Battle: The March of the Black Queen':
         genres: []
         platforms: []
+        release_year: null
 randomizers:
 -   games:
     - 'Ogre Battle: The March of the Black Queen'
     identifier: spellzapp's
     url: https://www.ogrebattlerandomizer.com/
-    updated-date: 1900-01-01
-    added-date: 1900-01-01
+    info-updated: 2024-05-25
+    added-date: 2024-05-25

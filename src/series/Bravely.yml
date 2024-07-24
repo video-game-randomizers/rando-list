@@ -1,27 +1,30 @@
 name: Bravely
-comment: ''
-sub-series: []
+comment: null
+sub-series: null
 games:
     Bravely Default:
         genres: []
         platforms: []
+        release_year: null
     Bravely Default II:
         genres: []
         platforms: []
+        release_year: null
     'Bravely Second: End Layer':
         genres: []
         platforms: []
+        release_year: null
 randomizers:
 -   games:
     - Bravely Default
     - 'Bravely Second: End Layer'
     identifier: MarvinXLII's
     url: https://github.com/MarvinXLII/BravelyRandomize
-    updated-date: 1900-01-01
-    added-date: 1900-01-01
+    info-updated: 2024-05-25
+    added-date: 2024-05-25
 -   games:
     - Bravely Default II
     identifier: MarvinXLII's
     url: https://github.com/MarvinXLII/BravelyRandomize2
-    updated-date: 1900-01-01
-    added-date: 1900-01-01
+    info-updated: 2024-05-25
+    added-date: 2024-05-25

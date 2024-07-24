@@ -1,14 +1,15 @@
 name: Monster Rancher
-comment: ''
-sub-series: []
+comment: null
+sub-series: null
 games:
     Monster Rancher 2:
         genres: []
         platforms: []
+        release_year: null
 randomizers:
 -   games:
     - Monster Rancher 2
     identifier: Seasonal Shrine
     url: https://www.romhacking.net/hacks/3482/
-    updated-date: 1900-01-01
-    added-date: 1900-01-01
+    info-updated: 2024-05-25
+    added-date: 2024-05-25

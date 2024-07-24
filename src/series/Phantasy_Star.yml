@@ -1,29 +1,31 @@
 name: Phantasy Star
-comment: ''
-sub-series: []
+comment: null
+sub-series: null
 games:
     Phantasy Star II:
         genres: []
         platforms: []
+        release_year: null
     'Phantasy Star IV: The End of the Millennium':
         genres: []
         platforms: []
+        release_year: null
 randomizers:
 -   games:
     - Phantasy Star II
     identifier: LadyStarbird's
     url: https://github.com/MrStarbird/PSII-Randomizer/releases
-    updated-date: 1900-01-01
-    added-date: 1900-01-01
+    info-updated: 2024-05-25
+    added-date: 2024-05-25
 -   games:
     - 'Phantasy Star IV: The End of the Millennium'
     identifier: LadyStarbird's, 2018
     url: https://github.com/MrStarbird/PStar4-Randomizer
-    updated-date: 1900-01-01
-    added-date: 1900-01-01
+    info-updated: 2024-05-25
+    added-date: 2024-05-25
 -   games:
     - 'Phantasy Star IV: The End of the Millennium'
     identifier: Profound Disorder
     url: https://sites.google.com/view/ps4-pd/home
-    updated-date: 1900-01-01
-    added-date: 1900-01-01
+    info-updated: 2024-05-25
+    added-date: 2024-05-25

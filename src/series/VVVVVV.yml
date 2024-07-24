@@ -1,15 +1,16 @@
 name: VVVVVV
-comment: ''
-sub-series: []
+comment: null
+sub-series: null
 games:
     VVVVVV:
         genres: []
         platforms: []
+        release_year: null
 randomizers:
 -   games:
     - VVVVVV
     identifier: Archipelago
     url: https://archipelago.gg/tutorial/#VVVVVV
     multiworld: Archipelago
-    updated-date: 1900-01-01
-    added-date: 1900-01-01
+    info-updated: 2024-05-25
+    added-date: 2024-05-25

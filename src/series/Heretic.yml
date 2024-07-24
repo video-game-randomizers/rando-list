@@ -1,13 +1,15 @@
 name: Heretic
-comment: ''
-sub-series: []
+comment: null
+sub-series: null
 games:
     Heretic:
         genres: []
         platforms: []
+        release_year: null
     'Hexen: Beyond Heretic':
         genres: []
         platforms: []
+        release_year: null
 randomizers:
 -   games:
     - Heretic
@@ -15,29 +17,29 @@ randomizers:
     identifier: CustomDoom
     url: https://forum.zdoom.org/viewtopic.php?f=45&t=51446
     obsolete: true
-    updated-date: 1900-01-01
-    added-date: 1900-01-01
+    info-updated: 2024-05-25
+    added-date: 2024-05-25
 -   games:
     - Heretic
     - 'Hexen: Beyond Heretic'
     identifier: Universal Custom Doom
     url: https://forum.zdoom.org/viewtopic.php?f=43&t=64678
-    updated-date: 1900-01-01
-    added-date: 1900-01-01
+    info-updated: 2024-05-25
+    added-date: 2024-05-25
 -   games:
     - Heretic
     - 'Hexen: Beyond Heretic'
     identifier: Universal Entropy
     url: https://www.moddb.com/mods/universal-entropy
-    updated-date: 1900-01-01
-    added-date: 1900-01-01
+    info-updated: 2024-05-25
+    added-date: 2024-05-25
 -   games:
     - Heretic
     - 'Hexen: Beyond Heretic'
     identifier: OBSIDIAN
     url: https://obsidian-level-maker.github.io/index.html
-    updated-date: 1900-01-01
-    added-date: 1900-01-01
+    info-updated: 2024-05-25
+    added-date: 2024-05-25
 -   games:
     - Heretic
     identifier: OBLIGE
@@ -48,25 +50,25 @@ randomizers:
         for [Brutal Doom (mod)](https://gitlab.com/CloudOfShame/BrutalOblige) - Version
         4.28 also supported [Hexen: Beyond Heretic / Quake / Quake II](https://sourceforge.net/projects/oblige/files/Oblige/4.28/)
         - Version 0.97 also had experimental support for [Wolfenstein 3D](https://sourceforge.net/projects/oblige/files/Oblige/0.97/)'
-    updated-date: 1900-01-01
-    added-date: 1900-01-01
+    info-updated: 2024-05-25
+    added-date: 2024-05-25
 -   games:
     - Heretic
     identifier: ObHack
     url: https://samiam.org/obhack/
     obsolete: true
-    updated-date: 1900-01-01
-    added-date: 1900-01-01
+    info-updated: 2024-05-25
+    added-date: 2024-05-25
 -   games:
     - Heretic
     identifier: MOShuffle
     url: https://forum.zdoom.org/viewtopic.php?f=43&t=72760
-    updated-date: 1900-01-01
-    added-date: 1900-01-01
+    info-updated: 2024-05-25
+    added-date: 2024-05-25
 -   games:
     - Heretic
     identifier: Archipelago
     url: https://archipelago.gg/tutorial/#Heretic
     multiworld: Archipelago
-    updated-date: 1900-01-01
-    added-date: 1900-01-01
+    info-updated: 2024-05-25
+    added-date: 2024-05-25

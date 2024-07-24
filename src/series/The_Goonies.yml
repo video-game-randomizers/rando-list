@@ -1,21 +1,22 @@
 name: The Goonies
-comment: ''
-sub-series: []
+comment: null
+sub-series: null
 games:
     The Goonies II:
         genres: []
         platforms: []
+        release_year: null
 randomizers:
 -   games:
     - The Goonies II
     identifier: Netsrotti's
     url: https://www.romhacking.net/utilities/1247/
     obsolete: true
-    updated-date: 1900-01-01
-    added-date: 1900-01-01
+    info-updated: 2024-05-25
+    added-date: 2024-05-25
 -   games:
     - The Goonies II
     identifier: Veetorp's
     url: https://goonies2r.com/en
-    updated-date: 1900-01-01
-    added-date: 1900-01-01
+    info-updated: 2024-05-25
+    added-date: 2024-05-25

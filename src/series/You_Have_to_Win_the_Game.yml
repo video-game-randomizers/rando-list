@@ -1,14 +1,15 @@
 name: You Have to Win the Game
-comment: ''
-sub-series: []
+comment: null
+sub-series: null
 games:
     You Have to Win the Game:
         genres: []
         platforms: []
+        release_year: null
 randomizers:
 -   games:
     - You Have to Win the Game
     identifier: ZZKer's
     url: https://github.com/ZZKer/YHtWtG-Randomizer
-    updated-date: 1900-01-01
-    added-date: 1900-01-01
+    info-updated: 2024-05-25
+    added-date: 2024-05-25

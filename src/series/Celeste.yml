@@ -1,24 +1,26 @@
 name: Celeste
-comment: ''
-sub-series: []
+comment: null
+sub-series: null
 games:
     Celeste:
         genres: []
         platforms: []
+        release_year: null
     'Celeste 64: Fragments of the Mountain':
         genres: []
         platforms: []
+        release_year: null
 randomizers:
 -   games:
     - Celeste
     identifier: rhelmot's
     url: https://github.com/rhelmot/CelesteRandomizer
-    updated-date: 1900-01-01
-    added-date: 1900-01-01
+    info-updated: 2024-05-25
+    added-date: 2024-05-25
 -   games:
     - 'Celeste 64: Fragments of the Mountain'
     identifier: Archipelago
     url: https://archipelago.gg/games/Celeste%2064/info/en
     multiworld: Archipelago
-    updated-date: 1900-01-01
-    added-date: 1900-01-01
+    info-updated: 2024-05-25
+    added-date: 2024-05-25

@@ -1,40 +1,41 @@
 name: Subnautica
-comment: ''
-sub-series: []
+comment: null
+sub-series: null
 games:
     Subnautica:
         genres: []
         platforms: []
+        release_year: null
 randomizers:
 -   games:
     - Subnautica
     identifier: Aci's Drop Randomizer Challenge
     url: https://www.nexusmods.com/subnautica/mods/1230
-    updated-date: 1900-01-01
-    added-date: 1900-01-01
+    info-updated: 2024-05-25
+    added-date: 2024-05-25
 -   games:
     - Subnautica
     identifier: Randomizer Remade
     url: https://www.nexusmods.com/subnautica/mods/764
-    updated-date: 1900-01-01
-    added-date: 1900-01-01
+    info-updated: 2024-05-25
+    added-date: 2024-05-25
 -   games:
     - Subnautica
     identifier: Stephen England's
     url: https://www.nexusmods.com/subnautica/mods/309
     obsolete: true
-    updated-date: 1900-01-01
-    added-date: 1900-01-01
+    info-updated: 2024-05-25
+    added-date: 2024-05-25
 -   games:
     - Subnautica
     identifier: Transition Randomiser
     url: https://www.nexusmods.com/subnautica/mods/960
-    updated-date: 1900-01-01
-    added-date: 1900-01-01
+    info-updated: 2024-05-25
+    added-date: 2024-05-25
 -   games:
     - Subnautica
     identifier: Archipelago
     url: https://archipelago.gg/tutorial/#Subnautica
     multiworld: Archipelago
-    updated-date: 1900-01-01
-    added-date: 1900-01-01
+    info-updated: 2024-05-25
+    added-date: 2024-05-25

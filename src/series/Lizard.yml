@@ -1,14 +1,15 @@
 name: Lizard
-comment: ''
-sub-series: []
+comment: null
+sub-series: null
 games:
     Lizard:
         genres: []
         platforms: []
+        release_year: null
 randomizers:
 -   games:
     - Lizard
     identifier: Official
     url: https://rainwarrior.ca/lizard/lizard_of_random.html
-    updated-date: 1900-01-01
-    added-date: 1900-01-01
+    info-updated: 2024-05-25
+    added-date: 2024-05-25

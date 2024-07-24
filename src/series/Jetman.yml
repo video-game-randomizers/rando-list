@@ -1,14 +1,15 @@
 name: Jetman
-comment: ''
-sub-series: []
+comment: null
+sub-series: null
 games:
     Solar Jetman:
         genres: []
         platforms: []
+        release_year: null
 randomizers:
 -   games:
     - Solar Jetman
     identifier: Niamek's
     url: https://github.com/GB127/SJ-rando
-    updated-date: 1900-01-01
-    added-date: 1900-01-01
+    info-updated: 2024-05-25
+    added-date: 2024-05-25

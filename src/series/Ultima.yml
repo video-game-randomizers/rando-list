@@ -1,32 +1,35 @@
 name: Ultima
-comment: ''
-sub-series: []
+comment: null
+sub-series: null
 games:
     'Ultima IV: Quest of the Avatar (NES)':
         genres: []
         platforms: []
+        release_year: null
     'Ultima IV: Quest of the Avatar (PC)':
         genres: []
         platforms: []
+        release_year: null
     'Ultima VI: The False Prophet (Super NES)':
         genres: []
         platforms: []
+        release_year: null
 randomizers:
 -   games:
     - 'Ultima IV: Quest of the Avatar (PC)'
     identifier: Fenyx4's
     url: https://github.com/Fenyx4/U4DosRandomizer
-    updated-date: 1900-01-01
-    added-date: 1900-01-01
+    info-updated: 2024-05-25
+    added-date: 2024-05-25
 -   games:
     - 'Ultima IV: Quest of the Avatar (NES)'
     identifier: Gilmok's
     url: https://github.com/Gilmok/U4Rando/
-    updated-date: 1900-01-01
-    added-date: 1900-01-01
+    info-updated: 2024-05-25
+    added-date: 2024-05-25
 -   games:
     - 'Ultima VI: The False Prophet (Super NES)'
     identifier: squibbons's
     url: https://arya-iwakura.github.io/Ultima6Randomizer/
-    updated-date: 1900-01-01
-    added-date: 1900-01-01
+    info-updated: 2024-05-25
+    added-date: 2024-05-25

@@ -1,21 +1,22 @@
 name: Landstalker
-comment: ''
-sub-series: []
+comment: null
+sub-series: null
 games:
     'Landstalker: The Treasures of King Nole':
         genres: []
         platforms: []
+        release_year: null
 randomizers:
 -   games:
     - 'Landstalker: The Treasures of King Nole'
     identifier: Randstalker
     url: https://randstalker.ovh/
-    updated-date: 1900-01-01
-    added-date: 1900-01-01
+    info-updated: 2024-05-25
+    added-date: 2024-05-25
 -   games:
     - 'Landstalker: The Treasures of King Nole'
     identifier: Archipelago
     url: https://archipelago.gg/tutorial/#Landstalker%20-%20The%20Treasures%20of%20King%20Nole
     multiworld: Archipelago
-    updated-date: 1900-01-01
-    added-date: 1900-01-01
+    info-updated: 2024-05-25
+    added-date: 2024-05-25

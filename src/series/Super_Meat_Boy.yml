@@ -1,14 +1,15 @@
 name: Super Meat Boy
-comment: ''
-sub-series: []
+comment: null
+sub-series: null
 games:
     Super Meat Boy:
         genres: []
         platforms: []
+        release_year: null
 randomizers:
 -   games:
     - Super Meat Boy
     identifier: negative-seven
     url: https://github.com/negative-seven/smb-randomizer
-    updated-date: 1900-01-01
-    added-date: 1900-01-01
+    info-updated: 2024-05-25
+    added-date: 2024-05-25

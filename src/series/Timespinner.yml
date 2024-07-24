@@ -1,21 +1,22 @@
 name: Timespinner
-comment: ''
-sub-series: []
+comment: null
+sub-series: null
 games:
     Timespinner:
         genres: []
         platforms: []
+        release_year: null
 randomizers:
 -   games:
     - Timespinner
     identifier: Jarno's
     url: https://github.com/Jarno458/TsRandomizer
-    updated-date: 1900-01-01
-    added-date: 1900-01-01
+    info-updated: 2024-05-25
+    added-date: 2024-05-25
 -   games:
     - Timespinner
     identifier: Archipelago
     url: https://archipelago.gg/tutorial/#Timespinner
     multiworld: Archipelago
-    updated-date: 1900-01-01
-    added-date: 1900-01-01
+    info-updated: 2024-05-25
+    added-date: 2024-05-25

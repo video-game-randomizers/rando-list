@@ -1,15 +1,16 @@
 name: Code Vein
-comment: ''
-sub-series: []
+comment: null
+sub-series: null
 games:
     Code Vein:
         genres: []
         platforms: []
+        release_year: null
 randomizers:
 -   games:
     - Code Vein
     identifier: Party Randomizer 2
     url: https://www.nexusmods.com/codevein/mods/409
     comment: Description in [old standalone version](https://www.nexusmods.com/codevein/mods/396)
-    updated-date: 1900-01-01
-    added-date: 1900-01-01
+    info-updated: 2024-05-25
+    added-date: 2024-05-25

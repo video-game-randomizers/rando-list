@@ -1,152 +1,158 @@
 name: The Elder Scrolls
-comment: ''
-sub-series: []
+comment: null
+sub-series: null
 games:
     'OpenMW (The Elder Scrolls III: Morrowind open source port)':
         genres: []
         platforms: []
+        release_year: null
     'The Elder Scrolls III: Morrowind':
         genres: []
         platforms: []
+        release_year: null
     'The Elder Scrolls IV: Oblivion':
         genres: []
         platforms: []
+        release_year: null
     'The Elder Scrolls V: Skyrim':
         genres: []
         platforms: []
+        release_year: null
     'The Elder Scrolls V: Skyrim Special Edition':
         genres: []
         platforms: []
+        release_year: null
     'The Elder Scrolls V: Skyrim VR':
         genres: []
         platforms: []
+        release_year: null
 randomizers:
 -   games:
     - 'The Elder Scrolls III: Morrowind'
     identifier: 4NM_Randomizer
     url: https://www.nexusmods.com/morrowind/mods/47306
-    updated-date: 1900-01-01
-    added-date: 1900-01-01
+    info-updated: 2024-05-25
+    added-date: 2024-05-25
 -   games:
     - 'The Elder Scrolls III: Morrowind'
     identifier: Door Randomizer
     url: https://www.nexusmods.com/morrowind/mods/48632
-    updated-date: 1900-01-01
-    added-date: 1900-01-01
+    info-updated: 2024-05-25
+    added-date: 2024-05-25
 -   games:
     - 'The Elder Scrolls III: Morrowind'
     identifier: DRIP
     url: https://www.nexusmods.com/morrowind/mods/51242
-    updated-date: 1900-01-01
-    added-date: 1900-01-01
+    info-updated: 2024-05-25
+    added-date: 2024-05-25
 -   games:
     - 'The Elder Scrolls III: Morrowind'
     identifier: mort's
     url: https://www.nexusmods.com/morrowind/mods/44989
-    updated-date: 1900-01-01
-    added-date: 1900-01-01
+    info-updated: 2024-05-25
+    added-date: 2024-05-25
 -   games:
     - 'OpenMW (The Elder Scrolls III: Morrowind open source port)'
     identifier: Fancy Door Randomizer
     url: https://www.nexusmods.com/morrowind/mods/53455
-    updated-date: 1900-01-01
-    added-date: 1900-01-01
+    info-updated: 2024-05-25
+    added-date: 2024-05-25
 -   games:
     - 'OpenMW (The Elder Scrolls III: Morrowind open source port)'
     identifier: World Randomizer
     url: https://www.nexusmods.com/morrowind/mods/53454
-    updated-date: 1900-01-01
-    added-date: 1900-01-01
+    info-updated: 2024-05-25
+    added-date: 2024-05-25
 -   games:
     - 'The Elder Scrolls IV: Oblivion'
     identifier: brknndd's
     url: https://www.nexusmods.com/oblivion/mods/51582
-    updated-date: 1900-01-01
-    added-date: 1900-01-01
+    info-updated: 2024-05-25
+    added-date: 2024-05-25
 -   games:
     - 'The Elder Scrolls IV: Oblivion'
     identifier: ddmlink's
     url: https://www.nexusmods.com/oblivion/mods/49970
-    updated-date: 1900-01-01
-    added-date: 1900-01-01
+    info-updated: 2024-05-25
+    added-date: 2024-05-25
 -   games:
     - 'The Elder Scrolls IV: Oblivion'
     identifier: Leveled Armors and Weapons Randomizer
     url: https://www.nexusmods.com/oblivion/mods/53582
-    updated-date: 1900-01-01
-    added-date: 1900-01-01
+    info-updated: 2024-05-25
+    added-date: 2024-05-25
 -   games:
     - 'The Elder Scrolls V: Skyrim'
     identifier: Fushigina Dungeon
     url: https://www.nexusmods.com/skyrim/mods/61962
-    updated-date: 1900-01-01
-    added-date: 1900-01-01
+    info-updated: 2024-05-25
+    added-date: 2024-05-25
 -   games:
     - 'The Elder Scrolls V: Skyrim'
     identifier: Random Dungeon Generator
     url: https://www.nexusmods.com/skyrim/mods/63933
     obsolete: true
-    updated-date: 1900-01-01
-    added-date: 1900-01-01
+    info-updated: 2024-05-25
+    added-date: 2024-05-25
 -   games:
     - 'The Elder Scrolls V: Skyrim'
     identifier: Randomized Word Walls
     url: https://www.nexusmods.com/skyrim/mods/43409
-    updated-date: 1900-01-01
-    added-date: 1900-01-01
+    info-updated: 2024-05-25
+    added-date: 2024-05-25
 -   games:
     - 'The Elder Scrolls V: Skyrim'
     identifier: World Randomizer
     url: https://www.nexusmods.com/skyrim/mods/114581
-    updated-date: 1900-01-01
-    added-date: 1900-01-01
+    info-updated: 2024-05-25
+    added-date: 2024-05-25
 -   games:
     - 'The Elder Scrolls V: Skyrim Special Edition'
     identifier: Alchemy Effects Randomizer, SKSE
     url: https://www.nexusmods.com/skyrimspecialedition/mods/107301
-    updated-date: 1900-01-01
-    added-date: 1900-01-01
+    info-updated: 2024-05-25
+    added-date: 2024-05-25
 -   games:
     - 'The Elder Scrolls V: Skyrim Special Edition'
     identifier: Alchemy Effects Randomizer, zEdit
     url: https://www.nexusmods.com/skyrimspecialedition/mods/41960
-    updated-date: 1900-01-01
-    added-date: 1900-01-01
+    info-updated: 2024-05-25
+    added-date: 2024-05-25
 -   games:
     - 'The Elder Scrolls V: Skyrim Special Edition'
     identifier: Randomized Birthstones
     url: https://www.nexusmods.com/skyrimspecialedition/mods/23838
-    updated-date: 1900-01-01
-    added-date: 1900-01-01
+    info-updated: 2024-05-25
+    added-date: 2024-05-25
 -   games:
     - 'The Elder Scrolls V: Skyrim Special Edition'
     identifier: Randomized Word Walls
     url: https://www.nexusmods.com/skyrimspecialedition/mods/13757
     obsolete: true
-    updated-date: 1900-01-01
-    added-date: 1900-01-01
+    info-updated: 2024-05-25
+    added-date: 2024-05-25
 -   games:
     - 'The Elder Scrolls V: Skyrim Special Edition'
     identifier: Serpent's Modular Randomizer
     url: https://www.nexusmods.com/skyrimspecialedition/mods/81881
-    updated-date: 1900-01-01
-    added-date: 1900-01-01
+    info-updated: 2024-05-25
+    added-date: 2024-05-25
 -   games:
     - 'The Elder Scrolls V: Skyrim Special Edition'
     - 'The Elder Scrolls V: Skyrim VR'
     identifier: ToxiRandomizer
     url: https://www.nexusmods.com/skyrimspecialedition/mods/70839
-    updated-date: 1900-01-01
-    added-date: 1900-01-01
+    info-updated: 2024-05-25
+    added-date: 2024-05-25
 -   games:
     - 'The Elder Scrolls V: Skyrim Special Edition'
     identifier: Word Walls Randomizer
     url: https://www.nexusmods.com/skyrimspecialedition/mods/41616
-    updated-date: 1900-01-01
-    added-date: 1900-01-01
+    info-updated: 2024-05-25
+    added-date: 2024-05-25
 -   games:
     - 'The Elder Scrolls V: Skyrim Special Edition'
     identifier: World Randomizer
     url: https://www.nexusmods.com/skyrimspecialedition/mods/79974
-    updated-date: 1900-01-01
-    added-date: 1900-01-01
+    info-updated: 2024-05-25
+    added-date: 2024-05-25

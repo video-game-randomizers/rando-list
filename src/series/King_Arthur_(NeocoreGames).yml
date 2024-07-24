@@ -1,15 +1,16 @@
 name: King Arthur (NeocoreGames)
-comment: ''
-sub-series: []
+comment: null
+sub-series: null
 games:
     'King Arthur: Knight''s Tale':
         genres: []
         platforms: []
+        release_year: null
 randomizers:
 -   games:
     - 'King Arthur: Knight''s Tale'
     identifier: Skill Tree Randomizer
     url: https://github.com/GeorgieH/kakt-skill-tree-randomizer
     comment: Documentation in Wiki
-    updated-date: 1900-01-01
-    added-date: 1900-01-01
+    info-updated: 2024-05-25
+    added-date: 2024-05-25

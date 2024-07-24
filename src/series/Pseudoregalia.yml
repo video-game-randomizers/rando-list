@@ -1,14 +1,15 @@
 name: Pseudoregalia
-comment: ''
-sub-series: []
+comment: null
+sub-series: null
 games:
     Pseudoregalia:
         genres: []
         platforms: []
+        release_year: null
 randomizers:
 -   games:
     - Pseudoregalia
     identifier: spuds's
     url: https://www.nexusmods.com/pseudoregalia/mods/11
-    updated-date: 1900-01-01
-    added-date: 1900-01-01
+    info-updated: 2024-05-25
+    added-date: 2024-05-25

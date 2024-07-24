@@ -1,35 +1,37 @@
 name: Super Smash Bros.
-comment: ''
-sub-series: []
+comment: null
+sub-series: null
 games:
     Super Smash Bros. Melee:
         genres: []
         platforms: []
+        release_year: null
     Super Smash Bros. Ultimate:
         genres: []
         platforms: []
+        release_year: null
 randomizers:
 -   games:
     - Super Smash Bros. Melee
     identifier: Break the Targets Randomizer
     url: https://bttrandomizer.com/
-    updated-date: 1900-01-01
-    added-date: 1900-01-01
+    added-date: 2024-05-25
+    info-updated: 2024-05-25
 -   games:
     - Super Smash Bros. Melee
     identifier: drewlith's
     url: https://github.com/drewlith/ssbmr
-    updated-date: 1900-01-01
-    added-date: 1900-01-01
+    added-date: 2024-05-25
+    info-updated: 2024-05-25
 -   games:
     - Super Smash Bros. Ultimate
     identifier: Skelux's
     url: https://skelux.net/showthread.php?tid=954
-    updated-date: 1900-01-01
-    added-date: 1900-01-01
+    added-date: 2024-05-25
+    info-updated: 2024-05-25
 -   games:
     - Super Smash Bros. Ultimate
     identifier: WoL Randomizer
     url: https://gamebanana.com/tools/9313
-    updated-date: 1900-01-01
-    added-date: 1900-01-01
+    added-date: 2024-05-25
+    info-updated: 2024-05-25

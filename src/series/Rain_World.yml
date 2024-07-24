@@ -1,14 +1,15 @@
 name: Rain World
-comment: ''
-sub-series: []
+comment: null
+sub-series: null
 games:
     Rain World:
         genres: []
         platforms: []
+        release_year: null
 randomizers:
 -   games:
     - Rain World
     identifier: Enemy Randomizer
     url: https://steamcommunity.com/sharedfiles/filedetails/?id=2933916034
-    updated-date: 1900-01-01
-    added-date: 1900-01-01
+    info-updated: 2024-05-25
+    added-date: 2024-05-25

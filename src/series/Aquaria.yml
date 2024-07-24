@@ -1,18 +1,19 @@
 name: Aquaria
-comment: ''
-sub-series: []
+comment: null
+sub-series: null
 games:
     Aquaria:
         genres:
-        - Adventure
+            - Adventure
         platforms:
-        - PC
+            - PC
+        release_year: 2007
 randomizers:
 -   games:
     - Aquaria
     identifier: Archipelago
     url: https://archipelago.gg/games/Aquaria/info/en
     multiworld: Archipelago
-    opensource: true
-    updated-date: 1900-01-01
+    info-updated: 2024-07-23
     added-date: 2024-07-23
+    opensource: true

@@ -1,32 +1,35 @@
 name: La-Mulana
-comment: ''
-sub-series: []
+comment: null
+sub-series: null
 games:
     La-Mulana (2011 remake):
         genres: []
         platforms: []
+        release_year: null
     La-Mulana (The Maze of Galious fangame):
         genres: []
         platforms: []
+        release_year: null
     La-Mulana 2:
         genres: []
         platforms: []
+        release_year: null
 randomizers:
 -   games:
     - La-Mulana (The Maze of Galious fangame)
     identifier: progre's
     url: https://github.com/progre/lmorandomizer
-    updated-date: 1900-01-01
-    added-date: 1900-01-01
+    info-updated: 2024-05-25
+    added-date: 2024-05-25
 -   games:
     - La-Mulana (2011 remake)
     identifier: thezerothcat's
     url: https://github.com/thezerothcat/LaMulanaRandomizer
-    updated-date: 1900-01-01
-    added-date: 1900-01-01
+    info-updated: 2024-05-25
+    added-date: 2024-05-25
 -   games:
     - La-Mulana 2
     identifier: Coookie93's
     url: https://github.com/Coookie93/LaMulana2Randomizer
-    updated-date: 1900-01-01
-    added-date: 1900-01-01
+    info-updated: 2024-05-25
+    added-date: 2024-05-25

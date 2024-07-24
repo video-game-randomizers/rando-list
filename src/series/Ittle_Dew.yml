@@ -1,14 +1,15 @@
 name: Ittle Dew
-comment: ''
-sub-series: []
+comment: null
+sub-series: null
 games:
     Ittle Dew 2+:
         genres: []
         platforms: []
+        release_year: null
 randomizers:
 -   games:
     - Ittle Dew 2+
     identifier: Extra 2 Dew
     url: https://github.com/Chris-Is-Awesome/Extra2DewMod
-    updated-date: 1900-01-01
-    added-date: 1900-01-01
+    info-updated: 2024-05-25
+    added-date: 2024-05-25

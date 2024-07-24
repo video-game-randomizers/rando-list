@@ -1,14 +1,15 @@
 name: Rad Racer
-comment: ''
-sub-series: []
+comment: null
+sub-series: null
 games:
     Rad Racer:
         genres: []
         platforms: []
+        release_year: null
 randomizers:
 -   games:
     - Rad Racer
     identifier: gameboy9's
     url: https://github.com/gameboy9/RadRacerRando/releases
-    updated-date: 1900-01-01
-    added-date: 1900-01-01
+    info-updated: 2024-05-25
+    added-date: 2024-05-25

@@ -1,15 +1,16 @@
 name: Lunacid
-comment: ''
-sub-series: []
+comment: null
+sub-series: null
 games:
     Lunacid:
         genres: []
         platforms: []
+        release_year: null
 randomizers:
 -   games:
     - Lunacid
     identifier: Witchybun Albrekka's
     url: https://www.nexusmods.com/lunacid/mods/11
     comment: Requires [Archipelago](https://archipelago.gg/)
-    updated-date: 1900-01-01
-    added-date: 1900-01-01
+    info-updated: 2024-05-25
+    added-date: 2024-05-25

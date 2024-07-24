@@ -1,14 +1,15 @@
 name: Captain Comic
-comment: ''
-sub-series: []
+comment: null
+sub-series: null
 games:
     The Adventures of Captain Comic:
         genres: []
         platforms: []
+        release_year: null
 randomizers:
 -   games:
     - The Adventures of Captain Comic
     identifier: David Fifield's
     url: https://www.bamsoftware.com/comicrando/
-    updated-date: 1900-01-01
-    added-date: 1900-01-01
+    info-updated: 2024-05-25
+    added-date: 2024-05-25

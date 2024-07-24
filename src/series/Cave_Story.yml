@@ -1,13 +1,15 @@
 name: Cave Story
-comment: ''
-sub-series: []
+comment: null
+sub-series: null
 games:
     Cave Story:
         genres: []
         platforms: []
+        release_year: null
     Cave Story+:
         genres: []
         platforms: []
+        release_year: null
 randomizers:
 -   games:
     - Cave Story
@@ -15,19 +17,19 @@ randomizers:
     identifier: Randovania
     url: https://randovania.org/games/cave_story/
     multiworld: Randovania
-    updated-date: 1900-01-01
-    added-date: 1900-01-01
+    info-updated: 2024-05-25
+    added-date: 2024-05-25
 -   games:
     - Cave Story
     - Cave Story+
     identifier: shru's
     url: https://shru.itch.io/cave-story-randomizer
     obsolete: true
-    updated-date: 1900-01-01
-    added-date: 1900-01-01
+    info-updated: 2024-05-25
+    added-date: 2024-05-25
 -   games:
     - Cave Story
     identifier: Doukutsu Randamu
     url: https://trashboxbobylev.itch.io/doukutsu-randamu
-    updated-date: 1900-01-01
-    added-date: 1900-01-01
+    info-updated: 2024-05-25
+    added-date: 2024-05-25

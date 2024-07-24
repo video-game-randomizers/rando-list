@@ -1,10 +1,11 @@
 name: Plants vs. Zombies
-comment: ''
-sub-series: []
+comment: null
+sub-series: null
 games:
     PlantsVsZombies.NET (Plants vs. Zombies unofficial PC port):
         genres: []
         platforms: []
+        release_year: null
 randomizers:
 -   games:
     - PlantsVsZombies.NET (Plants vs. Zombies unofficial PC port)
@@ -12,5 +13,5 @@ randomizers:
     url: https://github.com/Andree12/PVZ1-Randomizer
     comment: Requires the Windows Phone version of the game and [Visual Studio Community
         2019](https://learn.microsoft.com/en-us/visualstudio/releases/2019/release-notes)
-    updated-date: 1900-01-01
-    added-date: 1900-01-01
+    added-date: 2024-05-25
+    info-updated: 2024-05-25

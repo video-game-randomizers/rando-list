@@ -1,15 +1,16 @@
 name: Project Wingman
-comment: ''
-sub-series: []
+comment: null
+sub-series: null
 games:
     Project Wingman:
         genres: []
         platforms: []
+        release_year: null
 randomizers:
 -   games:
     - Project Wingman
     identifier: FalconLuma's
     url: https://www.nexusmods.com/projectwingman/mods/355
     comment: Requires [Project Sicario Merger](https://sicario.modding.app/merger)
-    updated-date: 1900-01-01
-    added-date: 1900-01-01
+    info-updated: 2024-05-25
+    added-date: 2024-05-25

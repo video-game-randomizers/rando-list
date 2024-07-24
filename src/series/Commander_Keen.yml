@@ -1,15 +1,16 @@
 name: Commander Keen
-comment: ''
-sub-series: []
+comment: null
+sub-series: null
 games:
     'Commander Keen: Invasion of the Vorticons (shareware)':
         genres: []
         platforms: []
+        release_year: null
 randomizers:
 -   games:
     - 'Commander Keen: Invasion of the Vorticons (shareware)'
     identifier: David Gow's
     url: https://davidgow.net/keen/randomiser.html
     comment: Randomizes Episode 1
-    updated-date: 1900-01-01
-    added-date: 1900-01-01
+    info-updated: 2024-05-25
+    added-date: 2024-05-25

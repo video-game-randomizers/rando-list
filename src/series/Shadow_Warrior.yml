@@ -1,14 +1,15 @@
 name: Shadow Warrior
-comment: ''
-sub-series: []
+comment: null
+sub-series: null
 games:
     Shadow Warrior (1997):
         genres: []
         platforms: []
+        release_year: null
 randomizers:
 -   games:
     - Shadow Warrior (1997)
     identifier: Build Engine Randomizer
     url: https://github.com/Die4Ever/build-engine-randomizer
-    updated-date: 1900-01-01
-    added-date: 1900-01-01
+    info-updated: 2024-05-25
+    added-date: 2024-05-25

@@ -1,15 +1,16 @@
 name: Hylics
-comment: ''
-sub-series: []
+comment: null
+sub-series: null
 games:
     Hylics 2:
         genres: []
         platforms: []
+        release_year: null
 randomizers:
 -   games:
     - Hylics 2
     identifier: Archipelago
     url: https://archipelago.gg/tutorial/#Hylics%202
     multiworld: Archipelago
-    updated-date: 1900-01-01
-    added-date: 1900-01-01
+    info-updated: 2024-05-25
+    added-date: 2024-05-25

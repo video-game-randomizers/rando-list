@@ -1,14 +1,15 @@
 name: Parasite Eve
-comment: ''
-sub-series: []
+comment: null
+sub-series: null
 games:
     Parasite Eve II:
         genres: []
         platforms: []
+        release_year: null
 randomizers:
 -   games:
     - Parasite Eve II
     identifier: Randomized Eve II
     url: https://drive.google.com/file/d/1E_OVyGw23XOAyMGlB-tkigvj1ruuktRN/view
-    updated-date: 1900-01-01
-    added-date: 1900-01-01
+    info-updated: 2024-05-25
+    added-date: 2024-05-25

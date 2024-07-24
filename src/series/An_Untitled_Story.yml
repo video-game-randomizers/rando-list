@@ -1,15 +1,16 @@
 name: An Untitled Story
-comment: ''
-sub-series: []
+comment: null
+sub-series: null
 games:
     An Untitled Story:
         genres: []
         platforms: []
+        release_year: null
 randomizers:
 -   games:
     - An Untitled Story
     identifier: Mokesmoe's
     url: https://www.dropbox.com/s/awy8mmf7eirwnm8/AnUntitledStory_Randomizer.zip?dl=0
     comment: Support available on the [ESA Randomizer Discord server](https://discord.com/invite/kPMT8g3)
-    updated-date: 1900-01-01
-    added-date: 1900-01-01
+    info-updated: 2024-05-25
+    added-date: 2024-05-25

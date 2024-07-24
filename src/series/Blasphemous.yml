@@ -1,21 +1,22 @@
 name: Blasphemous
-comment: ''
-sub-series: []
+comment: null
+sub-series: null
 games:
     Blasphemous:
         genres: []
         platforms: []
+        release_year: null
 randomizers:
 -   games:
     - Blasphemous
     identifier: Item and Enemy Randomizer
     url: https://www.nexusmods.com/blasphemous/mods/15
-    updated-date: 1900-01-01
-    added-date: 1900-01-01
+    info-updated: 2024-05-25
+    added-date: 2024-05-25
 -   games:
     - Blasphemous
     identifier: Archipelago
     url: https://archipelago.gg/
     multiworld: Archipelago
-    updated-date: 1900-01-01
-    added-date: 1900-01-01
+    info-updated: 2024-05-25
+    added-date: 2024-05-25

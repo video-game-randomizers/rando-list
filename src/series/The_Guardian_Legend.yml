@@ -1,22 +1,23 @@
 name: The Guardian Legend
-comment: ''
-sub-series: []
+comment: null
+sub-series: null
 games:
     The Guardian Legend:
         genres: []
         platforms: []
+        release_year: null
 randomizers:
 -   games:
     - The Guardian Legend
     identifier: fireball87's
     url: https://www.synchrocade.com/tgl
     comment: '[Source code](https://github.com/fireball87/GuardianLegendRando)'
-    updated-date: 1900-01-01
-    added-date: 1900-01-01
+    info-updated: 2024-05-25
+    added-date: 2024-05-25
 -   games:
     - The Guardian Legend
     identifier: Micheil Skeens's
     url: https://micheilskeens.com/guardian-legend-randomizer.php
     obsolete: true
-    updated-date: 1900-01-01
-    added-date: 1900-01-01
+    info-updated: 2024-05-25
+    added-date: 2024-05-25

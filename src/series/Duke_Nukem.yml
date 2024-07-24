@@ -1,21 +1,22 @@
 name: Duke Nukem
-comment: ''
-sub-series: []
+comment: null
+sub-series: null
 games:
     Duke Nukem 3D:
         genres: []
         platforms: []
+        release_year: null
 randomizers:
 -   games:
     - Duke Nukem 3D
     identifier: Map Order Randomizer
     url: https://forums.duke4.net/topic/7246-map-order-randomizer/
     obsolete: true
-    updated-date: 1900-01-01
-    added-date: 1900-01-01
+    info-updated: 2024-05-25
+    added-date: 2024-05-25
 -   games:
     - Duke Nukem 3D
     identifier: Build Engine Randomizer
     url: https://github.com/Die4Ever/build-engine-randomizer
-    updated-date: 1900-01-01
-    added-date: 1900-01-01
+    info-updated: 2024-05-25
+    added-date: 2024-05-25

@@ -1,15 +1,16 @@
 name: Tetris
-comment: ''
-sub-series: []
+comment: null
+sub-series: null
 games:
     Tetris (NES Nintendo):
         genres: []
         platforms: []
+        release_year: null
 randomizers:
 -   games:
     - Tetris (NES Nintendo)
     identifier: fridaywitch's
     url: https://drive.google.com/drive/folders/19NklVLPD1cF2cygbJSIgyvGfKUl7eCVg
     comment: Overrides normal RNG
-    updated-date: 1900-01-01
-    added-date: 1900-01-01
+    info-updated: 2024-05-25
+    added-date: 2024-05-25

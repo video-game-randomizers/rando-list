@@ -1,23 +1,25 @@
 name: Adventure Island
-comment: ''
-sub-series: []
+comment: null
+sub-series: null
 games:
     Adventure Island II:
         genres: []
         platforms: []
+        release_year: null
     Super Adventure Island II:
         genres: []
         platforms: []
+        release_year: null
 randomizers:
 -   games:
     - Adventure Island II
     identifier: Micheil Skeens's
     url: https://micheilskeens.com/adventure-island-2-randomizer.php
-    updated-date: 1900-01-01
-    added-date: 1900-01-01
+    info-updated: 2024-05-25
+    added-date: 2024-05-25
 -   games:
     - Super Adventure Island II
     identifier: abyssonym's
     url: https://github.com/abyssonym/sai2_rando
-    updated-date: 1900-01-01
-    added-date: 1900-01-01
+    info-updated: 2024-05-25
+    added-date: 2024-05-25

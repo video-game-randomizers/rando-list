@@ -1,14 +1,15 @@
 name: DuckTales
-comment: ''
-sub-series: []
+comment: null
+sub-series: null
 games:
     DuckTales:
         genres: []
         platforms: []
+        release_year: null
 randomizers:
 -   games:
     - DuckTales
     identifier: Micheil Skeens's
     url: https://micheilskeens.com/duck-tales-randomizer.php
-    updated-date: 1900-01-01
-    added-date: 1900-01-01
+    info-updated: 2024-05-25
+    added-date: 2024-05-25

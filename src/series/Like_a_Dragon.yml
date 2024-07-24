@@ -1,23 +1,25 @@
 name: Like a Dragon
-comment: ''
-sub-series: []
+comment: null
+sub-series: null
 games:
     'Like a Dragon: Infinite Wealth':
         genres: []
         platforms: []
+        release_year: null
     'Yakuza: Like a Dragon':
         genres: []
         platforms: []
+        release_year: null
 randomizers:
 -   games:
     - 'Yakuza: Like a Dragon'
     identifier: Enemy Randomizer
     url: https://www.nexusmods.com/yakuzalikeadragon/mods/147
-    updated-date: 1900-01-01
-    added-date: 1900-01-01
+    info-updated: 2024-05-25
+    added-date: 2024-05-25
 -   games:
     - 'Like a Dragon: Infinite Wealth'
     identifier: Zoo's
     url: https://www.nexusmods.com/likeadragoninfinitewealth/mods/145
-    updated-date: 1900-01-01
-    added-date: 1900-01-01
+    info-updated: 2024-05-25
+    added-date: 2024-05-25

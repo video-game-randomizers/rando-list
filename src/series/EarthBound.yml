@@ -1,59 +1,62 @@
 name: EarthBound
-comment: ''
-sub-series: []
+comment: null
+sub-series: null
 games:
     EarthBound:
         genres: []
         platforms: []
+        release_year: null
     EarthBound Beginnings:
         genres: []
         platforms: []
+        release_year: null
     Mother 3:
         genres: []
         platforms: []
+        release_year: null
 randomizers:
 -   games:
     - EarthBound Beginnings
     identifier: Agent Ape's
     url: https://forum.starmen.net/forum/Community/PKHack/EarthBound-Zero-Randomizer-Updated-9-6-14
-    updated-date: 1900-01-01
-    added-date: 1900-01-01
+    info-updated: 2024-05-25
+    added-date: 2024-05-25
 -   games:
     - EarthBound
     identifier: Bizarre Dimension
     url: https://github.com/abyssonym/bizarre_dimension
     obsolete: true
-    updated-date: 1900-01-01
-    added-date: 1900-01-01
+    info-updated: 2024-05-25
+    added-date: 2024-05-25
 -   games:
     - EarthBound
     identifier: Chaz's
     url: https://earthbound.app/
-    updated-date: 1900-01-01
-    added-date: 1900-01-01
+    info-updated: 2024-05-25
+    added-date: 2024-05-25
 -   games:
     - EarthBound
     identifier: PK Scramble
     url: https://pkscramble.com/
-    updated-date: 1900-01-01
-    added-date: 1900-01-01
+    info-updated: 2024-05-25
+    added-date: 2024-05-25
 -   games:
     - EarthBound
     identifier: Rydel's Reshuffler
     url: https://secure.fangamer.com/forum/Community/PKHack/EarthBound-Reshuffler-2-0
     obsolete: true
-    updated-date: 1900-01-01
-    added-date: 1900-01-01
+    info-updated: 2024-05-25
+    added-date: 2024-05-25
 -   games:
     - EarthBound
     identifier: Tomato's Reshuffler
     url: https://earthboundcentral.com/reshuffler/
     obsolete: true
-    updated-date: 1900-01-01
-    added-date: 1900-01-01
+    info-updated: 2024-05-25
+    added-date: 2024-05-25
 -   games:
     - Mother 3
     identifier: Lorenzooone's
     url: https://forum.starmen.net/forum/Community/PKHack/Mother-3-Randomizer-Version-0-0-1
-    updated-date: 1900-01-01
-    added-date: 1900-01-01
+    info-updated: 2024-05-25
+    added-date: 2024-05-25

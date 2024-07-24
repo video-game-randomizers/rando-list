@@ -1,27 +1,30 @@
 name: Age of Empires
-comment: ''
-sub-series: []
+comment: null
+sub-series: null
 games:
     'Age of Empires II (2013) / Age of Empires II: Definitive Edition':
         genres: []
         platforms: []
+        release_year: null
     'Age of Empires II: The Age of Kings':
         genres: []
         platforms: []
+        release_year: null
     'Age of Mythology: Extended Edition':
         genres: []
         platforms: []
+        release_year: null
 randomizers:
 -   games:
     - 'Age of Empires II: The Age of Kings'
     - 'Age of Empires II (2013) / Age of Empires II: Definitive Edition'
     identifier: HyperRandom
     url: https://aok.heavengames.com/cgi-bin/forums/display.cgi?action=ct&f=28,44641,,365
-    updated-date: 1900-01-01
-    added-date: 1900-01-01
+    info-updated: 2024-05-25
+    added-date: 2024-05-25
 -   games:
     - 'Age of Mythology: Extended Edition'
     identifier: Steam Workshop - Map Scripts
     url: https://steamcommunity.com/workshop/browse/?appid=266840&requiredtags%5B%5D=Random+Map+Scripts
-    updated-date: 1900-01-01
-    added-date: 1900-01-01
+    info-updated: 2024-05-25
+    added-date: 2024-05-25

@@ -1,14 +1,15 @@
 name: Goof Troop
-comment: ''
-sub-series: []
+comment: null
+sub-series: null
 games:
     Goof Troop:
         genres: []
         platforms: []
+        release_year: null
 randomizers:
 -   games:
     - Goof Troop
     identifier: Niamek's
     url: https://github.com/GB127/GT-Rando/releases
-    updated-date: 1900-01-01
-    added-date: 1900-01-01
+    info-updated: 2024-05-25
+    added-date: 2024-05-25

@@ -3,11 +3,11 @@ games:
     Castle Crashers (Remastered):
         genres: []
         platforms: []
+        release_year: null
 randomizers:
 -   games:
     - Castle Crashers (Remastered)
     identifier: Enemy Randomizer
     url: https://gamebanana.com/mods/516811
-    updated-date: 1900-01-01
     added-date: 2024-06-02
-sub-series: []
+    info-updated: 2024-06-02

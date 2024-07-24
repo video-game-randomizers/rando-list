@@ -1,14 +1,15 @@
 name: Gato Roboto
-comment: ''
-sub-series: []
+comment: null
+sub-series: null
 games:
     Gato Roboto:
         genres: []
         platforms: []
+        release_year: null
 randomizers:
 -   games:
     - Gato Roboto
     identifier: CaptainDapper's
     url: https://github.com/CaptainDapper/GatoRobotoRandomizer/releases
-    updated-date: 1900-01-01
-    added-date: 1900-01-01
+    info-updated: 2024-05-25
+    added-date: 2024-05-25

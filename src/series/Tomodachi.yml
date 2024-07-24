@@ -1,14 +1,15 @@
 name: Tomodachi
-comment: ''
-sub-series: []
+comment: null
+sub-series: null
 games:
     Miitopia:
         genres: []
         platforms: []
+        release_year: null
 randomizers:
 -   games:
     - Miitopia
     identifier: Kobazco's
     url: https://github.com/Kobazco/Miitopia_Randomizer
-    updated-date: 1900-01-01
-    added-date: 1900-01-01
+    info-updated: 2024-05-25
+    added-date: 2024-05-25

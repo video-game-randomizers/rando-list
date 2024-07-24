@@ -1,14 +1,15 @@
 name: Salt and Sanctuary
-comment: ''
-sub-series: []
+comment: null
+sub-series: null
 games:
     Salt and Sanctuary:
         genres: []
         platforms: []
+        release_year: null
 randomizers:
 -   games:
     - Salt and Sanctuary
     identifier: coppie's
     url: https://www.reddit.com/r/saltandsanctuary/comments/c28z64/randomizer/
-    updated-date: 1900-01-01
-    added-date: 1900-01-01
+    info-updated: 2024-05-25
+    added-date: 2024-05-25

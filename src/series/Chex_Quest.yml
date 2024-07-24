@@ -1,36 +1,38 @@
 name: Chex Quest
-comment: ''
-sub-series: []
+comment: null
+sub-series: null
 games:
     Chex Quest:
         genres: []
         platforms: []
+        release_year: null
     Chex Quest 3 (fangame):
         genres: []
         platforms: []
+        release_year: null
 randomizers:
 -   games:
     - Chex Quest
     identifier: CustomDoom
     url: https://forum.zdoom.org/viewtopic.php?f=45&t=51446
     obsolete: true
-    updated-date: 1900-01-01
-    added-date: 1900-01-01
+    info-updated: 2024-05-25
+    added-date: 2024-05-25
 -   games:
     - Chex Quest
     identifier: Universal Custom Doom
     url: https://forum.zdoom.org/viewtopic.php?f=43&t=64678
-    updated-date: 1900-01-01
-    added-date: 1900-01-01
+    info-updated: 2024-05-25
+    added-date: 2024-05-25
 -   games:
     - Chex Quest
     identifier: Universal Entropy
     url: https://www.moddb.com/mods/universal-entropy
-    updated-date: 1900-01-01
-    added-date: 1900-01-01
+    info-updated: 2024-05-25
+    added-date: 2024-05-25
 -   games:
     - Chex Quest 3 (fangame)
     identifier: OBSIDIAN
     url: https://obsidian-level-maker.github.io/index.html
-    updated-date: 1900-01-01
-    added-date: 1900-01-01
+    info-updated: 2024-05-25
+    added-date: 2024-05-25

@@ -1,43 +1,47 @@
 name: Star Wars
-comment: ''
-sub-series: []
+comment: null
+sub-series: null
 games:
     'Lego Star Wars: The Complete Saga':
         genres: []
         platforms: []
+        release_year: null
     'Star Wars Jedi Knight: Jedi Academy':
         genres: []
         platforms: []
+        release_year: null
     'Star Wars Jedi: Fallen Order':
         genres: []
         platforms: []
+        release_year: null
     'Star Wars: Dark Forces':
         genres: []
         platforms: []
+        release_year: null
 randomizers:
 -   games:
     - 'Star Wars: Dark Forces'
     identifier: Showcase
     url: https://github.com/The-MAZZTer/DarkForces
     comment: Modding tool with bundled randomizer
-    updated-date: 1900-01-01
-    added-date: 1900-01-01
+    info-updated: 2024-05-25
+    added-date: 2024-05-25
 -   games:
     - 'Star Wars Jedi Knight: Jedi Academy'
     identifier: RandomJK
     url: https://github.com/ps1337/RandomJK
-    updated-date: 1900-01-01
-    added-date: 1900-01-01
+    info-updated: 2024-05-25
+    added-date: 2024-05-25
 -   games:
     - 'Lego Star Wars: The Complete Saga'
     identifier: Viola's
     url: https://discord.com/invite/h5NKfmGWWm
     comment: 'Discord account required - Located in the #downloads channel'
-    updated-date: 1900-01-01
-    added-date: 1900-01-01
+    info-updated: 2024-05-25
+    added-date: 2024-05-25
 -   games:
     - 'Star Wars Jedi: Fallen Order'
     identifier: Enemy Randomizer
     url: https://www.nexusmods.com/starwarsjedifallenorder/mods/209
-    updated-date: 1900-01-01
-    added-date: 1900-01-01
+    info-updated: 2024-05-25
+    added-date: 2024-05-25

@@ -1,14 +1,15 @@
 name: Tear Ring Saga
-comment: ''
-sub-series: []
+comment: null
+sub-series: null
 games:
     'Berwick Saga: Lazberia Chronicle Chapter 174':
         genres: []
         platforms: []
+        release_year: null
 randomizers:
 -   games:
     - 'Berwick Saga: Lazberia Chronicle Chapter 174'
     identifier: Editor & Randomizer
     url: https://feuniverse.us/t/berwick-saga-berwick-saga-editor-randomizer-early-beta/11256
-    updated-date: 1900-01-01
-    added-date: 1900-01-01
+    info-updated: 2024-05-25
+    added-date: 2024-05-25

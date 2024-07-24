@@ -1,15 +1,16 @@
 name: Muse Dash
-comment: ''
-sub-series: []
+comment: null
+sub-series: null
 games:
     Muse Dash:
         genres: []
         platforms: []
+        release_year: null
 randomizers:
 -   games:
     - Muse Dash
     identifier: Archipelago
     url: https://archipelago.gg/tutorial/#Muse%20Dash
     multiworld: Archipelago
-    updated-date: 1900-01-01
-    added-date: 1900-01-01
+    info-updated: 2024-05-25
+    added-date: 2024-05-25

@@ -1,21 +1,22 @@
 name: Lufia
-comment: ''
-sub-series: []
+comment: null
+sub-series: null
 games:
     'Lufia II: Rise of the Sinistrals':
         genres: []
         platforms: []
+        release_year: null
 randomizers:
 -   games:
     - 'Lufia II: Rise of the Sinistrals'
     identifier: Terror Wave
     url: https://abyssonym.wordpress.com/2017/09/12/lufia-2-terror-wave-new-randomizer/
-    updated-date: 1900-01-01
-    added-date: 1900-01-01
+    info-updated: 2024-05-25
+    added-date: 2024-05-25
 -   games:
     - 'Lufia II: Rise of the Sinistrals'
     identifier: Archipelago
     url: https://archipelago.gg/tutorial/#Lufia%20II%20Ancient%20Cave
     multiworld: Archipelago
-    updated-date: 1900-01-01
-    added-date: 1900-01-01
+    info-updated: 2024-05-25
+    added-date: 2024-05-25

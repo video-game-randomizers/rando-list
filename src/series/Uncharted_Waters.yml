@@ -1,14 +1,15 @@
 name: Uncharted Waters
-comment: ''
-sub-series: []
+comment: null
+sub-series: null
 games:
     'Uncharted Waters: New Horizons':
         genres: []
         platforms: []
+        release_year: null
 randomizers:
 -   games:
     - 'Uncharted Waters: New Horizons'
     identifier: Gilmok's
     url: https://github.com/Gilmok/UWNHRando
-    updated-date: 1900-01-01
-    added-date: 1900-01-01
+    info-updated: 2024-05-25
+    added-date: 2024-05-25

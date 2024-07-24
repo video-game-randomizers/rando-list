@@ -1,23 +1,25 @@
 name: The World Ends with You
-comment: ''
-sub-series: []
+comment: null
+sub-series: null
 games:
     'NEO: The World Ends with You':
         genres: []
         platforms: []
+        release_year: null
     The World Ends with You:
         genres: []
         platforms: []
+        release_year: null
 randomizers:
 -   games:
     - The World Ends with You
     identifier: Fractalizon
     url: https://github.com/abyssonym/fractalizon
-    updated-date: 1900-01-01
-    added-date: 1900-01-01
+    info-updated: 2024-05-25
+    added-date: 2024-05-25
 -   games:
     - 'NEO: The World Ends with You'
     identifier: SaltContainer's
     url: https://github.com/SaltContainer/NEO-TWEWY-Randomizer
-    updated-date: 1900-01-01
-    added-date: 1900-01-01
+    info-updated: 2024-05-25
+    added-date: 2024-05-25

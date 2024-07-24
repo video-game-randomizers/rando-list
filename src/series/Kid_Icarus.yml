@@ -1,15 +1,16 @@
 name: Kid Icarus
-comment: ''
-sub-series: []
+comment: null
+sub-series: null
 games:
     Kid Icarus:
         genres: []
         platforms: []
+        release_year: null
 randomizers:
 -   games:
     - Kid Icarus
     identifier: Kid Randomicus
     url: https://www.romhacking.net/hacks/6447/
     comment: '[Source code](https://github.com/toddcblank/kid_randomicus)'
-    updated-date: 1900-01-01
-    added-date: 1900-01-01
+    info-updated: 2024-05-25
+    added-date: 2024-05-25

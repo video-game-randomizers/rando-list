@@ -1,34 +1,37 @@
 name: Soul Blazer
-comment: ''
-sub-series: []
+comment: null
+sub-series: null
 games:
     Illusion of Gaia:
         genres: []
         platforms: []
+        release_year: null
     Soul Blazer:
         genres: []
         platforms: []
+        release_year: null
     Terranigma:
         genres: []
         platforms: []
+        release_year: null
 randomizers:
 -   games:
     - Soul Blazer
     identifier: RandoBlazer
     url: https://randoblazer.orphis.net/
     comment: Old [Windows binaries](https://github.com/LeHulk1/RandoBlazer/tree/master/Releases)
-    updated-date: 1900-01-01
-    added-date: 1900-01-01
+    info-updated: 2024-05-25
+    added-date: 2024-05-25
 -   games:
     - Illusion of Gaia
     identifier: DontBaguMe's
     url: https://www.iogr.app
-    updated-date: 1900-01-01
-    added-date: 1900-01-01
+    info-updated: 2024-05-25
+    added-date: 2024-05-25
 -   games:
     - Terranigma
     identifier: TerraFluky
     url: https://www.terranigma.be/index.php?title=TerraFluky
     comment: '[Discord server](https://discord.com/invite/NkdvaHp) for support'
-    updated-date: 1900-01-01
-    added-date: 1900-01-01
+    info-updated: 2024-05-25
+    added-date: 2024-05-25

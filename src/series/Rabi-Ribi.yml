@@ -1,14 +1,15 @@
 name: Rabi-Ribi
-comment: ''
-sub-series: []
+comment: null
+sub-series: null
 games:
     Rabi-Ribi:
         genres: []
         platforms: []
+        release_year: null
 randomizers:
 -   games:
     - Rabi-Ribi
     identifier: wcko87's
     url: https://wcko87.github.io/rabiribi-randomizer/
-    updated-date: 1900-01-01
-    added-date: 1900-01-01
+    info-updated: 2024-05-25
+    added-date: 2024-05-25

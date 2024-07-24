@@ -1,42 +1,45 @@
 name: Undertale
-comment: ''
-sub-series: []
+comment: null
+sub-series: null
 games:
     Deltarune (Chapter 1&2):
         genres: []
         platforms: []
+        release_year: null
     Deltarune (SURVEY_PROGRAM):
         genres: []
         platforms: []
+        release_year: null
     Undertale:
         genres: []
         platforms: []
+        release_year: null
 randomizers:
 -   games:
     - Undertale
     identifier: Geno Randomizer
     url: https://gamejolt.com/games/UndertaleGenoRandomizer/604714
-    updated-date: 1900-01-01
-    added-date: 1900-01-01
+    info-updated: 2024-05-25
+    added-date: 2024-05-25
 -   games:
     - Undertale
     identifier: Archipelago
     url: https://archipelago.gg/tutorial/#Undertale
     multiworld: Archipelago
-    updated-date: 1900-01-01
-    added-date: 1900-01-01
+    info-updated: 2024-05-25
+    added-date: 2024-05-25
 -   games:
     - Deltarune (SURVEY_PROGRAM)
     identifier: Deltarando
     url: https://discord.com/invite/WwVB9sxd47
     comment: 'Discord account required - Located in the #resources channel - Randomizes
         Chapter 1'
-    updated-date: 1900-01-01
-    added-date: 1900-01-01
+    info-updated: 2024-05-25
+    added-date: 2024-05-25
 -   games:
     - Deltarune (Chapter 1&2)
     identifier: Chapter 2 Encounter Randomizer
     url: https://gamebanana.com/mods/405974
     comment: Randomizes Chapter 2
-    updated-date: 1900-01-01
-    added-date: 1900-01-01
+    info-updated: 2024-05-25
+    added-date: 2024-05-25

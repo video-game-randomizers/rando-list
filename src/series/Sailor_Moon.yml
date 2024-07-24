@@ -1,15 +1,16 @@
 name: Sailor Moon
-comment: ''
-sub-series: []
+comment: null
+sub-series: null
 games:
     Pretty Soldier Sailor Moon:
         genres: []
         platforms: []
+        release_year: null
 randomizers:
 -   games:
     - Pretty Soldier Sailor Moon
     identifier: PSSME
     url: https://www.romhacking.net/utilities/1600/
     comment: Game editor with bundled randomizer
-    updated-date: 1900-01-01
-    added-date: 1900-01-01
+    info-updated: 2024-05-25
+    added-date: 2024-05-25

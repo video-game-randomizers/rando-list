@@ -1,16 +1,19 @@
 name: Tomb Raider
-comment: ''
-sub-series: []
+comment: null
+sub-series: null
 games:
     Tomb Raider:
         genres: []
         platforms: []
+        release_year: null
     Tomb Raider II:
         genres: []
         platforms: []
+        release_year: null
     Tomb Raider III:
         genres: []
         platforms: []
+        release_year: null
 randomizers:
 -   games:
     - Tomb Raider
@@ -18,5 +21,5 @@ randomizers:
     - Tomb Raider III
     identifier: Lost Artefacts's
     url: https://github.com/LostArtefacts/TR-Rando
-    updated-date: 1900-01-01
-    added-date: 1900-01-01
+    info-updated: 2024-05-25
+    added-date: 2024-05-25

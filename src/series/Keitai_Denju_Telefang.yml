@@ -1,15 +1,16 @@
-name: Keitai Denjū Telefang
-comment: ''
-sub-series: []
+name: "Keitai Denj\u016B Telefang"
+comment: null
+sub-series: null
 games:
-    'Keitai Denjū Telefang: Power Version':
+    "Keitai Denj\u016B Telefang: Power Version":
         genres: []
         platforms: []
+        release_year: null
 randomizers:
 -   games:
-    - 'Keitai Denjū Telefang: Power Version'
+    - "Keitai Denj\u016B Telefang: Power Version"
     identifier: Sanqui's
     url: https://sanqui.net/randomizer/#telefang
     comment: '[Source code](https://github.com/Sanqui/online-randomizer)'
-    updated-date: 1900-01-01
-    added-date: 1900-01-01
+    added-date: 2024-05-25
+    info-updated: 2024-05-25

@@ -1,16 +1,19 @@
 name: Streets of Rage
-comment: ''
-sub-series: []
+comment: null
+sub-series: null
 games:
     Streets of Rage 2:
         genres: []
         platforms: []
+        release_year: null
     Streets of Rage 2 Syndicate Wars (hack):
         genres: []
         platforms: []
+        release_year: null
     Streets of Rage 4:
         genres: []
         platforms: []
+        release_year: null
 randomizers:
 -   games:
     - Streets of Rage 2
@@ -18,11 +21,11 @@ randomizers:
     identifier: SoR2 Level Editor
     url: https://www.romhacking.net/utilities/1634/
     comment: Level editor with bundled randomizer
-    updated-date: 1900-01-01
-    added-date: 1900-01-01
+    info-updated: 2024-05-25
+    added-date: 2024-05-25
 -   games:
     - Streets of Rage 4
     identifier: Swapper
     url: https://sourceforge.net/projects/sor4-character-swapper/
-    updated-date: 1900-01-01
-    added-date: 1900-01-01
+    info-updated: 2024-05-25
+    added-date: 2024-05-25

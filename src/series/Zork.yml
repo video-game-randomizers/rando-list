@@ -1,15 +1,16 @@
 name: Zork
-comment: ''
-sub-series: []
+comment: null
+sub-series: null
 games:
     'Zork: Grand Inquisitor':
         genres: []
         platforms: []
+        release_year: null
 randomizers:
 -   games:
     - 'Zork: Grand Inquisitor'
     identifier: Archipelago
     url: https://archipelago.gg/tutorial/#Zork%20Grand%20Inquisitor
     multiworld: Archipelago
-    updated-date: 1900-01-01
-    added-date: 1900-01-01
+    info-updated: 2024-05-25
+    added-date: 2024-05-25

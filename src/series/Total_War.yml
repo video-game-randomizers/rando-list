@@ -1,18 +1,20 @@
 name: Total War
-comment: ''
-sub-series: []
+comment: null
+sub-series: null
 games:
     'Rome: Total War':
         genres: []
         platforms: []
+        release_year: null
     'Total War: Rome Remastered':
         genres: []
         platforms: []
+        release_year: null
 randomizers:
 -   games:
     - 'Rome: Total War'
     - 'Total War: Rome Remastered'
     identifier: sargeantPig's
     url: https://github.com/sargeantPig/RTWRandomiser
-    updated-date: 1900-01-01
-    added-date: 1900-01-01
+    info-updated: 2024-05-25
+    added-date: 2024-05-25

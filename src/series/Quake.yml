@@ -1,13 +1,15 @@
 name: Quake
-comment: ''
-sub-series: []
+comment: null
+sub-series: null
 games:
     Quake:
         genres: []
         platforms: []
+        release_year: null
     Quake II:
         genres: []
         platforms: []
+        release_year: null
 randomizers:
 -   games:
     - Quake
@@ -15,17 +17,17 @@ randomizers:
     identifier: OBLIGE
     url: https://sourceforge.net/projects/oblige/files/Oblige/4.28/
     comment: '4.28 supported Hexen: Beyond Heretic / Quake / Quake II'
-    updated-date: 1900-01-01
-    added-date: 1900-01-01
+    info-updated: 2024-05-25
+    added-date: 2024-05-25
 -   games:
     - Quake
     identifier: RandoQ
     url: https://www.reddit.com/r/quake/comments/q3d0mc/quake_randomizer_updated_for_the_quake_rerelease/
-    updated-date: 1900-01-01
-    added-date: 1900-01-01
+    info-updated: 2024-05-25
+    added-date: 2024-05-25
 -   games:
     - Quake II
     identifier: Campaign Randomizer
     url: https://www.nexusmods.com/quake2/mods/6
-    updated-date: 1900-01-01
-    added-date: 1900-01-01
+    info-updated: 2024-05-25
+    added-date: 2024-05-25

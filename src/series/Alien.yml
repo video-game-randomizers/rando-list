@@ -1,14 +1,15 @@
 name: Alien
-comment: ''
-sub-series: []
+comment: null
+sub-series: null
 games:
     'Alien: Isolation':
         genres: []
         platforms: []
+        release_year: null
 randomizers:
 -   games:
     - 'Alien: Isolation'
     identifier: Mission Randomiser
     url: https://www.nexusmods.com/alienisolation/mods/47
-    updated-date: 1900-01-01
-    added-date: 1900-01-01
+    info-updated: 2024-05-25
+    added-date: 2024-05-25

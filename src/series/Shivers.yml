@@ -1,22 +1,23 @@
 name: Shivers
-comment: ''
-sub-series: []
+comment: null
+sub-series: null
 games:
     Shivers:
         genres: []
         platforms: []
+        release_year: null
 randomizers:
 -   games:
     - Shivers
     identifier: GodlFire's
     url: https://www.speedrun.com/shivers/resources
     comment: Located under Tools - [Source code](https://github.com/GodlFire/Shivers-Randomizer-CSharp)
-    updated-date: 1900-01-01
-    added-date: 1900-01-01
+    info-updated: 2024-05-25
+    added-date: 2024-05-25
 -   games:
     - Shivers
     identifier: Archipelago
     url: https://archipelago.gg/tutorial/#Shivers
     multiworld: Archipelago
-    updated-date: 1900-01-01
-    added-date: 1900-01-01
+    info-updated: 2024-05-25
+    added-date: 2024-05-25

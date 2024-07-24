@@ -1,15 +1,16 @@
 name: A Short Hike
-comment: ''
-sub-series: []
+comment: null
+sub-series: null
 games:
     A Short Hike:
         genres: []
         platforms: []
+        release_year: null
 randomizers:
 -   games:
     - A Short Hike
     identifier: Archipelago
     url: https://archipelago.gg/games/A%20Short%20Hike/info/en
     multiworld: Archipelago
-    updated-date: 1900-01-01
-    added-date: 1900-01-01
+    info-updated: 2024-05-25
+    added-date: 2024-05-25

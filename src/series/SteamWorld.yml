@@ -1,23 +1,25 @@
 name: SteamWorld
-comment: ''
-sub-series: []
+comment: null
+sub-series: null
 games:
     SteamWorld Dig:
         genres: []
         platforms: []
+        release_year: null
     SteamWorld Dig 2:
         genres: []
         platforms: []
+        release_year: null
 randomizers:
 -   games:
     - SteamWorld Dig
     identifier: LiveSplit.SteamWorldDig.Randomizer
     url: https://github.com/clementgallet/LiveSplit.SteamWorldDig.Randomizer
-    updated-date: 1900-01-01
-    added-date: 1900-01-01
+    info-updated: 2024-05-25
+    added-date: 2024-05-25
 -   games:
     - SteamWorld Dig 2
     identifier: SWD2Randomizer
     url: https://github.com/clementgallet/SWD2Randomizer
-    updated-date: 1900-01-01
-    added-date: 1900-01-01
+    info-updated: 2024-05-25
+    added-date: 2024-05-25

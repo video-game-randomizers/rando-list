@@ -1,42 +1,43 @@
 name: Stardew Valley
-comment: ''
-sub-series: []
+comment: null
+sub-series: null
 games:
     Stardew Valley:
         genres: []
         platforms: []
+        release_year: null
 randomizers:
 -   games:
     - Stardew Valley
     identifier: Community Center Bundles Randomizer
     url: https://www.nexusmods.com/stardewvalley/mods/20425
-    updated-date: 1900-01-01
-    added-date: 1900-01-01
+    info-updated: 2024-05-25
+    added-date: 2024-05-25
 -   games:
     - Stardew Valley
     identifier: More Random Edition
     url: https://github.com/chikakoo/stardew-valley-randomizer
     comment: Unofficial [compatibility fix for newer SMAPI versions](https://www.nexusmods.com/stardewvalley/mods/16921)
-    updated-date: 1900-01-01
-    added-date: 1900-01-01
+    info-updated: 2024-05-25
+    added-date: 2024-05-25
 -   games:
     - Stardew Valley
     identifier: Queen of Sauce Randomizer
     url: https://www.nexusmods.com/stardewvalley/mods/7151
-    updated-date: 1900-01-01
-    added-date: 1900-01-01
+    info-updated: 2024-05-25
+    added-date: 2024-05-25
 -   games:
     - Stardew Valley
     identifier: Tooshi's
     url: https://stardewvalley.curseforge.com/projects/stardew-valley-randomizer
     obsolete: true
     comment: '[Source code](https://github.com/cTooshi/stardew-valley-randomizer)'
-    updated-date: 1900-01-01
-    added-date: 1900-01-01
+    info-updated: 2024-05-25
+    added-date: 2024-05-25
 -   games:
     - Stardew Valley
     identifier: Archipelago
     url: https://archipelago.gg/tutorial/#Stardew%20Valley
     multiworld: Archipelago
-    updated-date: 1900-01-01
-    added-date: 1900-01-01
+    info-updated: 2024-05-25
+    added-date: 2024-05-25

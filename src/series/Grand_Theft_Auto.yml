@@ -1,14 +1,15 @@
 name: Grand Theft Auto
-comment: ''
-sub-series: []
+comment: null
+sub-series: null
 games:
     'Grand Theft Auto: San Andreas':
         genres: []
         platforms: []
+        release_year: null
 randomizers:
 -   games:
     - 'Grand Theft Auto: San Andreas'
     identifier: Rainbomizer
     url: https://github.com/Parik27/SA.Rainbomizer
-    updated-date: 1900-01-01
-    added-date: 1900-01-01
+    info-updated: 2024-05-25
+    added-date: 2024-05-25

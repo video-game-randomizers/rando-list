@@ -1,20 +1,21 @@
 name: Bloodstained
-comment: ''
-sub-series: []
+comment: null
+sub-series: null
 games:
     'Bloodstained: Ritual of the Night':
         genres: []
         platforms: []
+        release_year: null
 randomizers:
 -   games:
     - 'Bloodstained: Ritual of the Night'
     identifier: Randomization Generator
     url: https://www.nexusmods.com/bloodstainedritualofthenight/mods/135
-    updated-date: 1900-01-01
-    added-date: 1900-01-01
+    info-updated: 2024-05-25
+    added-date: 2024-05-25
 -   games:
     - 'Bloodstained: Ritual of the Night'
     identifier: Randomizer Tweaks and True Randomization Script
     url: https://www.nexusmods.com/bloodstainedritualofthenight/mods/132
-    updated-date: 1900-01-01
-    added-date: 1900-01-01
+    info-updated: 2024-05-25
+    added-date: 2024-05-25

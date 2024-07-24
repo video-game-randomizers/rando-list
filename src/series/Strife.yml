@@ -1,11 +1,12 @@
 name: Strife
-comment: ''
+comment: null
 sub-series:
 - id Software engines
 games:
     Strife:
         genres: []
         platforms: []
+        release_year: null
         sub-series: id Software engines
 randomizers:
 -   games:
@@ -13,23 +14,23 @@ randomizers:
     identifier: CustomDoom
     url: https://forum.zdoom.org/viewtopic.php?f=45&t=51446
     obsolete: true
-    updated-date: 1900-01-01
-    added-date: 1900-01-01
+    info-updated: 2024-05-25
+    added-date: 2024-05-25
 -   games:
     - Strife
     identifier: Universal Custom Doom
     url: https://forum.zdoom.org/viewtopic.php?f=43&t=64678
-    updated-date: 1900-01-01
-    added-date: 1900-01-01
+    info-updated: 2024-05-25
+    added-date: 2024-05-25
 -   games:
     - Strife
     identifier: Universal Entropy
     url: https://www.moddb.com/mods/universal-entropy
-    updated-date: 1900-01-01
-    added-date: 1900-01-01
+    info-updated: 2024-05-25
+    added-date: 2024-05-25
 -   games:
     - Strife
     identifier: OBSIDIAN
     url: https://obsidian-level-maker.github.io/index.html
-    updated-date: 1900-01-01
-    added-date: 1900-01-01
+    info-updated: 2024-05-25
+    added-date: 2024-05-25

@@ -1,24 +1,26 @@
 name: Golf
-comment: ''
-sub-series: []
+comment: null
+sub-series: null
 games:
     Golf (NES):
         genres: []
         platforms: []
+        release_year: null
     NES Open Tournament Golf:
         genres: []
         platforms: []
+        release_year: null
 randomizers:
 -   games:
     - Golf (NES)
     identifier: gameboy9's
     url: https://github.com/gameboy9/golfRando/releases
-    updated-date: 1900-01-01
-    added-date: 1900-01-01
+    info-updated: 2024-05-25
+    added-date: 2024-05-25
 -   games:
     - NES Open Tournament Golf
     identifier: Turbulent Eddie's
     url: https://gist.github.com/TurbulentEddie/4e8fb8e52f64a99dfeb0
     comment: Requires special emulator [FCEUX](https://sourceforge.net/projects/fceultra/files/Binaries/)
-    updated-date: 1900-01-01
-    added-date: 1900-01-01
+    info-updated: 2024-05-25
+    added-date: 2024-05-25

@@ -1,14 +1,15 @@
 name: Star Control
-comment: ''
-sub-series: []
+comment: null
+sub-series: null
 games:
     The Ur-Quan Masters (Star Control II open source port):
         genres: []
         platforms: []
+        release_year: null
 randomizers:
 -   games:
     - The Ur-Quan Masters (Star Control II open source port)
     identifier: Infinite Ur Quan Masters
     url: https://www.infiniteurquanmasters.com/
-    updated-date: 1900-01-01
-    added-date: 1900-01-01
+    info-updated: 2024-05-25
+    added-date: 2024-05-25

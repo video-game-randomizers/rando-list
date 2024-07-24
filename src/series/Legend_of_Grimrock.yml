@@ -1,23 +1,25 @@
 name: Legend of Grimrock
-comment: ''
-sub-series: []
+comment: null
+sub-series: null
 games:
     Legend of Grimrock:
         genres: []
         platforms: []
+        release_year: null
     Legend of Grimrock 2:
         genres: []
         platforms: []
+        release_year: null
 randomizers:
 -   games:
     - Legend of Grimrock
     identifier: Random Dungeon
     url: https://www.nexusmods.com/grimrock/mods/148
-    updated-date: 1900-01-01
-    added-date: 1900-01-01
+    info-updated: 2024-05-25
+    added-date: 2024-05-25
 -   games:
     - Legend of Grimrock 2
     identifier: 7Soul's
     url: https://www.grimrock.net/forum/viewtopic.php?f=23&t=18602
-    updated-date: 1900-01-01
-    added-date: 1900-01-01
+    info-updated: 2024-05-25
+    added-date: 2024-05-25

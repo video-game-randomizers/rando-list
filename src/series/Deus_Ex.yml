@@ -1,20 +1,17 @@
 name: Deus Ex
-comment: ''
-sub-series: []
+comment: null
+sub-series: null
 games:
     Deus Ex:
-        genres:
-        - RPG
-        - Shooter
-        platforms:
-        - PC
+        genres: [RPG, Shooter]
+        platforms: [PC]
+        release_year: 2000
 randomizers:
 -   games:
     - Deus Ex
     identifier: Die4Ever's
     url: https://mods4ever.com/project/DXRando
-    comment: 'Supports the regular vanilla game and also the mods: GMDX, HX, Lay D
-        Denton, Revision, and Vanilla? Madder.'
+    comment: "Supports the regular vanilla game and also the mods: GMDX, HX, Lay D Denton, Revision, and Vanilla? Madder."
     opensource: true
-    updated-date: 1900-01-01
-    added-date: 1900-01-01
+    added-date: 2024-05-25
+    info-updated: 2024-06-19

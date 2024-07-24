@@ -1,25 +1,27 @@
 name: Divinity
-comment: ''
-sub-series: []
+comment: null
+sub-series: null
 games:
     'Divinity: Original Sin 2':
         genres: []
         platforms: []
+        release_year: null
     'Divinity: Original Sin 2 - Definitive Edition':
         genres: []
         platforms: []
+        release_year: null
 randomizers:
 -   games:
     - 'Divinity: Original Sin 2'
     identifier: Enemy Randomization
     url: https://www.nexusmods.com/divinityoriginalsin2/mods/110
     comment: Also on [Steam Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=1155733310)
-    updated-date: 1900-01-01
-    added-date: 1900-01-01
+    info-updated: 2024-05-25
+    added-date: 2024-05-25
 -   games:
     - 'Divinity: Original Sin 2 - Definitive Edition'
     identifier: Enemy Randomization
     url: https://www.nexusmods.com/divinityoriginalsin2definitiveedition/mods/9
     comment: Also on [Steam Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=1499465417)
-    updated-date: 1900-01-01
-    added-date: 1900-01-01
+    info-updated: 2024-05-25
+    added-date: 2024-05-25

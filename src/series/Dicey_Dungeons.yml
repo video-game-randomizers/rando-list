@@ -1,14 +1,15 @@
 name: Dicey Dungeons
-comment: ''
-sub-series: []
+comment: null
+sub-series: null
 games:
     Dicey Dungeons:
         genres: []
         platforms: []
+        release_year: null
 randomizers:
 -   games:
     - Dicey Dungeons
     identifier: Random Equipment
     url: https://xangelmoonx.itch.io/random-equipment
-    updated-date: 1900-01-01
-    added-date: 1900-01-01
+    info-updated: 2024-05-25
+    added-date: 2024-05-25

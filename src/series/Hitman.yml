@@ -1,14 +1,15 @@
 name: Hitman
-comment: ''
-sub-series: []
+comment: null
+sub-series: null
 games:
     Hitman World of Assassination:
         genres: []
         platforms: []
+        release_year: null
 randomizers:
 -   games:
     - Hitman World of Assassination
     identifier: ZHM5Randomizer
     url: https://github.com/pawREP/ZHM5Randomizer
-    updated-date: 1900-01-01
-    added-date: 1900-01-01
+    info-updated: 2024-05-25
+    added-date: 2024-05-25

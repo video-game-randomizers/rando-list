@@ -1,21 +1,22 @@
 name: StarCraft
-comment: ''
-sub-series: []
+comment: null
+sub-series: null
 games:
     StarCraft II:
         genres: []
         platforms: []
+        release_year: null
 randomizers:
 -   games:
     - StarCraft II
     identifier: Balance Patch Randomizer
     url: https://github.com/Die4Ever/starcraft-2-randomizer
-    updated-date: 1900-01-01
-    added-date: 1900-01-01
+    info-updated: 2024-05-25
+    added-date: 2024-05-25
 -   games:
     - StarCraft II
     identifier: Archipelago
     url: https://archipelago.gg/tutorial/#Starcraft%202
     multiworld: Archipelago
-    updated-date: 1900-01-01
-    added-date: 1900-01-01
+    info-updated: 2024-05-25
+    added-date: 2024-05-25

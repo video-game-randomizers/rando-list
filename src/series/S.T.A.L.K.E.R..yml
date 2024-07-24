@@ -1,14 +1,15 @@
 name: S.T.A.L.K.E.R.
-comment: ''
-sub-series: []
+comment: null
+sub-series: null
 games:
     'S.T.A.L.K.E.R.: Shadow of Chernobyl':
         genres: []
         platforms: []
+        release_year: null
 randomizers:
 -   games:
     - 'S.T.A.L.K.E.R.: Shadow of Chernobyl'
     identifier: Simple Randomizer
     url: https://www.moddb.com/games/stalker/downloads/simple-randomizer-for-shadow-of-chernobyl
-    updated-date: 1900-01-01
-    added-date: 1900-01-01
+    info-updated: 2024-05-25
+    added-date: 2024-05-25

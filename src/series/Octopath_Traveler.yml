@@ -1,29 +1,31 @@
 name: Octopath Traveler
-comment: ''
-sub-series: []
+comment: null
+sub-series: null
 games:
     Octopath Traveler:
         genres: []
         platforms: []
+        release_year: null
     Octopath Traveler II:
         genres: []
         platforms: []
+        release_year: null
 randomizers:
 -   games:
     - Octopath Traveler
     identifier: Boss Randomizer
     url: https://github.com/mastermind1919/OctopathBossRandomizer
-    updated-date: 1900-01-01
-    added-date: 1900-01-01
+    info-updated: 2024-05-25
+    added-date: 2024-05-25
 -   games:
     - Octopath Traveler
     identifier: Job Randomizer
     url: https://github.com/MarvinXLII/OctopathTravelerJobRandomizer
-    updated-date: 1900-01-01
-    added-date: 1900-01-01
+    info-updated: 2024-05-25
+    added-date: 2024-05-25
 -   games:
     - Octopath Traveler II
     identifier: MarvinXLII's
     url: https://github.com/MarvinXLII/OT2R
-    updated-date: 1900-01-01
-    added-date: 1900-01-01
+    info-updated: 2024-05-25
+    added-date: 2024-05-25

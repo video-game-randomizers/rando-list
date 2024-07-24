@@ -1,28 +1,29 @@
 name: Tunic
-comment: ''
-sub-series: []
+comment: null
+sub-series: null
 games:
     Tunic:
         genres: []
         platforms: []
+        release_year: null
 randomizers:
 -   games:
     - Tunic
     identifier: Item Randomizer
     url: https://github.com/Dr4g0nsoul/TunicRandomizer
     obsolete: true
-    updated-date: 1900-01-01
-    added-date: 1900-01-01
+    info-updated: 2024-05-25
+    added-date: 2024-05-25
 -   games:
     - Tunic
     identifier: SilentDestroyer's
     url: https://github.com/silent-destroyer/tunic-randomizer
-    updated-date: 1900-01-01
-    added-date: 1900-01-01
+    info-updated: 2024-05-25
+    added-date: 2024-05-25
 -   games:
     - Tunic
     identifier: Archipelago
     url: https://archipelago.gg/tutorial/#TUNIC
     multiworld: Archipelago
-    updated-date: 1900-01-01
-    added-date: 1900-01-01
+    info-updated: 2024-05-25
+    added-date: 2024-05-25

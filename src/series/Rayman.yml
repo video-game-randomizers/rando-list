@@ -1,14 +1,15 @@
 name: Rayman
-comment: ''
-sub-series: []
+comment: null
+sub-series: null
 games:
     'Rayman 3: Hoodlum Havoc':
         genres: []
         platforms: []
+        release_year: null
 randomizers:
 -   games:
     - 'Rayman 3: Hoodlum Havoc'
     identifier: Crate Mod Loader
     url: https://github.com/TheBetaM/CrateModLoader
-    updated-date: 1900-01-01
-    added-date: 1900-01-01
+    info-updated: 2024-05-25
+    added-date: 2024-05-25

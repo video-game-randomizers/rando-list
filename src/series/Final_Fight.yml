@@ -1,13 +1,15 @@
 name: Final Fight
-comment: ''
-sub-series: []
+comment: null
+sub-series: null
 games:
     Final Fight AE (Final Fight hack):
         genres: []
         platforms: []
+        release_year: null
     Final Fight AE CPS2 (Final Fight hack):
         genres: []
         platforms: []
+        release_year: null
 randomizers:
 -   games:
     - Final Fight AE (Final Fight hack)
@@ -16,12 +18,12 @@ randomizers:
     obsolete: true
     comment: Game editor with bundled randomizer - OBSOLETE due to the superior CPS2
         version
-    updated-date: 1900-01-01
-    added-date: 1900-01-01
+    info-updated: 2024-05-25
+    added-date: 2024-05-25
 -   games:
     - Final Fight AE CPS2 (Final Fight hack)
     identifier: FFAEE-C2
     url: https://gamehackfan.github.io/ffaee-c2/
     comment: Game editor with bundled randomizer
-    updated-date: 1900-01-01
-    added-date: 1900-01-01
+    info-updated: 2024-05-25
+    added-date: 2024-05-25

@@ -1,15 +1,16 @@
 name: SWAT
-comment: ''
-sub-series: []
+comment: null
+sub-series: null
 games:
     SWAT 4:
         genres: []
         platforms: []
+        release_year: null
 randomizers:
 -   games:
     - SWAT 4
     identifier: Infinite
     url: https://drive.google.com/file/d/1d9DpEDxMPCkl8LIst9uG7LvCQhmtaYbv/view
     comment: '[Original release forum post](https://www.gog.com/forum/swat_series/swat_4_random_missions_mod/post4)'
-    updated-date: 1900-01-01
-    added-date: 1900-01-01
+    info-updated: 2024-05-25
+    added-date: 2024-05-25

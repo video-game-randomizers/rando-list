@@ -1,14 +1,15 @@
 name: Hacx
-comment: ''
-sub-series: []
+comment: null
+sub-series: null
 games:
     Hacx:
         genres: []
         platforms: []
+        release_year: null
 randomizers:
 -   games:
     - Hacx
     identifier: OBSIDIAN
     url: https://obsidian-level-maker.github.io/index.html
-    updated-date: 1900-01-01
-    added-date: 1900-01-01
+    info-updated: 2024-05-25
+    added-date: 2024-05-25

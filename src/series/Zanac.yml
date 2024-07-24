@@ -1,14 +1,15 @@
 name: Zanac
-comment: ''
-sub-series: []
+comment: null
+sub-series: null
 games:
     Zanac:
         genres: []
         platforms: []
+        release_year: null
 randomizers:
 -   games:
     - Zanac
     identifier: Omaha's
     url: https://www.zanacga.me/
-    updated-date: 1900-01-01
-    added-date: 1900-01-01
+    info-updated: 2024-05-25
+    added-date: 2024-05-25

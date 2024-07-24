@@ -1,14 +1,15 @@
 name: Quest
-comment: ''
-sub-series: []
+comment: null
+sub-series: null
 games:
     Quest 64:
         genres: []
         platforms: []
+        release_year: null
 randomizers:
 -   games:
     - Quest 64
     identifier: Merrow
     url: https://hangedman.itch.io/merrow
-    updated-date: 1900-01-01
-    added-date: 1900-01-01
+    info-updated: 2024-05-25
+    added-date: 2024-05-25
