@@ -1,4 +1,33 @@
-<h3 id="{{ include.series.name }}" class="my-0"><a href="#{{ include.series.name }}"><i class="bi bi-link-45deg"></i></a> {{ include.series.name }}</h3>
+{%- assign games = "" | split: "" -%}
+{%- for game in include.series.games -%}
+    {%- assign games = games | push: game[0] -%}
+{%- endfor -%}
+{%- assign games = games | sort_natural -%}
+
+{%- assign seriesText = include.series.name -%}
+{%- assign firstGame = nil -%}
+{%- if games.size == 1 -%}
+    {%- assign firstGame = games[0] -%}
+    {%- comment -%} Series with a different name to the sole game within will have their title appended {%- endcomment -%}
+    {%- if firstGame != seriesText -%}
+        {%- assign series_suffix = ' <span class="text-muted">(SERIES)</span>' | replace: "SERIES", seriesText -%}
+    {%- else -%}
+        {%- assign series_suffix = null -%}
+    {%- endif -%}
+
+    {%- comment -%} Add release date to game listed if present {%- endcomment -%}
+    {%- assign game_data = include.series.games[firstGame] -%}
+    {%- if game_data.release_year != null -%}
+        {%- assign release_year_suffix = ' <span class="text-muted fs-5">(RELEASE)</span>' | replace: "RELEASE", game_data.release_year -%}
+    {%- else -%}
+        {%- assign release_year_suffix = null -%}
+    {%- endif -%}
+
+    {%- assign seriesText = firstGame | append: release_year_suffix | append: series_suffix -%}
+{%- endif -%}
+
+<h3 id="{{ include.series.name }}" class="my-0"><a href="#{{ include.series.name }}"><i class="bi bi-link-45deg"></i></a> {{ seriesText }}</h3>
+
 
 {%- if include.series.comment -%}
     <p>{{ include.series.comment | markdownify }}</p>
@@ -17,14 +46,12 @@
         {%- include rando.html rando=rando parent_name=include.series.name standalone=true -%}
     {%- endfor -%}
 {%- else -%}
-    {%- assign games = "" | split: "" -%}
-    {%- for game in include.series.games -%}
-        {%- assign games = games | push: game[0] -%}
-    {%- endfor -%}
-    {%- assign games = games | sort_natural -%}
-
-    {%- for game in games -%}
-        {%- include game.html series=include.series game=game -%}
-    {%- endfor -%}
+    {%- if firstGame -%}
+        {%- include game.html series=include.series game=firstGame notitle=true -%}
+    {%- else -%}
+        {%- for game in games -%}
+            {%- include game.html series=include.series game=game -%}
+        {%- endfor -%}
+    {%- endif -%}
 {%- endif -%}
 </ul>
