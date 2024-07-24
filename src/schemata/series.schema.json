@@ -67,7 +67,8 @@
           "required": [
             "genres",
             "platforms"
-          ]
+          ],
+          "additionalProperties": false
         }
       }
     },
@@ -96,7 +97,7 @@
             "description": "Identifier of the multi-series randomizer this belongs to",
             "type": "string"
           },
-          "info-updated": {
+          "updated-date": {
             "description": "Last time this entry was updated",
             "type": "string",
             "format": "date",
@@ -112,6 +113,13 @@
             "description": "Whether this randomizer is published under an [Open Source License](https://opensource.org/licenses)",
             "type": "boolean",
             "default": false
+          },
+          "comment": {
+            "type": "string"
+          },
+          "obsolete": {
+            "type": "boolean",
+            "deafult": false
           }
         },
         "required": [
@@ -120,7 +128,8 @@
           "url",
           "updated-date",
           "added-date"
-        ]
+        ],
+        "additionalProperties": false
       }
     }
   },
@@ -128,5 +137,6 @@
     "name",
     "games",
     "randomizers"
-  ]
+  ],
+  "additionalProperties": false
 }
