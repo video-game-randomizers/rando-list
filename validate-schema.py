@@ -7,6 +7,7 @@ Note that this does some monkey-patching to dodge around features of PyYAML.
 """
 import logging
 from pathlib import Path
+import re
 from jsonschema import FormatChecker
 from jsonschema.validators import extend, validate, Draft202012Validator
 import yaml, json
@@ -27,13 +28,16 @@ if __name__ == "__main__":
     
     series = {}
     for filename in Path("src/series/").glob("*"):
-        with open(filename, encoding="utf-8") as f:
-            series[filename] = yaml.safe_load(f)
-            try:
-                validate(series[filename], schema, cls=Validator)
-            except Exception as e:
-                logging.error(e, exc_info=True)
-                errored = True
+        try:
+            if re.search(r'[^a-zA-Z0-9_\-\.\(\)]', filename.stem):
+                raise RuntimeError("bad filename " + filename.name)
+            with open(filename, encoding="utf-8") as f:
+                series[filename] = yaml.safe_load(f)
+            validate(series[filename], schema, cls=Validator)
+        except Exception as e:
+            logging.error("ERROR in", filename.name)
+            logging.error(e)
+            errored = True
     
     if errored:
         exit(-1)  # Error code to cause gh actions failure
