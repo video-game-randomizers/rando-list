@@ -32,14 +32,14 @@
 <p>
     {%- if game_data.sub-series -%}
         {{ game_data.sub-series }}
-        {%- if game_data.genres.size > 0 || game_data.platforms.size > 0 -%}
+        {% if game_data.genres.size > 0 || game_data.platforms.size > 0 %}
          | 
-        {%- endif -%}
+        {% endif %}
     {%- endif -%}
     {{ game_data.genres | join: ", " }}
-    {%- if game_data.genres.size > 0 && game_data.platforms.size > 0 -%}
+    {% if game_data.genres.size > 0 && game_data.platforms.size > 0 %}
      | 
-    {%- endif -%}
+    {% endif %}
     {{ game_data.platforms | join: ", " }}
 </p>
 
