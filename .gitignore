@@ -1,2 +1,4 @@
 src/_site
 src/Gemfile.lock
+respell-schema.py
+.vscode/

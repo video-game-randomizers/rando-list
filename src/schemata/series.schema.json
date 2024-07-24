@@ -1,0 +1,131 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://randomizers.debigare.com/schemata/series.schema.json",
+  "title": "Series",
+  "description": "A game series",
+  "type": "object",
+  "properties": {
+    "name": {
+      "description": "Unique Series name",
+      "type": "string"
+    },
+    "comment": {
+      "description": "Additional data relevant to a full series",
+      "type": "string"
+    },
+    "sub-series": {
+      "description": "IDs belonging to distinct subsets of the games in the series.",
+      "type": "string"
+    },
+    "games": {
+      "description": "Games belonging to this series",
+      "type": "array",
+      "items": {
+        "type": "object",
+        "patternProperties": {
+          ".": {
+            "type": "object",
+            "properties": {
+              "genres": {
+                "type": "array",
+                "items": {
+                  "type": "string",
+                  "enum": ["Adventure", "RPG", "Platformer", "Shooter", "Strategy", "Puzzle", "Survival"]
+                }
+              },
+              "platforms": {
+                "type": "array",
+                "items": {
+                    "type": "string",
+                    "enum": [
+                      "PC",
+                      "NES", "SNES", "N64", "GameCube", "Wii", "Wii U", "Switch",
+                      "GameBoy", "GBA", "DS", "3DS",
+                      "Master System", "Genesis", "Saturn", "Dreamcast",
+                      "PS1", "PS2", "PS3", "PS4", "PS5",
+                      "PSP", "Vita",
+                      "Xbox", "Xbox 360", "Xbox One", "Xbox Series",
+                      "Arcade", "MSX"
+                    ]
+                }
+              },
+              "release-date": {
+                "type": "string",
+                "format": "date"
+              },
+              "sub-series": {
+                "type": "string",
+                "description": "Key described in Series"
+              },
+              "comment": {
+                "type": "string",
+                "description": "An optional game description formatted with Markdown"
+              }
+            },
+            "required": [
+              "genres",
+              "platforms"
+            ]
+          }
+        }
+      }
+    },
+    "randomizers": {
+      "type": "array",
+      "description": "Randomizers that can randomize games in this series",
+      "items": {
+        "type": "object",
+        "properties": {
+          "games": {
+            "type": "array",
+            "items": {
+              "type": "string"
+            }
+          },
+          "identifier": {
+            "description": "Name of the randomizer - should be distinguishable from others within the series.",
+            "type": "string"
+          },
+          "url": {
+            "description": "Link to randomizer download or info page",
+            "type": "string",
+            "format": "uri"
+          },
+          "multiworld": {
+            "description": "Identifier of the multi-series randomizer this belongs to",
+            "type": "string"
+          },
+          "info-updated": {
+            "description": "Last time this entry was updated",
+            "type": "string",
+            "format": "date",
+            "default": "1900-01-01"
+          },
+          "added-date": {
+            "description": "Date this randomizer was added",
+            "type": "string",
+            "format": "date",
+            "default": "1900-01-01"
+          },
+          "opensource": {
+            "description": "Whether this randomizer is published under an [Open Source License](https://opensource.org/licenses)",
+            "type": "boolean",
+            "default": false
+          }
+        },
+        "required": [
+          "games",
+          "identifier",
+          "url",
+          "updated-date",
+          "added-date"
+        ]
+      }
+    }
+  },
+  "required": [
+    "name",
+    "games",
+    "randomizers"
+  ]
+}
