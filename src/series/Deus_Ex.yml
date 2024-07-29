@@ -8,7 +8,7 @@ games:
         - Shooter
         platforms:
         - PC
-        release-date: "2000-06-26"
+        release-date: 2000-06-26
 randomizers:
 -   games:
     - Deus Ex

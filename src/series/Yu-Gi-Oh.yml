@@ -9,8 +9,11 @@ games:
         genres: []
         platforms: []
     'Yu-Gi-Oh! Ultimate Masters: WCT 2006':
-        genres: []
-        platforms: []
+        genres:
+        - Strategy
+        platforms:
+        - GBA
+        release-date: 2006-02-23
 randomizers:
 -   games:
     - Yu-Gi-Oh! Forbidden Memories

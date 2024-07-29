@@ -11,6 +11,7 @@ games:
         platforms:
         - PC
         sub-series: Connected worlds
+        release-date: 2017-10-05
     A Short Hike:
         genres: []
         platforms: []
@@ -28,6 +29,7 @@ games:
         - Adventure
         platforms: []
         sub-series: Connected worlds
+        release-date: 2007-12-07
     Blasphemous:
         genres: []
         platforms: []
@@ -43,6 +45,7 @@ games:
         platforms:
         - PC
         sub-series: Connected worlds
+        release-date: 2023-08-18
     Bomberman Tournament:
         genres: []
         platforms: []
@@ -209,6 +212,7 @@ games:
         platforms:
         - GBA
         sub-series: Connected worlds
+        release-date: 2003-11-17
     Mega Man Battle Network 3 Blue:
         genres: []
         platforms: []
@@ -434,6 +438,7 @@ games:
         platforms:
         - GBA
         sub-series: Connected worlds
+        release-date: 2006-02-23
     Zero Project (Mega Man X3 hack):
         genres: []
         platforms: []

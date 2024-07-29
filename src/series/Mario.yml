@@ -12,6 +12,7 @@ games:
         platforms:
         - GBA
         sub-series: RPGs
+        release-date: 2003-11-17
     Mario Kart 64:
         genres: []
         platforms: []

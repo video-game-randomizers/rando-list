@@ -214,6 +214,7 @@ games:
         - DS
         - Wii U
         sub-series: Spin-offs
+        release-date: 2008-03-20
 randomizers:
 -   games:
     - (I-VII) Gens I to VI all

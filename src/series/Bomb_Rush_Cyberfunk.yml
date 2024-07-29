@@ -8,6 +8,7 @@ games:
         - Platformer
         platforms:
         - PC
+        release-date: 2023-08-18
 randomizers:
 -   games:
     - Bomb Rush Cyberfunk
