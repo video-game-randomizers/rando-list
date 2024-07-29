@@ -1,31 +1,29 @@
 name: Star Fox
-comment: null
-sub-series: null
+comment: ''
+sub-series: []
 games:
     Star Fox:
         genres: []
         platforms: []
-        release_year: null
     Star Fox 64:
         genres: []
         platforms: []
-        release_year: null
 randomizers:
 -   games:
     - Star Fox
     identifier: kandowontu's
     url: https://www.patreon.com/posts/star-fox-92309645
-    info-updated: 2024-05-25
-    added-date: 2024-05-25
+    updated-date: 1900-01-01
+    added-date: 1900-01-01
 -   games:
     - Star Fox
     identifier: Peppy's Tool
     url: https://qubedstudios.rustedlogic.net/PeppysTool.htm
-    info-updated: 2024-05-25
-    added-date: 2024-05-25
+    updated-date: 1900-01-01
+    added-date: 1900-01-01
 -   games:
     - Star Fox 64
     identifier: punk7890's
     url: https://github.com/punk7890/Star-Fox-64-Randomizer
-    info-updated: 2024-05-25
-    added-date: 2024-05-25
+    updated-date: 1900-01-01
+    added-date: 1900-01-01

@@ -1,16 +1,15 @@
 name: The Talos Principle
-comment: null
-sub-series: null
+comment: ''
+sub-series: []
 games:
     The Talos Principle:
         genres: []
         platforms: []
-        release_year: null
 randomizers:
 -   games:
     - The Talos Principle
     identifier: apple1417's
     url: https://github.com/apple1417/Talos-Randomizer
     comment: Randomizes portals & sigils - Also on [Steam Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=1244163099)
-    info-updated: 2024-05-25
-    added-date: 2024-05-25
+    updated-date: 1900-01-01
+    added-date: 1900-01-01

@@ -1,15 +1,14 @@
 name: Turok
-comment: null
-sub-series: null
+comment: ''
+sub-series: []
 games:
     Turok (Nightdive Studios):
         genres: []
         platforms: []
-        release_year: null
 randomizers:
 -   games:
     - Turok (Nightdive Studios)
     identifier: Behemoth's
     url: https://turoksanctum.com/randomizer/
-    info-updated: 2024-05-25
-    added-date: 2024-05-25
+    updated-date: 1900-01-01
+    added-date: 1900-01-01

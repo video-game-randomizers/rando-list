@@ -17,8 +17,9 @@
 
     {%- comment -%} Add release date to game listed if present {%- endcomment -%}
     {%- assign game_data = include.series.games[firstGame] -%}
-    {%- if game_data.release_year != null -%}
-        {%- assign release_year_suffix = ' <span class="text-muted fs-5">(RELEASE)</span>' | replace: "RELEASE", game_data.release_year -%}
+    {%- assign release_year = game_data.release-date | split: "-" | first -%}
+    {%- if release_year != null -%}
+        {%- assign release_year_suffix = ' <span class="text-muted fs-5">(RELEASE)</span>' | replace: "RELEASE", release_year -%}
     {%- else -%}
         {%- assign release_year_suffix = null -%}
     {%- endif -%}

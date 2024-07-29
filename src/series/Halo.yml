@@ -1,26 +1,24 @@
 name: Halo
-comment: null
-sub-series: null
+comment: ''
+sub-series: []
 games:
     Halo 3 (The Master Chief Collection):
         genres: []
         platforms: []
-        release_year: null
     'Halo: Combat Evolved Anniversary (The Master Chief Collection)':
         genres: []
         platforms: []
-        release_year: null
 randomizers:
 -   games:
     - 'Halo: Combat Evolved Anniversary (The Master Chief Collection)'
     identifier: Enemy Randomizer
     url: https://github.com/Burnt-o/CEER
-    info-updated: 2024-05-25
-    added-date: 2024-05-25
+    updated-date: 1900-01-01
+    added-date: 1900-01-01
 -   games:
     - Halo 3 (The Master Chief Collection)
     identifier: NPC Weapon Randomzier
     url: https://www.nexusmods.com/halothemasterchiefcollection/mods/2326
     comment: Also on [Steam Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=2974714610)
-    info-updated: 2024-05-25
-    added-date: 2024-05-25
+    updated-date: 1900-01-01
+    added-date: 1900-01-01

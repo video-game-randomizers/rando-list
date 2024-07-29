@@ -1,21 +1,20 @@
 name: Darkest Dungeon
-comment: null
-sub-series: null
+comment: ''
+sub-series: []
 games:
     Darkest Dungeon:
         genres: []
         platforms: []
-        release_year: null
 randomizers:
 -   games:
     - Darkest Dungeon
     identifier: ddrand
     url: https://cdn.discordapp.com/attachments/1140465134066741309/1147430562450116648/ddrand-v0.2.0-x86_64-windows-msvc.zip
-    info-updated: 2024-05-25
-    added-date: 2024-05-25
+    updated-date: 1900-01-01
+    added-date: 1900-01-01
 -   games:
     - Darkest Dungeon
     identifier: TheUnlocked's
     url: https://github.com/TheUnlocked/DarkestDungeonRandomizer/releases
-    info-updated: 2024-05-25
-    added-date: 2024-05-25
+    updated-date: 1900-01-01
+    added-date: 1900-01-01

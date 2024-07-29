@@ -1,5 +1,5 @@
 name: Multi-series
-comment: null
+comment: ''
 sub-series:
 - Connected worlds
 - id Software engines
@@ -10,38 +10,33 @@ games:
         - Platformer
         platforms:
         - PC
-        release_year: 2017
         sub-series: Connected worlds
+        release-date: 2017-10-05
     A Short Hike:
         genres: []
         platforms: []
-        release_year: null
         sub-series: Connected worlds
     AM2R (Metroid fangame):
         genres: []
         platforms: []
-        release_year: null
         sub-series: Connected worlds
     Adventure:
         genres: []
         platforms: []
-        release_year: null
         sub-series: Connected worlds
     Aquaria:
         genres:
         - Adventure
         platforms: []
-        release_year: 2007
         sub-series: Connected worlds
+        release-date: 2007-12-07
     Blasphemous:
         genres: []
         platforms: []
-        release_year: null
         sub-series: Connected worlds
     Blood (1998):
         genres: []
         platforms: []
-        release_year: null
         sub-series: Other
     Bomb Rush Cyberfunk:
         genres:
@@ -49,510 +44,412 @@ games:
         - Platformer
         platforms:
         - PC
-        release_year: 2023
         sub-series: Connected worlds
+        release-date: 2023-08-18
     Bomberman Tournament:
         genres: []
         platforms: []
-        release_year: null
         sub-series: Connected worlds
     Breath of Fire:
         genres: []
         platforms: []
-        release_year: null
         sub-series: Other
     Castlevania (Nintendo 64):
         genres: []
         platforms: []
-        release_year: null
         sub-series: Connected worlds
     'Castlevania: Harmony of Dissonance':
         genres: []
         platforms: []
-        release_year: null
         sub-series: Connected worlds
     Cave Story:
         genres: []
         platforms: []
-        release_year: null
         sub-series: Connected worlds
     Cave Story+:
         genres: []
         platforms: []
-        release_year: null
         sub-series: Connected worlds
     'Celeste 64: Fragments of the Mountain':
         genres: []
         platforms: []
-        release_year: null
         sub-series: Connected worlds
     Chex Quest:
         genres: []
         platforms: []
-        release_year: null
         sub-series: id Software engines
     Chex Quest 3 (fangame):
         genres: []
         platforms: []
-        release_year: null
         sub-series: id Software engines
     Crash Bandicoot:
         genres: []
         platforms: []
-        release_year: null
         sub-series: Other
     'Crash Bandicoot 2: Cortex Strikes Back':
         genres: []
         platforms: []
-        release_year: null
         sub-series: Other
     'Crash Bandicoot: The Wrath of Cortex':
         genres: []
         platforms: []
-        release_year: null
         sub-series: Other
     'Crash Bandicoot: Warped':
         genres: []
         platforms: []
-        release_year: null
         sub-series: Other
     Crash Nitro Kart:
         genres: []
         platforms: []
-        release_year: null
         sub-series: Other
     Crash Tag Team Racing:
         genres: []
         platforms: []
-        release_year: null
         sub-series: Other
     Crash Twinsanity:
         genres: []
         platforms: []
-        release_year: null
         sub-series: Other
     DLC Quest:
         genres: []
         platforms: []
-        release_year: null
         sub-series: Connected worlds
     Dark Souls III:
         genres: []
         platforms: []
-        release_year: null
         sub-series: Connected worlds
     'Donkey Kong Country 3: Dixie Kong''s Double Trouble':
         genres: []
         platforms: []
-        release_year: null
         sub-series: Connected worlds
     Doom (Ultimate):
         genres: []
         platforms: []
-        release_year: null
         sub-series: Connected worlds
     Doom II:
         genres: []
         platforms: []
-        release_year: null
         sub-series: Connected worlds
     Duke Nukem 3D:
         genres: []
         platforms: []
-        release_year: null
         sub-series: Other
     Factorio:
         genres: []
         platforms: []
-        release_year: null
         sub-series: Connected worlds
     Final Doom:
         genres: []
         platforms: []
-        release_year: null
         sub-series: id Software engines
     Final Fantasy:
         genres: []
         platforms: []
-        release_year: null
         sub-series: Connected worlds
     Final Fantasy Mystic Quest:
         genres: []
         platforms: []
-        release_year: null
         sub-series: Connected worlds
     Hacx:
         genres: []
         platforms: []
-        release_year: null
         sub-series: id Software engines
     Haiku, the Robot:
         genres: []
         platforms: []
-        release_year: null
         sub-series: Connected worlds
     Harmony (fangame):
         genres: []
         platforms: []
-        release_year: null
         sub-series: id Software engines
     Hebereke:
         genres: []
         platforms: []
-        release_year: null
         sub-series: Other
     Heretic:
         genres: []
         platforms: []
-        release_year: null
         sub-series: Connected worlds
     'Hexen: Beyond Heretic':
         genres: []
         platforms: []
-        release_year: null
         sub-series: id Software engines
     Hollow Knight:
         genres: []
         platforms: []
-        release_year: null
         sub-series: Connected worlds
     Hylics 2:
         genres: []
         platforms: []
-        release_year: null
         sub-series: Connected worlds
     Ion Fury:
         genres: []
         platforms: []
-        release_year: null
         sub-series: Other
     Kingdom Hearts II Final Mix:
         genres: []
         platforms: []
-        release_year: null
         sub-series: Connected worlds
     Kirby's Dream Land 3:
         genres: []
         platforms: []
-        release_year: null
         sub-series: Connected worlds
     'Landstalker: The Treasures of King Nole':
         genres: []
         platforms: []
-        release_year: null
         sub-series: Connected worlds
     Lingo (Brenton Wildes):
         genres: []
         platforms: []
-        release_year: null
         sub-series: Connected worlds
     'Lufia II: Rise of the Sinistrals':
         genres: []
         platforms: []
-        release_year: null
         sub-series: Connected worlds
     'Mario & Luigi: Superstar Saga':
         genres:
         - RPG
         platforms:
         - GBA
-        release_year: 2003
         sub-series: Connected worlds
+        release-date: 2003-11-17
     Mega Man Battle Network 3 Blue:
         genres: []
         platforms: []
-        release_year: null
         sub-series: Connected worlds
     Mega Man X3:
         genres: []
         platforms: []
-        release_year: null
         sub-series: Other
     Meritous:
         genres: []
         platforms: []
-        release_year: null
         sub-series: Connected worlds
     Metroid:
         genres: []
         platforms: []
-        release_year: null
         sub-series: Connected worlds
     Metroid Dread:
         genres: []
         platforms: []
-        release_year: null
         sub-series: Connected worlds
     Metroid Prime:
         genres: []
         platforms: []
-        release_year: null
         sub-series: Connected worlds
     'Metroid Prime 2: Echoes':
         genres: []
         platforms: []
-        release_year: null
         sub-series: Connected worlds
     'Metroid: Samus Returns':
         genres: []
         platforms: []
-        release_year: null
         sub-series: Connected worlds
     'Minecraft: Java Edition':
         genres: []
         platforms: []
-        release_year: null
         sub-series: Connected worlds
     Muse Dash:
         genres: []
         platforms: []
-        release_year: null
         sub-series: Connected worlds
     Noita:
         genres: []
         platforms: []
-        release_year: null
         sub-series: Connected worlds
     Overcooked! 2:
         genres: []
         platforms: []
-        release_year: null
         sub-series: Connected worlds
-    "Pok\xE9mon Blue Version (international)":
+    Pokémon Blue Version (international):
         genres: []
         platforms: []
-        release_year: null
         sub-series: Connected worlds
-    "Pok\xE9mon Emerald Version":
+    Pokémon Emerald Version:
         genres: []
         platforms: []
-        release_year: null
         sub-series: Connected worlds
-    "Pok\xE9mon Red Version (international)":
+    Pokémon Red Version (international):
         genres: []
         platforms: []
-        release_year: null
         sub-series: Connected worlds
     PowerSlave (PC 1996):
         genres: []
         platforms: []
-        release_year: null
         sub-series: Other
     Raft:
         genres: []
         platforms: []
-        release_year: null
         sub-series: Connected worlds
     'Rayman 3: Hoodlum Havoc':
         genres: []
         platforms: []
-        release_year: null
         sub-series: Other
     'Record of Lodoss War: Deedlit in Wonder Labyrinth':
         genres: []
         platforms: []
-        release_year: null
         sub-series: Other
     Risk of Rain 2:
         genres: []
         platforms: []
-        release_year: null
         sub-series: Connected worlds
     Rogue Legacy:
         genres: []
         platforms: []
-        release_year: null
         sub-series: Connected worlds
     'Scooby-Doo: Night of 100 Frights':
         genres: []
         platforms: []
-        release_year: null
         sub-series: Other
     Secret of Evermore:
         genres: []
         platforms: []
-        release_year: null
         sub-series: Connected worlds
     Shadow Warrior (1997):
         genres: []
         platforms: []
-        release_year: null
         sub-series: Other
     Shivers:
         genres: []
         platforms: []
-        release_year: null
         sub-series: Connected worlds
     Slay the Spire:
         genres: []
         platforms: []
-        release_year: null
         sub-series: Connected worlds
     Sonic Adventure 2:
         genres: []
         platforms: []
-        release_year: null
         sub-series: Connected worlds
     Spear of Destiny:
         genres: []
         platforms: []
-        release_year: null
         sub-series: id Software engines
     'SpongeBob SquarePants: Battle for Bikini Bottom (GameCube / Xbox / PS2)':
         genres: []
         platforms: []
-        release_year: null
         sub-series: Other
     StarCraft II:
         genres: []
         platforms: []
-        release_year: null
         sub-series: Connected worlds
     Stardew Valley:
         genres: []
         platforms: []
-        release_year: null
         sub-series: Connected worlds
     Strife:
         genres: []
         platforms: []
-        release_year: null
         sub-series: id Software engines
     Subnautica:
         genres: []
         platforms: []
-        release_year: null
         sub-series: Connected worlds
     Super 3D Noah's Ark:
         genres: []
         platforms: []
-        release_year: null
         sub-series: id Software engines
     Super Mario 64:
         genres: []
         platforms: []
-        release_year: null
         sub-series: Connected worlds
     Super Mario World:
         genres: []
         platforms: []
-        release_year: null
         sub-series: Connected worlds
     Super Metroid:
         genres: []
         platforms: []
-        release_year: null
         sub-series: Connected worlds
     Terraria:
         genres: []
         platforms: []
-        release_year: null
         sub-series: Connected worlds
     The Legend of Zelda:
         genres: []
         platforms: []
-        release_year: null
         sub-series: Connected worlds
     'The Legend of Zelda: A Link to the Past':
         genres: []
         platforms: []
-        release_year: null
         sub-series: Connected worlds
     'The Legend of Zelda: Link''s Awakening DX':
         genres: []
         platforms: []
-        release_year: null
         sub-series: Connected worlds
     'The Legend of Zelda: Ocarina of Time':
         genres: []
         platforms: []
-        release_year: null
         sub-series: Connected worlds
     'The Legend of Zelda: Ocarina of Time Master Quest':
         genres: []
         platforms: []
-        release_year: null
         sub-series: Connected worlds
     The Messenger:
         genres: []
         platforms: []
-        release_year: null
         sub-series: Connected worlds
     The SpongeBob SquarePants Movie (GameCube / Xbox / PS2):
         genres: []
         platforms: []
-        release_year: null
         sub-series: Other
     The Witness:
         genres: []
         platforms: []
-        release_year: null
         sub-series: Connected worlds
     Timespinner:
         genres: []
         platforms: []
-        release_year: null
         sub-series: Connected worlds
     Touhou Luna Nights:
         genres: []
         platforms: []
-        release_year: null
         sub-series: Other
     Tunic:
         genres: []
         platforms: []
-        release_year: null
         sub-series: Connected worlds
     Undertale:
         genres: []
         platforms: []
-        release_year: null
         sub-series: Connected worlds
     VVVVVV:
         genres: []
         platforms: []
-        release_year: null
         sub-series: Connected worlds
     Wargroove:
         genres: []
         platforms: []
-        release_year: null
         sub-series: Connected worlds
     Willow (NES):
         genres: []
         platforms: []
-        release_year: null
         sub-series: Other
     Wolfenstein 3D:
         genres: []
         platforms: []
-        release_year: null
         sub-series: id Software engines
     Yoshi's Island:
         genres: []
         platforms: []
-        release_year: null
         sub-series: Connected worlds
     'Yu-Gi-Oh! Ultimate Masters: WCT 2006':
         genres: []
         platforms:
         - GBA
-        release_year: 2006
         sub-series: Connected worlds
+        release-date: 2006-02-23
     Zero Project (Mega Man X3 hack):
         genres: []
         platforms: []
-        release_year: null
         sub-series: Other
     Zillion:
         genres: []
         platforms: []
-        release_year: null
         sub-series: Connected worlds
     'Zork: Grand Inquisitor':
         genres: []
         platforms: []
-        release_year: null
         sub-series: Connected worlds
 randomizers:
 -   games:
@@ -580,8 +477,8 @@ randomizers:
     - 'Donkey Kong Country 3: Dixie Kong''s Double Trouble'
     - Dark Souls III
     - Super Mario World
-    - "Pok\xE9mon Red Version (international)"
-    - "Pok\xE9mon Blue Version (international)"
+    - Pokémon Red Version (international)
+    - Pokémon Blue Version (international)
     - Hylics 2
     - Overcooked! 2
     - Zillion
@@ -602,7 +499,7 @@ randomizers:
     - Doom (Ultimate)
     - Terraria
     - Lingo (Brenton Wildes)
-    - "Pok\xE9mon Emerald Version"
+    - Pokémon Emerald Version
     - Doom II
     - Shivers
     - Heretic
@@ -624,40 +521,40 @@ randomizers:
     url: https://archipelago.gg/
     multiworld: Archipelago
     comment: List of [additional extensions in development](https://multiworld.news/apworlds.html)
-    added-date: 2024-05-25
-    info-updated: 2024-05-25
+    updated-date: 1900-01-01
+    added-date: 1900-01-01
 -   games:
     - Hollow Knight
     - Haiku, the Robot
     identifier: Shadu's Multiworld
     url: https://github.com/Shadudev/HollowKnight.MultiWorld
     multiworld: Shadu-Multiworld
+    updated-date: 2024-05-29
     added-date: 2024-05-29
-    info-updated: 2024-05-29
 -   games:
     - 'Castlevania: Harmony of Dissonance'
     - Bomberman Tournament
     identifier: HoDBT
     url: https://hodbt.surge.sh/
     multiworld: Other
-    added-date: 2024-05-25
-    info-updated: 2024-05-25
+    updated-date: 1900-01-01
+    added-date: 1900-01-01
 -   games:
     - Super Metroid
     - 'The Legend of Zelda: A Link to the Past'
     identifier: SMZ3 Cas' Randomizer
     url: https://github.com/Vivelin/SMZ3Randomizer
     multiworld: Other
-    added-date: 2024-05-25
-    info-updated: 2024-05-25
+    updated-date: 1900-01-01
+    added-date: 1900-01-01
 -   games:
     - Super Metroid
     - 'The Legend of Zelda: A Link to the Past'
     identifier: Super Metroid and A Link to the Past Crossover Randomizer
     url: https://samus.link/
     multiworld: Other
-    added-date: 2024-05-25
-    info-updated: 2024-05-25
+    updated-date: 1900-01-01
+    added-date: 1900-01-01
 -   games:
     - AM2R (Metroid fangame)
     - Cave Story
@@ -669,16 +566,16 @@ randomizers:
     identifier: Randovania
     url: https://randovania.org/
     multiworld: Other
-    added-date: 2024-05-25
-    info-updated: 2024-05-25
+    updated-date: 1900-01-01
+    added-date: 1900-01-01
 -   games:
     - The Legend of Zelda
     - Metroid
     identifier: Z1M1
     url: https://z1m1.info/
     multiworld: Other
-    added-date: 2024-05-25
-    info-updated: 2024-05-25
+    updated-date: 1900-01-01
+    added-date: 1900-01-01
 -   games:
     - Doom (Ultimate)
     - Doom II
@@ -690,8 +587,8 @@ randomizers:
     identifier: CustomDoom
     url: https://forum.zdoom.org/viewtopic.php?f=45&t=51446
     obsolete: true
-    added-date: 2024-05-25
-    info-updated: 2024-05-25
+    updated-date: 1900-01-01
+    added-date: 1900-01-01
 -   games:
     - Doom (Ultimate)
     - Doom II
@@ -702,8 +599,8 @@ randomizers:
     - Chex Quest
     identifier: Universal Custom Doom
     url: https://forum.zdoom.org/viewtopic.php?f=43&t=64678
-    added-date: 2024-05-25
-    info-updated: 2024-05-25
+    updated-date: 1900-01-01
+    added-date: 1900-01-01
 -   games:
     - Doom (Ultimate)
     - Doom II
@@ -714,8 +611,8 @@ randomizers:
     - Chex Quest
     identifier: Universal Entropy
     url: https://www.moddb.com/mods/universal-entropy
-    added-date: 2024-05-25
-    info-updated: 2024-05-25
+    updated-date: 1900-01-01
+    added-date: 1900-01-01
 -   games:
     - Doom (Ultimate)
     - Doom II
@@ -731,8 +628,8 @@ randomizers:
     - Super 3D Noah's Ark
     identifier: OBSIDIAN
     url: https://obsidian-level-maker.github.io/index.html
-    added-date: 2024-05-25
-    info-updated: 2024-05-25
+    updated-date: 1900-01-01
+    added-date: 1900-01-01
 -   games:
     - Doom (Ultimate)
     - Doom II
@@ -741,13 +638,9 @@ randomizers:
     identifier: OBLIGE
     url: https://oblige.sourceforge.net/
     obsolete: true
-    comment: 'Unofficial [64-bit executable](https://forum.zdoom.org/viewtopic.php?f=44&t=64879)
-        - Extensive add-on [ObAddon](https://github.com/caligari87/ObAddon/) - Add-on
-        for [Brutal Doom (mod)](https://gitlab.com/CloudOfShame/BrutalOblige) - Version
-        4.28 also supported [Hexen: Beyond Heretic / Quake / Quake II](https://sourceforge.net/projects/oblige/files/Oblige/4.28/)
-        - Version 0.97 also had experimental support for [Wolfenstein 3D](https://sourceforge.net/projects/oblige/files/Oblige/0.97/)'
-    added-date: 2024-05-25
-    info-updated: 2024-05-25
+    comment: 'Unofficial [64-bit executable](https://forum.zdoom.org/viewtopic.php?f=44&t=64879) - Extensive add-on [ObAddon](https://github.com/caligari87/ObAddon/) - Add-on for [Brutal Doom (mod)](https://gitlab.com/CloudOfShame/BrutalOblige) - Version 4.28 also supported [Hexen: Beyond Heretic / Quake / Quake II](https://sourceforge.net/projects/oblige/files/Oblige/4.28/) - Version 0.97 also had experimental support for [Wolfenstein 3D](https://sourceforge.net/projects/oblige/files/Oblige/0.97/)'
+    updated-date: 1900-01-01
+    added-date: 1900-01-01
 -   games:
     - Doom (Ultimate)
     - Doom II
@@ -756,15 +649,15 @@ randomizers:
     identifier: ObHack
     url: https://samiam.org/obhack/
     obsolete: true
-    added-date: 2024-05-25
-    info-updated: 2024-05-25
+    updated-date: 1900-01-01
+    added-date: 1900-01-01
 -   games:
     - Doom (Ultimate)
     - Heretic
     identifier: MOShuffle
     url: https://forum.zdoom.org/viewtopic.php?f=43&t=72760
-    added-date: 2024-05-25
-    info-updated: 2024-05-25
+    updated-date: 1900-01-01
+    added-date: 1900-01-01
 -   games:
     - Duke Nukem 3D
     - Ion Fury
@@ -773,8 +666,8 @@ randomizers:
     - PowerSlave (PC 1996)
     identifier: Build Engine Randomizer
     url: https://github.com/Die4Ever/build-engine-randomizer
-    added-date: 2024-05-25
-    info-updated: 2024-05-25
+    updated-date: 1900-01-01
+    added-date: 1900-01-01
 -   games:
     - Crash Nitro Kart
     - Crash Twinsanity
@@ -786,8 +679,8 @@ randomizers:
     - 'Crash Bandicoot: The Wrath of Cortex'
     identifier: Crate Mod Loader
     url: https://github.com/TheBetaM/CrateModLoader
-    added-date: 2024-05-25
-    info-updated: 2024-05-25
+    updated-date: 1900-01-01
+    added-date: 1900-01-01
 -   games:
     - Hebereke
     - Willow (NES)
@@ -797,8 +690,8 @@ randomizers:
     identifier: Dan Jia Randomizers
     url: https://github.com/vinheim3/randomizers
     comment: Download code in local directory and open `index.html` to use
-    added-date: 2024-05-25
-    info-updated: 2024-05-25
+    updated-date: 1900-01-01
+    added-date: 1900-01-01
 -   games:
     - 'SpongeBob SquarePants: Battle for Bikini Bottom (GameCube / Xbox / PS2)'
     - 'Scooby-Doo: Night of 100 Frights'
@@ -806,12 +699,12 @@ randomizers:
     identifier: Industrial Park
     url: https://github.com/igorseabra4/IndustrialPark
     comment: Level editor with bundled randomizer - [User guide](https://heavyironmodding.org/wiki/Randomizer)
-    added-date: 2024-05-25
-    info-updated: 2024-05-25
+    updated-date: 1900-01-01
+    added-date: 1900-01-01
 -   games:
     - Touhou Luna Nights
     - 'Record of Lodoss War: Deedlit in Wonder Labyrinth'
     identifier: Ladybug Randomizer
     url: https://github.com/Lakifume/Ladybug-Randomizer
-    added-date: 2024-05-25
-    info-updated: 2024-05-25
+    updated-date: 1900-01-01
+    added-date: 1900-01-01

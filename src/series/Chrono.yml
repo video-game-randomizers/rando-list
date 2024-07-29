@@ -1,28 +1,27 @@
 name: Chrono
-comment: null
-sub-series: null
+comment: ''
+sub-series: []
 games:
     Chrono Trigger:
         genres: []
         platforms: []
-        release_year: null
 randomizers:
 -   games:
     - Chrono Trigger
     identifier: Eternal Nightmare
     url: https://github.com/abyssonym/eternalnightmare
-    info-updated: 2024-05-25
-    added-date: 2024-05-25
+    updated-date: 1900-01-01
+    added-date: 1900-01-01
 -   games:
     - Chrono Trigger
     identifier: Jets of Time
     url: https://ctjot.com/
-    info-updated: 2024-05-25
-    added-date: 2024-05-25
+    updated-date: 1900-01-01
+    added-date: 1900-01-01
 -   games:
     - Chrono Trigger
     identifier: Wings of Time
     url: https://github.com/Anskiy/wingsoftime
     obsolete: true
-    info-updated: 2024-05-25
-    added-date: 2024-05-25
+    updated-date: 1900-01-01
+    added-date: 1900-01-01

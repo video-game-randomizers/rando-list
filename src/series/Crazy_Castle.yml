@@ -1,15 +1,14 @@
 name: Crazy Castle
-comment: null
-sub-series: null
+comment: ''
+sub-series: []
 games:
     The Bugs Bunny Crazy Castle:
         genres: []
         platforms: []
-        release_year: null
 randomizers:
 -   games:
     - The Bugs Bunny Crazy Castle
     identifier: MaximumLance's
     url: https://github.com/MaximumLance/Crazy-Castle-Randomizer
-    info-updated: 2024-05-25
-    added-date: 2024-05-25
+    updated-date: 1900-01-01
+    added-date: 1900-01-01

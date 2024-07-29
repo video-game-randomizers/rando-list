@@ -1,22 +1,21 @@
 name: Rogue Legacy
-comment: null
-sub-series: null
+comment: ''
+sub-series: []
 games:
     Rogue Legacy:
         genres: []
         platforms: []
-        release_year: null
 randomizers:
 -   games:
     - Rogue Legacy
     identifier: Phar's
     url: https://github.com/ThePhar/RogueLegacyRandomizer
-    info-updated: 2024-05-25
-    added-date: 2024-05-25
+    updated-date: 1900-01-01
+    added-date: 1900-01-01
 -   games:
     - Rogue Legacy
     identifier: Archipelago
     url: https://archipelago.gg/tutorial/#Rogue%20Legacy
     multiworld: Archipelago
-    info-updated: 2024-05-25
-    added-date: 2024-05-25
+    updated-date: 1900-01-01
+    added-date: 1900-01-01

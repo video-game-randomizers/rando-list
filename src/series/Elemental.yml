@@ -1,15 +1,14 @@
 name: Elemental
-comment: null
-sub-series: null
+comment: ''
+sub-series: []
 games:
     Fallen Enchantress:
         genres: []
         platforms: []
-        release_year: null
 randomizers:
 -   games:
     - Fallen Enchantress
     identifier: Randomized Monsters
     url: https://www.nexusmods.com/fallenenchantress/mods/55
-    info-updated: 2024-05-25
-    added-date: 2024-05-25
+    updated-date: 1900-01-01
+    added-date: 1900-01-01

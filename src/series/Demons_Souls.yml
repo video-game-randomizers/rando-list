@@ -1,15 +1,14 @@
 name: Demon's Souls
-comment: null
-sub-series: null
+comment: ''
+sub-series: []
 games:
     Demon's Souls:
         genres: []
         platforms: []
-        release_year: null
 randomizers:
 -   games:
     - Demon's Souls
     identifier: Item Randomiser
     url: https://www.nexusmods.com/demonssouls/mods/22
-    added-date: 2024-05-25
-    info-updated: 2024-05-25
+    updated-date: 1900-01-01
+    added-date: 1900-01-01

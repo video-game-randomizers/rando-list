@@ -15,4 +15,4 @@ jobs:
           python -m pip install --upgrade pip
           pip install -r requirements.txt
       - name: Run script
-        run: python3 schemaCheck.py
+        run: python3 validate-schema.py

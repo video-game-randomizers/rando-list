@@ -1,43 +1,39 @@
 name: Shining
-comment: null
-sub-series: null
+comment: ''
+sub-series: []
 games:
     Shining Force:
         genres: []
         platforms: []
-        release_year: null
     Shining Force II:
         genres: []
         platforms: []
-        release_year: null
     Shining Force III:
         genres: []
         platforms: []
-        release_year: null
 randomizers:
 -   games:
     - Shining Force
     identifier: Join Order Randomizer
     url: https://forums.shiningforcecentral.com/viewtopic.php?t=45800
-    info-updated: 2024-05-25
-    added-date: 2024-05-25
+    updated-date: 1900-01-01
+    added-date: 1900-01-01
 -   games:
     - Shining Force II
     identifier: Scrambled Force II
     url: https://forums.shiningforcecentral.com/viewtopic.php?f=5&t=15502
-    info-updated: 2024-05-25
-    added-date: 2024-05-25
+    updated-date: 1900-01-01
+    added-date: 1900-01-01
 -   games:
     - Shining Force II
     identifier: Shining Chaos Prelude
     url: https://www.romhacking.net/hacks/5809/
-    info-updated: 2024-05-25
-    added-date: 2024-05-25
+    updated-date: 1900-01-01
+    added-date: 1900-01-01
 -   games:
     - Shining Force III
     identifier: Chaos
     url: https://sf3transftp.shiningforcecentral.com/Mods/
-    comment: More information in the [Shining Force III Translation Project Progress
-        Report May 2022](https://sf3trans.shiningforcecentral.com/2022/05/11/progress-report-may-2022/)
-    info-updated: 2024-05-25
-    added-date: 2024-05-25
+    comment: More information in the [Shining Force III Translation Project Progress Report May 2022](https://sf3trans.shiningforcecentral.com/2022/05/11/progress-report-may-2022/)
+    updated-date: 1900-01-01
+    added-date: 1900-01-01

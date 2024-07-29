@@ -1,42 +1,39 @@
 name: Breath of Fire
-comment: null
-sub-series: null
+comment: ''
+sub-series: []
 games:
     Breath of Fire:
         genres: []
         platforms: []
-        release_year: null
     Breath of Fire II:
         genres: []
         platforms: []
-        release_year: null
     Breath of Fire III:
         genres: []
         platforms: []
-        release_year: null
 randomizers:
 -   games:
     - Breath of Fire
     identifier: pelador's
     url: https://github.com/pelador/Breath-of-Fire-Rando
-    info-updated: 2024-05-25
-    added-date: 2024-05-25
+    updated-date: 1900-01-01
+    added-date: 1900-01-01
 -   games:
     - Breath of Fire
     identifier: Dan Jia Randomizers
     url: https://github.com/vinheim3/randomizers
     comment: Download code in local directory and open `index.html` to use
-    info-updated: 2024-05-25
-    added-date: 2024-05-25
+    updated-date: 1900-01-01
+    added-date: 1900-01-01
 -   games:
     - Breath of Fire II
     identifier: Painsong
     url: https://github.com/abyssonym/painsong
-    info-updated: 2024-05-25
-    added-date: 2024-05-25
+    updated-date: 1900-01-01
+    added-date: 1900-01-01
 -   games:
     - Breath of Fire III
     identifier: The Vast and the Violent
     url: https://github.com/abyssonym/vast_violence
-    info-updated: 2024-05-25
-    added-date: 2024-05-25
+    updated-date: 1900-01-01
+    added-date: 1900-01-01

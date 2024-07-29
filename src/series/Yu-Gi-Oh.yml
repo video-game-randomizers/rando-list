@@ -1,39 +1,38 @@
 name: Yu-Gi-Oh!
-comment: null
-sub-series: null
+comment: ''
+sub-series: []
 games:
     Yu-Gi-Oh! Forbidden Memories:
         genres: []
         platforms: []
-        release_year: null
     Yu-Gi-Oh! The Duelists of the Roses:
         genres: []
         platforms: []
-        release_year: null
     'Yu-Gi-Oh! Ultimate Masters: WCT 2006':
-        genres: []
-        platforms: []
-        release_year: null
+        genres:
+        - Strategy
+        platforms:
+        - GBA
+        release-date: 2006-02-23
 randomizers:
 -   games:
     - Yu-Gi-Oh! Forbidden Memories
     identifier: Complete Randomizer / Random Startdeck Mod
     url: https://www.speedrun.com/yugiohfm/resources
     comment: Located under Patches
-    added-date: 2024-05-25
-    info-updated: 2024-05-25
+    updated-date: 1900-01-01
+    added-date: 1900-01-01
 -   games:
     - Yu-Gi-Oh! The Duelists of the Roses
     identifier: GenericMadScientist's
     url: https://github.com/GenericMadScientist/DotR-Randomiser
-    added-date: 2024-05-25
-    info-updated: 2024-05-25
+    updated-date: 1900-01-01
+    added-date: 1900-01-01
 -   games:
     - 'Yu-Gi-Oh! Ultimate Masters: WCT 2006'
     identifier: Archipelago
     url: https://archipelago.gg/games/Yu-Gi-Oh!%202006/info/en
     multiworld: Archipelago
-    info-updated: 2024-07-23
-    added-date: 2024-07-23
     opensource: true
-    
+    updated-date: 2024-07-23
+    added-date: 2024-07-23

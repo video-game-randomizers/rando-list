@@ -1,15 +1,14 @@
 name: Escape the Backrooms
-comment: null
-sub-series: null
+comment: ''
+sub-series: []
 games:
     Escape the Backrooms:
         genres: []
         platforms: []
-        release_year: null
 randomizers:
 -   games:
     - Escape the Backrooms
     identifier: Reokin's
     url: https://www.nexusmods.com/escapethebackrooms/mods/20
-    info-updated: 2024-05-25
-    added-date: 2024-05-25
+    updated-date: 1900-01-01
+    added-date: 1900-01-01

@@ -1,23 +1,26 @@
 name: Palworld
-comment: null
-sub-series: null
+comment: ''
+sub-series: []
 games:
     Palworld:
-        genres: [RPG, Survival]
-        platforms: [PC]
-        release_year: 2024
+        genres:
+        - RPG
+        - Survival
+        platforms:
+        - PC
+        release-date: 2024-01-19
 randomizers:
 -   games:
     - Palworld
     identifier: Overworld Spawn Randomizer
     url: https://github.com/DavidEMorales/PalworldOverworldSpawnRandomizer
-    info-updated: 2024-05-25
-    added-date: 2024-05-25
     opensource: true
+    updated-date: 1900-01-01
+    added-date: 1900-01-01
 -   games:
     - Palworld
     identifier: ComplexRobot's
     url: https://www.nexusmods.com/palworld/mods/1706
-    info-updated: 2024-07-21
-    added-date: 2024-07-21
     opensource: true
+    updated-date: 2024-07-21
+    added-date: 2024-07-21

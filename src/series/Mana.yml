@@ -1,27 +1,24 @@
 name: Mana
-comment: null
-sub-series: null
+comment: ''
+sub-series: []
 games:
     Secret of Mana:
         genres: []
         platforms: []
-        release_year: null
     Sin of Mana (Trials of Mana hack):
         genres: []
         platforms: []
-        release_year: null
 randomizers:
 -   games:
     - Secret of Mana
     identifier: Mop's
     url: https://secretofmanaancientcave.blogspot.com/
-    info-updated: 2024-05-25
-    added-date: 2024-05-25
+    updated-date: 1900-01-01
+    added-date: 1900-01-01
 -   games:
     - Sin of Mana (Trials of Mana hack)
     identifier: praetarius5018's
     url: http://ngplus.net/index.php?/files/file/28-seiken-densetsu-3-sin-of-mana/
-    comment: Randomizer listed as separate download along with previous versions of
-        the main hack
-    info-updated: 2024-05-25
-    added-date: 2024-05-25
+    comment: Randomizer listed as separate download along with previous versions of the main hack
+    updated-date: 1900-01-01
+    added-date: 1900-01-01

@@ -1,22 +1,21 @@
 name: Zillion
-comment: null
-sub-series: null
+comment: ''
+sub-series: []
 games:
     Zillion:
         genres: []
         platforms: []
-        release_year: null
 randomizers:
 -   games:
     - Zillion
     identifier: Zilliandomizer
     url: https://github.com/beauxq/zilliandomizer
-    info-updated: 2024-05-25
-    added-date: 2024-05-25
+    updated-date: 1900-01-01
+    added-date: 1900-01-01
 -   games:
     - Zillion
     identifier: Archipelago
     url: https://archipelago.gg/tutorial/#Zillion
     multiworld: Archipelago
-    info-updated: 2024-05-25
-    added-date: 2024-05-25
+    updated-date: 1900-01-01
+    added-date: 1900-01-01

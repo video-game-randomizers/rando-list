@@ -1,25 +1,23 @@
 name: Mass Effect
-comment: null
-sub-series: null
+comment: ''
+sub-series: []
 games:
     Mass Effect 2:
         genres: []
         platforms: []
-        release_year: null
     Mass Effect 2 (Legendary Edition):
         genres: []
         platforms: []
-        release_year: null
 randomizers:
 -   games:
     - Mass Effect 2
     identifier: ME3Tweaks's
     url: https://me3tweaks.com/masseffect2randomizer/
-    info-updated: 2024-05-25
-    added-date: 2024-05-25
+    updated-date: 1900-01-01
+    added-date: 1900-01-01
 -   games:
     - Mass Effect 2 (Legendary Edition)
     identifier: ME3Tweaks's
     url: https://www.nexusmods.com/masseffectlegendaryedition/mods/1952
-    info-updated: 2024-05-25
-    added-date: 2024-05-25
+    updated-date: 1900-01-01
+    added-date: 1900-01-01

@@ -1,5 +1,5 @@
 name: Castlevania
-comment: null
+comment: ''
 sub-series:
 - Classic
 - Metroidvania
@@ -8,169 +8,153 @@ games:
     Castlevania (Nintendo 64):
         genres: []
         platforms: []
-        release_year: null
     'Castlevania II: Simon''s Quest':
         genres: []
         platforms: []
-        release_year: null
         sub-series: Classic
     'Castlevania III: Dracula''s Curse':
         genres: []
         platforms: []
-        release_year: null
         sub-series: Classic
     'Castlevania: Aria of Sorrow':
         genres: []
         platforms: []
-        release_year: null
         sub-series: Metroidvania
     'Castlevania: Circle of the Moon':
         genres: []
         platforms: []
-        release_year: null
         sub-series: Metroidvania
     'Castlevania: Dawn of Sorrow':
         genres: []
         platforms: []
-        release_year: null
         sub-series: Metroidvania
     'Castlevania: Harmony of Dissonance':
         genres: []
         platforms: []
-        release_year: null
         sub-series: Metroidvania
     'Castlevania: Order of Ecclesia':
         genres: []
         platforms: []
-        release_year: null
         sub-series: Metroidvania
     'Castlevania: Portrait of Ruin':
         genres: []
         platforms: []
-        release_year: null
         sub-series: Metroidvania
     'Castlevania: Symphony of the Night':
         genres: []
         platforms: []
-        release_year: null
         sub-series: Metroidvania
     'Castlevania: Symphony of the Night (PlayStation / Saturn)':
         genres: []
         platforms: []
-        release_year: null
         sub-series: Metroidvania
     Super Castlevania IV:
         genres: []
         platforms: []
-        release_year: null
         sub-series: Classic
 randomizers:
 -   games:
     - 'Castlevania II: Simon''s Quest'
     identifier: BloodSweatAndCode's
     url: https://cv2r.kaelari.tech/
-    added-date: 2024-05-25
-    info-updated: 2024-05-25
+    updated-date: 1900-01-01
+    added-date: 1900-01-01
 -   games:
     - 'Castlevania II: Simon''s Quest'
     identifier: Deadly Curse
     url: https://abyssonym.wordpress.com/2017/10/27/castlevania-2-deadly-curse/
-    added-date: 2024-05-25
-    info-updated: 2024-05-25
+    updated-date: 1900-01-01
+    added-date: 1900-01-01
 -   games:
     - 'Castlevania III: Dracula''s Curse'
     identifier: Micheil Skeens's
     url: https://micheilskeens.com/castlevania-3-randomizer.php
-    added-date: 2024-05-25
-    info-updated: 2024-05-25
+    updated-date: 1900-01-01
+    added-date: 1900-01-01
 -   games:
     - Super Castlevania IV
     identifier: RedGuy's
     url: https://www.romhacking.net/forum/index.php?topic=22494.msg346214#msg346214
-    added-date: 2024-05-25
-    info-updated: 2024-05-25
+    updated-date: 1900-01-01
+    added-date: 1900-01-01
 -   games:
     - 'Castlevania: Symphony of the Night (PlayStation / Saturn)'
     identifier: MottZilla's Area Randomizer
     url: https://github.com/MottZilla/SOTN_AR
-    comment: 'Includes a Richter converter for Wild Mouse''s item randomizer, and
-        a standalone Maria item randomizer. Browser version here: <https://sotn.io/>'
-    added-date: 2024-05-25
-    info-updated: 2024-06-15
+    comment: 'Includes a Richter converter for Wild Mouse''s item randomizer, and a standalone Maria item randomizer. Browser version here: <https://sotn.io/>'
+    updated-date: 2024-06-15
+    added-date: 1900-01-01
 -   games:
     - 'Castlevania: Symphony of the Night (PlayStation / Saturn)'
     identifier: 3snowp7im's
     url: https://github.com/3snowp7im/SotN-Randomizer
     comment: 'Fork of MottZilla''s, browser version here: <https://sotnrando.net/>'
+    updated-date: 2024-06-15
     added-date: 2024-06-15
-    info-updated: 2024-06-15
 -   games:
     - 'Castlevania: Symphony of the Night'
     identifier: Relic Randomizer
     url: https://raw.githubusercontent.com/josephstevenspgh/SotN-Relic-Randomizer/master/relicrando.py
     obsolete: true
-    comment: Requires [Python 2](https://www.python.org/downloads/) and [PS1 2352
-        image EDC/ECC recalculator](https://www.romhacking.net/utilities/1264/) -
-        Game data to patch should be named `Castlevania - Symphony of the Night (USA)
-        (Track 1).bin`
-    added-date: 2024-05-25
-    info-updated: 2024-05-25
+    comment: Requires [Python 2](https://www.python.org/downloads/) and [PS1 2352 image EDC/ECC recalculator](https://www.romhacking.net/utilities/1264/) - Game data to patch should be named `Castlevania - Symphony of the Night (USA) (Track 1).bin`
+    updated-date: 1900-01-01
+    added-date: 1900-01-01
 -   games:
     - 'Castlevania: Symphony of the Night'
     identifier: Wild Mouse's
     url: https://sotn.io/
-    added-date: 2024-05-25
-    info-updated: 2024-05-25
+    updated-date: 1900-01-01
+    added-date: 1900-01-01
 -   games:
     - 'Castlevania: Circle of the Moon'
     identifier: calm-palm's
     url: https://github.com/calm-palm/cotm-randomizer
-    added-date: 2024-05-25
-    info-updated: 2024-05-25
+    updated-date: 1900-01-01
+    added-date: 1900-01-01
 -   games:
     - 'Castlevania: Harmony of Dissonance'
     identifier: fusecv's
     url: https://hodrando.surge.sh/
-    added-date: 2024-05-25
-    info-updated: 2024-05-25
+    updated-date: 1900-01-01
+    added-date: 1900-01-01
 -   games:
     - 'Castlevania: Harmony of Dissonance'
     identifier: HoDBT
     url: https://hodbt.surge.sh/
     multiworld: Other
     comment: 'Castlevania: Harmony of Dissonance / Bomberman Tournament multiworld'
-    added-date: 2024-05-25
-    info-updated: 2024-05-25
+    updated-date: 1900-01-01
+    added-date: 1900-01-01
 -   games:
     - 'Castlevania: Aria of Sorrow'
     identifier: Item Randomizer
     url: https://github.com/abyssonym/aos_rando
-    added-date: 2024-05-25
-    info-updated: 2024-05-25
+    updated-date: 1900-01-01
+    added-date: 1900-01-01
 -   games:
     - 'Castlevania: Aria of Sorrow'
     identifier: Randomizer 2
     url: https://aosrando.surge.sh/
-    added-date: 2024-05-25
-    info-updated: 2024-05-25
+    updated-date: 1900-01-01
+    added-date: 1900-01-01
 -   games:
     - 'Castlevania: Aria of Sorrow'
     identifier: Reprise
     url: https://www.romhacking.net/forum/index.php?topic=35962.0
-    added-date: 2024-05-25
-    info-updated: 2024-05-25
+    updated-date: 1900-01-01
+    added-date: 1900-01-01
 -   games:
     - 'Castlevania: Dawn of Sorrow'
     - 'Castlevania: Portrait of Ruin'
     - 'Castlevania: Order of Ecclesia'
     identifier: DSVania Randomizer
     url: https://github.com/LagoLunatic/dsvrandom
-    added-date: 2024-05-25
-    info-updated: 2024-05-25
+    updated-date: 1900-01-01
+    added-date: 1900-01-01
 -   games:
     - Castlevania (Nintendo 64)
     identifier: Archipelago
     url: https://archipelago.gg/games/Castlevania%2064/info/en
     multiworld: Archipelago
-    added-date: 2024-05-25
-    info-updated: 2024-05-25
+    updated-date: 1900-01-01
+    added-date: 1900-01-01

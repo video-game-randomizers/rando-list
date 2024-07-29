@@ -1,26 +1,24 @@
 name: Need for Speed
-comment: null
-sub-series: null
+comment: ''
+sub-series: []
 games:
     Need for Speed Carbon:
         genres: []
         platforms: []
-        release_year: null
     The Need for Speed:
         genres: []
         platforms: []
-        release_year: null
 randomizers:
 -   games:
     - The Need for Speed
     identifier: RandTrack
     url: https://randtrack.sourceforge.net/
-    info-updated: 2024-05-25
-    added-date: 2024-05-25
+    updated-date: 1900-01-01
+    added-date: 1900-01-01
 -   games:
     - Need for Speed Carbon
     identifier: RaTT's
     url: https://nfsmods.xyz/mod/1568
     comment: Requires [NFS-VltEd](https://nfs-tools.blogspot.com/p/downloads.html)
-    info-updated: 2024-05-25
-    added-date: 2024-05-25
+    updated-date: 1900-01-01
+    added-date: 1900-01-01

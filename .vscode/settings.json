@@ -1,0 +1,8 @@
+{
+    // Schemata to validate against. These match the schema checked by the Schema Checks action.
+    // YAML does not define a way to specify the schema a document uses - we must assign it externally.
+    // Schemata can be publically accessed from root URL https://randomizers.debigare.com/schemata/
+    "yaml.schemas": {
+        "./src/schemata/series.schema.json": ["series/*.yml"]
+    }
+}

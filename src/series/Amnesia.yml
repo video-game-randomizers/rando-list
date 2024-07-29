@@ -1,15 +1,14 @@
 name: Amnesia
-comment: null
-sub-series: null
+comment: ''
+sub-series: []
 games:
     'Amnesia: The Bunker':
         genres: []
         platforms: []
-        release_year: null
 randomizers:
 -   games:
     - 'Amnesia: The Bunker'
     identifier: Dog Tag Randomizer
     url: https://www.nexusmods.com/amnesiathebunker/mods/3
-    info-updated: 2024-05-25
-    added-date: 2024-05-25
+    updated-date: 1900-01-01
+    added-date: 1900-01-01

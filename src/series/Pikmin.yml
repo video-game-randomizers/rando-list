@@ -1,25 +1,23 @@
 name: Pikmin
-comment: null
-sub-series: null
+comment: ''
+sub-series: []
 games:
     Pikmin:
         genres: []
         platforms: []
-        release_year: null
     Pikmin 2:
         genres: []
         platforms: []
-        release_year: null
 randomizers:
 -   games:
     - Pikmin
     identifier: Minty-Meeo's
     url: https://github.com/Minty-Meeo/Pikmin-1-Randomizer-Gecko
-    info-updated: 2024-05-25
-    added-date: 2024-05-25
+    updated-date: 1900-01-01
+    added-date: 1900-01-01
 -   games:
     - Pikmin 2
     identifier: kurumizome's
     url: https://uckuiy4gtnjwosehfomppag.blogspot.com/2021/03/pikmin2-randomizer-v36.html
-    info-updated: 2024-05-25
-    added-date: 2024-05-25
+    updated-date: 1900-01-01
+    added-date: 1900-01-01

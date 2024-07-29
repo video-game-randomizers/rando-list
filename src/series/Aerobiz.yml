@@ -1,15 +1,14 @@
 name: Aerobiz
-comment: null
-sub-series: null
+comment: ''
+sub-series: []
 games:
     Aerobiz Supersonic:
         genres: []
         platforms: []
-        release_year: null
 randomizers:
 -   games:
     - Aerobiz Supersonic
     identifier: AeroBonkers
     url: https://github.com/stochaztic/aerobonkers
-    info-updated: 2024-05-25
-    added-date: 2024-05-25
+    updated-date: 1900-01-01
+    added-date: 1900-01-01

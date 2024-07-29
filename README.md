@@ -14,7 +14,7 @@ The project has been continuously maintained by him based on countless contribut
 
 You can request updates to the list either by submitting an issue with the [`Submit New Randomizer` template](https://github.com/video-game-randomizers/rando-list/issues/new/choose), or in the `#list-submissions` channel in the [Discord](https://discord.com/invite/YREMzGQ3gd).
 
-Pull requests from the public are very welcome - if you wish to become a maintainer or need help contributing, please join the [Discord](https://discord.com/invite/YREMzGQ3gd) and see `#list-maintenance`.
+Pull requests from the public are very welcome - if you wish to become a maintainer or need help contributing, please join the [Discord](https://discord.com/invite/YREMzGQ3gd) and see `#list-maintenance`. We recommend using VSCode if you wish to edit the series YAMLs, as the workspace contains configuration to use our schema by default.
 
 ## Code structure
 

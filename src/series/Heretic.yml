@@ -1,15 +1,13 @@
 name: Heretic
-comment: null
-sub-series: null
+comment: ''
+sub-series: []
 games:
     Heretic:
         genres: []
         platforms: []
-        release_year: null
     'Hexen: Beyond Heretic':
         genres: []
         platforms: []
-        release_year: null
 randomizers:
 -   games:
     - Heretic
@@ -17,58 +15,54 @@ randomizers:
     identifier: CustomDoom
     url: https://forum.zdoom.org/viewtopic.php?f=45&t=51446
     obsolete: true
-    info-updated: 2024-05-25
-    added-date: 2024-05-25
+    updated-date: 1900-01-01
+    added-date: 1900-01-01
 -   games:
     - Heretic
     - 'Hexen: Beyond Heretic'
     identifier: Universal Custom Doom
     url: https://forum.zdoom.org/viewtopic.php?f=43&t=64678
-    info-updated: 2024-05-25
-    added-date: 2024-05-25
+    updated-date: 1900-01-01
+    added-date: 1900-01-01
 -   games:
     - Heretic
     - 'Hexen: Beyond Heretic'
     identifier: Universal Entropy
     url: https://www.moddb.com/mods/universal-entropy
-    info-updated: 2024-05-25
-    added-date: 2024-05-25
+    updated-date: 1900-01-01
+    added-date: 1900-01-01
 -   games:
     - Heretic
     - 'Hexen: Beyond Heretic'
     identifier: OBSIDIAN
     url: https://obsidian-level-maker.github.io/index.html
-    info-updated: 2024-05-25
-    added-date: 2024-05-25
+    updated-date: 1900-01-01
+    added-date: 1900-01-01
 -   games:
     - Heretic
     identifier: OBLIGE
     url: https://oblige.sourceforge.net/
     obsolete: true
-    comment: 'Unofficial [64-bit executable](https://forum.zdoom.org/viewtopic.php?f=44&t=64879)
-        - Extensive add-on [ObAddon](https://github.com/caligari87/ObAddon/) - Add-on
-        for [Brutal Doom (mod)](https://gitlab.com/CloudOfShame/BrutalOblige) - Version
-        4.28 also supported [Hexen: Beyond Heretic / Quake / Quake II](https://sourceforge.net/projects/oblige/files/Oblige/4.28/)
-        - Version 0.97 also had experimental support for [Wolfenstein 3D](https://sourceforge.net/projects/oblige/files/Oblige/0.97/)'
-    info-updated: 2024-05-25
-    added-date: 2024-05-25
+    comment: 'Unofficial [64-bit executable](https://forum.zdoom.org/viewtopic.php?f=44&t=64879) - Extensive add-on [ObAddon](https://github.com/caligari87/ObAddon/) - Add-on for [Brutal Doom (mod)](https://gitlab.com/CloudOfShame/BrutalOblige) - Version 4.28 also supported [Hexen: Beyond Heretic / Quake / Quake II](https://sourceforge.net/projects/oblige/files/Oblige/4.28/) - Version 0.97 also had experimental support for [Wolfenstein 3D](https://sourceforge.net/projects/oblige/files/Oblige/0.97/)'
+    updated-date: 1900-01-01
+    added-date: 1900-01-01
 -   games:
     - Heretic
     identifier: ObHack
     url: https://samiam.org/obhack/
     obsolete: true
-    info-updated: 2024-05-25
-    added-date: 2024-05-25
+    updated-date: 1900-01-01
+    added-date: 1900-01-01
 -   games:
     - Heretic
     identifier: MOShuffle
     url: https://forum.zdoom.org/viewtopic.php?f=43&t=72760
-    info-updated: 2024-05-25
-    added-date: 2024-05-25
+    updated-date: 1900-01-01
+    added-date: 1900-01-01
 -   games:
     - Heretic
     identifier: Archipelago
     url: https://archipelago.gg/tutorial/#Heretic
     multiworld: Archipelago
-    info-updated: 2024-05-25
-    added-date: 2024-05-25
+    updated-date: 1900-01-01
+    added-date: 1900-01-01
