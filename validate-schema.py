@@ -29,8 +29,8 @@ if __name__ == "__main__":
     series = {}
     for filename in Path("src/series/").glob("*"):
         try:
-            if re.search(r'[^a-zA-Z0-9_\-\.\(\)]', filename.stem):
-                raise RuntimeError("bad filename " + filename.name)
+            if filename.suffix!='.yml' or re.search(r'[^a-zA-Z0-9_\-\.\(\)]', filename.stem):
+                raise ValueError("bad filename " + filename.name)
             with open(filename, encoding="utf-8") as f:
                 series[filename] = yaml.safe_load(f)
             validate(series[filename], schema, cls=Validator)

@@ -24,8 +24,9 @@
 {%- unless include.notitle -%}
 <h4>
     {{ include.game }}
-    {%- if game_data.release_year -%}
-        ({{ game_data.release_year }})
+    {%- if game_data.release-date -%}
+        {%- assign release_year = game_data.release-date | split: "-" | first -%}
+        ({{ release_year }})
     {%- endif -%}
 </h4>
 {%- endunless -%}
