@@ -1,26 +1,33 @@
 ---
 permalink: /404.html
-layout: default
 sitemap: false
 ---
 
-<style type="text/css" media="screen">
-  .container {
-    margin: 10px auto;
-    max-width: 600px;
-    text-align: center;
-  }
-  h1 {
-    margin: 30px 0;
-    font-size: 4em;
-    line-height: 1;
-    letter-spacing: -1px;
-  }
-</style>
-
-<div class="container">
-  <h1>404</h1>
-
-  <p><strong>Page not found :(</strong></p>
-  <p>The requested page could not be found.</p>
-</div>
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="robots" content="noindex">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>HTTP 404 Not Found</title>
+    <link rel="icon" href="/assets/favicon.png" type="image/png">
+    <style>
+      html, body, div {
+        height: 100%;
+        margin: 0;
+      }
+      body {
+        background-image: url("/assets/404.png");
+        background-color: #000000;
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: contain;
+      }
+    </style>
+  </head>
+  <body>
+    <a aria-label="404 Not Found" href="/">
+      <div></div>
+    </a>
+  </body>
+</html>
