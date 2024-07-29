@@ -21,21 +21,40 @@ yaml.SafeLoader.yaml_implicit_resolvers = {
 
 Validator = extend(Draft202012Validator, format_checker=FormatChecker())
 
+
+def checkFile(schema, filename: Path):
+    if filename.suffix!='.yml' or re.search(r'[^a-zA-Z0-9_\-\.\(\)]', filename.stem):
+        raise ValueError("bad filename " + filename.name)
+    with open(filename, encoding="utf-8") as f:
+        series = yaml.safe_load(f)
+    validate(series, schema, cls=Validator)
+
+    # now check lists of games
+    series_games = set(series['games'])
+    found_games = set()
+    for rando in series['randomizers']:
+        rando_games = set(rando['games'])
+        found_games.update(rando_games)
+        undefined_games = rando_games.difference(series_games)
+        if undefined_games:
+            raise ValueError("undefined games in " + rando['identifier'] + " : " + ', '.join(undefined_games))
+    
+    unused_games = series_games.difference(found_games)
+    if unused_games:
+        raise ValueError("unused games: " + ', '.join(unused_games))
+
+
+
 if __name__ == "__main__":
     errored = False
     with open("src/schemata/series.schema.json") as f:
         schema = json.load(f)
     
-    series = {}
     for filename in Path("src/series/").glob("*"):
         try:
-            if filename.suffix!='.yml' or re.search(r'[^a-zA-Z0-9_\-\.\(\)]', filename.stem):
-                raise ValueError("bad filename " + filename.name)
-            with open(filename, encoding="utf-8") as f:
-                series[filename] = yaml.safe_load(f)
-            validate(series[filename], schema, cls=Validator)
+            checkFile(schema, filename)
         except Exception as e:
-            logging.error("ERROR in", filename.name)
+            logging.basicConfig(format=filename.name + ": %(message)s")
             logging.error(e)
             errored = True
     
