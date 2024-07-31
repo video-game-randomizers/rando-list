@@ -1,9 +1,10 @@
 {%- assign rando = include.rando -%}
-<li class="rando" id="{{ include.parent_name }}-{{ rando.identifier }}">
+<li class="rando" id="{{ include.parent_name | cgi_escape }}-{{ rando.identifier | cgi_escape }}">
     <h5><a href="{{ rando.url }}">{{ rando.identifier }}</a></h5>
 
     {%- if include.standalone -%}
-        <ul>{% for game in rando.games %}
+        {%- assign games = rando.games | sort_natural -%}
+        <ul>{% for game in games %}
             <li>{{ game }}</li>
         {% endfor %}
         </ul>
