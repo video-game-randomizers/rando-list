@@ -1,44 +1,30 @@
+
 {%- assign game_data = include.series.games[include.game] -%}
 
-{%- assign randos = include.series.randomizers | where_exp:"r","r.games contains include.game" -%}
-
-{%- if randos.size > 0 -%}
-
-    {%- unless include.notitle -%}
-    <h4>
-        {{ include.game }}
-        {%- if game_data.release-date -%}
-            {%- assign release_year = game_data.release-date | split: "-" | first -%}
-            ({{ release_year }})
-        {%- endif -%}
-    </h4>
-    {%- endunless -%}
-
-    <p>
-        {%- if game_data.sub-series -%}
-            {{ game_data.sub-series }}
-            {% if game_data.genres.size > 0 || game_data.platforms.size > 0 %}
-            | 
-            {% endif %}
-        {%- endif -%}
-        {{ game_data.genres | join: ", " }}
-        {% if game_data.genres.size > 0 && game_data.platforms.size > 0 %}
-        | 
-        {% endif %}
-        {{ game_data.platforms | join: ", " }}
-    </p>
-
-    {%- if game_data.comment -%}
-        <p>{{ game_data.comment | markdownify }}</p>
+{%- unless include.notitle -%}
+<h4>
+    {{ include.game }}
+    {%- if game_data.release-date -%}
+        {%- assign release_year = game_data.release-date | split: "-" | first -%}
+        ({{ release_year }})
     {%- endif -%}
+</h4>
+{%- endunless -%}
 
-    <ul class="game-list">
+<p>
+    {%- if game_data.sub-series -%}
+        {{ game_data.sub-series }}
+        {% if game_data.genres.size > 0 || game_data.platforms.size > 0 %}
+            | 
+        {% endif %}
+    {%- endif -%}
+    {{ game_data.genres | join: ", " }}
+    {% if game_data.genres.size > 0 && game_data.platforms.size > 0 %}
+        | 
+    {% endif %}
+    {{ game_data.platforms | join: ", " }}
+</p>
 
-    {%- assign randos = randos | sort_natural: "identifier" -%}
-    {%- for rando in randos -%}
-        {%- include rando.html rando=rando parent_name=include.game -%}
-    {%- endfor -%}
-
-    </ul>
-
+{%- if game_data.comment -%}
+    <p>{{ game_data.comment | markdownify }}</p>
 {%- endif -%}
