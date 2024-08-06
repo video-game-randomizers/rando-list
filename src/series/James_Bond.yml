@@ -3,12 +3,14 @@ comment: ''
 sub-series: []
 games:
     GoldenEye 007:
-        genres: []
-        platforms: []
+        genres: [Shooter]
+        platforms: [N64]
+        release-date: 1997-8-23
 randomizers:
 -   games:
     - GoldenEye 007
     identifier: K1lo's
-    url: http://www.shootersforever.com/forums_message_boards/viewtopic.php?t=7267
-    updated-date: 1900-01-01
-    added-date: 1900-01-01
+    url: https://www.dropbox.com/scl/fi/01f274upo3mba1oe1myvj/JanusR4.zip?rlkey=9oz4wwj64s5nplytfnyurnhtf&e=3
+    comment: Discussion here <http://www.shootersforever.com/forums_message_boards/viewtopic.php?t=7267>
+    updated-date: 2024-08-06
+    added-date: 2024-08-06

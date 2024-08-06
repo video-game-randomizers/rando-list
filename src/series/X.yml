@@ -3,11 +3,13 @@ comment: ''
 sub-series: []
 games:
     'X2: The Threat':
-        genres: []
-        platforms: []
+        genres: [Strategy]
+        platforms: [PC]
+        release-date: 2003-08-07
     'X3: Terran Conflict':
-        genres: []
-        platforms: []
+        genres: [Strategy]
+        platforms: [PC]
+        release-date: 2008-10-16
 randomizers:
 -   games:
     - 'X2: The Threat'
@@ -26,7 +28,13 @@ randomizers:
     added-date: 1900-01-01
 -   games:
     - 'X3: Terran Conflict'
-    identifier: AP Map Generator
-    url: https://forum.egosoft.com/viewtopic.php?f=94&t=397700
-    updated-date: 1900-01-01
-    added-date: 1900-01-01
+    identifier: Map Generator
+    url: https://www.nexusmods.com/x3terranconflict/mods/121
+    updated-date: 2024-08-06
+    added-date: 2024-08-06
+-   games:
+    - 'X3: Terran Conflict'
+    identifier: Mayhem
+    url: https://www.moddb.com/mods/mayhem
+    updated-date: 2024-08-06
+    added-date: 2024-08-06

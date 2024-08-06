@@ -1,0 +1,16 @@
+name: Dick Tracy
+comment: ''
+sub-series: []
+games:
+    Dick Tracy:
+        genres: []
+        platforms: [Genesis]
+        release-date: 1991-02-01
+randomizers:
+-   games:
+    - Dick Tracy
+    identifier: Level Randomizer
+    url: https://romhacks.org/romhacks/dick-tracy-arcade-genesis/
+    comment: ''
+    updated-date: 2024-08-06
+    added-date: 2024-08-06
