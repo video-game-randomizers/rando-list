@@ -21,14 +21,14 @@
 <ul class="recents-list list-group list-group-flush">
 {%- for rando in randos -%}
     <li class="list-group-item">
-    {%- if prev_updated != rando.updated-date -%}
-    {%- assign prev_updated = rando.updated-date -%}
-        <h3>Updated {{ prev_updated }}</h3>
-    {%- endif -%}
-    
-    <ul>
-    {%- include rando.html rando=rando parent_name="recents" standalone=true -%}
-    </ul>
+        {%- if prev_updated != rando.updated-date -%}
+            {%- assign prev_updated = rando.updated-date -%}
+            <h3>Updated {{ prev_updated }}</h3>
+        {%- endif -%}
+        
+        <ul>
+        {%- include rando.html rando=rando parent_name="recents" showgames=true -%}
+        </ul>
     </li>
 {%- endfor -%}
 </ul>

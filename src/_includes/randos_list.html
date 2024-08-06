@@ -1,0 +1,6 @@
+<ul class="randos-list">
+    {%- assign randos = include.randos | sort_natural: "identifier" -%}
+    {%- for rando in randos -%}
+        {%- include rando.html rando=rando parent_name=include.parent_name showgames=include.showgames -%}
+    {%- endfor -%}
+</ul>

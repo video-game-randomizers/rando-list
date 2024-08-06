@@ -1,25 +1,5 @@
+
 {%- assign game_data = include.series.games[include.game] -%}
-
-{%- assign randos = "" | split: "" -%}
-{%- for rando in include.series.randomizers -%}
-    {%- assign matched = false -%}
-
-    {%- for g in rando.games -%}
-        {%- if g == include.game -%}
-            {%- assign matched = true -%}
-        {%- endif -%}
-    {%- endfor -%}
-
-    {%- if matched == false -%}
-        {%- continue -%}
-    {%- endif -%}
-
-    {%- assign randos = randos | push: rando -%}
-{%- endfor -%}
-
-{%- if randos.size == 0 -%}
-    {%- continue -%}
-{%- endif -%}
 
 {%- unless include.notitle -%}
 <h4>
@@ -30,16 +10,17 @@
     {%- endif -%}
 </h4>
 {%- endunless -%}
+
 <p>
     {%- if game_data.sub-series -%}
         {{ game_data.sub-series }}
         {% if game_data.genres.size > 0 || game_data.platforms.size > 0 %}
-         | 
+            | 
         {% endif %}
     {%- endif -%}
     {{ game_data.genres | join: ", " }}
     {% if game_data.genres.size > 0 && game_data.platforms.size > 0 %}
-     | 
+        | 
     {% endif %}
     {{ game_data.platforms | join: ", " }}
 </p>
@@ -47,12 +28,3 @@
 {%- if game_data.comment -%}
     <p>{{ game_data.comment | markdownify }}</p>
 {%- endif -%}
-
-<ul class="game-list">
-
-{%- assign randos = randos | sort_natural: "identifier" -%}
-{%- for rando in randos -%}
-    {%- include rando.html rando=rando parent_name=include.game -%}
-{%- endfor -%}
-
-</ul>

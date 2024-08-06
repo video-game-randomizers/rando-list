@@ -1,0 +1,28 @@
+{%- assign series = include.series -%}
+{%- assign multirandos = series.randomizers | where_exp:"r", "r.games.size >= 3" -%}
+
+{%- assign cutoff = series.randomizers.size | minus: 2 -%}
+{%- if multirandos.size > 0 and multirandos.size > cutoff -%}
+    {%- assign multirandos = series.randomizers -%}
+{%- elsif multirandos.size > 0 -%}
+    <h4>Multi-Game Randomizers</h4>
+{%- endif -%}
+
+{%- if multirandos.size > 0 -%}
+    {%- include randos_list.html series=series parent_name=series.name randos=multirandos showgames=true -%}
+{%- endif -%}
+
+{%- if multirandos.size < series.randomizers.size -%}
+    {%- assign no_game_titles = false -%}
+    {%- if games.size == 1 -%}{%- assign no_game_titles = true -%}{%- endif -%}
+
+    {%- for game in games -%}
+        {%- assign randos = series.randomizers | where_exp:"r", "r.games.size < 3" | where_exp:"r","r.games contains game" -%}
+        {%- if randos.size == 0 -%}
+            {%- continue -%}
+        {%- endif -%}
+
+        {%- include game.html series=series game=game notitle=no_game_titles -%}
+        {%- include randos_list.html series=series parent_name=game randos=randos -%}
+    {%- endfor -%}
+{%- endif -%}
