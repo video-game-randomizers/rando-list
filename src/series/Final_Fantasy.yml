@@ -238,7 +238,7 @@ randomizers:
     - Final Fantasy V
     identifier: Whirlwind
     url: https://www.romhacking.net/translations/7324/
-    comment: Random job each level up.  Seeding now supported.  Romhack, so no website needed to randomize.  Fiesta, Vanilla, and Experimental modes available in Dev build, with many game enhancements and QoL improvements.  Dev build also supports randomizing enemies, chests, shops, and more.
+    comment: Random job each level up.  Seeding now supported.  Romhack, so no website needed to randomize.  Fiesta, Vanilla, and Experimental modes available in Dev build, with many game enhancements and QoL improvements.  Dev build also supports randomizing enemies, chests, and shops.
     updated-date: 2024-08-20
     added-date: 2024-06-15
 -   games:
