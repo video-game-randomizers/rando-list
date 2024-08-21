@@ -4,7 +4,9 @@ sub-series: []
 games:
     Solar Jetman:
         genres: []
-        platforms: []
+        platforms:
+        - NES
+        release-date: 1990-10-01
 randomizers:
 -   games:
     - Solar Jetman
@@ -12,3 +14,12 @@ randomizers:
     url: https://github.com/GB127/SJ-rando
     updated-date: 1900-01-01
     added-date: 1900-01-01
+    obsolete: true
+    opensource: true
+-   games:
+    - Solar Jetman
+    identifier: akerasi's
+    url: https://github.com/akerasi/SJ-rando
+    updated-date: 2024-08-21
+    added-date: 2024-08-21
+    opensource: true
