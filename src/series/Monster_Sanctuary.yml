@@ -1,0 +1,14 @@
+name: Monster Sanctuary
+comment: ''
+games:
+  Monster Sanctuary:
+    genres: [Adventure, Platformer, RPG]
+    platforms: [PC, Switch, PS4, Xbox One]
+    release-date: 2020-12-07
+randomizers:
+-   games:
+        - Monster Sanctuary
+    identifier: Lucky Randomizer and Random Randomizer
+    url: https://github.com/garfieldbanks/MonsterSanctuaryMods
+    updated-date: 2024-09-03
+    added-date: 2024-09-03
