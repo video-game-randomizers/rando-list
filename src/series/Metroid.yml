@@ -25,6 +25,10 @@ games:
         genres: []
         platforms: []
         sub-series: Super Metroid hacks
+    Deep Freeze:
+        genres: []
+        platforms: []
+        sub-series: Super Metroid hacks
     Digital Cube:
         genres: []
         platforms: []
@@ -102,6 +106,18 @@ games:
         genres: []
         platforms: []
         sub-series: Super Metroid hacks
+    Scrolls Six:
+        genres: []
+        platforms: []
+        sub-series: Super Metroid hacks
+    Spooky Mission:
+        genres: []
+        platforms: []
+        sub-series: Super Metroid hacks
+    Spooky Mission 2:
+        genres: []
+        platforms: []
+        sub-series: Super Metroid hacks
     Stardust:
         genres: []
         platforms: []
@@ -127,6 +143,10 @@ games:
         platforms: []
         sub-series: Super Metroid hacks
     V I T A L I T Y:
+        genres: []
+        platforms: []
+        sub-series: Super Metroid hacks
+    Winter Mission:
         genres: []
         platforms: []
         sub-series: Super Metroid hacks
@@ -207,6 +227,18 @@ randomizers:
     url: https://forum.metroidconstruction.com/index.php/topic,4559.0.html
     updated-date: 1900-01-01
     added-date: 1900-01-01
+-   games:
+    - 'Metroid: Zero Mission'
+    - Spooky Mission
+    - Spooky Mission 2
+    - Scrolls Six
+    - Deep Freeze
+    - Winter Mission
+    identifier: Cpt.Glitch's
+    url: https://forum.metroidconstruction.com/index.php/topic,5051.0.html
+    updated-date: 2024-09-03
+    added-date: 2024-09-03
+    comment: Fork of biospark's to add support for some romhacks
 -   games:
     - 'Metroid: Zero Mission'
     identifier: Quantum Deluxe Boogaloo
