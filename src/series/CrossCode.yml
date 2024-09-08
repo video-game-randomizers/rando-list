@@ -7,7 +7,7 @@ games:
         platforms: []
 randomizers:
 -   games:
-    - Crosscode
+    - CrossCode
     identifier: Archipelago
     url: https://github.com/CodeTriangle/CCMultiworldRandomizer
     updated-date: 2024-09-08
