@@ -221,15 +221,30 @@ randomizers:
     - (VII) Gen VII primary & secondary
     identifier: Universal Pokemon Randomizer ZX
     url: https://github.com/Ajarmar/universal-pokemon-randomizer-zx
+    obsolete: true
     updated-date: 1900-01-01
     added-date: 1900-01-01
 -   games:
+    - (I-VII) Gens I to VI all
+    - (VII) Gen VII primary & secondary
+    identifier: Universal Pokemon Randomizer ZX (Ironhidelvan's)
+    url: https://github.com/IronhideIvan/universal-pokemon-randomizer-zx
+    updated-date: 2024-09-09
+    added-date: 2024-09-09
+-   games:
+    - (I-VII) Gens I to VI all
+    - (VII) Gen VII primary & secondary
+    identifier: Universal Pokemon Randomizer FVX
+    url: https://github.com/upr-fvx/universal-pokemon-randomizer-fvx
+    updated-date: 2024-09-09
+    added-date: 2024-09-09
+-   games:
     - (I-V) Gens I to V all
-    identifier: voliol's Universal Pokemon Randomizer ZX
-    url: https://github.com/voliol/universal-pokemon-randomizer
-    opensource: true
-    updated-date: 2024-07-11
-    added-date: 2024-07-11
+    identifier: Universal Pokemon Randomizer (brentspector's)
+    url: https://github.com/brentspector/universal-pokemon-randomizer
+    obsolete: true
+    updated-date: 2024-09-09
+    added-date: 2024-09-09
 -   games:
     - (I-V) Gens I to V all
     identifier: Universal Pokemon Randomizer
