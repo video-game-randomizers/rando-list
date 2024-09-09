@@ -11,5 +11,5 @@ randomizers:
     identifier: Item Randomizer
     url: https://www.romhacking.net/hacks/8283/
     comment: Seeding supported.  Romhack, so no website needed to randomize.  Dev build supports randomizing starting location and specifying the number of starting items.  Dev build also supports various game enhancements and QoL improvements.  Dev build available via [Discord server](https://discord.gg/n6qaSM7Bwt).  [Wiki](https://github.com/cIymax/the-battle-of-olympus-randomizer/wiki) in development.
-    updated-date: 2024-04-28
+    updated-date: 2024-09-09
     added-date: 2024-01-24
