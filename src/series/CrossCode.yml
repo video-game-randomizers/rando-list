@@ -8,6 +8,13 @@ games:
 randomizers:
 -   games:
     - CrossCode
+    identifier: Archipelago
+    url: https://github.com/CodeTriangle/CCMultiworldRandomizer
+    multiworld: Archipelago
+    updated-date: 2024-09-09
+    added-date: 2024-09-09
+-   games:
+    - CrossCode
     identifier: Item Randomizer
     url: https://github.com/CCDirectLink/CCItemRandomizer
     updated-date: 1900-01-01
