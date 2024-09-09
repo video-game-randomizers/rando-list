@@ -242,7 +242,6 @@ randomizers:
     - (I-V) Gens I to V all
     identifier: Universal Pokemon Randomizer (brentspector's)
     url: https://github.com/brentspector/universal-pokemon-randomizer
-    obsolete: true
     updated-date: 2024-09-09
     added-date: 2024-09-09
 -   games:
