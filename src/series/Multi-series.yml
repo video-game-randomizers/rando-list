@@ -526,6 +526,7 @@ randomizers:
 -   games:
     - Hollow Knight
     - Haiku, the Robot
+    - Death's Door
     identifier: Shadu's Multiworld
     url: https://github.com/Shadudev/HollowKnight.MultiWorld
     multiworld: Shadu-Multiworld
