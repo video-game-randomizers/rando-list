@@ -122,6 +122,10 @@ games:
         genres: []
         platforms: []
         sub-series: Connected worlds
+    Death's Door:
+        genres: []
+        platforms: []
+        sub-series: Connected worlds
     Doom (Ultimate):
         genres: []
         platforms: []
@@ -530,7 +534,7 @@ randomizers:
     identifier: Shadu's Multiworld
     url: https://github.com/Shadudev/HollowKnight.MultiWorld
     multiworld: Shadu-Multiworld
-    updated-date: 2024-05-29
+    updated-date: 2024-09-30
     added-date: 2024-05-29
 -   games:
     - 'Castlevania: Harmony of Dissonance'
