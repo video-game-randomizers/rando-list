@@ -11,6 +11,9 @@ games:
     'Shin Megami Tensei: Strange Journey':
         genres: []
         platforms: []
+    'Shin Megami Tensei V: Vengeance':
+        genres: [RPG]
+        platforms: [PC,PS4,PS5,Xbox One,Switch,Xbox Series]
 randomizers:
 -   games:
     - Shin Megami Tensei
@@ -30,3 +33,10 @@ randomizers:
     url: https://github.com/abyssonym/disastercycle
     updated-date: 1900-01-01
     added-date: 1900-01-01
+-   games:
+    - 'Shin Megami Tensei V: Vengeance'
+    identifier: Sjerver's
+    url: https://github.com/Sjerver/smtVV-rando
+    updated-date: 2024-10-01
+    added-date: 2024-10-01
+    opensource: true
