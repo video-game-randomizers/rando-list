@@ -184,3 +184,9 @@ randomizers:
     obsolete: true
     updated-date: 1900-01-01
     added-date: 1900-01-01
+-   games:
+    - '(FE8) Fire Emblem: The Sacred Stones'
+    identifier: Vesly's
+    url: https://feuniverse.us/t/fe8-self-randomizing-rom-vesly-2024-version/25713
+    updated-date: 2024-10-01
+    added-date: 2024-10-01
