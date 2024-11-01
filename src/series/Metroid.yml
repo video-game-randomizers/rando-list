@@ -341,7 +341,7 @@ randomizers:
     identifier: gollop's
     url: https://github.com/Schwork-Corruption/corruptovania
     comment: 'Fork of [Randovania](https://randovania.org) dedicated to Prime 3 support'
-    updated-date: 2024-10-20
+    updated-date: 2024-10-31
     added-date: 1900-01-01
 -   games:
     - Metroid Prime Hunters
