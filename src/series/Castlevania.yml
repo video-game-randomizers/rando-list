@@ -86,25 +86,51 @@ randomizers:
     updated-date: 1900-01-01
     added-date: 1900-01-01
 -   games:
-    - 'Castlevania: Symphony of the Night (PlayStation / Saturn)'
-    identifier: 3snowp7im's Area Randomizer
-    url: https://github.com/3snowp7im/SotN-Randomizer
-    comment: 'Includes a Richter converter for Wild Mouse''s item randomizer, and a standalone Maria item randomizer. Browser version here: <https://sotn.io/>'
-    updated-date: 2024-08-21
+    - 'Castlevania: Symphony of the Night (PlayStation)'
+    identifier: "Castlevania: SOTN Randomizer (Launcher Application by SacredLucy)"
+    url: https://github.com/LuciaRolon/SotNRandomizerLauncher/releases
+    comment: 'The premiere, community-driven SOTN Randomizer. Includes Relic, Item, Color, Enemy Stats, and Shop Price randomizers. Also Includes a Boss Rush Mode. Browser version here: <https://sotn.io/> GitHub here: <https://github.com/3snowp7im/SotN-Randomizer>'
+    updated-date: 2024-12-03
+    added-date: 2024-12-03
+    opensource: true
+-   games:
+    - 'Castlevania: Symphony of the Night (PlayStation)'
+    identifier: "Castlevania: SOTN Randomizer (Main Website by Randomizer Community)"
+    url: https://sotn.io/
+    comment:  'The premiere, community-driven SOTN Randomizer. Includes Relic, Item, Color, Enemy Stats, and Shop Price randomizers. Also Includes a Boss Rush Mode. GitHub here: <https://github.com/3snowp7im/SotN-Randomizer> Launcher Application here: <https://github.com/LuciaRolon/SotNRandomizerLauncher/releases>'
+    updated-date: 2024-12-03
     added-date: 1900-01-01
     opensource: true
 -   games:
-    - 'Castlevania: Symphony of the Night'
+    - 'Castlevania: Symphony of the Night (PlayStation)'
+    identifier: "Castlevania: SOTN Randomizer (GitHub hosted by 3snow_p7im)"
+    url: https://github.com/3snowp7im/SotN-Randomizer
+    comment: '3snow_p7im (Wild Mouse) created this from the Python version created by setz. Current development team is eldri7ch, MottZilla, and SacredLucy with many community contribtutions. Browser version here: <https://sotn.io/> Launcher Application here: <https://github.com/LuciaRolon/SotNRandomizerLauncher/releases>'
+    updated-date: 2024-12-03
+    added-date: 1900-01-01
+    opensource: true
+-   games:
+    - 'Castlevania: Symphony of the Night (PlayStation / Saturn / PSP)'
+    identifier: SOTN Area Rando (SOTN AR)
+    url: https://github.com/MottZilla/SOTN_AR
+    comment: "MottZilla's Area Randomizer for PlayStation, this application also includes Richter Randomizer, a randomizer for the PSP version, and the Randomizer for the Sega Saturn version of SOTN (Including the Ultimate Edition Romhack)."
+    updated-date: 2024-12-03
+    added-date: 2024-12-03
+-   games:
+    - 'Castlevania: Symphony of the Night (X-Box 360 LIVE Arcade)'
+    identifier: SOTN X-Box Rando (SOTN XB Rando)
+    url: https://github.com/MottZilla/SOTN_XB_RANDO
+    comment: "MottZilla's Randomizer for the XBLA version of SOTN Includes many of the same presets as the PlayStation's community version. Only works with the Canary build of the Xenia emulator or on Modded X-Box 360's."
+    updated-date: 2024-12-03
+    added-date: 2024-12-03
+    opensource: true
+-   games:
+    - 'Castlevania: Symphony of the Night (PlayStation)'
     identifier: Relic Randomizer
     url: https://raw.githubusercontent.com/josephstevenspgh/SotN-Relic-Randomizer/master/relicrando.py
     obsolete: true
+    opensource: true
     comment: Requires [Python 2](https://www.python.org/downloads/) and [PS1 2352 image EDC/ECC recalculator](https://www.romhacking.net/utilities/1264/) - Game data to patch should be named `Castlevania - Symphony of the Night (USA) (Track 1).bin`
-    updated-date: 1900-01-01
-    added-date: 1900-01-01
--   games:
-    - 'Castlevania: Symphony of the Night'
-    identifier: Wild Mouse's
-    url: https://sotn.io/
     updated-date: 1900-01-01
     added-date: 1900-01-01
 -   games:
