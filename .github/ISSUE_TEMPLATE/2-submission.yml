@@ -1,5 +1,5 @@
 name: "Submit New Randomizer"
-description: Submit a new randomizer for inclusion into the rando-list.
+description: Submit a new randomizer for inclusion into the rando-list. You can also do this via a Pull Request.
 title: "[Submission]: "
 labels: ["submission"]
 body:
