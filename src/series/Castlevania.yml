@@ -87,9 +87,16 @@ randomizers:
     added-date: 1900-01-01
 -   games:
     - 'Castlevania: Symphony of the Night (PlayStation)'
+    identifier: "Castlevania: SOTN Randomizer (Setup / Guides Tutorial Site)"
+    url: https://symphonyrando.fun
+    comment: 'The ultimate guide to the premiere, community-driven SOTN Randomizer. Includes Relic, Item, Color, Enemy Stats, and Shop Price randomizers. Also Includes a Boss Rush Mode.'
+    updated-date: 2024-12-03
+    added-date: 2024-12-03
+-   games:
+    - 'Castlevania: Symphony of the Night (PlayStation)'
     identifier: "Castlevania: SOTN Randomizer (Launcher Application by SacredLucy)"
     url: https://github.com/LuciaRolon/SotNRandomizerLauncher/releases
-    comment: 'The premiere, community-driven SOTN Randomizer. Includes Relic, Item, Color, Enemy Stats, and Shop Price randomizers. Also Includes a Boss Rush Mode. Browser version here: <https://sotn.io/> GitHub here: <https://github.com/3snowp7im/SotN-Randomizer>'
+    comment: 'The premiere, community-driven SOTN Randomizer. Includes Relic, Item, Color, Enemy Stats, and Shop Price randomizers. Also Includes a Boss Rush Mode.'
     updated-date: 2024-12-03
     added-date: 2024-12-03
     opensource: true
@@ -97,7 +104,7 @@ randomizers:
     - 'Castlevania: Symphony of the Night (PlayStation)'
     identifier: "Castlevania: SOTN Randomizer (Main Website by Randomizer Community)"
     url: https://sotn.io/
-    comment:  'The premiere, community-driven SOTN Randomizer. Includes Relic, Item, Color, Enemy Stats, and Shop Price randomizers. Also Includes a Boss Rush Mode. GitHub here: <https://github.com/3snowp7im/SotN-Randomizer> Launcher Application here: <https://github.com/LuciaRolon/SotNRandomizerLauncher/releases>'
+    comment:  'The premiere, community-driven SOTN Randomizer. Includes Relic, Item, Color, Enemy Stats, and Shop Price randomizers. Also Includes a Boss Rush Mode.'
     updated-date: 2024-12-03
     added-date: 1900-01-01
     opensource: true
