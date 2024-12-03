@@ -20,6 +20,9 @@ games:
     'Kingdom Hearts: Chain of Memories':
         genres: []
         platforms: []
+    'Kingdom Hearts Re:Chain of Memories':
+        genres: []
+        platforms: []
 randomizers:
 -   games:
     - Kingdom Hearts Final Mix
@@ -76,6 +79,30 @@ randomizers:
     url: https://github.com/Truthkey/Birth-by-Sleep-Randomizer
     updated-date: 1900-01-01
     added-date: 1900-01-01
+-   games:
+    - Kingdom Hearts Birth by Sleep Final Mix
+    identifier: gaithernOrg's
+    url: https://github.com/gaithernOrg/ArchipelagoKHBBS
+    updated-date: 2024-12-03
+    added-date: 2024-12-03
+    multiworld: Archipelago
+    opensource: true
+-   games:
+    - Kingdom Hearts Re:Chain of Memories
+    identifier: gaithernOrg's
+    url: https://github.com/gaithernOrg/ArchipelagoKHRECOM/
+    updated-date: 2024-12-03
+    added-date: 2024-12-03
+    multiworld: Archipelago
+    opensource: true
+-   games:
+    - Kingdom Hearts Final Mix
+    identifier: gaithernOrg's
+    url: https://github.com/gaithernOrg/KH1FM-AP/
+    updated-date: 2024-12-03
+    added-date: 2024-12-03
+    multiworld: Archipelago
+    opensource: true
 -   games:
     - Kingdom Hearts III
     identifier: WaterKH's

@@ -1,0 +1,15 @@
+name: Outer Wilds
+comment: ''
+games:
+    Outer Wilds:
+        genres: []
+        platforms: []
+randomizers:
+-   games:
+    - Outer Wilds
+    identifier: Ixrec's
+    url: https://github.com/Ixrec/OuterWildsArchipelagoRandomizer
+    updated-date: 2024-12-03
+    added-date: 2024-12-03
+    multiworld: Archipelago
+    opensource: true

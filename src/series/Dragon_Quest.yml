@@ -28,6 +28,10 @@ games:
         genres: []
         platforms: []
         sub-series: Main
+    'Dragon Quest Monsters: Joker':
+        genres: []
+        platforms: []
+        sub-series: Monsters
     'Dragon Quest Monsters 2: Cobi''s Journey':
         genres: []
         platforms: []
@@ -97,6 +101,13 @@ randomizers:
     url: https://github.com/playinful/DQ8-Rando
     updated-date: 1900-01-01
     added-date: 1900-01-01
+-   games:
+    - 'Dragon Quest Monsters: Joker'
+    identifier: ExcaliburZero's
+    url: https://github.com/ExcaliburZero/dqmj1_randomizer
+    updated-date: 2024-12-03
+    added-date: 2024-12-03
+    opensource: true
 -   games:
     - 'Dragon Quest Monsters 2: Cobi''s Journey'
     - 'Dragon Quest Monsters 2: Tara''s Adventure'

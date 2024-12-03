@@ -1,0 +1,14 @@
+name: Momodora
+comment: ''
+games:
+    'Momodora: Reverie Under the Moonlight':
+        genres: []
+        platforms: []
+randomizers:
+-   games:
+    - 'Momodora: Reverie Under the Moonlight'
+    identifier: axelkarlsson's
+    url: https://github.com/axelkarlsson/MomodoraRandomizer
+    updated-date: 2024-12-03
+    added-date: 2024-12-03
+    opensource: true

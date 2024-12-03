@@ -46,17 +46,25 @@ def checkFile(schema, filename: Path):
 
 
 if __name__ == "__main__":
-    errored = False
+    passed = 0
+    errored = 0
+    files = set()
     with open("src/schemata/series.schema.json") as f:
         schema = json.load(f)
     
     for filename in Path("src/series/").glob("*"):
         try:
             checkFile(schema, filename)
+            file_lowercase = str(filename).lower()
+            assert file_lowercase not in files, 'filename collision for case-insensitive filesystems'
+            files.add(file_lowercase)
+            passed+=1
         except Exception as e:
             logging.basicConfig(format=filename.name + ": %(message)s")
             logging.error(e)
-            errored = True
+            errored+=1
     
+    print('passed:', passed, 'errored:', errored)
     if errored:
+        print('FAILED')
         exit(-1)  # Error code to cause gh actions failure

@@ -52,6 +52,14 @@ games:
         genres: []
         platforms: []
         sub-series: Classic
+    'Castlevania: Lament of Innocence':
+        genres: []
+        platforms: []
+        sub-series: 3D
+    'Castlevania: Curse of Darkness':
+        genres: []
+        platforms: []
+        sub-series: 3D
 randomizers:
 -   games:
     - 'Castlevania II: Simon''s Quest'
@@ -152,3 +160,10 @@ randomizers:
     multiworld: Archipelago
     updated-date: 1900-01-01
     added-date: 1900-01-01
+-   games:
+    - 'Castlevania: Lament of Innocence'
+    - 'Castlevania: Curse of Darkness'
+    identifier: LoI and CoD
+    url: https://discord.gg/0126YSbgDbKGGnZuv
+    updated-date: 2024-12-03
+    added-date: 2024-12-03

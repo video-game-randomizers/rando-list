@@ -14,6 +14,26 @@ games:
         platforms:
         - GBA
         release-date: 2006-02-23
+    'Yu-Gi-Oh! World Championship 2008':
+        genres:
+        - Strategy
+        platforms:
+        - DS
+    'Yu-Gi-Oh! 5D''s Stardust Accelerator World Championship Tournament 2009':
+        genres:
+        - Strategy
+        platforms:
+        - DS
+    'Yu-Gi-Oh! 5D''s World Championship 2010: Reverse of Arcadia':
+        genres:
+        - Strategy
+        platforms:
+        - DS
+    'Yu-Gi-Oh! 5D''s World Championship 2011: Over the Nexus':
+        genres:
+        - Strategy
+        platforms:
+        - DS
 randomizers:
 -   games:
     - Yu-Gi-Oh! Forbidden Memories
@@ -36,3 +56,13 @@ randomizers:
     opensource: true
     updated-date: 2024-07-23
     added-date: 2024-07-23
+-   games:
+    - 'Yu-Gi-Oh! World Championship 2008'
+    - 'Yu-Gi-Oh! 5D''s Stardust Accelerator World Championship Tournament 2009'
+    - 'Yu-Gi-Oh! 5D''s World Championship 2010: Reverse of Arcadia'
+    - 'Yu-Gi-Oh! 5D''s World Championship 2011: Over the Nexus'
+    identifier: mSpoeth's
+    url: https://github.com/mSpoeth/YgoNdsRandomizer
+    updated-date: 2024-12-03
+    added-date: 2024-12-03
+    opensource: true
