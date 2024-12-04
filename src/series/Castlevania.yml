@@ -86,33 +86,10 @@ randomizers:
     updated-date: 1900-01-01
     added-date: 1900-01-01
 -   games:
-    - 'Castlevania: Symphony of the Night (PlayStation)'
-    identifier: "Castlevania: SOTN Randomizer (Setup / Guides Tutorial Site)"
+    - 'Castlevania: Symphony of the Night'
+    identifier: "Castlevania: SOTN Randomizer"
     url: https://symphonyrando.fun
-    comment: 'The ultimate guide to the premiere, community-driven SOTN Randomizer. Includes Relic, Item, Color, Enemy Stats, and Shop Price randomizers. Also Includes a Boss Rush Mode.'
-    updated-date: 2024-12-03
-    added-date: 2024-12-03
--   games:
-    - 'Castlevania: Symphony of the Night (PlayStation)'
-    identifier: "Castlevania: SOTN Randomizer (Launcher Application by SacredLucy)"
-    url: https://github.com/LuciaRolon/SotNRandomizerLauncher/releases
-    comment: 'The premiere, community-driven SOTN Randomizer. Includes Relic, Item, Color, Enemy Stats, and Shop Price randomizers. Also Includes a Boss Rush Mode.'
-    updated-date: 2024-12-03
-    added-date: 2024-12-03
-    opensource: true
--   games:
-    - 'Castlevania: Symphony of the Night (PlayStation)'
-    identifier: "Castlevania: SOTN Randomizer (Main Website by Randomizer Community)"
-    url: https://sotn.io/
-    comment:  'The premiere, community-driven SOTN Randomizer. Includes Relic, Item, Color, Enemy Stats, and Shop Price randomizers. Also Includes a Boss Rush Mode.'
-    updated-date: 2024-12-03
-    added-date: 1900-01-01
-    opensource: true
--   games:
-    - 'Castlevania: Symphony of the Night (PlayStation)'
-    identifier: "Castlevania: SOTN Randomizer (GitHub hosted by 3snow_p7im)"
-    url: https://github.com/3snowp7im/SotN-Randomizer
-    comment: '3snow_p7im (Wild Mouse) created this from the Python version created by setz. Current development team is eldri7ch, MottZilla, and SacredLucy with many community contribtutions. Browser version here: <https://sotn.io/> Launcher Application here: <https://github.com/LuciaRolon/SotNRandomizerLauncher/releases>'
+    comment: 'The premiere, community-driven SOTN Randomizer for PlayStation. Includes Relic, Item, Color, Enemy Stats, and Shop Price randomizers. Also Includes a Boss Rush Mode. 3snow_p7im (Wild Mouse) created this from the Python version created by setz. Current development team is eldri7ch, MottZilla, and SacredLucy with many community contribtutions. Browser version here: <https://sotn.io/> Launcher Application here: <https://github.com/LuciaRolon/SotNRandomizerLauncher/releases> GitHub here: <https://github.com/3snowp7im/SotN-Randomizer>'
     updated-date: 2024-12-03
     added-date: 1900-01-01
     opensource: true
