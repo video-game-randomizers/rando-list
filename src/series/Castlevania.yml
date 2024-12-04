@@ -109,8 +109,8 @@ randomizers:
     added-date: 2024-12-03
     opensource: true
 -   games:
-    - 'Castlevania: Symphony of the Night (PlayStation)'
-    identifier: Relic Randomizer
+    - 'Castlevania: Symphony of the Night'
+    identifier: "Relic Randomizer (PlayStation)"
     url: https://raw.githubusercontent.com/josephstevenspgh/SotN-Relic-Randomizer/master/relicrando.py
     obsolete: true
     opensource: true
