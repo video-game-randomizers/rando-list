@@ -94,15 +94,15 @@ randomizers:
     added-date: 1900-01-01
     opensource: true
 -   games:
-    - 'Castlevania: Symphony of the Night (PlayStation / Saturn / PSP)'
-    identifier: SOTN Area Rando (SOTN AR)
+    - 'Castlevania: Symphony of the Night'
+    identifier: "SOTN Area Rando (PlayStation / Saturn / PSP)" 
     url: https://github.com/MottZilla/SOTN_AR
     comment: "MottZilla's Area Randomizer for PlayStation, this application also includes Richter Randomizer, a randomizer for the PSP version, and the Randomizer for the Sega Saturn version of SOTN (Including the Ultimate Edition Romhack)."
     updated-date: 2024-12-03
     added-date: 2024-12-03
 -   games:
-    - 'Castlevania: Symphony of the Night (X-Box 360 LIVE Arcade)'
-    identifier: SOTN X-Box Rando (SOTN XB Rando)
+    - 'Castlevania: Symphony of the Night'
+    identifier: "SOTN X-Box Rando (X-Box 360 LIVE Arcade)"
     url: https://github.com/MottZilla/SOTN_XB_RANDO
     comment: "MottZilla's Randomizer for the XBLA version of SOTN Includes many of the same presets as the PlayStation's community version. Only works with the Canary build of the Xenia emulator or on Modded X-Box 360's."
     updated-date: 2024-12-03
