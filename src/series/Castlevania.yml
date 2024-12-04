@@ -95,14 +95,14 @@ randomizers:
     opensource: true
 -   games:
     - 'Castlevania: Symphony of the Night'
-    identifier: "SOTN Area Rando (PlayStation / Saturn / PSP)" 
+    identifier: "SOTN Area Rando" 
     url: https://github.com/MottZilla/SOTN_AR
     comment: "MottZilla's Area Randomizer for PlayStation, this application also includes Richter Randomizer, a randomizer for the PSP version, and the Randomizer for the Sega Saturn version of SOTN (Including the Ultimate Edition Romhack)."
     updated-date: 2024-12-03
     added-date: 2024-12-03
 -   games:
     - 'Castlevania: Symphony of the Night'
-    identifier: "SOTN X-Box Rando (X-Box 360 LIVE Arcade)"
+    identifier: "SOTN X-Box Rando"
     url: https://github.com/MottZilla/SOTN_XB_RANDO
     comment: "MottZilla's Randomizer for the XBLA version of SOTN Includes many of the same presets as the PlayStation's community version. Only works with the Canary build of the Xenia emulator or on Modded X-Box 360's."
     updated-date: 2024-12-03
@@ -110,11 +110,11 @@ randomizers:
     opensource: true
 -   games:
     - 'Castlevania: Symphony of the Night'
-    identifier: "Relic Randomizer (PlayStation)"
+    identifier: "Relic Randomizer"
     url: https://raw.githubusercontent.com/josephstevenspgh/SotN-Relic-Randomizer/master/relicrando.py
     obsolete: true
     opensource: true
-    comment: Requires [Python 2](https://www.python.org/downloads/) and [PS1 2352 image EDC/ECC recalculator](https://www.romhacking.net/utilities/1264/) - Game data to patch should be named `Castlevania - Symphony of the Night (USA) (Track 1).bin`
+    comment: "For PlayStation 1; Requires [Python 2](https://www.python.org/downloads/) and [PS1 2352 image EDC/ECC recalculator](https://www.romhacking.net/utilities/1264/) - Game data to patch should be named `Castlevania - Symphony of the Night (USA) (Track 1).bin`"
     updated-date: 1900-01-01
     added-date: 1900-01-01
 -   games:
