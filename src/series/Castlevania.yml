@@ -103,7 +103,6 @@ randomizers:
     comment: "MottZilla's Randomizer for the XBLA version of SOTN Includes many of the same presets as the PlayStation's community version. Only works with the Canary build of the Xenia emulator or on Modded X-Box 360's."
     updated-date: 2024-12-03
     added-date: 2024-12-03
-    opensource: true
 -   games:
     - 'Castlevania: Symphony of the Night'
     identifier: "Relic Randomizer"
