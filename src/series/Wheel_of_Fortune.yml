@@ -2,12 +2,12 @@ name: Wheel of Fortune
 comment: ''
 sub-series: []
 games:
-    Wheel of Fortune (NES):
+    Wheel of Fortune (All NES versions):
         genres: []
         platforms: []
 randomizers:
 -   games:
-    - Wheel of Fortune (NES)
+    - Wheel of Fortune (All NES versions)
     identifier: Wheel Randomizer
     url: https://github.com/macobra52/Wheel-of-Fortune-NES-Wheel-Randomizer
     comment: Requires emulator that supports LUA (FCEUX, etc.)
