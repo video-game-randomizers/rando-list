@@ -24,6 +24,10 @@ games:
         genres: []
         platforms: []
         sub-series: Main
+    'Dragon Quest III HD-2D':
+        genres: []
+        platforms: []
+        sub-series: Main
     'Dragon Quest IV: Chapters of the Chosen':
         genres: []
         platforms: []
@@ -89,6 +93,13 @@ randomizers:
     url: https://cleartonic.net/dq3hf/dq3hf.html
     updated-date: 1900-01-01
     added-date: 1900-01-01
+-   games:
+    - 'Dragon Quest III HD-2D'
+    identifier: GoldieLeGenie
+    url: https://github.com/GoldieLeGenie/Dragon-quest-3HD2D-Randomizer/
+    updated-date: 2025-01-29
+    added-date: 2025-01-29
+    opensource: True
 -   games:
     - 'Dragon Quest IV: Chapters of the Chosen'
     identifier: RandoHacker

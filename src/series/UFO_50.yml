@@ -1,0 +1,14 @@
+name: UFO 50
+comment: ''
+games:
+    UFO 50 Grimstone:
+        genres: []
+        platforms: []
+randomizers:
+-   games:
+    - UFO 50 Grimstone
+    identifier: TheNesDraug's
+    url: https://www.nexusmods.com/ufo50/mods/4
+    updated-date: 2025-01-29
+    added-date: 2025-01-29
+  
