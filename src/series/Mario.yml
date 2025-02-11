@@ -118,6 +118,13 @@ randomizers:
     added-date: 1900-01-01
 -   games:
     - Super Mario Bros. 3
+    identifier: macobra52's
+    url: https://github.com/macobra52/SMB3-Randomizer-Deluxe
+    updated-date: 2025-02-11
+    added-date: 2025-02-11
+    comment: An expansion of Fred Coughlin's randomizer.
+-   games:
+    - Super Mario Bros. 3
     identifier: Route Randomizer
     url: https://github.com/CujoIHSV/SMB3RR/releases
     obsolete: true
