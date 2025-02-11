@@ -8,6 +8,9 @@ games:
     'Halo: Combat Evolved Anniversary (The Master Chief Collection)':
         genres: []
         platforms: []
+    'Halo: Reach (The Master Chief Collection)':
+        genres: []
+        platforms: []
 randomizers:
 -   games:
     - 'Halo: Combat Evolved Anniversary (The Master Chief Collection)'
@@ -22,3 +25,10 @@ randomizers:
     comment: Also on [Steam Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=2974714610)
     updated-date: 1900-01-01
     added-date: 1900-01-01
+-   games:
+    - 'Halo: Reach (The Master Chief Collection)'
+    identifier: NateRFrost's
+    url: https://github.com/NateRFrost/ReachVisualRandomizer
+    updated-date: 2025-02-11
+    added-date: 2025-02-11
+    opensource: True
