@@ -14,6 +14,9 @@ games:
     Digimon World 3:
         genres: []
         platforms: []
+    Digimon World Dawn/Dusk:
+        genres: []
+        platforms: []
 randomizers:
 -   games:
     - Digimon World
@@ -41,3 +44,10 @@ randomizers:
     comment: '[Source code](https://github.com/zeak6464/Digimon-Cyber-Sleuth-Mods)'
     updated-date: 1900-01-01
     added-date: 1900-01-01
+-   games:
+    - Digimon World Dawn/Dusk
+    identifier: joaomlsantos's
+    url: https://github.com/joaomlsantos/DWDDRandomizer
+    updated-date: 2025-02-11
+    added-date: 2025-02-11
+    opensource: True
