@@ -12,6 +12,7 @@ randomizers:
     url: http://artemis251.fobby.net/stuff/terrariaMusic.html
     updated-date: 1900-01-01
     added-date: 1900-01-01
+    obsolete: True
 -   games:
     - Terraria
     identifier: Flag Randomizer
@@ -26,6 +27,7 @@ randomizers:
     comment: Requires [tModLoader](https://tmodloader.net/)
     updated-date: 1900-01-01
     added-date: 1900-01-01
+    obsolete: True
 -   games:
     - Terraria
     identifier: Archipelago
@@ -33,3 +35,10 @@ randomizers:
     multiworld: Archipelago
     updated-date: 1900-01-01
     added-date: 1900-01-01
+-   games:
+    - Terraria
+    identifier: Michaelsoftman's
+    url: https://steamcommunity.com/sharedfiles/filedetails/?id=3417044889
+    updated-date: 2025-04-27
+    added-date: 2025-04-27
+    comment: Requires [tModLoader](https://tmodloader.net/)
