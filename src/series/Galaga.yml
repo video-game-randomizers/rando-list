@@ -1,0 +1,13 @@
+name: Galaga
+games:
+    Galaga:
+        platforms:
+        - Arcade
+        genres: []
+randomizers:
+-   games:
+    - Galaga
+    identifier: Wave Mixer
+    url: https://donkeykonghacks.net/page_other.html
+    updated-date: 2025-04-27
+    added-date: 2025-04-27
