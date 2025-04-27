@@ -1,0 +1,14 @@
+name: Moon Patrol
+comment: ''
+games:
+    Moon Patrol:
+        genres: []
+        platforms:
+        - Arcade
+randomizers:
+-   games:
+    - Moon Patrol
+    identifier: Unknown Territories
+    url: https://donkeykonghacks.net/page_other.html
+    updated-date: 2025-04-27
+    added-date: 2025-04-27
