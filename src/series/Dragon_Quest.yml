@@ -124,13 +124,15 @@ randomizers:
     - 'Dragon Quest Monsters 2: Tara''s Adventure'
     identifier: Bynine's
     url: https://www.woodus.com/forums/index.php?/topic/36046-dragon-warrior-monsters-2-randomizer/
-    obsolete: true
     updated-date: 1900-01-01
     added-date: 1900-01-01
 -   games:
     - 'Dragon Quest Monsters 2: Cobi''s Journey'
     - 'Dragon Quest Monsters 2: Tara''s Adventure'
     identifier: TheCowness's
-    url: https://cowness.net/DWM2R/
-    updated-date: 1900-01-01
+    url: https://github.com/TheCowness/DWM2Randomizer
+    obsolete: True
+    comment: Requires running your own PHP 5 server
+    opensource: True
+    updated-date: 2025-04-27
     added-date: 1900-01-01
