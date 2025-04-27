@@ -9,6 +9,7 @@ randomizers:
 -   games:
     - 'Ogre Battle: The March of the Black Queen'
     identifier: spellzapp's
-    url: https://www.ogrebattlerandomizer.com/
-    updated-date: 1900-01-01
+    url: https://shrekconflict.pythonanywhere.com/
+    comment: Previously hosted at https://www.ogrebattlerandomizer.com/
+    updated-date: 2025-04-27
     added-date: 1900-01-01
