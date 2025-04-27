@@ -5,6 +5,9 @@ games:
     Xenoblade Chronicles 3:
         genres: []
         platforms: []
+    Xenoblade Chronicles 2:
+        genres: []
+        platforms: []
 randomizers:
 -   games:
     - Xenoblade Chronicles 3
@@ -13,3 +16,10 @@ randomizers:
     comment: Randomizes Art Unlock Kit locations
     updated-date: 1900-01-01
     added-date: 1900-01-01
+-   games:
+    - Xenoblade Chronicles 2
+    identifier: SonahSofern's
+    url: https://github.com/SonahSofern/Xenoblade-Series-Randomizer
+    updated-date: 2025-04-27
+    added-date: 2025-04-27
+    opensource: True
