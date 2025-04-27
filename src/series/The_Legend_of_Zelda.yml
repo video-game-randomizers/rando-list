@@ -294,6 +294,41 @@ randomizers:
     url: https://github.com/jangler/oracles-randomizer
     updated-date: 1900-01-01
     added-date: 1900-01-01
+    opensource: True
+    obsolete: True
+-   games:
+    - 'The Legend of Zelda: Oracle of Ages'
+    - 'The Legend of Zelda: Oracle of Seasons'
+    identifier: vinheim3's
+    url: https://github.com/vinheim3/oracles-randomizer
+    updated-date: 2025-04-27
+    added-date: 2025-04-27
+    opensource: True
+-   games:
+    - 'The Legend of Zelda: Oracle of Ages'
+    - 'The Legend of Zelda: Oracle of Seasons'
+    identifier: Cemulate's Web Interface
+    url: https://cemulate.github.io/oracles-randomizer-web/
+    comment: Web interface for jangler's and vinheim3's
+    updated-date: 2025-04-27
+    added-date: 2025-04-27
+    opensource: True
+-   games:
+    - 'The Legend of Zelda: Oracle of Ages'
+    - 'The Legend of Zelda: Oracle of Seasons'
+    identifier: Stewmath's
+    url: https://oosarando.zeldahacking.net/
+    updated-date: 2025-04-27
+    added-date: 2025-04-27
+    opensource: True
+-   games:
+    - 'The Legend of Zelda: Oracle of Ages'
+    - 'The Legend of Zelda: Oracle of Seasons'
+    identifier: Karafruit's
+    url: https://oracles-dev.gwaa.kiwi/generate
+    comment: Karafruit's fork of Stewmath's
+    updated-date: 2025-04-27
+    added-date: 2025-04-27
 -   games:
     - 'The Legend of Zelda: The Minish Cap'
     identifier: Minish Maker's
