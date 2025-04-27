@@ -37,6 +37,12 @@ randomizers:
     updated-date: 1900-01-01
     added-date: 1900-01-01
 -   games:
+    - Donkey Kong
+    identifier: RNDMZR
+    url: https://www.donkeykonghacks.net/
+    updated-date: 2025-04-27
+    added-date: 2025-04-27
+-   games:
     - Donkey Kong Country
     - 'Donkey Kong Country 2: Diddy''s Kong Quest'
     identifier: DKC Randomizer / DKC Entrance Rando / DKC2 Entrance Randomizer
