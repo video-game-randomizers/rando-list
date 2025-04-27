@@ -1,0 +1,15 @@
+name: Skies of Arcadia
+comment: ''
+sub-series: []
+games:
+    Skies of Arcadia Legends:
+        genres: []
+        platforms: []
+randomizers:
+-   games:
+    - Skies of Arcadia Legends
+    identifier: RyudoSynbios's
+    url: https://game-tools-collection.com/skies-of-arcadia-legends-gc/randomizer
+    updated-date: 2025-04-27
+    added-date: 2025-04-27
+    opensource: True
