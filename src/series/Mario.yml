@@ -154,8 +154,9 @@ randomizers:
     - Super Mario Land 2 DX (hack)
     identifier: slashinfty's
     url: https://sml2r.com/
-    updated-date: 1900-01-01
+    updated-date: 2025-04-30
     added-date: 1900-01-01
+    opensource: True
 -   games:
     - New Super Mario Bros. Wii
     identifier: HBroHei's
