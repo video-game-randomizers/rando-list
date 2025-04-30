@@ -152,10 +152,11 @@ randomizers:
 -   games:
     - 'Super Mario Land 2: 6 Golden Coins'
     - Super Mario Land 2 DX (hack)
-    identifier: dadinfinitum's
-    url: https://sml2r.download/
-    updated-date: 1900-01-01
+    identifier: slashinfty's
+    url: https://sml2r.com/
+    updated-date: 2025-04-30
     added-date: 1900-01-01
+    opensource: True
 -   games:
     - New Super Mario Bros. Wii
     identifier: HBroHei's
