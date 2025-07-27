@@ -92,6 +92,14 @@ randomizers:
     updated-date: 1900-01-01
     added-date: 1900-01-01
 -   games:
+    - Civilization VI
+    identifier: Civilization Archipelago Mod
+    url: https://github.com/hesto2/civilization_archipelago_mod
+    multiworld: Archipelago
+    opensource: true
+    updated-date: 2025-07-27
+    added-date: 2025-07-27
+-   games:
     - C-evo (fangame)
     identifier: Sam Trenholme's map_gen
     url: https://github.com/samboy/c-evo-mapgen
