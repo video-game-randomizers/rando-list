@@ -1,0 +1,15 @@
+name: Boktai
+comment: ''
+sub-series: []
+games:
+    'Boktai: The Sun Is in Your Hand':
+        genres: []
+        platforms: []
+randomizers:
+-   games:
+    - 'Boktai: The Sun Is in Your Hand'
+    identifier: Raphi's
+    url: https://raphi.xyz/boktai-randomizer/#/
+    opensource: true
+    updated-date: 2025-07-27
+    added-date: 2025-07-27
