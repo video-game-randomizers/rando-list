@@ -5,6 +5,9 @@ games:
     Banjo-Kazooie:
         genres: []
         platforms: []
+    Banjo-Tooie:
+        genres: []
+        platforms: []
 randomizers:
 -   games:
     - Banjo-Kazooie
@@ -12,3 +15,18 @@ randomizers:
     url: https://github.com/CyrusKashef/BK_Randomizer
     updated-date: 1900-01-01
     added-date: 1900-01-01
+-   games:
+    - Banjo-Tooie
+    identifier: jjjj12212's Archipelago
+    url: https://github.com/jjjj12212/Archipelago-BanjoTooie
+    updated-date: 2025-07-27
+    added-date: 2025-07-27
+    opensource: True
+    multiworld: Archipelago
+-   games:
+    - Banjo-Tooie
+    identifier: Zenpock's
+    url: https://github.com/Zenpock/Tooie-Randomizer
+    updated-date: 2025-07-27
+    added-date: 2025-07-27
+    opensource: True
