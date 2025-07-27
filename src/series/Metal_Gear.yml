@@ -5,6 +5,9 @@ games:
     Metal Gear:
         genres: []
         platforms: []
+    Metal Gear Solid 2:
+        genres: []
+        platforms: []
 randomizers:
 -   games:
     - Metal Gear
@@ -12,3 +15,10 @@ randomizers:
     url: https://github.com/wijnen/mg-random
     updated-date: 1900-01-01
     added-date: 1900-01-01
+-   games:
+    - Metal Gear Solid 2
+    identifier: sagefantasma's
+    url: https://github.com/sagefantasma/mgs2mc-randomizer
+    updated-date: 2025-07-27
+    added-date: 2025-07-27
+    comment: Made for the Master Collection, which is on PC/Steam.
