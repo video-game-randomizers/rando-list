@@ -376,6 +376,13 @@ randomizers:
     updated-date: 1900-01-01
     added-date: 1900-01-01
 -   games:
+    - Final Fantasy X/X-2 HD Remaster
+    identifier: FFXRando
+    url: https://github.com/nyterage/FFXRando
+    updated-date: 2025-07-27
+    added-date: 2025-07-27
+    opensource: True
+-   games:
     - Final Fantasy XII The Zodiac Age
     identifier: Bartz24's
     url: https://www.nexusmods.com/finalfantasy12/mods/72
