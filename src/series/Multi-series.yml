@@ -524,7 +524,6 @@ randomizers:
     identifier: Archipelago
     url: https://archipelago.gg/
     multiworld: Archipelago
-    comment: List of [additional extensions in development](https://multiworld.news/apworlds.html)
     updated-date: 1900-01-01
     added-date: 1900-01-01
 -   games:
