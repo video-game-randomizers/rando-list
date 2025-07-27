@@ -379,8 +379,8 @@ randomizers:
     - Final Fantasy X/X-2 HD Remaster
     identifier: FFXRando
     url: https://github.com/nyterage/FFXRando
-    updated-date: 2025-5-18
-    added-date: 1900-01-01
+    updated-date: 2025-07-27
+    added-date: 2025-07-27
     opensource: True
 -   games:
     - Final Fantasy XII The Zodiac Age
