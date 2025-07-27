@@ -1,0 +1,16 @@
+name: Webfishing
+comment: ''
+sub-series: []
+games:
+    Webfishing:
+      genres: []
+      platforms: []
+randomizers:
+-   games:
+    - Webfishing
+    identifier: mwoiii's
+    url: https://github.com/mwoiii/webfishing-ap
+    updated-date: 2025-07-27
+    added-date: 2025-07-27
+    opensource: true
+    multiworld: Archipelago
