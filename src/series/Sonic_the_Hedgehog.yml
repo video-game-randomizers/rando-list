@@ -78,6 +78,12 @@ randomizers:
     updated-date: 1900-01-01
     added-date: 1900-01-01
 -   games:
+    - Sonic Mania
+    identifier: CodenameGamma's
+    url: https://gamebanana.com/mods/609081
+    updated-date: 2025-07-27
+    added-date: 2025-07-27
+-   games:
     - Sonic Adventure DX
     identifier: Sora's
     url: https://github.com/Sora-yx/SADX-Randomizer
