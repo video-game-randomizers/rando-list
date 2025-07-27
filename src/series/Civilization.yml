@@ -97,8 +97,8 @@ randomizers:
     url: https://github.com/hesto2/civilization_archipelago_mod
     multiworld: Archipelago
     opensource: true
-    updated-date: 2025-06-23
-    added-date: 2025-06-23
+    updated-date: 2025-07-27
+    added-date: 2025-07-27
 -   games:
     - C-evo (fangame)
     identifier: Sam Trenholme's map_gen
