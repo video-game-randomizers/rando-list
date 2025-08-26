@@ -4,35 +4,49 @@
     {%- assign games = games | push: game[0] -%}
 {%- endfor -%}
 {%- assign games = games | sort_natural -%}
+{%- assign id = series.name | cgi_escape -%}
 
-<h3 id="{{ series.name | cgi_escape }}" class="my-0"><a href="#{{ series.name | cgi_escape }}"><i class="bi bi-link-45deg"></i></a>
-    {% if games.size == 1 %}
-        {%- assign firstGame = games[0] -%}
-        {%- assign game_data = series.games[firstGame] -%}
-        {%- assign release_year = game_data.release-date | split: "-" | first -%}
+<div class="card">
+    <div class="card-header d-flex justify-content-between">
+        <h2 id="{{ id }}" class="my-0">
+            <a href="#{{ id }}"><i class="bi bi-link-45deg"></i></a>
+                {% if games.size == 1 %}
+                {%- assign firstGame = games[0] -%}
+                {%- assign game_data = series.games[firstGame] -%}
+                {%- assign release_year = game_data.release-date | split: "-" | first -%}
 
-        {{ firstGame }}
-        {% if release_year %}
-            <span class="text-muted fs-5">({{ release_year }})</span>
-        {% endif %}
-        
-        {%- comment -%} Series with a different name to the sole game within will have their title appended {%- endcomment -%}
-        {% if firstGame != series.name %}
-            <span class="text-muted">{{ series.name }}</span>
-        {% endif %}
-    {% else %}
-        {{ series.name }}
-    {% endif %}
-</h3>
+                {{ firstGame }}
+                {% if release_year %}
+                    <span class="text-muted fs-5">({{ release_year }})</span>
+                {% endif %}
+                
+                {%- comment -%} Series with a different name to the sole game within will have their title appended {%- endcomment -%}
+                {% if firstGame != series.name %}
+                    <span class="text-muted">(from the {{ series.name }} series)</span>
+                {% endif %}
+            {% else %}
+                {{ series.name }}
+            {% endif %}
+        </h2>
 
-{%- if series.comment -%}
-    <p>{{ series.comment | markdownify }}</p>
-{%- endif -%}
+        <button class="btn btn-primary" type="button" data-bs-toggle="collapse" data-bs-target="#{{ id }}Body" aria-expanded="false" aria-controls="{{ id }}Body" aria-label="Collapse">
+            <i class="bi bi-arrows-collapse" aria-hidden="true"></i>
+        </button>
+    </div>
 
-<ul class="series-list">
-{%- if include.games_merged -%}
-    {%- include randos_list.html randos=series.randomizers parent_name=series.name showgames=true -%}
-{%- else -%}
-    {%- include series_games.html series=series -%}
-{%- endif -%}
-</ul>
+    <div class="collapse hide" id="{{ id }}Body">
+        <div class="card-body">
+            {%- if series.comment -%}
+                <p>{{ series.comment | markdownify }}</p>
+            {%- endif -%}
+
+            <ul class="series-list">
+            {%- if include.games_merged -%}
+                {%- include randos_list.html randos=series.randomizers parent_name=series.name showgames=true -%}
+            {%- else -%}
+                {%- include series_games.html series=series -%}
+            {%- endif -%}
+            </ul>
+        </div>
+    </div>
+</div>
