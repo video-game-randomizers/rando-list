@@ -90,6 +90,10 @@ games:
         genres: []
         platforms: []
         sub-series: Core
+    (III) Pokémon LeafGreen Version:
+        genres: []
+        platforms: []
+        sub-series: Core
     (III) Gen III secondary & remakes:
         genres: []
         platforms: []
@@ -276,6 +280,21 @@ randomizers:
     multiworld: Archipelago
     updated-date: 1900-01-01
     added-date: 1900-01-01
+-   games:
+    - (II) Pokémon Crystal Version
+    identifier: Archipelago
+    url: https://github.com/gerbiljames/Archipelago-Crystal/blob/pokecrystal/worlds/pokemon_crystal/docs/setup_en.md
+    multiworld: Archipelago
+    updated-date: 2025-08-25
+    added-date: 2025-08-25
+-   games:
+    - (III) Pokémon FireRed Version
+    - (III) Pokémon LeafGreen Version
+    identifier: Archipelago
+    url: https://github.com/vyneras/Archipelago/blob/frlg-stable/worlds/pokemon_frlg/docs/setup_en.md
+    multiworld: Archipelago
+    updated-date: 2025-08-25
+    added-date: 2025-08-25
 -   games:
     - (I) Gen I primary
     identifier: Artemis251's
