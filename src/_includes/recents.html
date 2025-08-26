@@ -1,4 +1,4 @@
-{%- assign old = '2024-12-01' | date: '%s' -%}
+{%- assign old = site.time | date: '%s' | minus: 15552000 | append: '' -%}
 
 {%- assign randos = "" | split: "" -%}
 
