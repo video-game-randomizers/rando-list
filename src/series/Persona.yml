@@ -5,10 +5,20 @@ games:
     Persona 5 Royal:
         genres: []
         platforms: []
+    Persona 3 Reload:
+        genres: []
+        platforms: []
 randomizers:
 -   games:
     - Persona 5 Royal
-    identifier: Screenments's
+    identifier: Screenments's P5R Randomizer
     url: https://gamebanana.com/mods/502477
     updated-date: 1900-01-01
     added-date: 1900-01-01
+-   games:
+    - Persona 3 Reload
+    identifier: Screenments's P3R Randomizer
+    url: https://gamebanana.com/mods/560109
+    comment: "Warning: may be unstable."
+    updated-date: 2025-01-29
+    added-date: 2025-01-29
