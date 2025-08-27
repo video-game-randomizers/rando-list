@@ -32,6 +32,12 @@ randomizers:
     updated-date: 1900-01-01
     added-date: 1900-01-01
 -   games:
+    - Final Fantasy Legend II
+    identifier: Taeveril's
+    url: https://github.com/Taeveril/FFL2-Randomizer
+    updated-date: 2025-08-26
+    added-date: 2025-08-26
+-   games:
     - Final Fantasy Legend III
     identifier: Lunacy
     url: https://www.romhacking.net/hacks/4351/
