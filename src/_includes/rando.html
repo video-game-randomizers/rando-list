@@ -1,14 +1,17 @@
 {%- assign rando = include.rando -%}
 <li class="rando" id="{{ include.parent_name | cgi_escape }}-{{ rando.identifier | cgi_escape }}">
-    <h5><a href="{{ rando.url }}">{{ rando.identifier }}</a></h5>
-
     {%- if include.showgames -%}
         {%- assign randogames = rando.games | sort_natural -%}
-        <ul>
-        {% for game in randogames %}
-            <li>{{ game }}</li>
-        {% endfor %}
-        </ul>
+        <h5>
+            <ul>
+            {% for game in randogames %}
+                <li>{{ game }}</li>
+            {% endfor %}
+            </ul>
+        </h5>
+        <p><a href="{{ rando.url }}">{{ rando.identifier }}</a></p>
+    {%- else -%}
+        <h5><a href="{{ rando.url }}">{{ rando.identifier }}</a></h5>
     {%- endif -%}
 
     {%- if rando.sub-series -%}
