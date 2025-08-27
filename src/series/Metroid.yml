@@ -253,7 +253,7 @@ randomizers:
     added-date: 1900-01-01
 -   games:
     - Super Metroid
-    identifier: Arcade
+    identifier: 'Super Metroid Arcade : Endless mode'
     url: https://metroidconstruction.com/hack.php?id=357
     updated-date: 1900-01-01
     added-date: 1900-01-01
