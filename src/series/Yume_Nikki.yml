@@ -1,0 +1,14 @@
+name: Yume Nikki
+comment: ''
+sub-series: []
+games:
+    Yume Nikki:
+        genres: []
+        platforms: []
+randomizers:
+-   games:
+    - Yume Nikki
+    identifier: 'REM-9'
+    url: https://vgperson.com/games/rem9.htm
+    updated-date: 2025-08-26
+    added-date: 2025-08-26
