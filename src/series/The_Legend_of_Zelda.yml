@@ -399,6 +399,13 @@ randomizers:
     added-date: 1900-01-01
 -   games:
     - 'The Legend of Zelda: Majora''s Mask'
+    identifier: 2 Ship 2 Harkinian
+    url: https://github.com/HarbourMasters/2ship2harkinian
+    comment: Unofficial PC port with bundled randomizer
+    updated-date: 2025-09-20
+    added-date: 2025-09-20
+-   games:
+    - 'The Legend of Zelda: Majora''s Mask'
     identifier: Beta Quest
     url: https://www.zeldacodes.org/challenges/beta-quest
     comment: Requires a cheat engine supporting Gecko codes
