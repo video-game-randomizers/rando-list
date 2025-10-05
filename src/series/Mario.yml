@@ -273,6 +273,12 @@ randomizers:
     comment: Located under Tools as Miscellaneous Cheat Codes
     updated-date: 1900-01-01
     added-date: 1900-01-01
+    games:
+    - 'Paper Mario: The Thousand-Year Door'
+    identifier: jamesbrq's Open-World Randomizer
+    url: https://www.ttydrandomizer.com/
+    updated-date: 1900-01-01
+    added-date: 1900-01-01
 -   games:
     - Super Paper Mario
     identifier: Level Editor and Randomizer
