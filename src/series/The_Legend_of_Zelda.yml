@@ -402,8 +402,9 @@ randomizers:
     identifier: 2 Ship 2 Harkinian
     url: https://github.com/HarbourMasters/2ship2harkinian
     comment: Unofficial PC port with bundled randomizer
-    updated-date: 2025-09-20
-    added-date: 2025-09-20
+    opensource: True
+    updated-date: 2025-10-05
+    added-date: 2025-10-05
 -   games:
     - 'The Legend of Zelda: Majora''s Mask'
     identifier: Beta Quest
