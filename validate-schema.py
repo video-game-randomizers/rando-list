@@ -11,6 +11,7 @@ import re
 from jsonschema import FormatChecker
 from jsonschema.validators import extend, validate, Draft202012Validator
 import yaml, json
+from yaml.constructor import ConstructorError
 
 # Bodge to ignore dates and just use as-is.
 # This makes this script unsafe to import!
@@ -21,12 +22,26 @@ yaml.SafeLoader.yaml_implicit_resolvers = {
 
 Validator = extend(Draft202012Validator, format_checker=FormatChecker())
 
+class NoDuplicateSafeLoader(yaml.SafeLoader): # inherits from SafeLoader so we don't need to use yaml.safe_load
+    def construct_mapping(self, node, deep=False):
+        mapping = {}
+        for key_node, value_node in node.value:
+            key = self.construct_object(key_node, deep=deep)
+            if key in mapping:
+                raise ConstructorError(
+                    None, None,
+                    f"Duplicate key found: '{key}' on line {key_node.start_mark.line + 1}",
+                    key_node.start_mark
+                )
+            mapping[key] = self.construct_object(value_node, deep=deep)
+        return mapping
+
 
 def checkFile(schema, filename: Path):
     if filename.suffix!='.yml' or re.search(r'[^a-zA-Z0-9_\-\.\(\)]', filename.stem):
         raise ValueError("bad filename " + filename.name)
     with open(filename, encoding="utf-8") as f:
-        series = yaml.safe_load(f)
+        series = yaml.load(f, Loader=NoDuplicateSafeLoader)
     validate(series, schema, cls=Validator)
 
     # now check lists of games
