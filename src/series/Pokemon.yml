@@ -187,6 +187,10 @@ games:
         genres: []
         platforms: []
         sub-series: Spin-offs
+    'Pokémon Mystery Dungeon: Gates to Infinity':
+        genres: []
+        platforms: []
+        sub-series: Spin-offs
     Pokémon Red Speedchoice (hack):
         genres: []
         platforms: []
@@ -597,6 +601,13 @@ randomizers:
     url: https://projectpokemon.org/home/files/file/4235-skytemple-randomizer/
     updated-date: 1900-01-01
     added-date: 1900-01-01
+-   games:
+    - 'Pokémon Mystery Dungeon: Gates to Infinity'
+    identifier: Blue587's
+    url: https://github.com/Blue587/gti_pokemon_data_randomizer
+    updated-date: 2025-11-17
+    added-date: 2025-11-17
+    opensource: True
 -   games:
     - Pokémon Conquest
     identifier: RanseiLink
