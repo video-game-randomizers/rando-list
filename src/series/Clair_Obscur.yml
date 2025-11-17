@@ -1,0 +1,15 @@
+name: Clair Obscur
+comment: ''
+sub-series: []
+games:
+    'Clair Obscur: Expedition 33':
+        genres: []
+        platforms: []
+randomizers:
+-   games:
+    - 'Clair Obscur: Expedition 33'
+    identifier: IhorChornyi314's
+    url: https://github.com/IhorChornyi314/E33-Randomizer
+    updated-date: 2025-11-17
+    added-date: 2025-11-17
+    opensource: True
