@@ -383,6 +383,12 @@ randomizers:
     added-date: 2025-07-27
     opensource: True
 -   games:
+    - Final Fantasy X/X-2 HD Remaster
+    identifier: FFX-2 Accessory Randomizer
+    url: https://www.nexusmods.com/finalfantasyxx2hdremaster/mods/269
+    updated-date: 2025-11-17
+    added-date: 2025-11-17
+-   games:
     - Final Fantasy XII The Zodiac Age
     identifier: Bartz24's
     url: https://www.nexusmods.com/finalfantasy12/mods/72
