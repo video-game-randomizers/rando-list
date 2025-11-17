@@ -2,6 +2,9 @@ name: Xeno
 comment: ''
 sub-series: []
 games:
+    Xenoblade Chronicles:
+        genres: []
+        platforms: []
     Xenoblade Chronicles 3:
         genres: []
         platforms: []
@@ -17,9 +20,11 @@ randomizers:
     updated-date: 1900-01-01
     added-date: 1900-01-01
 -   games:
+    - Xenoblade Chronicles
     - Xenoblade Chronicles 2
+    - Xenoblade Chronicles 3
     identifier: SonahSofern's
     url: https://github.com/SonahSofern/Xenoblade-Series-Randomizer
-    updated-date: 2025-04-27
+    updated-date: 2025-11-17
     added-date: 2025-04-27
     opensource: True
