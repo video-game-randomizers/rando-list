@@ -5,6 +5,10 @@ games:
     PlantsVsZombies.NET (Plants vs. Zombies unofficial PC port):
         genres: []
         platforms: []
+    Plants Vs. Zombies:
+        genres: []
+        platforms: ['PC']
+    
 randomizers:
 -   games:
     - PlantsVsZombies.NET (Plants vs. Zombies unofficial PC port)
@@ -13,3 +17,10 @@ randomizers:
     comment: Requires the Windows Phone version of the game and [Visual Studio Community 2019](https://learn.microsoft.com/en-us/visualstudio/releases/2019/release-notes)
     updated-date: 1900-01-01
     added-date: 1900-01-01
+-   games:
+    - Plants Vs. Zombies
+    identifier: Cyber-Gon's
+    url: https://github.com/Cyber-Gon/pvz-randomiser
+    updated-date: 2025-11-17
+    added-date: 2025-11-17
+    opensource: True
