@@ -75,6 +75,12 @@ randomizers:
     updated-date: 1900-01-01
     added-date: 1900-01-01
 -   games:
+    - 'Dark Souls II: Scholar of the First Sin'
+    identifier: Chainsboyo's
+    url: https://www.nexusmods.com/darksouls2/mods/1317?tab=description
+    updated-date: 2025-11-17
+    added-date: 2025-11-17
+-   games:
     - Dark Souls III
     identifier: Enemy Randomizer
     url: https://www.nexusmods.com/darksouls3/mods/484
