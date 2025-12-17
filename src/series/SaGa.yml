@@ -43,3 +43,10 @@ randomizers:
     url: https://www.romhacking.net/hacks/4351/
     updated-date: 1900-01-01
     added-date: 1900-01-01
+-   games:
+    - Final Fantasy Legend III
+    identifier: abyssonym's
+    url: https://github.com/abyssonym/ffl3rando
+    updated-date: 2025-12-17
+    added-date: 2025-12-17
+    opensource: true
