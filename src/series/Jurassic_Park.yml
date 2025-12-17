@@ -13,3 +13,10 @@ randomizers:
     comment: Located in video description
     updated-date: 1900-01-01
     added-date: 1900-01-01
+-   games:
+    - Jurassic Park (Super NES)
+    identifier: Halderim's
+    url: https://github.com/Halderim/jp_snes_randomizer/
+    updated-date: 2025-12-17
+    added-date: 2025-12-17
+    opensource: true
