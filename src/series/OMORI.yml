@@ -1,0 +1,13 @@
+name: OMORI
+comment: ''
+games:
+    OMORI:
+        genres: []
+        platforms: []
+randomizers:
+  - games:
+      - OMORI
+    identifier: OMORI HANGMAN RANDOMIZER
+    url: https://omori-hangman-randomizer.com/home
+    updated-date: 2025-12-17
+    added-date: 2025-12-17
