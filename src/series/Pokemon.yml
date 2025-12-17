@@ -300,6 +300,12 @@ randomizers:
     updated-date: 2025-08-25
     added-date: 2025-08-25
 -   games:
+    - (III) Pokémon FireRed Version
+    identifier: The Nuzlomizer
+    url: https://www.pokecommunity.com/threads/the-nuzlomizer-a-balanced-nuzlocke-randomizer.537578/
+    updated-date: 2025-12-17
+    added-date: 2025-12-17
+-   games:
     - (I) Gen I primary
     identifier: Artemis251's
     url: http://artemis251.fobby.net/downloads/redblue/
