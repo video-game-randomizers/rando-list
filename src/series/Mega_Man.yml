@@ -70,6 +70,14 @@ games:
         genres: []
         platforms: []
         sub-series: Battle Network
+    Mega Man X:
+        genres: []
+        platforms: []
+        sub-series: X
+    Mega Man X2:
+        genres: []
+        platforms: []
+        sub-series: X
     Mega Man X3:
         genres: []
         platforms: []
@@ -151,6 +159,14 @@ randomizers:
     url: https://github.com/MaximumLance/Wily-Wars-Randomizer
     updated-date: 1900-01-01
     added-date: 1900-01-01
+-   games:
+    - Mega Man X
+    - Mega Man X2
+    - Mega Man X3
+    identifier: Route MatriX Randomizer
+    url: https://borokobo.web.fc2.com/#RockC
+    updated-date: 2025-12-17
+    added-date: 2025-12-17
 -   games:
     - Mega Man X3
     - Zero Project (Mega Man X3 hack)
