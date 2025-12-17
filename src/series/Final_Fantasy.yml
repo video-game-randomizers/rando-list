@@ -93,7 +93,11 @@ games:
         genres: []
         platforms: []
         sub-series: Main
-    Final Fantasy X/X-2 HD Remaster:
+    Final Fantasy X HD Remaster:
+        genres: []
+        platforms: []
+        sub-series: Main
+    Final Fantasy X-2 HD Remaster:
         genres: []
         platforms: []
         sub-series: Main
@@ -358,35 +362,39 @@ randomizers:
     updated-date: 1900-01-01
     added-date: 1900-01-01
 -   games:
-    - Final Fantasy X/X-2 HD Remaster
+    - Final Fantasy X HD Remaster
+    - Final Fantasy X-2 HD Remaster
     identifier: Final Fantasy X HD Randomizer Pack
     url: https://github.com/Stingerman06/Stingerman06_FFXRandomizerPack
     updated-date: 1900-01-01
     added-date: 1900-01-01
 -   games:
-    - Final Fantasy X/X-2 HD Remaster
+    - Final Fantasy X HD Remaster
+    - Final Fantasy X-2 HD Remaster
     identifier: FFX Randomizer
     url: https://ffxrandomizer.zint.ch/
     updated-date: 1900-01-01
     added-date: 1900-01-01
 -   games:
-    - Final Fantasy X/X-2 HD Remaster
+    - Final Fantasy X HD Remaster
+    - Final Fantasy X-2 HD Remaster
     identifier: FFX-2 Remaster Randomizer
     url: https://github.com/shea093/FFX-2-Remaster-Randomizer
     updated-date: 1900-01-01
     added-date: 1900-01-01
 -   games:
-    - Final Fantasy X/X-2 HD Remaster
+    - Final Fantasy X HD Remaster
+    - Final Fantasy X-2 HD Remaster
     identifier: FFXRando
     url: https://github.com/nyterage/FFXRando
     updated-date: 2025-07-27
     added-date: 2025-07-27
     opensource: True
 -   games:
-    - Final Fantasy X/X-2 HD Remaster
+    - Final Fantasy X-2 HD Remaster
     identifier: FFX-2 Accessory Randomizer
     url: https://www.nexusmods.com/finalfantasyxx2hdremaster/mods/269
-    updated-date: 2025-11-17
+    updated-date: 2025-12-17
     added-date: 2025-11-17
 -   games:
     - Final Fantasy XII The Zodiac Age
