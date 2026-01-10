@@ -1,0 +1,14 @@
+name: Shadow Tower
+comment: ''
+sub-series: []
+games:
+    'Shadow Tower':
+        genres: []
+        platforms: []
+randomizers:
+-   games:
+    - 'Shadow Tower'
+    identifier: Shadow Tower Randomizer
+    url: https://shadow-tower-randomizer-1023048112324.us-central1.run.app/
+    updated-date: 1900-01-01
+    added-date: 1900-01-01
