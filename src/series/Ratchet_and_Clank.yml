@@ -5,11 +5,54 @@ games:
     Ratchet & Clank Collection:
         genres: []
         platforms: []
+    Ratchet & Clank:
+        genres: []
+        platforms: []
+    'Ratchet & Clank: Going Commando':
+        genres: []
+        platforms: []
+    'Ratchet & Clank: Up Your Arsenal':
+        genres: []
+        platforms: []
 randomizers:
 -   games:
     - Ratchet & Clank Collection
     identifier: bordplate's
     url: https://github.com/bordplate/rac1-randomizer
     comment: Randomizes Ratchet & Clank
+    opensource: true
+    obsolete: true
     updated-date: 1900-01-01
     added-date: 1900-01-01
+-   games:
+    - Ratchet & Clank
+    identifier: bordplate's rac1-multiplayer
+    url: https://github.com/bordplate/rac1-multiplayer
+    comment: This is a multiplayer mod for the PS3 HD release of the original 2002 Ratchet & Clank.
+    opensource: true
+    updated-date: 2026-05-04
+    added-date: 2026-05-04
+-   games:
+    - Ratchet & Clank
+    identifier: Panda291's
+    url: https://github.com/Panda291/Archipelago/blob/main/worlds/RAC1/docs/en_Ratchet%20%26%20Clank.md
+    opensource: true
+    multiworld: Archipelago
+    updated-date: 2026-05-04
+    added-date: 2026-05-04
+-   games:
+    - 'Ratchet & Clank: Going Commando'
+    identifier: evilwb's APRac2
+    url: https://github.com/evilwb/APRac2
+    opensource: true
+    multiworld: Archipelago
+    updated-date: 2026-05-04
+    added-date: 2026-05-04
+-   games:
+    - 'Ratchet & Clank: Up Your Arsenal'
+    identifier: Taoshix's Archipelago-RaC3
+    url: https://github.com/Taoshix/Archipelago-RaC3/releases
+    opensource: true
+    multiworld: Archipelago
+    updated-date: 2026-05-04
+    added-date: 2026-05-04
