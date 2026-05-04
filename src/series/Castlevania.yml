@@ -113,6 +113,14 @@ randomizers:
     updated-date: 1900-01-01
     added-date: 1900-01-01
 -   games:
+    - 'Castlevania: Symphony of the Night'
+    identifier: MottZilla's SotN Integrated Rando
+    url: https://github.com/MottZilla/SotN_Integrated_Rando
+    comment: Integrated Randomizer for Castlevania Symphony of the Night for Playstation.
+    updated-date: 2025-05-04
+    added-date: 2025-05-04
+    opensource: false
+-   games:
     - 'Castlevania: Circle of the Moon'
     identifier: calm-palm's
     url: https://github.com/calm-palm/cotm-randomizer
