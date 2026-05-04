@@ -1,0 +1,23 @@
+name: Fossil Fighters
+comment: ''
+sub-series: []
+games:
+    Fossil Fighters:
+        genres: []
+        platforms: []
+    'Fossil Fighters: Champions':
+        genres: []
+        platforms: []
+randomizers:
+-   games:
+    - Fossil Fighters
+    identifier: opiter09's
+    url: https://opiter-projects.neocities.org/
+    updated-date: 2025-05-04
+    added-date: 2025-05-04
+-   games:
+    - 'Fossil Fighters: Champions'
+    identifier: opiter09's
+    url: https://opiter-projects.neocities.org/
+    updated-date: 2025-05-04
+    added-date: 2025-05-04
