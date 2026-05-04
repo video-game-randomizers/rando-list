@@ -1,0 +1,17 @@
+name: Shadowgate
+sub-series: []
+games:
+    'Shadowgate 64: Trials of the Four Towers':
+        genres:
+        - Adventure
+        platforms:
+        - N64
+        release-date: 1999-06-09
+randomizers:
+-   games:
+    - 'Shadowgate 64: Trials of the Four Towers'
+    identifier: Chaos Magic Edition item randomizer
+    url: https://github.com/grendell/sg64rando
+    opensource: true
+    updated-date: 2026-05-04
+    added-date: 2026-05-04
