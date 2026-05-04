@@ -82,6 +82,10 @@ games:
         genres: []
         platforms: []
         sub-series: X
+    Mega Man X4:
+        genres: []
+        platforms: []
+        sub-series: X
     Mega Man X6:
         genres: []
         platforms: []
@@ -182,6 +186,14 @@ randomizers:
     comment: Modding tool with bundled randomizer
     updated-date: 1900-01-01
     added-date: 1900-01-01
+-   games:
+    - Mega Man X4
+    identifier: MottZilla
+    url: https://github.com/MottZilla/MZ-X4-Randomizer
+    opensource: false
+    comment: For use with the NTSC North American Playstation version.
+    updated-date: 2025-05-04
+    added-date: 2025-05-04
 -   games:
     - Mega Man Battle Network (Legacy Collection)
     identifier: Undernet-Trader
