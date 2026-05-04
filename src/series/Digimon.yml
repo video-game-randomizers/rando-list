@@ -17,6 +17,9 @@ games:
     Digimon World Dawn/Dusk:
         genres: []
         platforms: []
+    'Digimon Story: Time Stranger':
+        genres: []
+        platforms: []
 randomizers:
 -   games:
     - Digimon World
@@ -51,3 +54,9 @@ randomizers:
     updated-date: 2025-02-11
     added-date: 2025-02-11
     opensource: True
+-   games:
+    - 'Digimon Story: Time Stranger'
+    identifier: HumanHooman's
+    url: https://www.nexusmods.com/digimonstorytimestranger/mods/145
+    updated-date: 2026-05-04
+    added-date: 2026-05-04
