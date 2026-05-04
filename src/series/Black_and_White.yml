@@ -1,0 +1,15 @@
+name: Black & White
+comment: ''
+sub-series: []
+games:
+    Black & White:
+        genres: []
+        platforms: []
+randomizers:
+-   games:
+    - Black & White
+    identifier: Ultimate
+    url: https://www.bwgame.net/downloads/black-white-ultimate.1460/
+    comment: Includes random tribes and miracles as an option. <https://discord.com/invite/2D5sAag>
+    updated-date: 2026-05-04
+    added-date: 2026-05-04
