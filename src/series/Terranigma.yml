@@ -1,0 +1,14 @@
+name: Terranigma
+comment: ''
+sub-series: []
+games:
+    Terranigma:
+        genres: []
+        platforms: []
+randomizers:
+-   games:
+    - Terranigma
+    identifier: GaiaRando
+    url: https://gaiarando.com
+    updated-date: 2026-06-13
+    added-date: 2026-06-13
