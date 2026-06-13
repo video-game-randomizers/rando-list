@@ -1,0 +1,15 @@
+name: Wonder Boy
+comment: ''
+sub-series: []
+games:
+    Wonder Boy in Monster World:
+        genres: []
+        platforms: []
+randomizers:
+-   games:
+    - Wonder Boy in Monster World
+    identifier: dethwing's
+    url: https://github.com/dethwing/Wonder-Boy-in-Monster-World---Randomizer
+    updated-date: 2026-06-13
+    added-date: 2026-06-13
+    opensource: true
