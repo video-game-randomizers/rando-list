@@ -1,0 +1,16 @@
+name: Top Gear 2
+comment: ''
+sub-series:
+    - 2D & 2D-like
+games:
+    Top Gear 2:
+        genres: []
+        platforms: []
+        sub-series: 2D & 2D-like
+randomizers:
+-   games:
+    - Top Gear 2
+    identifier: Oipo's
+    url: https://volt-software.nl/tg2
+    updated-date: 2026-06-13
+    added-date: 2026-06-13
