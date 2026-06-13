@@ -8,6 +8,9 @@ games:
     Deltarune (SURVEY_PROGRAM):
         genres: []
         platforms: []
+    Deltarune (Chapter 4):
+        genres: []
+        platforms: []
     Undertale:
         genres: []
         platforms: []
@@ -39,3 +42,11 @@ randomizers:
     comment: Randomizes Chapter 2
     updated-date: 1900-01-01
     added-date: 1900-01-01
+    obsolete: true
+-   games:
+    - Deltarune (Chapter 4)
+    identifier: Skywatcher's Chaos Randomizer
+    url: https://gamebanana.com/mods/650496
+    comment: Supports ALL chapters (1-4).
+    updated-date: 2026-06-13
+    added-date: 2026-06-13
