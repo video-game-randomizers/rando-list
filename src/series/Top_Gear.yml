@@ -1,4 +1,4 @@
-name: Top Gear 2
+name: Top Gear
 comment: ''
 sub-series:
     - 2D & 2D-like
@@ -12,5 +12,6 @@ randomizers:
     - Top Gear 2
     identifier: Oipo's
     url: https://volt-software.nl/tg2
-    updated-date: 2026-06-13
-    added-date: 2026-06-13
+    updated-date: 2026-06-14
+    added-date: 2026-06-14
+    opensource: true
