@@ -45,6 +45,10 @@ games:
         genres: []
         platforms: []
         sub-series: 2D & 2D-like platformers
+    'Super Mario Bros.: The Lost Levels':
+        genres: []
+        platforms: []
+        sub-series: 2D & 2D-like platformers
     Super Mario Bros. 3:
         genres: []
         platforms: []
@@ -300,3 +304,14 @@ randomizers:
     opensource: true
     updated-date: 2024-07-23
     added-date: 2024-07-23
+-   games:
+    - Super Mario Bros.
+    - 'Super Mario Bros.: The Lost Levels'
+    - Super Mario Bros. 2
+    - Super Mario Bros. 3
+    - Super Mario World
+    identifier: ColPanic's Crossgame Randomizer
+    url: https://colpanic.itch.io/super-mario-all-stars-crossgame-randomizer
+    updated-date: 2026-06-14
+    added-date: 2026-06-14
+    comment: A randomizer for the Super Mario All-Stars + Super Mario World combined ROM that uses the SMB3 map as a hub. Levels can be from any of the five source games (SMB1, Lost Levels, SMB2U, SMB3, SMW).
