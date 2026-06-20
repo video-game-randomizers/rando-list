@@ -5,7 +5,7 @@ games:
     GoldenEye 007:
         genres: [Shooter]
         platforms: [N64]
-        release-date: 1997-8-23
+        release-date: 1997-08-23
 randomizers:
 -   games:
     - GoldenEye 007
