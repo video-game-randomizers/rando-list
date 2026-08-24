@@ -12,3 +12,9 @@ randomizers:
     url: https://www.romhacking.net/hacks/7490/
     updated-date: 1900-01-01
     added-date: 1900-01-01
+-   games:
+    - Kid Chameleon
+    identifier: KCR
+    url: https://kidchameleonrandomizer.pythonanywhere.com/
+    updated-date: 2026-08-24
+    added-date: 2026-08-24
