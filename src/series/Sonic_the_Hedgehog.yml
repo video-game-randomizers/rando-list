@@ -3,6 +3,7 @@ comment: ''
 sub-series:
 - 2D
 - 3D
+- Racing
 - Unofficial
 games:
     Shadow the Hedgehog:
@@ -45,7 +46,17 @@ games:
         genres: []
         platforms: []
         sub-series: 2D
+    'Sonic Racing: CrossWorlds':
+        genres: []
+        platforms: []
+        sub-series: Racing
 randomizers:
+-   games:
+    - 'Sonic Racing: CrossWorlds'
+    identifier: bova_'s
+    url: https://gamebanana.com/mods/690842
+    updated-date: 2026-08-24
+    added-date: 2026-08-24
 -   games:
     - Sonic the Hedgehog
     identifier: Random Levels Project
