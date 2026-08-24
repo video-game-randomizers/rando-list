@@ -59,6 +59,20 @@ def checkFile(schema, filename: Path):
     unused_games = series_games.difference(found_games)
     if unused_games:
         raise ValueError("unused games: " + ', '.join(unused_games))
+    
+    declared_sub_series = set(series.get('sub-series', []))
+    for game_name, game in series['games'].items():
+        game_sub_series = game.get('sub-series')
+        if not game_sub_series:
+            continue
+        if isinstance(game_sub_series, str):
+            game_sub_series = [game_sub_series]
+        undeclared = set(game_sub_series).difference(declared_sub_series)
+        if undeclared:
+            raise ValueError(
+                "undeclared sub-series in " + game_name + " : " + ', '.join(sorted(undeclared))
+                + " (series declares " + ', '.join(sorted(declared_sub_series)) + ")"
+            )
 
 
 
