@@ -1,0 +1,24 @@
+name: Shadow Man
+comment: ''
+sub-series: []
+games:
+    Shadow Man Remastered:
+        genres: []
+        platforms:
+        - PC
+randomizers:
+-   games:
+    - Shadow Man Remastered
+    identifier: bropacman's
+    url: https://github.com/bropacman/shadow-man-remastered-randomizer/releases
+    updated-date: 2026-08-24
+    added-date: 2026-08-24
+    opensource: True
+-   games:
+    - Shadow Man Remastered
+    identifier: bropacman's Archipelago
+    url: https://github.com/bropacman/shadow-man-remastered-ap-world/releases
+    updated-date: 2026-08-24
+    added-date: 2026-08-24
+    opensource: True
+    multiworld: Archipelago
