@@ -1,0 +1,16 @@
+name: Nine Sols
+comment: ''
+sub-series: []
+games:
+    Nine Sols:
+        genres: []
+        platforms: []
+randomizers:
+-   games:
+    - Nine Sols
+    identifier: Ixrec's NineSols Archipelago Randomizer
+    url: https://github.com/Ixrec/NineSolsArchipelagoRandomizer
+    updated-date: 2026-08-24
+    added-date: 2026-08-24
+    multiworld: Archipelago
+    opensource: True
