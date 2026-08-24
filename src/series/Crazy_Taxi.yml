@@ -1,0 +1,15 @@
+name: Crazy Taxi
+comment: ''
+sub-series: []
+games:
+    'Crazy Taxi 3: High Roller':
+        genres: []
+        platforms:
+        - PC
+randomizers:
+-   games:
+    - 'Crazy Taxi 3: High Roller'
+    identifier: OffMeter's
+    url: https://www.moddb.com/games/crazy-taxi-3/downloads/crazy-taxi-3-randomizer
+    updated-date: 2026-08-24
+    added-date: 2026-08-24
