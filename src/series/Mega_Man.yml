@@ -138,6 +138,13 @@ randomizers:
     updated-date: 1900-01-01
     added-date: 1900-01-01
 -   games:
+    - Mega Man 3
+    identifier: XenoStar54
+    url: https://github.com/XenoStar54/Mega-Man-3-Randomizer
+    updated-date: 2026-08-26
+    added-date: 2026-08-26
+    opensource: True
+-   games:
     - Mega Man 4
     identifier: NBoroKobo's
     url: https://borokobo.web.fc2.com/#Rock4
