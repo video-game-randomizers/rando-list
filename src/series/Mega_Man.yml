@@ -141,8 +141,9 @@ randomizers:
     - Mega Man 3
     identifier: XenoStar54
     url: https://github.com/XenoStar54/Mega-Man-3-Randomizer
-    updated-date: 2026-08-24
-    added-date: 2026-08-24
+    updated-date: 2026-08-26
+    added-date: 2026-08-26
+    opensource: True
 -   games:
     - Mega Man 4
     identifier: NBoroKobo's
