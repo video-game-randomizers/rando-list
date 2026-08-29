@@ -136,6 +136,14 @@ randomizers:
     added-date: 1900-01-01
 -   games:
     - Super Mario Bros. 3
+    identifier: SMB3-RS
+    url: https://hamstringquestionable.github.io/smb3-rs/
+    updated-date: 2026-08-30
+    added-date: 2026-08-30
+    opensource: true
+    comment: Browser-based, so it runs on Windows, macOS, Linux or mobile with nothing to install, and the ROM never leaves your machine. Rebuilds each world map rather than only shuffling levels, and also randomizes powerups, enemies, chest items and palettes. Sharing a seed and flag key gives everyone the identical game, for races or playing alongside friends.
+-   games:
+    - Super Mario Bros. 3
     identifier: ssjtroly's
     url: https://ssjtroly.github.io/smb3-nes-web-randomizer/
     updated-date: 1900-01-01
