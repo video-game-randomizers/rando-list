@@ -12,16 +12,19 @@ sub-series:
 - Spin-offs
 - Unofficial
 games:
-    (I) Gen I primary:
-        genres: []
-        platforms: []
-        sub-series: Core
-        comment: Pokémon Red Version (international) / Pokémon Blue Version (international)
-    (I) Pokémon Red Speedchoice (hack):
-        genres: []
-        platforms: []
-        sub-series: Core
     (I) Pokémon Red Version (international):
+        genres: []
+        platforms: []
+        sub-series: Core
+    (I) Red/Blue:
+        genres: []
+        platforms: []
+        sub-series: Core
+    (I) Red/Blue, Yellow:
+        genres: []
+        platforms: []
+        sub-series: Core
+    (I) Pokémon Red Speedchoice (hack):
         genres: []
         platforms: []
         sub-series: Core
@@ -29,21 +32,10 @@ games:
         genres: []
         platforms: []
         sub-series: Side
-    (I-III) Gens I to III all:
+    (II) Gold/Silver, Crystal:
         genres: []
         platforms: []
         sub-series: Core
-        comment: Red (international) / Blue (international), Yellow, Gold/Silver, Crystal, Ruby / Sapphire, Emerald, FireRed / LeafGreen
-    (I-V) Gens I to V all:
-        genres: []
-        platforms: []
-        sub-series: Core
-        comment: Red (international) / Blue (international), Yellow, Gold/Silver, Crystal, Ruby / Sapphire, Emerald, FireRed / LeafGreen, Diamond / Pearl, Platinum, HeartGold / SoulSilver, Black and White, Black & White Version 2
-    (I-VII) Gens I to VI all:
-        genres: []
-        platforms: []
-        sub-series: Core
-        comment: Red (international) / Blue (international), Yellow, Gold/Silver, Crystal, Ruby / Sapphire, Emerald, FireRed / LeafGreen, Diamond / Pearl, Platinum, HeartGold / SoulSilver, Black and White, Black & White Version 2, X / Y, Omega Ruby / Alpha Sapphire
     (II) Pokémon Crystal Version:
         genres: []
         platforms: []
@@ -56,16 +48,22 @@ games:
         genres: []
         platforms: []
         sub-series: Side
-    (II-III) Gens II to III all:
+    (III) Pokémon FireRed Version:
         genres: []
         platforms: []
         sub-series: Core
-        comment: Gold/Silver, Crystal, Ruby / Sapphire, Emerald, FireRed / LeafGreen
-    (III) Gen III all:
+    (III) Pokémon LeafGreen Version:
         genres: []
         platforms: []
         sub-series: Core
-        comment: Pokémon Ruby Version / Pokémon Sapphire Version, Pokémon Emerald Version, Pokémon FireRed Version / Pokémon LeafGreen Version
+    (III) Emerald, FireRed/LeafGreen:
+        genres: []
+        platforms: []
+        sub-series: Core
+    (III) Ruby/Sapphire, Emerald, FireRed/LeafGreen:
+        genres: []
+        platforms: []
+        sub-series: Core
     (III) Pokémon Emerald:
         genres: []
         platforms: []
@@ -86,104 +84,67 @@ games:
         genres: []
         platforms: []
         sub-series: Core
-    (III) Pokémon FireRed Version:
+    (III) Pokémon CrystalDust (hack):
         genres: []
         platforms: []
         sub-series: Core
-    (III) Pokémon LeafGreen Version:
+    (III) Pokémon Emerald Version:
         genres: []
         platforms: []
         sub-series: Core
-    (III) Gen III secondary & remakes:
-        genres: []
-        platforms: []
-        sub-series: Core
-        comment: Emerald, FireRed / LeafGreen
     (IV) Pokémon Platinum:
         genres: []
         platforms: []
         sub-series: Core
-    (IV) Gen IV remakes:
+    (IV) Diamond/Pearl, Platinum, HeartGold/SoulSilver:
         genres: []
         platforms: []
         sub-series: Core
-        comment: HeartGold / SoulSilver
-    (IX) Gen IX primary:
+    (IV) Platinum, HeartGold/SoulSilver:
         genres: []
         platforms: []
         sub-series: Core
-        comment: Scarlet / Violet
-    (VI) Gen VI all:
+    (IV) HeartGold/SoulSilver:
         genres: []
         platforms: []
         sub-series: Core
-        comment: X / Y, Omega Ruby / Alpha Sapphire
-    (VII) Gen VII remakes:
+    (V) Pokémon White Version 2:
         genres: []
         platforms: []
         sub-series: Core
-        comment: Let's Go Pikachu! / Let's Go Eevee!
-    (VIII) Gen VIII remakes:
+    (V) Black/White, Black 2/White 2:
         genres: []
         platforms: []
         sub-series: Core
-        comment: Brillant Diamond / Shining Pearl
-    (IV) Gen IV secondary & remakes:
+    (V) Black 2/White 2:
         genres: []
         platforms: []
         sub-series: Core
-        comment: Platinum Version, HeartGold / SoulSilver
-    (V) Black & White Version 2:
+    (VI) X/Y, ORAS:
         genres: []
         platforms: []
         sub-series: Core
-    (VII) Gen VII primary & secondary:
+    (VII) Let's Go Pikachu!/Eevee!:
         genres: []
         platforms: []
         sub-series: Core
-        comment: Sun / Moon, Ultra Sun / Ultra Moon
-    (VIII) Gen VIII primary:
+    (VII) Sun/Moon, Ultra Sun/Ultra Moon:
         genres: []
         platforms: []
         sub-series: Core
-        comment: Sword / Shield
-    Pokémon Blue Version (international):
+    (VIII) Brilliant Diamond/Shining Pearl:
         genres: []
         platforms: []
         sub-series: Core
-    Pokémon Conquest:
-        genres: []
-        platforms: []
-        sub-series: Spin-offs
-    Pokémon Crystal Speedchoice (hack):
+    (VIII) Sword/Shield:
         genres: []
         platforms: []
         sub-series: Core
-    Pokémon CrystalDust (hack):
+    (IX) Scarlet/Violet:
         genres: []
         platforms: []
         sub-series: Core
-    Pokémon Emerald EX Speedchoice (hack):
-        genres: []
-        platforms: []
-        sub-series: Core
-    Pokémon Emerald Speedchoice (hack):
-        genres: []
-        platforms: []
-        sub-series: Core
-    Pokémon Emerald Version:
-        genres: []
-        platforms: []
-        sub-series: Core
-    Pokémon Gaia Version (Pokémon FireRed Version hack):
-        genres: []
-        platforms: []
-        sub-series: Unofficial
     'Pokémon Mystery Dungeon: Explorers of Sky':
-        genres: []
-        platforms: []
-        sub-series: Spin-offs
-    'Pokémon Mystery Dungeon: Red Rescue Team':
         genres: []
         platforms: []
         sub-series: Spin-offs
@@ -191,30 +152,10 @@ games:
         genres: []
         platforms: []
         sub-series: Spin-offs
-    Pokémon Red Speedchoice (hack):
-        genres: []
-        platforms: []
-        sub-series: Core
-    Pokémon Red Version (international):
-        genres: []
-        platforms: []
-        sub-series: Core
-    Pokémon Rejuvenation (fangame):
-        genres: []
-        platforms: []
-        sub-series: Unofficial
-    Pokémon Trading Card Game:
+    'Pokémon Mystery Dungeon: Red Rescue Team':
         genres: []
         platforms: []
         sub-series: Spin-offs
-    Pokémon White Version 2:
-        genres: []
-        platforms: []
-        sub-series: Core
-    'Pokémon XD: Gale of Darkness':
-        genres: []
-        platforms: []
-        sub-series: Side
     'Pokémon Ranger: Shadows of Almia':
         genres:
         - RPG
@@ -223,62 +164,106 @@ games:
         - Wii U
         sub-series: Spin-offs
         release-date: 2008-03-20
+    'Pokémon XD: Gale of Darkness':
+        genres: []
+        platforms: []
+        sub-series: Side
+    Pokémon Conquest:
+        genres: []
+        platforms: []
+        sub-series: Spin-offs
+    Pokémon Trading Card Game:
+        genres: []
+        platforms: []
+        sub-series: Spin-offs
+    Pokémon Gaia Version (Pokémon FireRed Version hack):
+        genres: []
+        platforms: []
+        sub-series: Unofficial
+    Pokémon Rejuvenation (fangame):
+        genres: []
+        platforms: []
+        sub-series: Unofficial
 randomizers:
 -   games:
-    - (I-VII) Gens I to VI all
-    - (VII) Gen VII primary & secondary
+    - (I) Red/Blue, Yellow
+    - (II) Gold/Silver, Crystal
+    - (III) Ruby/Sapphire, Emerald, FireRed/LeafGreen
+    - (IV) Diamond/Pearl, Platinum, HeartGold/SoulSilver
+    - (V) Black/White, Black 2/White 2
+    - (VI) X/Y, ORAS
+    - (VII) Sun/Moon, Ultra Sun/Ultra Moon
     identifier: Universal Pokemon Randomizer ZX
     url: https://github.com/Ajarmar/universal-pokemon-randomizer-zx
     obsolete: true
     updated-date: 1900-01-01
     added-date: 1900-01-01
 -   games:
-    - (I-VII) Gens I to VI all
-    - (VII) Gen VII primary & secondary
+    - (I) Red/Blue, Yellow
+    - (II) Gold/Silver, Crystal
+    - (III) Ruby/Sapphire, Emerald, FireRed/LeafGreen
+    - (IV) Diamond/Pearl, Platinum, HeartGold/SoulSilver
+    - (V) Black/White, Black 2/White 2
+    - (VI) X/Y, ORAS
+    - (VII) Sun/Moon, Ultra Sun/Ultra Moon
     identifier: Universal Pokemon Randomizer ZX (Ironhidelvan's)
     url: https://github.com/IronhideIvan/universal-pokemon-randomizer-zx
     updated-date: 2024-09-09
     added-date: 2024-09-09
 -   games:
-    - (I-VII) Gens I to VI all
-    - (VII) Gen VII primary & secondary
+    - (I) Red/Blue, Yellow
+    - (II) Gold/Silver, Crystal
+    - (III) Ruby/Sapphire, Emerald, FireRed/LeafGreen
+    - (IV) Diamond/Pearl, Platinum, HeartGold/SoulSilver
+    - (V) Black/White, Black 2/White 2
+    - (VI) X/Y, ORAS
+    - (VII) Sun/Moon, Ultra Sun/Ultra Moon
     identifier: Universal Pokemon Randomizer FVX
     url: https://upr-fvx.github.io/universal-pokemon-randomizer-fvx/
     updated-date: 2024-10-31
     added-date: 2024-09-09
 -   games:
-    - (I-V) Gens I to V all
+    - (I) Red/Blue, Yellow
+    - (II) Gold/Silver, Crystal
+    - (III) Ruby/Sapphire, Emerald, FireRed/LeafGreen
+    - (IV) Diamond/Pearl, Platinum, HeartGold/SoulSilver
+    - (V) Black/White, Black 2/White 2
     identifier: Universal Pokemon Randomizer (brentspector's)
     url: https://github.com/brentspector/universal-pokemon-randomizer
     updated-date: 2024-09-09
     added-date: 2024-09-09
 -   games:
-    - (I-V) Gens I to V all
+    - (I) Red/Blue, Yellow
+    - (II) Gold/Silver, Crystal
+    - (III) Ruby/Sapphire, Emerald, FireRed/LeafGreen
+    - (IV) Diamond/Pearl, Platinum, HeartGold/SoulSilver
+    - (V) Black/White, Black 2/White 2
     identifier: Universal Pokemon Randomizer
     url: https://github.com/Dabomstew/universal-pokemon-randomizer
     obsolete: true
     updated-date: 1900-01-01
     added-date: 1900-01-01
 -   games:
-    - (I-III) Gens I to III all
-    - Pokémon Red Speedchoice (hack)
-    - Pokémon Crystal Speedchoice (hack)
-    - Pokémon Emerald Speedchoice (hack)
-    - Pokémon Emerald EX Speedchoice (hack)
+    - (I) Red/Blue, Yellow
+    - (II) Gold/Silver, Crystal
+    - (III) Ruby/Sapphire, Emerald, FireRed/LeafGreen
+    - (I) Pokémon Red Speedchoice (hack)
+    - (II) Pokémon Crystal Speedchoice (hack)
+    - (III) Pokémon Emerald Speedchoice (hack)
+    - (III) Pokémon Emerald EX Speedchoice (hack)
     identifier: Type Chart Randomizer
     url: https://github.com/NPO-197/PokemonTypeChartRandomizer
     updated-date: 1900-01-01
     added-date: 1900-01-01
 -   games:
-    - Pokémon Emerald Version
+    - (III) Pokémon Emerald Version
     identifier: Archipelago
     url: https://archipelago.gg/tutorial/#Pokemon%20Emerald
     multiworld: Archipelago
     updated-date: 1900-01-01
     added-date: 1900-01-01
 -   games:
-    - Pokémon Red Version (international)
-    - Pokémon Blue Version (international)
+    - (I) Red/Blue
     identifier: Archipelago
     url: https://archipelago.gg/tutorial/#Pokemon%20Red%20and%20Blue
     multiworld: Archipelago
@@ -306,27 +291,27 @@ randomizers:
     updated-date: 2025-12-17
     added-date: 2025-12-17
 -   games:
-    - (I) Gen I primary
+    - (I) Red/Blue
     identifier: Artemis251's
     url: http://artemis251.fobby.net/downloads/redblue/
     obsolete: true
     updated-date: 1900-01-01
     added-date: 1900-01-01
 -   games:
-    - (I) Gen I primary
+    - (I) Red/Blue
     identifier: Key Item Randomizer
     url: https://stump.io/itemrando/
     updated-date: 1900-01-01
     added-date: 1900-01-01
 -   games:
-    - (I) Gen I primary
+    - (I) Red/Blue
     identifier: RAMdomizer
     url: https://github.com/NPO-197/PokemonRedBlue-RAMdomizer
     obsolete: true
     updated-date: 1900-01-01
     added-date: 1900-01-01
 -   games:
-    - (I) Gen I primary
+    - (I) Red/Blue
     identifier: Ubuntaur's
     url: https://code.google.com/archive/p/red-blue-randomizer/
     obsolete: true
@@ -334,9 +319,9 @@ randomizers:
     added-date: 1900-01-01
 -   games:
     - (I) Pokémon Red Version (international)
+    comment: '[Source code](https://github.com/Sanqui/online-randomizer)'
     identifier: Sanqui's
     url: https://sanqui.net/randomizer/#pokered
-    comment: '[Source code](https://github.com/Sanqui/online-randomizer)'
     updated-date: 1900-01-01
     added-date: 1900-01-01
 -   games:
@@ -347,7 +332,8 @@ randomizers:
     updated-date: 1900-01-01
     added-date: 1900-01-01
 -   games:
-    - (II-III) Gens II to III all
+    - (II) Gold/Silver, Crystal
+    - (III) Ruby/Sapphire, Emerald, FireRed/LeafGreen
     identifier: pateandrew's
     url: https://code.google.com/archive/p/pokemon-randomiser/
     obsolete: true
@@ -355,7 +341,7 @@ randomizers:
     added-date: 1900-01-01
 -   games:
     - (II) Pokémon Crystal Version
-    - Pokémon Crystal Speedchoice (hack)
+    - (II) Pokémon Crystal Speedchoice (hack)
     identifier: Map Randomizer
     url: https://github.com/choatix/pokemon-crystal-map-randomizer
     updated-date: 1900-01-01
@@ -373,24 +359,24 @@ randomizers:
     updated-date: 1900-01-01
     added-date: 1900-01-01
 -   games:
-    - (III) Gen III secondary & remakes
-    - (IV) Gen IV secondary & remakes
-    - Pokémon White Version 2
+    - (III) Emerald, FireRed/LeafGreen
+    - (IV) Platinum, HeartGold/SoulSilver
+    - (V) Pokémon White Version 2
+    comment: '[Source code](https://warprandomizer.com//randomizer_py.zip)'
     identifier: Universal Warp Randomizer
     url: https://warprandomizer.com/
-    comment: '[Source code](https://warprandomizer.com//randomizer_py.zip)'
     updated-date: 1900-01-01
     added-date: 1900-01-01
 -   games:
-    - (III) Gen III all
+    - (III) Ruby/Sapphire, Emerald, FireRed/LeafGreen
     identifier: Reasonable Randomizer
     url: https://code.google.com/archive/p/pokemon-reasonable-randomizer/
     updated-date: 1900-01-01
     added-date: 1900-01-01
 -   games:
     - (III) Pokémon FireRed Version
-    - Pokémon CrystalDust (hack)
-    - Pokémon Emerald Version
+    - (III) Pokémon CrystalDust (hack)
+    - (III) Pokémon Emerald Version
     identifier: GBAXG
     url: https://kittypboxx.github.io/GBAXG/
     comment: Requires special emulator
@@ -452,8 +438,8 @@ randomizers:
     updated-date: 1900-01-01
     added-date: 1900-01-01
 -   games:
-    - (IV) Gen IV remakes
-    - (V) Black & White Version 2
+    - (IV) HeartGold/SoulSilver
+    - (V) Black 2/White 2
     identifier: Map Randomizer
     url: https://github.com/adrienntindall/hgss-map-randomizer/releases
     updated-date: 1900-01-01
@@ -465,56 +451,56 @@ randomizers:
     updated-date: 1900-01-01
     added-date: 1900-01-01
 -   games:
-    - (VI) Gen VI all
-    - (VII) Gen VII primary & secondary
+    - (VI) X/Y, ORAS
+    - (VII) Sun/Moon, Ultra Sun/Ultra Moon
     identifier: pk3DS
     url: https://projectpokemon.org/home/forums/topic/34377-pk3ds-xyoras-rom-editor-amp-randomizer/
     obsolete: true
     updated-date: 1900-01-01
     added-date: 1900-01-01
 -   games:
-    - (VII) Gen VII remakes
-    - (VIII) Gen VIII primary
+    - (VII) Let's Go Pikachu!/Eevee!
+    - (VIII) Sword/Shield
     identifier: pkNX
     url: https://projectpokemon.org/home/forums/topic/48647-pknx-nintendo-switch-rom-editor-randomizer/
     updated-date: 1900-01-01
     added-date: 1900-01-01
 -   games:
-    - (VIII) Gen VIII remakes
+    - (VIII) Brilliant Diamond/Shining Pearl
     identifier: Imposter's Ordeal
     url: https://gamebanana.com/tools/8385
     comment: Modding tool with bundled randomizer
     updated-date: 1900-01-01
     added-date: 1900-01-01
 -   games:
-    - (VIII) Gen VIII remakes
+    - (VIII) Brilliant Diamond/Shining Pearl
     identifier: SanGawku's
     url: https://gamebanana.com/tools/7848
     obsolete: true
     updated-date: 1900-01-01
     added-date: 1900-01-01
 -   games:
-    - (IX) Gen IX primary
+    - (IX) Scarlet/Violet
     identifier: Gonzalo's
     url: https://github.com/Gonzalooo/Scarlet-and-Violet-Randomizer
     updated-date: 1900-01-01
     added-date: 1900-01-01
 -   games:
-    - (IX) Gen IX primary
+    - (IX) Scarlet/Violet
     identifier: sora10pls's
     url: https://gist.github.com/sora10pls/07d69600241f3a47959b802560ab8900?permalink_comment_id=5057231#gistcomment-5057231
     comment: Announcement Tweet https://x.com/mattyoukhana_/status/1790503673367257582
     updated-date: 2024-06-02
     added-date: 2024-06-02
 -   games:
-    - (IX) Gen IX primary
+    - (IX) Scarlet/Violet
     identifier: XLuma's
     url: https://github.com/XLuma/SV-Randomizer
     obsolete: true
     updated-date: 1900-01-01
     added-date: 1900-01-01
 -   games:
-    - (IX) Gen IX primary
+    - (IX) Scarlet/Violet
     identifier: ZadenOwer's
     url: https://gamebanana.com/tools/11402
     obsolete: true
