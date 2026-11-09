@@ -40,3 +40,9 @@ body:
       description: Is this randomizer open source? Leave unchecked if you're not sure.
       options:
         - label: Open source
+  - type: checkboxes
+    attributes:
+      label: AI code?
+      description: Was AI used in the development of this randomizer? Leave unchecked if you're not sure.
+      options:
+        - label: AI Code
