@@ -1,0 +1,15 @@
+name: Darkstone
+comment: ''
+sub-series: []
+games:
+    Darkstone:
+        genres: []
+        platforms: []
+randomizers:
+-   games:
+    - Darkstone
+    identifier: 'Darkstone Randomizer'
+    url: https://github.com/bladesilburwolf-star/darkstone_randomizer_fx/releases
+    opensource: true
+    updated-date: 2026-11-09
+    added-date: 2026-11-09
