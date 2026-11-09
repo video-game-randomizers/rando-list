@@ -2,13 +2,33 @@ name: Turok
 comment: ''
 sub-series: []
 games:
-    Turok (Nightdive Studios):
+    Turok:
+        genres: []
+        platforms: []
+    'Turok 2: Seeds of Evil':
+        genres: []
+        platforms: []
+    'Turok: Evolution':
         genres: []
         platforms: []
 randomizers:
 -   games:
-    - Turok (Nightdive Studios)
+    - Turok
     identifier: Behemoth's
-    url: https://turoksanctum.com/randomizer/
-    updated-date: 1900-01-01
+    url: https://steamcommunity.com/sharedfiles/filedetails/?id=2299113756
+    comment: The old site, <https://turoksanctum.com/randomizer/>, is currently down, but I think the Steam Workshop version is the same.
+    updated-date: 2026-11-09
     added-date: 1900-01-01
+-   games:
+    - Turok
+    - 'Turok 2: Seeds of Evil'
+    - 'Turok: Evolution'
+    identifier: 'komodo_core_randomizer'
+    url: https://github.com/bladesilburwolf-star/komodo_core_randomizer
+    comment: >-
+        A multi-game randomizer for all AKTRAK games — currently Turok: Dinosaur
+        Hunter, Turok 2: Seeds of Evil, Turok 4: Evolution, and ShadowMan (original
+        PC).
+    opensource: true
+    updated-date: 2026-11-09
+    added-date: 2026-11-09
