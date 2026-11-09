@@ -2,6 +2,10 @@ name: Shadow Man
 comment: ''
 sub-series: []
 games:
+    Shadow Man:
+        genres: []
+        platforms:
+        - PC
     Shadow Man Remastered:
         genres: []
         platforms:
@@ -22,3 +26,14 @@ randomizers:
     added-date: 2026-08-24
     opensource: True
     multiworld: Archipelago
+-   games:
+    - Shadow Man
+    identifier: 'komodo_core_randomizer'
+    url: https://github.com/bladesilburwolf-star/komodo_core_randomizer
+    comment: >-
+      A multi-game randomizer for all AKTRAK games — currently Turok: Dinosaur
+      Hunter, Turok 2: Seeds of Evil, Turok 4: Evolution, and ShadowMan (original
+      PC).
+    opensource: true
+    updated-date: 2026-11-09
+    added-date: 2026-11-09
