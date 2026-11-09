@@ -1,0 +1,14 @@
+name: Zuma
+comment: ''
+sub-series: []
+games:
+    Zuma Deluxe:
+        genres: []
+        platforms: []
+randomizers:
+-   games:
+    - Zuma Deluxe
+    identifier: 'Zuma Deluxe Level Randomizer'
+    url: https://modworkshop.net/mod/59800
+    updated-date: 2026-11-09
+    added-date: 2026-11-09
