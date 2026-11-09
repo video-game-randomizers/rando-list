@@ -8,6 +8,9 @@ games:
     Sin of Mana (Trials of Mana hack):
         genres: []
         platforms: []
+    Legend of Mana:
+        genres: [RPG]
+        platforms: [PS1]
 randomizers:
 -   games:
     - Secret of Mana
@@ -22,3 +25,10 @@ randomizers:
     comment: Randomizer listed as separate download along with previous versions of the main hack
     updated-date: 1900-01-01
     added-date: 1900-01-01
+-   games:
+    - Legend of Mana
+    identifier: RandLom - A Legend of Mana Randomizer
+    url: https://github.com/jupmorenor/randLom/releases
+    updated-date: 2026-11-09
+    added-date: 2026-11-09
+    opensource: true
