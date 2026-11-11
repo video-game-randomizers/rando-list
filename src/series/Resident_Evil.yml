@@ -35,6 +35,9 @@ games:
     Resident Evil HD Remaster:
         genres: []
         platforms: []
+    'Resident Evil 7: Biohazard':
+        genres: []
+        platforms: []
 randomizers:
 -   games:
     - Resident Evil (MediaKite)
@@ -54,6 +57,14 @@ randomizers:
     updated-date: 2026-11-11
     added-date: 2026-11-11
     opensource: true
+-   games:
+    - 'Resident Evil 7: Biohazard'
+    identifier: BioRand re7
+    url: https://github.com/biorand/re7
+    updated-date: 2026-11-11
+    added-date: 2026-11-11
+    opensource: true
+    ai: true
 -   games:
     - Resident Evil (MediaKite)
     identifier: re_duke's
