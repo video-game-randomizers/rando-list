@@ -26,4 +26,7 @@
     {%- if rando.comment -%}
         <p>{{ rando.comment | markdownify }}</p>
     {%- endif -%}
+    {%- if rando.ai -%}
+        <p>AI was used in the creation of this randomizer.</p>
+    {%- endif -%}
 </li>

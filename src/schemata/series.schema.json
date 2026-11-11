@@ -120,6 +120,10 @@
           "obsolete": {
             "type": "boolean",
             "deafult": false
+          },
+          "ai": {
+            "type": "boolean",
+            "default": false
           }
         },
         "required": [
