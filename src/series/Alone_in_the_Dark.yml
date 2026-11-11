@@ -1,0 +1,16 @@
+name: Alone in the Dark
+comment: ''
+sub-series: []
+games:
+    Alone in the Dark:
+        genres: []
+        platforms: []
+randomizers:
+-   games:
+    - Alone in the Dark
+    identifier: opusliews
+    url: https://github.com/opusliews/AITD-Randomizer-And-Rehaunted-HD-Patcher
+    added-date: 2026-11-11
+    updated-date: 2026-11-11
+    opensource: false
+    ai: true
