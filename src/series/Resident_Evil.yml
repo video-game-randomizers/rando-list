@@ -38,9 +38,11 @@ randomizers:
     - Resident Evil 2 (Sourcenext)
     - 'Resident Evil 3: Nemesis (Sourcenext)'
     identifier: BioRand
-    url: https://github.com/IntelOrca/biorand
-    comment: Requires [Classic REbirth](https://classicrebirth.com/index.php/downloads/)
-    updated-date: 1900-01-01
+    url: https://github.com/biorand/classic
+    comment: Requires [Classic REbirth](https://classicrebirth.com/index.php/downloads/).
+    opensource: true
+    ai: true
+    updated-date: 2026-11-11
     added-date: 1900-01-01
 -   games:
     - Resident Evil (MediaKite)
