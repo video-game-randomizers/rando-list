@@ -26,6 +26,9 @@ games:
     Resident Evil 4:
         genres: []
         platforms: []
+    Resident Evil 4 (2023):
+        genres: []
+        platforms: []
     Resident Evil 5:
         genres: []
         platforms: []
@@ -44,6 +47,13 @@ randomizers:
     ai: true
     updated-date: 2026-11-11
     added-date: 1900-01-01
+-   games:
+    - Resident Evil 4 (2023)
+    identifier: BioRand re4r
+    url: https://github.com/biorand/re4r
+    updated-date: 2026-11-11
+    added-date: 2026-11-11
+    opensource: true
 -   games:
     - Resident Evil (MediaKite)
     identifier: re_duke's
